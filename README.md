@@ -2,7 +2,10 @@
 
 Raccolta di appunti e materiali scolastici.
 
-Questo file viene aggiornato automaticamente durante il sync.
+> **Vuoi contribuire?** Puoi correggere errori, aggiungere appunti o segnalare problemi — tutto dal browser, senza installare niente.
+> Leggi la guida: **[Come contribuire](CONTRIBUTING.md)** · Oppure apri una [segnalazione](https://github.com/riccardo-algorime/appunti-5Bsa/issues/new/choose)
+
+---
 
 ## Dashboard
 
@@ -62,12 +65,3 @@ Questo file viene aggiornato automaticamente durante il sync.
 - Parti dall'entrata consigliata, se c'e.
 - Scegli il file piu adatto al momento.
 - Se compare una cartella nuova, la dashboard si aggiorna al sync successivo.
-
-## Come contribuire
-
-Hai trovato un errore o vuoi aggiungere materiale? Leggi la guida: [CONTRIBUTING.md](CONTRIBUTING.md)
-
-In breve:
-- **Correggere un errore**: apri il file, clicca la matita, modifica, proponi
-- **Aggiungere materiale**: Add file > Upload files nella cartella giusta
-- **Segnalare senza modificare**: apri una [Issue](https://github.com/riccardo-algorime/appunti-5Bsa/issues/new/choose)

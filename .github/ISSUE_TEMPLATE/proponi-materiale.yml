@@ -1,0 +1,28 @@
+name: Proponi materiale
+description: Vuoi aggiungere appunti, schemi o altro materiale? Proponilo qui.
+title: "[Materiale] "
+labels: ["materiale"]
+body:
+  - type: input
+    id: materia
+    attributes:
+      label: Materia
+      description: A quale materia si riferisce?
+      placeholder: "Es: italiano, pcto, storia"
+    validations:
+      required: true
+  - type: textarea
+    id: descrizione
+    attributes:
+      label: Cosa vorresti aggiungere?
+      description: Descrivi il materiale che proponi.
+      placeholder: "Es: Appunti sulla lezione di Pirandello del 10 aprile"
+    validations:
+      required: true
+  - type: textarea
+    id: contenuto
+    attributes:
+      label: Contenuto o file
+      description: Incolla il testo qui, oppure descrivi i file che vorresti caricare (potrai allegarli nei commenti dopo aver creato la issue).
+    validations:
+      required: false

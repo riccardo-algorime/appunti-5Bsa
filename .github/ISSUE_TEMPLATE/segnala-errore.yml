@@ -1,0 +1,29 @@
+name: Segnala errore
+description: Hai trovato un errore negli appunti? Segnalalo qui.
+title: "[Errore] "
+labels: ["errore"]
+body:
+  - type: input
+    id: file
+    attributes:
+      label: File con l'errore
+      description: Quale file contiene l'errore? (es. italiano/pascoli/mega-schema.md)
+      placeholder: italiano/pascoli/mega-schema.md
+    validations:
+      required: true
+  - type: textarea
+    id: descrizione
+    attributes:
+      label: Cosa c'e di sbagliato?
+      description: Descrivi l'errore che hai trovato.
+      placeholder: "Es: A pagina X dice che l'opera e del 1903 ma in realta e del 1905"
+    validations:
+      required: true
+  - type: textarea
+    id: correzione
+    attributes:
+      label: Correzione suggerita
+      description: Se sai qual e la versione corretta, scrivila qui.
+      placeholder: "Es: La data corretta e 1905"
+    validations:
+      required: false

@@ -1,354 +1,147 @@
-# RIASSUNTO: Il Neorealismo Letterario
-
-> **Fonti**: Lezioni del 22/01, 26/01, 27/01, 29/01, 30/01, 02/02, 09/02/2026
-> **Scopo**: Preparazione esame di Italiano — Maturità
+# Il Neorealismo letterario — Riassunto
 
 ---
 
-## Indice
+## 1. Caratteri generali
 
-1. [Quadro generale](#1-quadro-generale-del-neorealismo-letterario)
-2. [Prefazione del '64 di Calvino](#2-la-prefazione-del-64-di-calvino--manifesto-del-neorealismo)
-3. [Calvino — Il sentiero dei nidi di ragno](#3-italo-calvino--il-sentiero-dei-nidi-di-ragno)
-4. [Vittorini — Conversazione in Sicilia e il Politecnico](#4-elio-vittorini--conversazione-in-sicilia-e-il-politecnico)
-5. [Pavese — Dal realismo mitico al dramma esistenziale](#5-cesare-pavese--dal-realismo-mitico-al-dramma-esistenziale)
-6. [Fenoglio — Una questione privata](#6-beppe-fenoglio--una-questione-privata)
-7. [Viganò — L'Agnese va a morire](#7-renata-viganò--lagnese-va-a-morire)
-8. [Confronti tra autori](#8-confronti-tra-autori-e-declinazioni-del-realismo)
-9. [Q&A da interrogazione](#9-domande-reali-da-interrogazione-qa)
-10. [Lacune e materiale da integrare](#10-lacune-e-materiale-da-integrare)
+### Definizione e limiti
 
----
+A differenza del Neorealismo cinematografico, che ha confini cronologici abbastanza netti (da *Ossessione* del 1942 a *Miracolo a Milano*), il Neorealismo letterario è molto più sfumato. Il critico **Carlo Bo** ha colto il punto: «Tu hai tanti neorealismi quanti sono i principali narratori.» Calvino nella Prefazione del '64 ribadisce: **il neorealismo non fu una scuola** — non aveva canoni, regole o codici condivisi. Era piuttosto «un insieme di voci in gran parte periferiche, una molteplice scoperta delle diverse Italie».
 
-## 1. Quadro generale del Neorealismo letterario
+Il denominatore comune è una **disponibilità al dibattito civile, sociale e politico**, con un orientamento antifascista. Gli obiettivi condivisi: occuparsi dei problemi reali del Paese, creare un dialogo con il pubblico, rifiutare classicismo ed estetismo, privilegiare i contenuti sulla forma. Anche la lingua si adegua, andando nella direzione del parlato e accogliendo dialetti e lessico popolare.
 
-### 1.1 Definizione e confini
+### Superamento dell'Ermetismo e triade dei modelli
 
-| | Neorealismo **cinematografico** | Neorealismo **letterario** |
-|---|---|---|
-| **Confini** | Più definiti e netti | Più sfumati e controversi |
-| **Durata** | ~10 anni (*Ossessione* 1942 → *Miracolo a Milano*) | Dagli anni '40 agli anni '50+ |
-| **Omogeneità** | Contenuti, stile e cronologia condivisi | Personalità eterogenee con tratti peculiari |
-| **Denominatore comune** | Realtà quotidiana, attori non professionisti, location reali | Disponibilità al dibattito civile, sociale e politico |
+Il Neorealismo reagisce all'**Ermetismo** degli anni Trenta: una poesia oscura, levigata, destinata a un'élite di intellettuali e lontana dai problemi reali. Gli scrittori neorealisti recuperano il **rapporto tra scrittore e popolo**.
 
-### 1.2 Obiettivi
+Calvino indica tre modelli: ***I Malavoglia*** di Verga (1881), ***Paesi tuoi*** di Pavese (1941), ***Conversazione in Sicilia*** di Vittorini (1941). Ogni autore sviluppa il proprio tipo di realismo: **fiabesco** (Calvino), **lirico** (Vittorini), **mitico-simbolico** (Pavese).
 
-1. **Occuparsi dei problemi reali del Paese**
-2. **Creare un dialogo con il pubblico** (vs. elitarismo dell'Ermetismo)
-3. **Rifiutare il classicismo e le forme estetizzanti** per privilegiare i contenuti
-4. **Direzione politico-sociale dell'antifascismo**
-5. **Adeguamento della lingua**: prosa verso il parlato, lessico e sintassi che ricalcano i dialetti
+### L'Italia periferica
 
-### 1.3 Citazione di Carlo Bo
-
-> *"La parola neorealismo usata in letteratura non definisce niente di intrinseco che sia comune a tutti i nostri scrittori [...] tu hai tanti neorealismi quanti sono i principali narratori."*
-
-Il neorealismo letterario non è un blocco monolitico: ogni autore lo declina in modo diverso.
-
-### 1.4 Triade dei modelli (Calvino, Prefazione '64)
-
-- **I Malavoglia** (Verga) → realtà umile, voce anonima/corale
-- **Paesi tuoi** (Pavese, 1941) → vita contadina piemontese, dimensione mitica
-- **Conversazione in Sicilia** (Vittorini, 1941) → ritorno alle origini, realismo lirico
-
-### 1.5 Autori principali
-
-| Autore | Opera/e | Tipo di realismo | Ambientazione |
-|---|---|---|---|
-| **Calvino** | *Il sentiero dei nidi di ragno* (1947) | Fiabesco | Liguria |
-| **Vittorini** | *Conversazione in Sicilia* (1941), *Uomini e No* (1945) | Lirico | Sicilia, Milano |
-| **Pavese** | *Paesi tuoi* (1941), *La casa in collina* (1948), *La luna e i falò* (1950) | Mitico/simbolico | Piemonte, Langhe |
-| **Fenoglio** | *Una questione privata*, *Il partigiano Johnny* | — | Langhe, Alba |
-| **Viganò** | *L'Agnese va a morire* (1949) | Documentaristico | Romagna, Valli di Comacchio |
+Una novità fondamentale: entra nella letteratura un'Italia **rurale, contadina, operaia, regionale, periferica** — la Liguria di Calvino, il Piemonte delle Langhe di Pavese e Fenoglio, la Sicilia di Vittorini, la Romagna di Viganò. Ogni autore racconta il proprio paesaggio e il proprio lessico locale.
 
 ---
 
-## 2. La Prefazione del '64 di Calvino — Manifesto del Neorealismo
+## 2. La Prefazione del '64: dichiarazione di poetica
 
-> Testo: Prefazione alla riedizione del 1964 de *Il sentiero dei nidi di ragno* (p. 319)
-> La prof la definisce: *"una sorta di dichiarazione di poetica del neorealismo in letteratura"*
+Nella Prefazione alla riedizione del *Sentiero dei nidi di ragno* (1964), Calvino riflette sul Neorealismo a quasi vent'anni di distanza. È considerata una vera dichiarazione di poetica.
 
-### Passi-chiave e commento
+**I concetti chiave:**
 
-**1. Il libro come prodotto collettivo**
-Calvino rilegge il romanzo a vent'anni di distanza e non lo riconosce come "suo", ma come nato da una **collettività anonima**: *"un clima generale, una tensione morale, un gusto letterario"*. Collegamento con Verga: anche Verga dà spazio a una voce anonima (il coro del paese).
+Il romanzo non è un'opera individuale ma il prodotto di un **clima generale**, una **tensione morale**, un **gusto letterario** condiviso. Calvino quasi non lo riconosce come suo, ma come il libro di una **collettività anonima** (eco della voce impersonale verghiana).
 
-**2. L'esplosione letteraria come fatto collettivo**
-> *"L'esplosione letteraria fu, prima che un fatto d'arte, un fatto fisiologico, esistenziale, collettivo."*
+L'esperienza condivisa della guerra stabilisce un'**immediatezza di comunicazione tra scrittore e pubblico**: «Si era faccia a faccia, alla pari, carichi di storie da raccontare.» Nasce una **smania di raccontare** — un bisogno fisiologico, collettivo, di condividere le esperienze vissute. Ma non è mero documentarismo: la molla è **esprimere** (dal latino *ex-premo*, ciò che preme da dentro), non semplicemente informare.
 
-I giovani scrittori si sentono **vincitori**, non vittime — c'è una "carica propulsiva" della battaglia appena conclusa.
-
-**3. Immediatezza di comunicazione**
-L'esperienza condivisa di guerra stabilisce un **rapporto paritario** scrittore-pubblico, contro l'**Ermetismo** degli anni '30 (poesia difficile, oscura, destinata a un'élite, lontana dai problemi reali). *"Si era faccia a faccia, alla pari, carichi di storie da raccontare."*
-
-**4. La "smania di raccontare"**
-La libertà ritrovata genera una **smania di comunicare**: nei treni, nelle mense del popolo, nelle code ai negozi — tutti raccontano le proprie vicissitudini.
-
-**5. Non documentare, ma esprimere**
-- **Esprimere** < lat. *ex-premo* → "ciò che preme da dentro e ha bisogno di uscire"
-- Differenza tra **documentare** (oggettivo) ed **esprimere** (soggettivo, emotivo): *"noi stessi, il sapore aspro della vita"*
-
-**6. "Il Neorealismo non fu una scuola"** (la prof: *"stampatevelo bene in testa"*)
-A differenza della Scuola Siciliana, non aveva regole codificate. Fu *"un insieme di voci in gran parte periferiche, una molteplice scoperta delle diverse Italie"*.
-
-**7. Le Italie periferiche**
-Entrano nella letteratura le aree mai toccate: la Liguria di Calvino, il Piemonte di Pavese e Fenoglio, le Langhe. Un'Italia **rurale, contadina, operaia, regionale, marginale**. Legame col romanzo verista.
-
-**8. La Resistenza come imperativo narrativo**
-Raccontare fatti così brucianti era difficile. **Parallelo con Primo Levi**: *Se questo è un uomo* fu rifiutato nell'immediato dopoguerra e divenne un successo solo 10-15 anni dopo (rimozione collettiva).
-
-**9. Affrontare il tema "di scorcio"**
-Calvino sceglie di non raccontare la Resistenza **di petto** (frontalmente → rischio di retorica) ma **di scorcio** (tangenzialmente), attraverso gli occhi di un bambino: Pin.
+Scrivere il romanzo della Resistenza era un **imperativo**, ma anche un problema aperto: raccontare fatti brucianti a così poca distanza era difficilissimo. Calvino, sentendo il tema «troppo impegnativo e solenne», decide di affrontarlo **di scorcio** — non frontalmente, ma attraverso gli occhi di un bambino.
 
 ---
 
-## 3. Italo Calvino — *Il sentiero dei nidi di ragno*
+## 3. Italo Calvino: il realismo fiabesco
 
-### Trama
+### *Il sentiero dei nidi di ragno* (1947)
 
-| Elemento | Dettaglio |
-|---|---|
-| **Pubblicazione** | 1947 |
-| **Ambientazione** | Liguria, dopo l'8 settembre 1943 |
-| **Protagonista** | **Pin**, ragazzino orfano di madre, vive con la sorella che si prostituisce |
-| **Evento scatenante** | Ruba una pistola a un soldato tedesco |
-| **Il luogo segreto** | Nasconde la pistola dove fanno i nidi i ragni |
-| **Sviluppo** | In carcere entra in contatto coi partigiani, si aggrega dopo la fuga |
+Ambientato in Liguria dopo l'8 settembre 1943. Il protagonista **Pin**, ragazzino orfano, vive con la sorella che si prostituisce. Ruba una pistola a un soldato tedesco e la nasconde dove i ragni fanno il nido. La Resistenza è vista attraverso i suoi occhi.
 
-### Pin: il personaggio
+La scelta del punto di vista infantile è programmatica: Calvino vuole evitare la **retorica**, la **celebrazione**, il ritratto **agiografico** (cioè "santificatore") della Resistenza. Raccontarla da adulto borghese sarebbe stato come mentire. Lo sguardo di Pin gli consente di mostrare la lotta partigiana con autenticità — eroismo ma anche incertezze, fragilità, conflitti interni.
 
-Pin è **troppo maturo** per i bambini e **estraneo** per età al mondo degli adulti → condannato alla **solitudine**. La pistola diventa un **oggetto magico** (come nelle fiabe), nascosto nel luogo segreto dei nidi di ragno.
+### La dimensione fiabesca
 
-### Il "realismo fiabesco"
+La pistola, strumento di morte, diventa nelle mani di Pin un **oggetto magico**. Il sentiero segreto dei ragni è un **luogo fiabesco**. Calvino fonde realtà storica e dimensione dell'avventura infantile: di qui il "realismo fiabesco".
 
-- **Fiabesco**: la pistola = oggetto magico; sentiero, bosco, luogo segreto = topoi fiabeschi; realtà filtrata dall'immaginazione infantile
-- **Realistico**: periodo storico preciso (Resistenza), stile del parlato, condizioni sociali misere
+### La solitudine di Pin
 
-Le due dimensioni **coesistono**: il reale viene filtrato e trasfigurato dallo sguardo del bambino.
+Pin è **doppiamente escluso**: dal mondo degli adulti (troppo giovane) e da quello dei coetanei (troppo volgare e maleducato). L'immagine conclusiva del brano — «la **nebbia di solitudine** che ti si condensa nel petto» — è una metafora potente: la nebbia come smarrimento, il verbo "condensa" come peso interiore.
 
-### Scelta antiretorica e antiagiografica ⚠️ *"ve lo chiederò all'esame"*
-
-- **Agiografia** = scritti delle vite dei santi → Calvino vuole evitare la "santificazione" della Resistenza
-- Il punto di vista di Pin consente di raccontare con **maggiore autenticità** la lotta partigiana: il suo eroismo, ma soprattutto le sue **incertezze, fragilità, disorganizzazione, conflitti interni**
-
-### Analisi del brano "La solitudine di Pin" (pp. 325-327)
-
-Pin, solo nei vicoli, rifiutato dai coetanei, si rifugia nel mondo degli adulti. Chiusura con *"la nebbia di solitudine che ti si condensa nel petto"*:
-- **Nebbia** → smarrimento, indeterminatezza
-- **Si condensa** → si aggruma, crea un peso nel petto
-
-**Metodo per l'analisi del testo (esame):**
-1. **Riassunto**: dividere in sequenze, frasi nominali, testo breve al presente con connettivi
-2. **Analisi**: figure retoriche (ripetizioni, metafore), usi morfologici/sintattici, scelte lessicali
-3. **Interpretazione complessiva**: collocare nel Neorealismo, tema del passaggio infanzia → maturità, collegamenti (cinema neorealista: *Germania anno zero*, *Ladri di biciclette*)
-
-> **Indicazioni esame**: 4-5 colonne; comprensione + analisi ~2,5; interpretazione ~2-2,5; conclusione efficace; mai introdurre novità nella conclusione; restare **aderenti al testo**
+> [!note] Dalla lezione
+> Il tema della solitudine di Pin è esistenziale e universale: il passaggio traumatico dall'infanzia alla maturità. Paralleli nel cinema neorealista: Edmund in *Germania anno zero*, il bambino in *Ladri di biciclette*.
 
 ---
 
-## 4. Elio Vittorini — *Conversazione in Sicilia* e *Il Politecnico*
+## 4. Elio Vittorini: il realismo lirico
 
-### Profilo
+### L'intellettuale e l'animatore culturale
 
-Nasce in Sicilia, si trasferisce al Nord. Azioni clandestine per il **PCI** durante la guerra. Scrittore e **animatore culturale**.
+Vittorini è siciliano, poi si trasferisce al Nord. Partecipa alla lotta clandestina per il PCI. Nel 1945 fonda **Il Politecnico** a Milano: propone lo svecchiamento della cultura italiana (apertura alla psicanalisi, collegamento intellettuali-popolo, apertura alla cultura americana). Nel 1941 cura con Pavese l'antologia **Americana** — censurata dal regime perché contrastava il mito della superiorità italica.
 
-### Il Politecnico (1945)
+La polemica con **Togliatti** (1946-47) è celebre: per Togliatti l'arte deve servire la politica; Vittorini ribatte che l'arte **non deve suonare il piffero della rivoluzione** — è naturalmente impegnata ma deve restare autonoma.
 
-Rivista fondata a Milano con cui propone: svecchiamento della cultura italiana, apertura alla psicanalisi, collegamento intellettuali-popolo, apertura alla **cultura americana** → con Pavese realizza l'antologia ***Americana*** (1941, censurata dal regime).
+### *Conversazione in Sicilia* (1941)
 
-### Polemica Vittorini-Togliatti (1946-47)
+Riconosciuto dalla critica come il suo unico autentico capolavoro. Il protagonista **Silvestro** torna in Sicilia dalla madre, che fa iniezioni a domicilio. Il giro delle iniezioni è l'occasione per incontrare il popolo.
 
-- **Togliatti**: l'arte deve essere **al servizio** della politica
-- **Vittorini**: l'arte deve essere **autonoma** — **"non deve suonare il piffero della rivoluzione"**
+L'incipit è celeberrimo: «Io ero, quell'inverno, preda ad **astratti furori**» — un'inquietudine profonda ma non direzionata, per il «genere umano perduto» (allusione alla guerra, alla guerra civile spagnola, alle dittature). Silvestro è in una condizione di **inerzia** e **stallo** — collega petrarchescamente all'**accidia**: «chinavo il capo», ripetuto come un'**epifora**.
 
-> Parallelo: anche Pasolini ebbe rapporti difficili col PCI → fu espulso perché omosessuale.
-
-### *Conversazione in Sicilia* (1941) — Capolavoro
-
-**Trama**: Silvestro Ferrauto torna in Sicilia per visitare la madre infermiera. Il giro delle iniezioni diventa occasione per incontrare diversi personaggi del popolo.
-
-**Realismo lirico**: narrazione tra mito e storia, realtà utopistica e simbolica, procedimenti lirici (allitterazioni, ripetizioni, anafore).
-
-#### Analisi dell'incipit — Gli "astratti furori" (p. 62)
-
-| Espressione | Analisi |
-|---|---|
-| *"astratti furori"* | Espressione proverbiale. Rabbia profonda ma **non direzionata**, senza motivo apparente |
-| *"non eroici, non vivi"* | **Climax discendente**: non trovano manifestazione |
-| *"genere umano perduto"* | Causa implicita: guerra, dittatura, Guerra Civile di Spagna |
-| *"col capo chino"* | Rassegnazione, inerzia |
-| *"giornali squillanti"* | **Sinestesia** (visivo + uditivo) |
-| *"chinavo il capo"* ripetuto | **Epifora** — distacco emotivo da amicizia e amore |
-| *"scarpe rotte"* | Povertà, fatica del vivere |
-| *"quiete nella non speranza"* | **Accidia** (Petrarca): indifferenza totale verso tutto |
+L'espressione «giornali squillanti» è una **sinestesia** (visivo + uditivo). Le **scarpe rotte** simboleggiano la povertà e la fatica del vivere. Il linguaggio è ricco di figure retoriche liriche: anafore, epifore, climax, sinestesie — di qui il "realismo lirico".
 
 ---
 
-## 5. Cesare Pavese — Dal realismo mitico al dramma esistenziale
+## 5. Cesare Pavese: il realismo mitico-simbolico
 
-### Profilo
+### L'autore
 
-| Elemento | Dettaglio |
-|---|---|
-| **Origine** | Santo Stefano Belbo (Langhe) |
-| **Attività** | Romanziere, poeta, traduttore per **Einaudi** |
-| **Traduzione** | *Moby Dick* e altri capolavori americani |
-| **Non partecipa alla Resistenza** | A differenza di Calvino |
-| **Iscrizione PCI** | 1948, quasi a "risarcimento" del mancato impegno |
-| **Suicidio** | Estate **1950**, Hotel Roma, Torino. Aveva 42 anni |
+Romanziere, poeta, traduttore (traduce *Moby Dick*), editore per **Einaudi**. Studioso di letteratura americana. **Non partecipa alla Resistenza** — a differenza di Calvino e Fenoglio. Si iscrive al PCI nel 1948, tardi, quasi a risarcimento. Si suicida il **27 agosto 1950** all'Hotel Roma di Torino, a 42 anni. Biglietto d'addio: «Perdono tutti e a tutti chiedo perdono. Va bene? Non fate troppi pettegolezzi.»
 
-### Temi centrali
+### Temi fondamentali
 
-Città vs campagna (Torino/Langhe), terra natìa e sradicamento, infanzia come età mitica, collina come simbolo di isolamento, Resistenza come guerra civile e senso di colpa, **realismo mitico/simbolico** (elementi primordiali: sangue, terra, latte, fuoco, sacrificio rituale).
+Contrapposizione città/campagna, mito della terra natìa e dell'infanzia, la collina come simbolo di isolamento e ritorno alle origini, solitudine dell'intellettuale incapace di agire, senso di colpa per il mancato impegno, elementi primordiali e ancestrali (sangue, terra, latte, fuoco) caricati di significato simbolico. Di qui il **realismo mitico/simbolico**.
 
 ### *Paesi tuoi* (1941)
 
-**Trama**: Berto e Talino escono dal carcere, vanno nella cascina di Talino nelle Langhe. Gisella (sorella di Talino) viene uccisa dal fratello, accecato dalla gelosia per una relazione incestuosa. *"Talino le aveva piantato il tridente nel collo."*
+Modello della triade calviniana. Storia cupa e violenta sulle Langhe: Berto e Talino escono dal carcere, tornano alla famiglia contadina di Talino. L'uccisione di **Gisella** da parte del fratello Talino (con un tridente, per gelosia legata a un rapporto incestuoso) è presentata come un **sacrificio rituale**, con insistenza su elementi primordiali: sangue, terra, fango, sudore, mammelle scoperte. Stile: prosa rapida, paratassi, lessico semplice e parlato. Il mondo contadino è mostrato nella sua **barbarie**, senza idealizzazione.
 
-**Elementi simbolici**: sangue, fango, sudore, acqua, mammelle scoperte, tridente, terra, latte → la morte di Gisella come **sacrificio rituale**, dimensione selvaggia e ancestrale.
+### *La casa in collina* (1948) — Capolavoro
 
-**Stile**: scarno, rapido, paratattico, sequenze dialogiche, lessico semplice vicino al parlato. Mette in luce **barbarie, violenza, bestialità** senza idealizzazione.
+**Corrado**, intellettuale, durante la Resistenza si rifugia in collina rifiutando di combattere. È l'**autobiografia** di Pavese. La collina simboleggia l'isolamento. Corrado incontra Cate, un ex amore, che ha un figlio (Dino) — forse suo. Resta paralizzato dall'inerzia.
 
-### Trilogia neorealista
+Il brano letto in classe si apre con **«Niente è accaduto»**: Corrado è marginale rispetto alla storia, la guerra gli procura solo «fastidio e vergogna». Ma affiora il senso di colpa: «Verrà il giorno che nessuno sarà fuori dalla guerra.»
 
-| Opera | Anno | Note |
-|---|---|---|
-| *Il carcere* | 1938-39 | Fra le primissime opere |
-| *Il compagno* | 1947 | Romanzo di formazione, il più discutibile |
-| *La casa in collina* | 1948 | **Capolavoro assoluto** |
+L'immagine chiave: «Ho vissuto un solo **lungo isolamento**, una **futile vacanza**, come un ragazzo che giocando a nascondersi entra dentro un cespuglio e ci sta bene, guarda il cielo da sotto le foglie e si dimentica di uscire mai più.»
 
-### *La casa in collina* (1948) — Analisi
+### «Ogni guerra è una guerra civile»
 
-**Trama**: Corrado, intellettuale, si rifugia in collina durante la guerra rifiutando di agire. Incontra Cate (ex relazione) con il figlio Dino. Rimane in stallo e inerzia. **Corrado = Pavese**: intellettuale incapace di incidere sulla realtà.
+La citazione più importante:
 
-**Passi-chiave**:
-- *"Niente è accaduto"* → marginalità, isolamento; la guerra procura solo "fastidio e vergogna"
-- *"Gli eroi di queste valli sono tutti ragazzi"* → la Resistenza come impresa dei giovani
-- *"La collina resta un paese d'infanzia, di falò e di scappate"* → infanzia come età mitica
-- *"Ho vissuto un solo lungo isolamento, una futile vacanza"* → isolamento come condizione permanente
+> «Per questo **ogni guerra è una guerra civile**: ogni caduto somiglia a chi resta, e gliene chiede ragione.»
 
-**⚠️ Passo fondamentale** (*"vi prego di tenere a mente"*):
-> *"Ogni guerra è una guerra civile: ogni caduto somiglia a chi resta, e gliene chiede ragione."*
+Il nemico morto perde la qualità di nemico: al suo posto potremmo esserci noi. È un'affermazione di profondo umanesimo — da **memorizzare per l'esame**.
 
-**Doppio significato**: (1) storico — la Resistenza è guerra tra italiani; (2) universale — ogni essere umano appartiene alla stessa umanità. Il sentimento verso il nemico è profonda **compassione**.
+### *La luna e i falò* (1950)
 
-### *La luna e i falò* (1950) — Ultimo romanzo
-
-**Anguilla** torna nelle Langhe dopo anni. I falò **rituali** (per propiziare raccolti) sono stati sostituiti dai **falò di distruzione** della guerra. Temi: sradicamento, ricordo, estraneità. **Capolavoro assoluto** di Pavese.
+Ultimo romanzo, pubblicato l'anno del suicidio. Il protagonista **Anguilla** torna nelle Langhe dopo anni: i falò rituali per propiziare i raccolti sono stati sostituiti dai **falò di distruzione**. Tema dello sradicamento e del ritorno impossibile.
 
 ---
 
-## 6. Beppe Fenoglio — *Una questione privata*
+## 6. Beppe Fenoglio: *Una questione privata*
 
-### Profilo
+Pubblicato postumo nel 1963. Fenoglio è delle Langhe come Pavese, ma a differenza di lui è un **partigiano che combatte**. Il protagonista **Milton** è un giovane partigiano colto e sensibile, innamorato di **Fulvia**. La sua **questione privata** — il sospetto che Fulvia abbia avuto una relazione con Giorgio — diventa un'ossessione che sovrasta tutto: «più niente mi importa (...) la guerra, la libertà, i compagni, i nemici. Solo più quella verità.»
 
-Delle Langhe come Pavese (zona di Alba). Partecipa alla Resistenza.
-
-### Analisi del brano
-
-**Milton**, partigiano, è ossessionato dal dubbio che **Fulvia** (donna amata) abbia avuto una relazione con **Giorgio** (altro partigiano). L'ossessione irrompe nella vita militare: *"Più niente mi importa [...] la guerra, la libertà, i compagni, i nemici. Solo più quella verità."*
-
-**Flashback**: Milton al campo da tennis con Fulvia e Giorgio. È **povero** (non può pagarsi una bibita), Fulvia è benestante. È timido, sognatore, con una poesia di Yeats in tasca — povero di mezzi, ma di grande profondità intellettuale.
-
-**Tecniche narrative**: alternanza di sequenze dialogiche, sequenze narrative brevi, discorso indiretto libero, flashback.
-
-**"Crepassi... creperei"**: morire a 30 anni = morire vecchi in tempo di guerra. **Poliptoto** con scelta lessicale cruda che esprime la vicinanza quotidiana alla morte.
+Il flashback del campo da tennis rivela Milton: **povero**, a disagio accanto alla benestante Fulvia, insicuro del suo aspetto, ma **colto** (porta in tasca una poesia di Yeats). L'alternanza di tecniche narrative — dialoghi realistici, sequenze narrative, flussi di coscienza, flashback — è notevole. Lo stile è asciutto e rapido, il linguaggio autentico. La battuta di Leo («se anche **crepassi** domani, **creperei** vergognosamente vecchio» — **poliptoto**) esprime con crudezza la quotidianità della morte tra i partigiani.
 
 ---
 
-## 7. Renata Viganò — *L'Agnese va a morire*
-
-### Inquadramento
-
-Pubblicazione 1949. Ambientazione: Romagna, Valli di Comacchio. Film di Giuliano Montaldo (anni '70).
-
-### Trama
-
-**Agnese**: contadina analfabeta di mezza età. Il marito Palita viene deportato e morirà. L'uccisione del suo gatto da parte di un soldato tedesco la spinge a diventare **staffetta partigiana** ("mamma Agnese").
-
-### Caratteristiche neorealiste
-
-- Mossa da **sentimenti emotivi** (rabbia, vendetta), **non da ideologia politica**
-- Verità e tratti del territorio romagnolo, articolo prima del nome proprio ("l'Agnese"), lessico del parlato
-- **Non è una figura femminile di rottura**: si inserisce nel filone della donna materna, prudente
-
----
-
-## 8. Confronti tra autori e declinazioni del realismo
-
-### Tre declinazioni
+## 7. Quadro sinottico
 
 ```mermaid
-graph TD
-    A["NEOREALISMO LETTERARIO<br/>'Non fu una scuola' (Calvino)"] --> B["REALISMO FIABESCO<br/><b>Calvino</b><br/>Sguardo infantile, oggetti magici, topoi fiabeschi"]
-    A --> C["REALISMO LIRICO<br/><b>Vittorini</b><br/>Mito e storia, allitterazioni, anafore"]
-    A --> D["REALISMO MITICO/SIMBOLICO<br/><b>Pavese</b><br/>Elementi primordiali, sacrificio rituale, collina"]
+mindmap
+  root((Neorealismo letterario))
+    Non fu una scuola
+      Tanti neorealismi quanti autori
+    Calvino
+      Realismo fiabesco
+      Pin: lo sguardo del bambino
+      Prefazione '64: dichiarazione di poetica
+    Vittorini
+      Realismo lirico
+      Astratti furori
+      L'arte non suona il piffero della rivoluzione
+    Pavese
+      Realismo mitico-simbolico
+      Ogni guerra è una guerra civile
+      Senso di colpa per mancata Resistenza
+    Fenoglio
+      Questione privata nella guerra
+      Stile asciutto e realistico
+    Viganò
+      L'Agnese va a morire
+      Resistenza dal basso
 ```
-
-### Rapporto con la Resistenza
-
-| Autore | Rapporto |
-|---|---|
-| **Calvino** | Partecipa → racconta "di scorcio", attraverso Pin |
-| **Pavese** | Non partecipa → senso di colpa, isolamento, inerzia |
-| **Vittorini** | Partecipa ad azioni clandestine → rivendica autonomia dell'arte |
-| **Fenoglio** | Partecipa → intreccia con la questione privata |
-| **Viganò** | Esperienza diretta → romanzo quasi documentaristico |
-
-### Rapporto con Verismo e con Ermetismo
-
-**Col Verismo** (Verga, fine '800): condividono realtà umile, voce corale, Italia rurale, lingua dialettale. Il Neorealismo aggiunge: impegno politico antifascista, tema della Resistenza, smania di comunicare.
-
-**Con l'Ermetismo** (anni '30): il Neorealismo si oppone in tutto — linguaggio diretto vs. oscuro, pubblico popolare vs. élite, temi reali vs. astratti, contenuto vs. estetica, rapporto paritario vs. distante.
-
----
-
-## 9. Domande reali da interrogazione (Q&A)
-
-**D: Caratteristiche del Neorealismo cinematografico?**
-R: Corrente anni '40-'50, cinema impegnato sui problemi reali dell'Italia (vs. cinema fascista), temi di guerra, Resistenza, scene in strada.
-
-**D: Film precursore? Perché, se non ha temi di guerra?**
-R: *Ossessione* di Visconti (1942). Rompe il mito della famiglia tradizionale. Mostrare la realtà senza idealizzazioni è già scandaloso.
-
-**D: Pasolini e il popolo?**
-R: In *Ragazzi di vita* (1955) e *Accattone* (1961) ritrae il **sottoproletariato urbano** delle borgate romane come anima autentica del popolo. Forte **ricerca stilistica** (immagini squallide + musica classica).
-
-**D: Agnese è una figura femminile di rottura?**
-R: **No**. Si inserisce nel filone della donna materna, prudente. Va detto esplicitamente.
-
-**D: Naturalismo vs. Verismo?**
-R: Francia vs. Italia. Entrambi determinismo sociale (Taine). Ma: i Naturalisti (Zola) vogliono migliorare la società; Verga ha concezione negativa del progresso.
-
-**D: Ideale dell'ostrica?**
-R: Restare ancorati alla famiglia come l'ostrica allo scoglio. Allontanarsi = essere sconfitti.
-
-**D: Tipologia A su autore noto con testo non noto?**
-R: Restare **aderenti al testo**. Mai attribuire caratteristiche di altre opere.
-
-**D: Tracce dell'esame?**
-R: 7 totali: 2 tipologia A, 3 tipologia B, 2 tipologia C.
-
----
-
-## 10. Lacune e materiale da integrare
-
-### Contenuti da studiare autonomamente
-
-| Contenuto | Status |
-|---|---|
-| **Fenoglio — approfondimento e *Il partigiano Johnny*** | 🔴 Non spiegato, da studiare sul libro |
-| **Calvino — vita** (pp. 308-309) e trama del *Sentiero* (pp. 315-317) | 🟡 Da leggere |
-| **Pavese — *La luna e i falò*** (analisi completa) | 🟡 Solo accenni |
-| **Pavese — poesia** | 🔴 Solo citata |
-| **Vittorini — *Uomini e No*** | 🔴 Solo citato |
-| **Vittorini — pp. 60-63** | 🟡 Testo + analisi assegnato |
-
-### ⚠️ Avvertimenti della prof per l'esame
-
-1. *"Studiatelo perché ve lo chiederò all'esame"* → **realismo fiabesco** di Calvino e punto di vista **antiagiografico**
-2. *"Vi prego di tenere a mente"* → **"ogni guerra è una guerra civile"** (Pavese)
-3. Non attribuire caratteristiche errate a un testo dell'esame
-4. Fare sempre la **scaletta** prima di scrivere
-5. Procedere con **ordine cronologico**
-6. **Commentare** le citazioni, non limitarsi a citare

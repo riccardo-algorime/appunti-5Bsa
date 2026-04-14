@@ -1,272 +1,130 @@
 # Il Futurismo — Riassunto
 
-> **Fonti**: Lezioni del 17/03/26, 31/03/26 e 09/04/26
-> **Scopo**: preparazione esame di Italiano
+---
 
-> [!NOTE] Aggiornamento 09/04/26
-> Il testo *Contro i professori* di Marinetti è stato **letto e analizzato in classe** il 09/04/26. Vedi sezione 11 di questo riassunto.
+## Date fondamentali
+
+| Anno | Evento |
+|------|--------|
+| **1909** | *Manifesto del Futurismo* su *Le Figaro* (Parigi) |
+| **1912** | *Manifesto tecnico della letteratura futurista* |
+| **1913** | Inizio pubblicazione di **Lacerba** (Firenze) |
+| **1914** | **Zang Tumb Tumb** di Marinetti |
+| **1915** | *Rarefazioni e parole in libertà* di Govoni |
 
 ---
 
-## 1. Inquadramento generale
+## 1. Il movimento e il suo contesto
 
-Il **Futurismo** è il **primo movimento d'avanguardia** italiano, attivo ca. **1909–1920**.
+Il Futurismo è il **primo movimento d'avanguardia** italiano, attivo tra il primo e il secondo decennio del Novecento. Il termine *avanguardia* viene dal lessico militare (i soldati che vanno in avanscoperta) e indica la volontà di esplorare territori inesplorati, di innovare radicalmente.
 
-| Aspetto | Dettaglio |
-|---|---|
-| **Fondatore** | Filippo Tommaso **Marinetti** |
-| **Data fondativa** | **20 febbraio 1909** (*Manifesto del Futurismo*) |
-| **Rivista** | ***Lacerba*** (Firenze, 1913) |
-| **Esponenti** | Marinetti, Boccioni, Carrà, Russolo, Balla, Govoni |
+La contestazione futurista è **globale**: non riguarda solo la letteratura, ma anche l'arte, il teatro, la società intera. L'obiettivo polemico è la **società borghese**, indifferente e repressiva nei confronti dell'arte — un tema già presente nei poeti maledetti francesi (Baudelaire, "perdita dell'aureola"), che i futuristi però radicalizzano in chiave aggressiva. L'artista si scopre **disgustato, declassato, disoccupato**.
 
-**Avanguardia**: dal lessico militare, indica chi va in avanscoperta. Il termine non è casuale: il Futurismo ha un'anima bellicosa e aggressiva.
+Ciò che interessa ai futuristi è la **modernità**: il progresso tecnologico, l'urbanizzazione, l'industrializzazione nascente. La macchina — l'automobile, il treno, l'aereo — è il nuovo mito. La letteratura abbandona l'idillio agreste e le tematiche naturalistiche: irrompe quello che Baudelaire chiama l'**eroismo della vita moderna**. L'opera d'arte non è più irripetibile, bensì **riproducibile** attraverso tipografia, stampa, fotografia.
 
-**Obiettivo**: innovare radicalmente in rapporto polemico con il passato. Non solo letteratura, ma arte, teatro, musica, perfino cucina.
+Il rapporto con **D'Annunzio** è ambivalente: i futuristi condividono il vitalismo e l'aggressività dannunziana, ma rifiutano il suo culto della tradizione classica e del mito. Lo stesso vale per **Nietzsche**: il suo Superuomo viene rigettato perché legato alla grandezza greca — «un passatista coi piedi impacciati da lunghi testi greci».
 
 ---
 
-## 2. Contesto storico-culturale
+## 2. L'ideologia
 
-### Contestazione della società borghese
+Il cuore del Futurismo è un progetto di **eversione** — la distruzione della tradizione. Le formule celebri riassumono il programma: **«Bruciamo i musei»** (il passato non ha nulla da dire), **«Uccidiamo il chiaro di luna»** (la tradizione poetica da Petrarca a Leopardi va abbattuta). Museificare le opere d'arte significa ucciderle.
 
-La borghesia è accusata di essere **indifferente** all'arte e **repressiva** verso la cultura. Tema già presente nei *poètes maudits*: Baudelaire con *La perdita d'aureola* e *L'albatros* esprimeva la stessa emarginazione del poeta.
+Il rinnovamento coincide con la **mimesi del mondo contemporaneo**: l'arte deve imitare la modernità. I tre valori fondamentali sono il **dinamismo** (la frenesia della vita urbana), la **velocità** (dell'automobile, del treno, dell'aereo) e l'**aggressività temeraria** (l'amore per il pericolo e la lotta).
 
-### La modernità
-
-I futuristi sono attratti da **progresso tecnologico**, **urbanizzazione**, **industrializzazione**. L'Italia è ancora prevalentemente agricola, ma nel **1899** viene fondata la **FIAT**.
-
-### Il mito dell'automobile
-
-L'automobile è il simbolo della modernità futurista — bene di lusso, guardato con ammirazione. La parola fu coniata da **D'Annunzio**, che la volle di genere **femminile**.
-
-### L'"eroismo della vita moderna" (Baudelaire)
-
-La letteratura abbandona l'idillio e il mito agreste. Irrompono la vita cittadina, il traffico, le fabbriche, l'elettricità.
+L'ideologia sottesa è la **glorificazione della guerra**, definita **«sola igiene del mondo»**: manifestazione della forza che spazza via la debolezza. I futuristi sono **interventisti** e poi vicini al **fascismo**. Esaltano l'istinto, l'aggressività, il combattimento.
 
 ---
 
-## 3. Mappa concettuale
+## 3. I Manifesti
+
+### 3.1 Manifesto del Futurismo (1909)
+
+Pubblicato su *Le Figaro* il **20 febbraio 1909**, enuncia i **principi generali** del movimento. Lo stile è militaresco, ritmato dall'**asindeto** e dal **climax ascendente**. Principi chiave:
+
+- Esaltazione del pericolo, del coraggio, della ribellione contro l'immobilità e l'estasi del passato
+- «La magnificenza del mondo si è arricchita di una bellezza nuova: **la bellezza della velocità**»
+- «**Nessuna opera che non abbia un carattere aggressivo può essere un capolavoro**»
+- La guerra come **sola igiene del mondo**; distruzione di musei, biblioteche, accademie
+- La modernità come nuovo Dio: l'«eterna velocità onnipresente» ha sostituito il sacro tradizionale
+
+### 3.2 Manifesto tecnico della letteratura futurista (1912)
+
+Definisce gli **strumenti operativi** della scrittura futurista — il **paroliberismo** (parole in libertà):
+
+| Principio | Motivazione |
+|-----------|-------------|
+| **Distruzione della sintassi** | Sostantivi disposti a caso, come nascono |
+| **Verbo all'infinito** | Elimina la soggettività e esprime dinamismo |
+| **Abolizione dell'aggettivo** | Rallenta la comunicazione, presuppone una sosta |
+| **Abolizione dell'avverbio** | «Vecchia fibbia» che conserva un'unità di tono fastidiosa |
+| **Doppio sostantivo per analogia** | Es. uomo-torpediniera, donna-golfo, folla-risacca |
+| **Abolizione della punteggiatura** | Le virgole e i punti sono «soste assurde» |
+| **Maximum di disordine** | L'ordine è prodotto dell'intelligenza cauta |
+| **Distruzione dell'io** | L'uomo «avariato» dalla cultura è senza interesse |
+| **Immaginazione senza fili** | Associazioni libere, senza vincoli logici o sintattici |
+
+L'espressione **immaginazione senza fili** è fondamentale: indica un'immaginazione libera da ogni vincolo, in cui le immagini si associano senza i "fili" della logica e della grammatica.
+
+---
+
+## 4. Autori e opere
+
+### 4.1 Marinetti — Animatore del gruppo
+
+Marinetti è il punto di riferimento teorico e organizzativo del Futurismo. La rivista del movimento è **Lacerba**, pubblicata a Firenze dal 1913.
+
+**Zang Tumb Tumb** (1914): descrizione fonosimbolica di un episodio della guerra d'Africa. Il titolo stesso è un'**onomatopea**. Il testo usa onomatopee proprie, **caratteri tipografici** (grassetto = voce più forte, spazi bianchi = silenzio, distanza tra lettere = variazione di ritmo), **segni grafici e algebrici**, ripetizioni di lettere («vibraaaare»), **calligrammi** (parole disposte a riprodurre la forma dell'oggetto) e disegni. Si realizza una **simultaneità di percezioni** attraverso la vista e l'evocazione sonora.
+
+**Contro i professori**: attacco alla scuola come simbolo del passatismo. I professori «castrano gli spiriti che devono creare l'avvenire». All'Übermensch di Nietzsche i futuristi oppongono l'**uomo moltiplicato per opera propria**: nemico del libro, amico dell'esperienza, allievo della macchina. I tre nemici dell'arte sono **imitazione, prudenza e denaro** = la **viltà**. Il progetto di scuola futurista prevede un «corso regolare di rischi e pericoli fisici».
+
+### 4.2 Govoni — Il palombaro (1915)
+
+Corrado Govoni (1884-1965), autore di **poesia visiva**, pubblica *Rarefazioni e parole in libertà* (1915). *Il palombaro* riproduce la vita sottomarina con disegni, caratteri tipografici e analogie: la medusa è un «ombrello dimenticante», l'attinia un «ceppo insanguinato dove lasciarono i capelli serpentine le sirene decapitate». La poesia si percepisce in modo **simultaneo**: immagini e suoni evocati attraverso segni visivi.
+
+---
+
+## 5. La pittura futurista
+
+Il *Manifesto dei pittori futuristi* (1911, Boccioni, Carrà, Russolo) applica gli stessi principi all'arte visiva. Opere chiave:
+
+- **Balla**, *Dinamismo di un cane al guinzaglio*: il movimento rappresentato come rapida sequenza di posizioni successive
+- **Boccioni**, *Forme uniche della continuità nello spazio*: il dinamismo espresso nel bronzo attraverso linee fluide (la scultura sui venti centesimi)
+
+Il principio è lo stesso di Marinetti in letteratura: rendere dinamico ciò che per natura è statico.
 
 ```mermaid
 mindmap
   root((FUTURISMO))
+    Contesto
+      Primo movimento d'avanguardia
+      Contestazione società borghese
+      Eredità poeti maledetti
+      Rapporto ambivalente con D'Annunzio
     Ideologia
-      Guerra "sola igiene del mondo"
-      Glorificazione della violenza
-      Esaltazione di istinto e aggressività
-      Bellezza della velocità
-      Interventismo → Fascismo
-    Bersagli polemici
-      Società borghese
-      Musei e biblioteche
-      Tradizione letteraria
-      Scuola e professori
-      Chiaro di luna / Poesia lirica
-    Temi prediletti
-      Automobile / Velocità
-      Ambienti urbani e folla
-      Fabbriche e officine
-      Guerra e battaglie
-    Tecniche letterarie
-      Parole in libertà
-      Distruzione della sintassi
-      Verbo all'infinito
-      Abolizione aggettivi / avverbi / punteggiatura
-      Doppio sostantivo per analogia
-      Immaginazione senza fili
-      Onomatopea e calligramma
+      Distruzione del passato
+      Mimesi della modernità
+      Velocità e dinamismo
+      Guerra = sola igiene del mondo
+      Interventismo → fascismo
+    Manifesti
+      Manifesto del Futurismo 1909
+        Principi generali
+        Bellezza della velocità
+      Manifesto tecnico 1912
+        Paroliberismo
+        Immaginazione senza fili
+        Abolizioni: sintassi, aggettivi, avverbi, punteggiatura
+    Autori
+      Marinetti
+        Zang Tumb Tumb 1914
+        Contro i professori
+        Uomo moltiplicato
+      Govoni
+        Il palombaro 1915
+        Poesia visiva
+    Pittura
+      Boccioni
+      Carrà
+      Balla
 ```
-
----
-
-## 4. Ideologia futurista
-
-### La glorificazione della guerra
-
-> La guerra è la **«sola igiene del mondo»**.
-
-| Valore esaltato | Contrario rifiutato |
-|---|---|
-| Dinamismo, velocità | Immobilismo, contemplazione |
-| Aggressività, coraggio | Debolezza, umiltà |
-| Istinto, impulsività | Ragione, cultura |
-| Guerra, lotta | Pace, moralismo |
-| Modernità, macchina | Tradizione, natura |
-
-Le **serate futuriste** finivano «a bottigliate, a cazzotti» — un'iconoclastia programmatica.
-
-### Posizione politica
-
-I futuristi si schierano come **interventisti** e saranno poi **vicini al fascismo**. Eco della poetica dannunziana: disprezzo per la debolezza, esaltazione della forza.
-
----
-
-## 5. Rapporto con il passato
-
-- **«Bruciamo i musei»**: il passato non ha più niente da dire; museificare le opere significa ucciderle.
-- **«Uccidiamo il chiaro di luna»**: rifiuto di tutta la poesia lirica da Petrarca a Leopardi.
-- **Arte riproducibile**: l'opera non è più irripetibile, ma riproducibile tramite tipografia, stampa, fotografia. «Ciò che non diventa merce merita di andare distrutto.»
-- **Artista nella società capitalistica**: «**Disgustato, declassato, disoccupato.**» L'artista accetta le regole del mercato.
-- **Contro la scuola**: Marinetti vuole una scuola che «tempri lo spirito e il corpo», non un luogo di sapere obsoleto.
-
-> [!NOTE] Analizzato in classe il 09/04/26
-> ***Contro i professori*** è stato letto e commentato in classe. Vedi sezione 11.
-
----
-
-## 6. I Manifesti
-
-### 6.1 *Manifesto del Futurismo* (20 febbraio 1909)
-
-Pubblicato su ***Le Figaro*** (rivista francese), in francese. Contiene i principi **generali** del movimento.
-
-**Punti chiave:**
-
-1. **Amore del pericolo**: «cantare l'amor del pericolo, l'abitudine all'energia e alla temerità»
-2. **Coraggio e ribellione**: frattura totale dalla poesia intimista alla poesia dell'azione
-3. **Movimento aggressivo**: «il passo di corsa, il salto mortale, lo schiaffo e il pugno» — climax ascendente con ritmo quasi marziale, uso dell'asindeto
-4. **Bellezza della velocità**: la velocità come valore estetico supremo
-5. **L'uomo al volante**: l'automobile descritta con solennità epica
-7. **L'opera aggressiva**: «**Nessuna opera che non abbia un carattere aggressivo può essere un capolavoro**» → tutti i capolavori precedenti sono scartati
-8. **Privilegio del presente**: sostituito al Dio tradizionale un nuovo Dio: la modernità
-9. **Guerra**: «glorificare la guerra — sola igiene del mondo — il militarismo, il patriottismo»
-10. **Distruzione**: musei, biblioteche, accademie, moralismo, femminismo
-11. **Locomotive e aeroplani**: la locomotiva è personificata («dall'ampio petto»); il manifesto è lanciato dall'Italia con «violenza travolgente e incendiaria»
-
-### 6.2 *Manifesto tecnico della letteratura futurista* (1912)
-
-Principi specifici per la letteratura. Insieme al primo manifesto, è la produzione di **maggior pregio letterario** del movimento.
-
-**Principi:**
-
-1. **Distruzione della sintassi / Parole in libertà (paroliberismo)**: *sintassi* dal greco σύν-τάσσειν = "ordinare insieme". I sostantivi disposti a caso.
-2. **Verbo all'infinito**: senza persona → elimina la soggettività; esprime continuità e dinamismo; modo indefinito, non sottoposto alla «prigione dell'io».
-3. **Abolizione dell'aggettivo**: rallenta la comunicazione, suppone una sosta incompatibile con il dinamismo.
-4. **Abolizione dell'avverbio**: «vecchia fibbia» che tiene immobili le parole.
-5. **Doppio sostantivo per analogia**: uomo-torpediniera, donna-golfo, folla-risacca, piazza-imbuto. Analogie molto fantasiose, difficili da cogliere. Versione radicale: eliminare il primo e lasciare solo il secondo.
-6. **Abolizione della punteggiatura**: le virgole e i punti creano «soste assurde».
-7. **Maximum di disordine**: l'ordine è una gabbia.
-8. **Distruggere l'io**: la cultura guasta l'uomo allontanandolo dall'istinto.
-9. **Immaginazione senza fili**: immaginazione libera da ogni vincolo logico, procede per analogie e associazioni spontanee.
-
-### Tabella: cosa abolire e perché
-
-| Elemento abolito | Motivazione |
-|---|---|
-| **Sintassi** | Ordina e ingabbia le parole |
-| **Aggettivo** | Rallenta, suppone una sosta |
-| **Avverbio** | "Vecchia fibbia" che blocca |
-| **Punteggiatura** | "Soste assurde" nel flusso del testo |
-| **Verbi coniugati** | Imprigionano nell'io e nel tempo |
-| **L'io** | L'uomo è "avariato" dalla cultura |
-| **Ordine** | Prodotto dell'intelligenza cauta |
-
----
-
-## 7. Produzione letteraria
-
-### 7.1 Marinetti — *Zang Tumb Tumb* (1914)
-
-Descrizione **fonosimbolica** di un episodio della **guerra d'Africa**. Il titolo è un'**onomatopea**.
-
-**"Marcia futurista"** — espedienti retorici:
-- **Onomatopea propria**: riproduce i suoni di una marcia militare
-- **Ripetizione**: crea il ritmo della marcia
-- **Variazione tipografica**: grassetto = ampliamento della voce; spazi bianchi = silenzio; distanza tra lettere = ritmo che si intensifica o si affievolisce
-- **Lettere ripetute** (es. «vibraaaare»): fonosimbolismo del suono prolungato
-- **Segni algebrici** (+, −, ÷) e **disegni** nel testo
-
-**Calligramma**: le parole riproducono il disegno dell'oggetto a cui si riferiscono (es. «il pallone frenato turco»). Riferimento: *Il pleut* di Apollinaire.
-
-### 7.2 Govoni — *Rarefazioni e parole in libertà* (1915)
-
-Poesia visiva. Esempio: «bucato + bagno + ballo = primo amore». Le "m" riproducono l'andamento ondulatorio del mare. Uso di segni algebrici per creare relazioni tra parole.
-
-***Il palombaro***: riproduce il fermento della vita sottomarina tramite disegni, caratteri tipografici, analogie.
-
-| Immagine | Analogia |
-|---|---|
-| Medusa | *«medusa ombrello dimenticante»* — la forma ricorda un ombrello |
-| Attinia | *«ceppo insanguinato dove lasciarono i capelli serpentine le sirene decapitate»* — le alghe rosse e le foglie che si muovono ricordano i capelli delle sirene |
-
----
-
-## 8. Pittura e scultura futurista
-
-- **Manifesto dei pittori futuristi** (1911): Boccioni, Carrà, Russolo.
-- ***Dinamismo di un cane al guinzaglio*** (Balla): il movimento riprodotto dalle zampe in rapida sequenza.
-- ***Forme uniche della continuità nello spazio*** (Boccioni): scultura in bronzo che riproduce dinamismo attraverso linee fluide. Si trova sui venti centesimi di euro.
-
----
-
-## 9. Figure retoriche e tecniche futuriste
-
-| Tecnica | Definizione |
-|---|---|
-| **Paroliberismo** | Parole in libertà, svincolate dalla sintassi |
-| **Immaginazione senza fili** | Immaginazione libera da vincoli logici |
-| **Analogia** | Accostamento di due sostantivi senza congiunzione |
-| **Onomatopea** | Parola che riproduce il suono a cui si riferisce |
-| **Calligramma** | Parole disposte a formare un'immagine visiva |
-| **Asindeto** | Eliminazione delle congiunzioni |
-| **Climax ascendente** | Elencazione con intensificazione progressiva |
-| **Personificazione** | Qualità umane attribuite a oggetti |
-| **Fonosimbolismo** | Le parole riproducono i suoni della realtà |
-
----
-
-## 10. Concetti chiave da ricordare all'esame
-
-- [ ] Futurismo = **primo movimento d'avanguardia** italiano
-- [ ] Manifesto: **20 febbraio 1909**, su ***Le Figaro***
-- [ ] La guerra come **«sola igiene del mondo»**
-- [ ] **«Nessuna opera senza carattere aggressivo può essere un capolavoro»**
-- [ ] **Paroliberismo** = parole in libertà
-- [ ] **Immaginazione senza fili**
-- [ ] Verbo all'infinito: elimina soggettività + esprime dinamismo
-- [ ] Doppio sostantivo per analogia
-- [ ] Artista: **disgustato, declassato, disoccupato**
-- [ ] «**Bruciamo i musei**», «**Uccidiamo il chiaro di luna**»
-- [ ] Rivista ***Lacerba*** (Firenze, 1913)
-- [ ] *Zang Tumb Tumb* (Marinetti, 1914)
-- [ ] *Il palombaro* (Govoni, 1915)
-- [ ] Interventismo → Fascismo
-- [ ] Leggere ***Contro i professori*** su **Classroom**
-
----
-
-## 11. *Contro i professori* di Marinetti — Riassunto
-
-> **Fonte**: Lezione del 09/04/26 — testo letto e commentato in classe.
-
-### Rifiuto di Nietzsche
-
-I futuristi rifiutano di essere associati a Nietzsche perché il suo Superuomo è fondato sulla cultura greca classica — **Apollo, Marte e Bacco** — che i futuristi chiamano «cadaveri putrefatti». Nietzsche è per loro un **passatista** «coi piedi impacciati da lunghi testi greci».
-
-### L'uomo moltiplicato
-
-Al Superuomo nietzschiano i futuristi contrappongono **l'uomo moltiplicato**: «nemico del libro, amico dell'esperienza personale, allievo della macchina, munito di fiuto felino, fulminei calcoli, istinto selvaggio, astuzia e temerità».
-
-### I tre nemici dell'arte
-
-> **Imitazione + prudenza + denaro = viltà**
-
-### I professori come passatisti
-
-La scuola «castra gli spiriti» della gioventù italiana. I professori tramandano un sapere obsoleto che soffoca l'energia creativa. La scuola futurista ideale prevede un **«corso regolare di rischi e pericoli fisici»** (incendi, annegamenti, crolli di soffitti) per temprare corpo e spirito.
-
-### Note retoriche
-
-Prosa ritmica e agguerrita, accumulo di sostantivi, climax, iperboli aggressive («fogne dell'intellettualità», «carbone eroico delle officine»). In linea con i principi del Manifesto tecnico.
-
----
-
-## 12. Lacune — da integrare
-
-| Lacuna | Fonte |
-|---|---|
-| Parte generale del Futurismo | **Libro di testo** |
-| Testi futuristi da analizzare | Libro di testo |
-| Biografia di Marinetti | Libro di testo |
-| Manifesto dei pittori futuristi | Libro / Appunti di Arte |
-| Rapporto Futurismo–Fascismo | Libro / Appunti di Storia |

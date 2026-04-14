@@ -1,206 +1,122 @@
-# Indice schemi di studio — Italiano (2026)
+# Indice — Appunti di Letteratura Italiana (5BSA, 2025-26)
 
-> **Programma coperto**: dal Neorealismo cinematografico al Romanzo del Novecento (Proust, Kafka, Joyce, Svevo)
-> **Nota prof** (09/04/26): «Andrò avanti molto speditamente: ci mancano Svevo, Pirandello, e poi chiudiamo con la triade Saba, Ungaretti e Montale.»
+> **Ultimo aggiornamento:** 14 aprile 2026
+> **Scopo:** Preparazione all'Esame di Stato (maturità)
+> **Fonti:** Trascrizioni delle lezioni in classe (gennaio–aprile 2026)
 
 ---
 
-## Come navigare
+## Struttura del sistema a tre livelli
 
-Ogni argomento ha la sua cartella con **3 livelli di profondità**:
+Ogni argomento è organizzato in una cartella dedicata contenente tre file, pensati per momenti diversi dello studio:
 
-| File | Cosa contiene | Quando usarlo |
-|---|---|---|
-| `mega-schema.md` | Tutto: analisi verso per verso, aneddoti della prof, mermaid, Q&A, glossario | Studio completo, prima lettura |
-| `riassunto.md` | Contenuti condensati (~50%), versi chiave con commento sintetico | Studio efficiente, seconda passata |
-| `ripasso.md` | Solo l'essenziale: bullet point, tabelle sinottiche, concetti chiave | Ripasso veloce prima dell'esame |
+| File | Funzione | Quando usarlo |
+|------|----------|---------------|
+| **mega-schema.md** | Studio completo e approfondito — tutto ciò che serve per l'esame, in forma narrativa e studiabile | Prima lettura, studio approfondito |
+| **riassunto.md** | Condensazione al ~50% — concetti chiave mantenuti in forma narrativa ma più sintetica | Consolidamento, seconda passata |
+| **ripasso.md** | Condensazione al ~30% — denso e rapido, con diagrammi Mermaid riepilogativi | Ripasso veloce prima dell'esame |
 
-**Percorso consigliato**: mega-schema (capire tutto) → riassunto (consolidare) → ripasso (verificare di ricordare)
+Lo stile è **narrativo e testuale**: paragrafi discorsivi, non elenchi puntati. Le citazioni dalla professoressa sono segnalate con `> [!note] Dalla lezione`. I diagrammi Mermaid visualizzano relazioni, confronti e cronologie.
 
 ---
 
 ## Mappa degli argomenti
 
 ```mermaid
-flowchart LR
-    A[Neorealismo<br>cinematografico] --> B[Neorealismo<br>letterario]
-    B --> C[Decadentismo e<br>Simbolismo francese]
-    C --> D[Pascoli]
-    C --> E[D'Annunzio]
-    D -.->|confronto| E
-    E --> F[Futurismo]
-    F --> G[Romanzo del<br>Novecento]
-    G --> H[Svevo / Pirandello<br>⚠ in arrivo]
-    H --> I[Saba / Ungaretti<br>Montale ⚠ in arrivo]
-```
+flowchart TD
+    A[Programma di Italiano 5BSA] --> B[Neorealismo<br/>cinematografico]
+    A --> C[Neorealismo<br/>letterario]
+    A --> D[Decadentismo<br/>e Simbolismo]
+    A --> E[Giovanni Pascoli]
+    A --> F[Gabriele D'Annunzio]
+    A --> G[Il Futurismo]
+    A --> H[Il Romanzo<br/>del Novecento]
 
-> Nota: l'ordine cronologico letterario è Decadentismo/Simbolismo → Pascoli/D'Annunzio → Futurismo → Romanzo del Novecento → Neorealismo, ma in classe sono stati trattati partendo dal Neorealismo (più vicino a noi) per poi tornare indietro.
+    D -->|"matrice comune"| E
+    D -->|"matrice comune"| F
+    E <-->|"confronto fondamentale"| F
+    F -->|"reazione contro"| G
+    G -->|"contesto per"| H
+    B -->|"cinema → letteratura"| C
+
+    style A fill:#2c3e50,stroke:#1a252f,color:#fff
+    style E fill:#8e44ad,stroke:#6c3483,color:#fff
+    style F fill:#8e44ad,stroke:#6c3483,color:#fff
+```
 
 ---
 
-## Le 7 cartelle
+## Ordine cronologico degli argomenti trattati in classe
+
+La professoressa ha scelto di partire dal Novecento per poi tornare indietro, seguendo un ordine che non è quello cronologico della storia letteraria:
+
+| # | Argomento | Periodo storico-letterario | Lezioni | Cartella |
+|---|-----------|---------------------------|---------|----------|
+| 1 | **Neorealismo cinematografico** | 1943–1952 | 12/01, 13/01*, 22/01 | `neorealismo-cinematografico/` |
+| 2 | **Neorealismo letterario** | 1943–1960 | 22/01, 26/01, 27/01, 29/01, 02/02 | `neorealismo-letterario/` |
+| 3 | **Decadentismo e Simbolismo** | 1857–1900 | 12/02, 16/02 | `decadentismo-simbolismo/` |
+| 4 | **Giovanni Pascoli** | 1855–1912 | 16/02, 17/02, 23/02, 24/02, 26/02*, 02/03 | `pascoli/` |
+| 5 | **Gabriele D'Annunzio** | 1863–1938 | 03/03, 05/03, 09/03, 10/03, 12/03, 16/03, 17/03 | `dannunzio/` |
+| 6 | **Il Futurismo** | 1909–1920 | 17/03, 31/03, 09/04 | `futurismo/` |
+| 7 | **Il Romanzo del Novecento** | Inizio '900 | 09/04 | `romanzo-novecento/` |
+
+\* Le lezioni del 13/01 e del 26/02 non dispongono di trascrizione valida; i contenuti sono stati integrati dalle fonti disponibili.
+
+---
+
+## Contenuto di ogni cartella
 
 ### 1. `neorealismo-cinematografico/`
 
-| File | Dimensione |
-|---|---|
-| mega-schema.md | 49.561 byte |
-| riassunto.md | 29.293 byte |
-| ripasso.md | 13.389 byte |
-
-**Lezioni fonte** (trascrizioni):
-- 18-12-25 — Introduzione al Neorealismo, collegamento Verga-Visconti *(solo parte finale)*
-- 08-01-26 — Caratteristiche, Ossessione di Visconti
-- 12-01-26 — Rossellini: Roma città aperta, Paisà
-- 13-01-26 — Rossellini: Germania anno zero; De Sica: Ladri di biciclette *(⚠ no trascrizione, integrata da appunti manuali + mega-schema Verga esistente)*
-- 22-01-26 — De Sica: Ladri di biciclette (clip), Miracolo a Milano, fine del Neorealismo *(solo prima metà)*
-- 30-01-26 — Interrogazioni orali sul Neorealismo cinematografico *(solo parti pertinenti)*
-- 03-03-26 — Interrogazioni orali *(solo parti pertinenti)*
-
-**Contenuto**: Visconti (Ossessione, La terra trema), Rossellini (Trilogia della guerra), De Sica (Ladri di biciclette, Miracolo a Milano), caratteristiche del movimento, fine del Neorealismo.
-
----
+Visconti (*Ossessione*, *La terra trema*), Rossellini (*Roma città aperta*, *Paisà*, *Germania anno zero*), De Sica (*Ladri di biciclette*, *Miracolo a Milano*). Rapporto tra cinema fascista e cinema neorealista, comparse non professioniste, riprese in esterni, lingua dialettale. La fine del Neorealismo.
 
 ### 2. `neorealismo-letterario/`
 
-| File | Dimensione |
-|---|---|
-| mega-schema.md | 49.259 byte |
-| riassunto.md | 18.845 byte |
-| ripasso.md | 7.155 byte |
-
-**Lezioni fonte**:
-- 22-01-26 — Transizione cinema→letteratura, Calvino Prefazione del '64 *(solo seconda metà)*
-- 26-01-26 — Calvino realismo fiabesco, Vittorini Conversazione in Sicilia
-- 27-01-26 — Calvino "La solitudine di Pin", metodo Tipologia A
-- 29-01-26 — Pavese: vita, Paesi tuoi, La casa in collina
-- 30-01-26 — Interrogazioni orali *(solo parti letterarie)*
-- 02-02-26 — Fenoglio: biografia, Una questione privata
-- 09-02-26 — Correzione verifica, ripasso, interrogazioni
-
-**Contenuto**: Calvino (Il sentiero dei nidi di ragno, Prefazione '64), Vittorini (Conversazione in Sicilia), Pavese (Paesi tuoi, La casa in collina), Fenoglio (Una questione privata), Viganò (L'Agnese va a morire).
-
----
+La Prefazione del '64 di Calvino come manifesto, i tre realismi (fiabesco, lirico, mitico-simbolico). Calvino (*Il sentiero dei nidi di ragno*, analisi de "La solitudine di Pin"), Vittorini (*Conversazione in Sicilia*, polemica col PCI), Pavese (*Paesi tuoi*, *La casa in collina*, *La luna e i falò*), Fenoglio (*Una questione privata*). La testimonianza della staffetta partigiana. Metodo per la tipologia A dell'esame.
 
 ### 3. `decadentismo-simbolismo/`
 
-| File | Dimensione |
-|---|---|
-| mega-schema.md | 32.330 byte |
-| riassunto.md | 18.688 byte |
-| ripasso.md | 9.445 byte |
-
-**Lezioni fonte**:
-- 12-02-26 — Lezione unica: Decadentismo, Baudelaire, Verlaine, Rimbaud
-
-**Contenuto**: Caratteri generali del Decadentismo, Baudelaire (La caduta dell'aureola, L'albatro, Corrispondenze), Verlaine (Languore, L'arte poetica), Rimbaud (Lettera del veggente, Vocali). Analisi verso per verso di ogni poesia.
-
----
+Caratteri generali del Decadentismo, i poeti maledetti. Baudelaire (*Corrispondenze*, *L'albatro*, *La caduta dell'aureola*), Verlaine (*Languore*, *Arte poetica*), Rimbaud (*Lettera del veggente*, *Vocali*). La crisi del ruolo del poeta nella modernità. Dalla matrice comune decadente a Pascoli e D'Annunzio.
 
 ### 4. `pascoli/`
 
-| File | Dimensione |
-|---|---|
-| mega-schema.md | 87.695 byte |
-| riassunto.md | 42.062 byte |
-| ripasso.md | 22.715 byte |
-
-**Lezioni fonte**:
-- 16-02-26 — Introduzione Pascoli e D'Annunzio, biografia Pascoli
-- 17-02-26 — Biografia (Andreoli), poetica del Fanciullino
-- 23-02-26 — Fanciullino punti cardine, poetica, stile, Arano
-- 24-02-26 — Lavandare, X Agosto
-- 26-02-26 — Temporale, L'assiuolo (+ Santagata "Un piccolo io"), Canti di Castelvecchio, Il gelsomino notturno, La tovaglia
-- 02-03-26 — Nebbia, interrogazioni
-
-**Contenuto**: Biografia completa (+ interpretazione Andreoli), poetica del Fanciullino, lingua e stile (Contini, fonosimbolismo), Myricae (Arano, Lavandare, X Agosto, Temporale, L'assiuolo, Nebbia), Canti di Castelvecchio (Il gelsomino notturno, La tovaglia). Tutte le poesie analizzate verso per verso.
-
----
+Argomento più corposo del programma. Biografia con l'interpretazione di Andreoli (*I segreti di casa Pascoli*). La poetica del Fanciullino (lettura commentata). Lingua e stile: le tre categorie di Contini, fonosimbolismo, ritmo franto, ampliamento semantico. Otto poesie analizzate: *Arano*, *Lavandare*, *X Agosto*, *Temporale*, *L'assiuolo*, *Il gelsomino notturno*, *La tovaglia*, *Nebbia*. Confronto con Leopardi e D'Annunzio.
 
 ### 5. `dannunzio/`
 
-| File | Dimensione |
-|---|---|
-| mega-schema.md | 62.319 byte |
-| riassunto.md | 39.450 byte |
-| ripasso.md | 20.745 byte |
-
-**Lezioni fonte**:
-- 03-03-26 — Introduzione biografia e poetica *(+ interrogazioni)*
-- 05-03-26 — Biografia, poetica, Estetismo, intro Il Piacere
-- 09-03-26 — Poetica, Canta la gioia! (Canto novo)
-- 10-03-26 — Il Piacere: Andrea Sperelli, "Quel nome!"
-- 12-03-26 — La pioggia nel pineto, Stabat nuda aestas, Santagata "Il gigantismo dell'io", documentario L'amante guerriero
-- 16-03-26 — Intro La sera fiesolana, compiti
-- 17-03-26 — La sera fiesolana *(solo parte D'Annunzio, poi Futurismo)*
-
-**Contenuto**: Biografia (vita inimitabile, donne, Fiume, Vittoriale), poetica (Estetismo, superomismo, panismo), Il Piacere (Andrea Sperelli), Alcyone (La pioggia nel pineto, Stabat nuda aestas, La sera fiesolana), Canto novo (Canta la gioia!). Confronto con Pascoli.
-
----
+Biografia dettagliata (il "primo influencer", le donne, le imprese militari, il Vittoriale). La poetica nelle tre dimensioni: estetismo, superomismo, panismo. *Il Piacere* con il ritratto di Andrea Sperelli. Quattro poesie dell'Alcyone: *Canta la gioia!*, *La pioggia nel pineto*, *Stabat nuda Aestas*, *La sera fiesolana*. Confronto con Pascoli, collegamenti con Wilde, Nietzsche, il Futurismo.
 
 ### 6. `futurismo/`
 
-| File | Dimensione |
-|---|---|
-| mega-schema.md | ~45.000 byte (aggiornato 09/04/26) |
-| riassunto.md | ~14.000 byte (aggiornato 09/04/26) |
-| ripasso.md | ~6.000 byte (aggiornato 09/04/26) |
-
-**Lezioni fonte**:
-- 17-03-26 — Contesto storico e poetica del Futurismo *(solo parte finale della lezione)*
-- 31-03-26 — Manifesto del Futurismo, Manifesto tecnico, Marinetti (Marcia futurista), Govoni (Il palombaro)
-- 09-04-26 — *Contro i professori* di Marinetti: analisi completa con testo
-
-**Contenuto aggiunto (09/04/26)**: *Contro i professori* — rifiuto di Nietzsche come passatista, l'uomo moltiplicato, i tre nemici dell'arte (imitazione+prudenza+denaro=viltà), la scuola come «castratrice degli spiriti», la scuola futurista con corso di rischi fisici.
-
----
+Contesto storico, il primo movimento d'avanguardia. *Manifesto del Futurismo* (1909) e *Manifesto tecnico della letteratura futurista* (1912): analisi dei principi. Le tecniche: paroliberismo, immaginazione senza fili, calligrammi. Marinetti (*Zang Tumb Tumb*, *Contro i professori*), Govoni (*Il palombaro*). Pittura futurista (Boccioni, Balla). Rapporto col passato e con D'Annunzio.
 
 ### 7. `romanzo-novecento/`
 
-| File | Dimensione |
-|---|---|
-| mega-schema.md | ~28.000 byte |
-| riassunto.md | ~7.000 byte |
-| ripasso.md | ~3.000 byte |
-
-**Lezioni fonte**:
-- 09-04-26 — Introduzione al romanzo del Novecento (intera seconda parte della lezione)
-
-**Contenuto**: innovazioni rispetto all'Ottocento (narratore soggettivo, tempo soggettivo/Bergson, personaggio in fieri), Proust (memoria involontaria, episodio della Madeleine con testo completo), Kafka (*La metamorfosi*: straniamento, alienazione, con testo completo dell'incipit), Joyce (flusso di coscienza con esempio dall'*Ulisse*), tecniche narrative (monologo interiore vs. flusso di coscienza), psicanalisi freudiana.
+Argomento appena introdotto (una sola lezione). Le tre innovazioni rispetto all'Ottocento: punto di vista soggettivo, tempo soggettivo (Bergson), personaggio in fieri. Proust e la memoria involontaria (episodio della Madeleine). Kafka e lo straniamento (*La metamorfosi*). Joyce e il flusso di coscienza (*Ulisse*). Svevo e *La coscienza di Zeno*. Monologo interiore vs flusso di coscienza.
 
 ---
 
-## Aggiornamenti recenti
+## Argomenti ancora da trattare
 
-### 09/04/26
-- **`futurismo/`**: integrato *Contro i professori* di Marinetti (analisi completa, testo incluso) — rimossa nota "da leggere su Classroom"
-- **`romanzo-novecento/`**: nuova cartella creata ex novo con mega-schema, riassunto, ripasso
-- **`neorealismo-letterario/`**: aggiunte Q&A dall'interrogazione orale del 09/04/26
-- **`decadentismo-simbolismo/`**: aggiunte Q&A dall'interrogazione orale del 09/04/26
+La professoressa ha annunciato il programma rimanente:
 
----
-
-## Come sono stati creati
-
-1. Le **trascrizioni** delle lezioni sono state generate localmente con Gemini API da registrazioni audio
-2. I **mega-schemi** sono stati generati da subagent AI che hanno letto le trascrizioni grezze (mai gli schemi singoli auto-generati, di qualità inferiore), sintetizzando più lezioni per argomento
-3. Per la lezione **13-01-26** (senza trascrizione audio), sono stati usati appunti manuali + sezioni pertinenti del mega-schema preesistente su Verga
-4. I **riassunti** (~50%) e i **ripassi** (~30%) sono stati generati condensando i mega-schemi
-5. La lezione **26-02-26** è stata integrata successivamente quando la trascrizione è diventata disponibile
+- **Italo Svevo** — trattazione completa (vita, poetica, *La coscienza di Zeno*)
+- **Luigi Pirandello** — vita, poetica, *Il fu Mattia Pascal*, *Uno, nessuno e centomila*
+- **La triade lirica**: Saba, Ungaretti, Montale
 
 ---
 
-## Riepilogo dimensioni
+## Dimensioni dei file
 
-| Cartella | Mega-schema | Riassunto | Ripasso | Totale |
-|---|---:|---:|---:|---:|
-| neorealismo-cinematografico | 49.561 | 29.293 | 13.389 | 92.243 |
-| neorealismo-letterario | ~52.000 | 18.845 | 7.155 | ~78.000 |
-| decadentismo-simbolismo | ~34.000 | 18.688 | 9.445 | ~62.000 |
-| pascoli | 87.695 | 42.062 | 22.715 | 152.472 |
-| dannunzio | 62.319 | 39.450 | 20.745 | 122.514 |
-| futurismo | ~45.000 | ~14.000 | ~6.000 | ~65.000 |
-| romanzo-novecento | ~28.000 | ~7.000 | ~3.000 | ~38.000 |
-| **Totale** | **~358.000** | **~169.000** | **~82.000** | **~610.000** |
+| Argomento | mega-schema | riassunto | ripasso | Totale |
+|-----------|-------------|-----------|---------|--------|
+| Neorealismo cinematografico | 236 | 60 | 59 | 355 |
+| Neorealismo letterario | 471 | 147 | 103 | 721 |
+| Decadentismo e Simbolismo | 475 | 103 | 105 | 683 |
+| Pascoli | 767 | 158 | 129 | 1054 |
+| D'Annunzio | 473 | 138 | 167 | 778 |
+| Futurismo | 316 | 130 | 104 | 550 |
+| Romanzo del Novecento | 271 | 68 | 67 | 406 |
+| **Totale** | **3009** | **804** | **734** | **4547** |
 
-*Nota: le dimensioni contrassegnate con ~ sono stime dopo gli aggiornamenti del 09/04/26.*
+Dimensioni espresse in numero di righe.

@@ -1,167 +1,103 @@
-# Decadentismo e Simbolismo Francese
-
-> **Mega-schema di studio** — Lingua e Letteratura Italiana
-> **Fonte**: Lezione del 12-02-26
-> **Argomento**: Decadentismo, Simbolismo francese, Poeti maledetti (Baudelaire, Verlaine, Rimbaud)
+# Decadentismo e Simbolismo — Studio completo
 
 ---
 
-## 1. Quadro storico-letterario
+## Date e riferimenti fondamentali
 
-### 1.1 Coordinate temporali e geografiche
-
-| | Dettaglio |
-|---|---|
-| **Periodo** | Anni **80 dell'800** (la prof specifica: "e questo scrivetelo") |
-| **Luogo d'origine** | Francia |
-| **Corrente madre** | **Simbolismo francese** → da cui nasce il **Decadentismo italiano** |
-| **Nome** | Deriva dalla lirica *Languore* di Verlaine: "Sono l'impero alla fine della **decadenza**" |
-
-### 1.2 Rapporto con le correnti precedenti
-
-> **Domanda della prof**: "Questi versi esprimono concetti in continuità o in discontinuità con il Naturalismo e il Verismo?"
-> **Risposta**: In **discontinuità** (la prof precisa: "In continuità è la risposta sbagliata")
-
-```mermaid
-flowchart LR
-    A["Romanticismo\n(soggettivismo, io)"] -->|reazione al| B["Naturalismo / Verismo\n(ragione, scienza, oggettività)"]
-    B -->|reazione al| C["Simbolismo / Decadentismo\n(irrazionalità, intuizione, soggettività)"]
-    A -.->|si ricollega idealmente a| C
-    style A fill:#e8d5b7,stroke:#333
-    style B fill:#b7d5e8,stroke:#333
-    style C fill:#d5b7e8,stroke:#333
-```
-
-> **Osservazione della prof**: Il Decadentismo si ricollega idealmente al **Romanticismo** per la "spinta soggettiva, dell'io" e l'"attenzione al senso di fine, della morte, che è il mistero che domina la vita".
-
-### 1.3 Opposizione Naturalismo vs. Simbolismo/Decadentismo
-
-| | Naturalismo / Verismo | Simbolismo / Decadentismo |
-|---|---|---|
-| **Strumento di conoscenza** | Ragione e scienza | **Irrazionalità**, intuizione, illuminazione |
-| **Concezione della realtà** | Conoscibile, fenomenica, oggettiva | **Misteriosa, illusoria, complessa** |
-| **Linguaggio** | Fedele alla cosa, "come una fotografia" | **Allusivo, simbolico, evocativo** |
-| **Funzione della parola** | Rispecchiare il reale | **Suggerire**, evocare (solo la sfumatura) |
-| **Modello** | Il romanzo sperimentale (Zola) | La poesia come profezia e decodifica del mistero |
-| **Metrica** | Rispetto delle convenzioni | Rifiuto della metrica tradizionale, verso libero |
-| **Posizione filosofica** | Positivismo | **Rifiuto del positivismo** |
+| Anno / Periodo | Evento |
+|----------------|--------|
+| **1857** | Baudelaire pubblica *I fiori del male* (*Les Fleurs du mal*), con il sonetto *Corrispondenze* |
+| **Anni '60-'70 dell'800** | Baudelaire scrive *Lo Spleen di Parigi* (raccolta in prosa, contiene *La caduta dell'aureola*) |
+| **1874** | Verlaine scrive *Arte poetica* (*Ars poetica*) |
+| **Anni '80 dell'800** | Il decadentismo si afferma come fase storico-letteraria in Francia e poi in Italia |
+| **1854-1891** | Vita di Arthur Rimbaud (muore a 37 anni a Marsiglia) |
+| **Fine '800 - inizio '900** | Pascoli e D'Annunzio portano il decadentismo in Italia |
 
 ---
 
-## 2. I caratteri fondamentali del Decadentismo/Simbolismo
+## 1. Il Decadentismo: caratteri generali
+
+### 1.1 Una reazione al positivismo e al naturalismo
+
+Il decadentismo è una fase storico-letteraria che inizia intorno agli **anni Ottanta dell'Ottocento**. Per comprenderne la portata bisogna partire da ciò a cui si oppone: il naturalismo e il verismo, cioè quella tradizione che riponeva piena fiducia nel fatto che la realtà fosse conoscibile attraverso gli strumenti della **ragione** e della **scienza**. Secondo Zola il romanzo doveva essere sperimentale, al pari del lavoro dello scienziato in laboratorio; l'uomo stesso era indagabile con metodo scientifico, come qualsiasi altro oggetto della realtà.
+
+Il decadentismo rovescia completamente questa prospettiva. Sul piano socio-economico si configura come un momento di **rifiuto della società borghese e della sua normalità**: una società tutta volta all'utile, al profitto, al progresso materiale e disinteressata a ciò che non produce un guadagno — ovvero l'arte e la poesia. Sul piano culturale e letterario, è un **moto di reazione al naturalismo e al positivismo**, e dunque al primato della ragione.
+
+Se non è la ragione a conoscere la realtà, che cosa rimane? L'**irrazionalità**, l'**intuizione**, l'**illuminazione**. La realtà non si fotografa: si decifra.
+
+### 1.2 Una concezione della realtà misteriosa e simbolica
+
+Per i decadenti la realtà è **misteriosa**, **illusoria** e **complessa**. Non è trasparente, non si offre all'osservazione diretta: è una **trama di corrispondenze simboliche** che deve essere decifrata. Ciò che appare — la realtà fenomenica, dal greco *phainomai*, "apparire" — non è che la superficie. Sotto di essa si nasconde una dimensione profonda, accessibile soltanto attraverso l'ampliamento dei sensi, l'intuizione, l'esperienza irrazionale.
+
+> [!note] Dalla lezione
+> La professoressa ha posto la domanda alla classe: «Se non è la ragione, se non è la razionalità, che cosa rimane per conoscere la realtà?». Uno studente ha risposto «la fede», un altro «l'edonismo». La risposta: «Ma manco per niente. È l'irrazionalità.»
+
+### 1.3 Il senso di esclusione del poeta
+
+In una società borghese improntata al progresso e alla fiducia nel domani, questi poeti rivendicano il loro senso di **esclusione**, di **emarginazione**, di **isolamento**. Non si riconoscono in un mondo che non li comprende, che deride chiunque non produca un utile concreto. L'arte, la poesia, vengono considerate inutili dalla società — e il poeta ne paga il prezzo diventando un estraneo, un esule nel suo stesso tempo.
+
+Questa corrente letteraria, per la sua forte carica soggettiva e la rivalutazione dell'irrazionalità, si lega idealmente al **Romanticismo**: la spinta dell'io, l'attenzione al mistero, alla morte, alla finitudine. Ma il soggettivismo decadente non è quello romantico: non è l'io monolitico di Leopardi che parla del proprio dolore personale con valenza universale. È un io **frantumato**, molteplice, che si scopre "altro" rispetto a se stesso.
+
+### 1.4 I caratteri fondamentali — Sintesi
+
+I tratti che definiscono il decadentismo possono essere riassunti così:
+
+- **Sfiducia nella scienza**: la scienza non spiega la realtà, non ne coglie il mistero
+- **Individualismo e soggettivismo**: forte carica soggettiva, rivalutazione dell'io interiore
+- **Rivalutazione dell'irrazionalità**: intuizione, illuminazione, disordine dei sensi
+- **Rifiuto della società borghese**: marginalità del poeta, critica dell'utilitarismo
+- **Senso di finitudine e di morte**: il mistero domina la vita
+- **Realtà come trama di simboli**: corrispondenze da decifrare attraverso la poesia
 
 ```mermaid
 mindmap
-  root((DECADENTISMO / SIMBOLISMO))
-    Sfiducia nella scienza
-      La scienza non spiega la realtà
-    Individualismo / Soggettivismo
-      Forte carica soggettiva
-      Ma diverso da quello romantico
-    Rivalutazione dell'irrazionalità
+  root((DECADENTISMO))
+    Reazione al positivismo
+      Rifiuto della ragione
+      Rifiuto della scienza
+      Rifiuto del naturalismo
+    Concezione della realtà
+      Misteriosa e complessa
+      Trama di simboli
+      Corrispondenze da decifrare
+    Strumenti di conoscenza
+      Irrazionalità
       Intuizione
-      Illuminazione
       Ampliamento dei sensi
-    Rifiuto della società borghese
-      Esclusione
-      Emarginazione
-      Isolamento
-    Senso di fine e di morte
-      Finitudine
-      Esaurimento
-    Realtà come trama di simboli
-      Da decifrare
-      Corrispondenze simboliche
-```
-
-**Punti chiave dettati dalla prof** (in ordine):
-
-1. **Sfiducia nella scienza**: "Questi intellettuali ci dicono che la scienza non spiega la realtà"
-2. **Forte carica soggettiva** e individualismo
-3. **Rivalutazione dell'irrazionalità**
-4. **Senso di fine, della morte**, del mistero che domina la vita
-5. **Esclusione e emarginazione**: i poeti rivendicano il loro isolamento rispetto alla società borghese "tutta volta all'utile, al profitto, e disinteressata a ciò che non produce un utile, cioè all'arte, alla poesia"
-
----
-
-## 3. La realtà secondo i simbolisti
-
-> Secondo questi autori la realtà è **misteriosa**, **illusoria** e **complessa**.
-> Dunque, se la realtà è misteriosa vuol dire che è da **decifrare**.
-
-La realtà è una **trama di corrispondenze simboliche**: è fatta di **simboli** che devono essere decifrati non attraverso la ragione, ma attraverso l'**intuizione** e l'**ampliamento dei sensi**.
-
-### Come si accede al mistero della realtà?
-
-```mermaid
-flowchart TD
-    A["Realtà profonda\n(sotto la realtà fenomenica)"] 
-    B["Ampliamento dei sensi"]
-    C["Droghe\n(oppio, assenzio)"]
-    D["Esperienze estreme\n(amore, follia, sofferenza)"]
-    E["Poesia come strumento\ndi decodifica"]
-    
-    B --> A
-    C --> B
-    D --> B
-    E --> A
-    
-    style A fill:#d5b7e8,stroke:#333
-```
-
-> **Nota della prof**: La realtà **fenomenica** (dal greco *phainomai* = apparire) è quella che si vede. I poeti simbolisti indagano "quello che c'è sotto la realtà, cioè tutta una dimensione che non si vede".
-
----
-
-## 4. I Poeti Maledetti (*Les Poètes Maudits*)
-
-### 4.1 Chi sono
-
-| Poeta | Ruolo | Note |
-|---|---|---|
-| **Charles Baudelaire** | "Padre putativo", generazione precedente | Precursore, autore fondamentale |
-| **Paul Verlaine** | Protagonista del simbolismo, conia il termine | Vita sregolata, alcolismo |
-| **Arthur Rimbaud** | Il più giovane e ribelle | Vita raminga, morto a 37 anni |
-
-> **Perché "maledetti"?** Perché conducono "un'esistenza al di fuori dei canoni borghesi" e confidano nel fatto che "la realtà sia conoscibile attraverso un **ampliamento dei sensi**, attraverso un ampliamento delle funzioni psichiche" — realizzato anche attraverso l'uso di **droghe** (oppio, assenzio).
-
-```mermaid
-flowchart TD
-    B["BAUDELAIRE\n(padre putativo)"]
-    V["VERLAINE"]
-    R["RIMBAUD"]
-    SM["SIMBOLISMO FRANCESE\n(Les Poètes Maudits)"]
-    DI["DECADENTISMO ITALIANO"]
-    
-    B --> SM
-    V --> SM
-    R --> SM
-    SM -->|"prende le mosse"| DI
-    
-    V <-->|"relazione turbolenta\n(epistolare → personale → conflitto)"| R
-    B -.->|"influenza"| V
-    B -.->|"influenza"| R
-    
-    style SM fill:#e8b7b7,stroke:#333
-    style DI fill:#b7e8b7,stroke:#333
+    Ruolo del poeta
+      Escluso dalla società
+      Esule nel proprio tempo
+      Veggente / Profeta
+    Contesto sociale
+      Rifiuto della borghesia
+      Critica dell'utilitarismo
+      Senso di finitudine
 ```
 
 ---
 
-## 5. Charles Baudelaire
+## 2. Il Simbolismo francese: i poeti maledetti
 
-### 5.1 Opera principale: *I fiori del male* (*Les Fleurs du mal*, 1857)
+### 2.1 Chi sono i poeti maledetti
 
-Raccolta "celeberrima" (parola della prof) che contiene il testo-manifesto della concezione simbolista della realtà.
+Il decadentismo italiano prende le mosse da una corrente francese: il **simbolismo**. I suoi protagonisti sono tre poeti — **Charles Baudelaire**, **Paul Verlaine** e **Arthur Rimbaud** — noti come *les poètes maudits*, i **poeti maledetti**. Baudelaire ne è il padre putativo, appartenendo alla generazione precedente; Verlaine e Rimbaud, più giovani, ne incarnano lo spirito più radicale.
+
+Perché "maledetti"? Perché conducono un'esistenza **al di fuori dei canoni borghesi** e confidano nel fatto che la realtà sia conoscibile attraverso un **ampliamento dei sensi** e delle funzioni psichiche. Questo ampliamento si realizza anche attraverso l'uso di **droghe** — in particolare l'oppio e l'assenzio — che consentono di avvicinarsi a quella realtà profonda che non si vede dalla superficie fenomenica. Sono poeti che non esitano a calarsi in tutte le esperienze del dolore, dell'amore, della follia — a sprofondare negli abissi della realtà per riportarne il significato agli uomini.
+
+La definizione stessa di "decadentismo" è recuperata a partire dalla lirica *Languore* di Verlaine, i cui versi di apertura — *«Sono l'impero alla fine della decadenza»* — rimandano a una dimensione di **finitudine e di esaurimento**, segnata dal passaggio dei «grandi barbari bianchi», coloro che hanno determinato la fine di un impero, di una potenza.
+
+> [!note] Dalla lezione
+> La professoressa ha aperto la lezione leggendo i versi di *Languore* e chiedendo alla classe se il loro significato si cogliesse attraverso la ragione o l'intuizione. La risposta è stata chiara: «Attraverso l'intuizione.» Questi versi non forniscono un messaggio diretto, non veicolano un insegnamento pratico; sono allusivi, simbolici, e rimandano a una concezione della realtà che va decifrata.
 
 ---
 
-### 5.2 Analisi di *Corrispondenze* (*Correspondances*)
+## 3. Charles Baudelaire
 
-> **Contesto**: Testo che "rappresenta più di tutti la concezione che della realtà propongono i poeti simbolisti".
-> Contenuto in *I fiori del male* (1857). Testo in traduzione.
+### 3.1 *Corrispondenze* — Il manifesto della realtà simbolica
 
-#### Testo integrale (in traduzione)
+Il testo che meglio esemplifica la concezione decadente della realtà è il sonetto *Corrispondenze* di Charles Baudelaire, tratto da *I fiori del male* (*Les Fleurs du mal*, 1857). È il testo fondamentale del simbolismo: rappresenta più di ogni altro la concezione che della realtà propongono i poeti simbolisti.
+
+#### Il testo
 
 > La Natura è un tempio dove pilastri vivi
 > mormorano a tratti indistinte parole;
@@ -175,113 +111,59 @@ Raccolta "celeberrima" (parola della prof) che contiene il testo-manifesto della
 >
 > Profumi freschi come la carne d'un bambino,
 > dolci come l'oboe, verdi come i prati,
-> e altri d'una corrotta, trionfante ricchezza,
+> — e altri d'una corrotta, trionfante ricchezza,
 >
 > con tutta l'espansione delle cose infinite:
 > l'ambra e il muschio, l'incenso e il benzoino,
 > che cantano il trasporto della mente e dei sensi.
 
-#### Analisi verso per verso (spiegazione della prof)
+#### Analisi
 
-**vv. 1-2: "La Natura è un tempio dove pilastri vivi / mormorano a tratti indistinte parole"**
+La Natura (con la N maiuscola, sinonimo di "realtà" nella sua totalità) è assimilata all'immagine di un **tempio** in cui dei **pilastri vivi mormorano parole indistinte**. La realtà, cioè, è complessa e sembra parlare al pari dell'uomo, ma sussurrando parole **non comprensibili** — parole che devono essere decifrate. L'uomo ne fa parte, ci passa in mezzo: attraversa «foreste di simboli» che lo osservano con «sguardi familiari», che lo riconoscono come parte di loro. I pilastri vivi, le foreste, evocano gli alberi di un tempio naturale in cui tutto comunica, tutto si corrisponde.
 
-- **Natura** con la N maiuscola = sinonimo di **realtà**
-- La realtà è assimilata all'immagine di un **tempio**
-- I "pilastri vivi" mormorano = la realtà "sembra parlare al pari dell'uomo, ma sussurrando parole indistinte, cioè parole **non comprensibili**"
+La seconda strofa introduce una similitudine: come **echi** che da lontano tendono a una «profonda, tenebrosa unità», tutti i dati sensoriali — profumi, colori e suoni — **si rispondono** tra loro. Il cuore della poesia è qui: la realtà è un'unità misteriosa in cui tutto è collegato, ma questa unità è **tenebrosa**, oscura, non afferrabile con la sola ragione.
 
-**v. 3: "l'uomo passa lì tra foreste di simboli"**
+Nella terza e quarta strofa Baudelaire dà corpo a questa teoria attraverso una cascata di **sinestesie** — la figura retorica centrale del testo:
 
-- "Foreste di simboli" rimanda ai "pilastri vivi" → evocano **alberi**
-- La realtà è una **trama di simboli**
+| Sinestesia | Dato sensoriale 1 | Dato sensoriale 2 |
+|------------|--------------------|--------------------|
+| «Profumi freschi come la carne d'un bambino» | Olfattivo (profumi) | Tattile (carne) |
+| «Dolci come l'oboe» | Olfattivo (profumi) | Uditivo (oboe) |
+| «Verdi come i prati» | Olfattivo (profumi) | Visivo (verdi) |
+| «L'ambra e il muschio... che cantano» | Olfattivo (ambra, muschio) | Uditivo (cantano) |
 
-**v. 4: "che lo osservano con sguardi familiari"**
+La sinestesia è una figura **evocativa e allusiva** che non presenta un nesso causa-effetto spiegabile razionalmente. È proprio attraverso l'ampliamento delle percezioni sensoriali, qui così insistite, che è possibile accedere al **mistero della realtà** — una realtà costituita da simboli che devono essere decifrati attraverso la poesia.
 
-- I simboli "lo riconoscono come una parte di loro" → l'uomo **fa parte** della realtà simbolica
+> [!note] Dalla lezione
+> La professoressa ha sintetizzato così il senso del testo: «La realtà è fatta di simboli. È attraverso l'ampliamento delle percezioni sensoriali che è possibile accedere al mistero della realtà. Questa è la sintesi.» Ha poi aggiunto: «La sinestesia è una figura evocativa che non si può spiegare logicamente — e proprio per questo è la figura centrale del simbolismo.»
 
-**vv. 5-8: "Come echi che a lungo e da lontano / tendono a una profonda, tenebrosa unità..."**
+### 3.2 *La caduta dell'aureola* — Il poeta nella modernità
 
-- Inizia una **similitudine**
-- Le "indistinte parole" tendono a una **unità** che però è **misteriosa** ("tenebrosa")
-- "i profumi, i colori e i suoni si rispondono": tutti i **dati sensoriali** tendono a un'**unità**
+Baudelaire scrive un testo in prosa contenuto nella raccolta *Lo Spleen di Parigi*. Lo **spleen** (parola inglese) indica uno stato di malinconia, tristezza, noia — una condizione esistenziale ricorrente nella poesia decadente.
 
-**vv. 9-10: "Profumi freschi come la carne d'un bambino, / dolci come l'oboe, verdi come i prati"**
+Il concetto centrale del testo è la **caduta dell'aureola**: un'espressione che va imparata perché condensa il senso dell'intera riflessione sul ruolo del poeta nella modernità. L'aureola — l'anello di luce che portano sul capo i santi e gli angeli, segno della loro sacralità — è il simbolo del ruolo sacro che il poeta aveva nella tradizione. Baudelaire sostiene che il poeta ha **perso l'aureola**: è diventato un uomo comune, non ha più nulla di sacro da insegnare.
 
-| Espressione | Dato sensoriale 1 | Dato sensoriale 2 | Figura retorica |
-|---|---|---|---|
-| "Profumi freschi come la carne d'un bambino" | Olfattivo (profumo) | **Tattile** (carne) | **Sinestesia** + similitudine |
-| "dolci come l'oboe" | Olfattivo (profumo) | **Uditivo** (oboe) | **Sinestesia** + similitudine |
-| "verdi come i prati" | Olfattivo (profumo) | **Visivo** (verde) | **Sinestesia** + similitudine |
+#### Il testo (estratti)
 
-**vv. 11-14: "e altri d'una corrotta, trionfante ricchezza... che cantano il trasporto della mente e dei sensi"**
+> «Ehi, ma come? Voi qui, carissimo? Voi in un posto malfamato? Voi, il degustatore di quintessenze? Voi, il divoratore di ambrosia? Sul serio, c'è di che stupirsi».
 
-- L'ambra, il muschio, l'incenso e il **benzoino** (= "una resina profumata", spiega la prof) "cantano il trasporto della mente e dei sensi"
+Un avventore — un uomo qualunque — incontra il poeta in un **bordello** mentre si ubriaca, e si stupisce di trovare proprio lui in quel luogo, lui che dovrebbe frequentare il Parnaso e nutrirsi del nettare degli dei. Il Parnaso è il monte sacro alla poesia nell'antica Grecia; l'ambrosia è il nutrimento degli dei. Questa è tutta la cultura classica che circonda la figura del poeta come essere superiore.
 
-#### Figura retorica centrale: la SINESTESIA
+> «Mio caro, voi conoscete il terrore che ho dei cavalli e delle carrozze. Poco fa, mentre attraversavo di gran premura il boulevard e saltellavo nella melma in mezzo a questo caos frenetico dove la morte accorre al galoppo da tutte le parti e in un sol tempo, la mia aureola, a un movimento brusco, mi è scivolata di testa nella fanghiglia del macadam».
 
-> **Domanda della prof**: "Si può spiegare razionalmente la sinestesia?"
-> **Risposta**: No. È una figura **evocativa**, allusiva, che "non presenta un nesso causa-effetto".
+Il contesto è quello della vita **urbana, frenetica, alienante** di Parigi: i boulevard, i cavalli e le carrozze (oggi diremmo il traffico stradale), il caos. L'aureola scivola nel fango — il segno distintivo della sacralità del poeta finisce nella melma della città moderna.
 
-> **Sintesi della prof**: "È attraverso l'ampliamento delle percezioni sensoriali, che qui vedete sono così insistite, che è possibile accedere al **mistero della realtà** che è costituita da simboli che devono essere decifrati."
+> «Non ho avuto il coraggio di raccoglierla. [...] Ora posso andarmene in giro in incognito, compiere le azioni più vili [...]. E immagino con gioia che qualche poeta spregevole la raccatterà e impudente se ne acconcerà la testa. Farlo felice, che gioia!»
 
----
+Il poeta non raccoglie l'aureola: con **ironia** amara rivendica la propria nuova condizione di marginalità. Non è più tenuto a frequentare il Parnaso, dunque può frequentare tutti i luoghi dell'abiezione e del degrado. E se qualche poeta mediocre raccatterà quell'aureola, tanto meglio — sarà comico vederlo pavoneggiarsi con un titolo ormai vuoto.
 
-### 5.3 *Lo Spleen di Parigi* — La caduta dell'aureola
+L'atteggiamento è duplice: da una parte la **critica** alla vacuità della società contemporanea, alla vita cittadina disumana e alienante; dall'altra la **rivendicazione orgogliosa** della propria posizione di marginalità. Il poeta non è più sacro, ma proprio per questo è finalmente libero.
 
-> **Formato**: Testo in **prosa**
-> **Titolo**: *Lo Spleen di Parigi*
-> **Spleen** (S-P-L-E-E-N): parola inglese che indica "uno stato di malinconia, tristezza, noia" (definizione della prof: "per adesso fermiamoci qui")
+### 3.3 *L'albatro* — Il poeta tra cielo e terra
 
-> ⚠️ **DA IMPARARE A MEMORIA** (indicazione esplicita della prof): l'espressione **"caduta dell'aureola"**
+*L'albatro* è un testo in versi tratto anch'esso da *I fiori del male*. L'albatro — un grande uccello marino simile a un gabbiano — raffigura simbolicamente l'essenza del **nuovo poeta**: **ridicolo** nella vita di tutti i giorni, **altissimo** quando si alza nei cieli dell'arte.
 
-#### Contenuto
-
-La scena: **dialogo tra un poeta e un uomo qualunque** che si ritrovano in un **bordello** mentre il poeta si ubriaca.
-
-| Elemento | Significato simbolico |
-|---|---|
-| **Aureola** | Segno della **sacralità** del poeta (come per santi e angeli) |
-| **Caduta dell'aureola** | Il poeta ha **perso la sua sacralità**, è diventato un uomo comune |
-| **Il Parnaso** | Monte dell'antica Grecia, **sacro alla poesia** |
-| **Nettare degli dei / Ambrosia** | Il nutrimento più alto, che si converrebbe a un poeta |
-| **Il bordello** | Luogo dell'abiezione, del degrado |
-| **Boulevard, cavalli, carrozze** | Contesto urbano, vita **frenetica, alienante, caotica** di Parigi |
-| **Fanghiglia del macadam** | Il fango in cui finisce l'aureola — la sacralità del poeta |
-
-#### Passaggi chiave del testo (letti dalla prof)
-
-> "Ehi, ma come? Voi qui, carissimo? Voi in un posto malfamato? Voi, il degustatore di quintessenze? Voi, il divoratore di ambrosia? Sul serio, c'è di che stupirsi"
-
-→ L'uomo qualunque si stupisce di trovare il poeta in un luogo così basso.
-
-> "la mia aureola, a un movimento brusco, mi è scivolata di testa nella fanghiglia del macadam"
-
-→ **L'aureola è scivolata nel fango** durante la vita frenetica della città.
-
-> "Non ho avuto il coraggio di raccoglierla [...] Ora posso andarmene in giro in incognito"
-
-→ Il poeta **rivendica con orgoglio** la sua posizione di marginalità.
-
-> "immagino con gioia che qualche poeta spregevole la raccatterà e impudente se ne acconcerà la testa"
-
-- **Domanda della prof**: "Avete capito questo passaggio?"
-- **Risposta dello studente (Francesco)**: Ironicamente risponde che qualcuno la troverà
-- **Spiegazione della prof**: "**Ironicamente** risponde che la troverà qualche poeta che se ne approprierà e si farà un capo, pregiandosi di questo titolo senza rendersi conto invece di quale sia ora la condizione autentica del poeta"
-
-#### Doppio atteggiamento di Baudelaire
-
-1. **Critico** nei confronti della "vacuità della società contemporanea, della vita cittadina che è disumana, che è alienante"
-2. **Orgoglioso** della propria marginalità
-
----
-
-### 5.4 Analisi de *L'Albatro* (*L'Albatros*)
-
-> **Riferimento libro**: pagina 35 del libro A
-> **Nota della prof**: "Forse l'avete letto alle medie, al biennio"
-
-> **Significato centrale**: L'albatro "raffigura simbolicamente l'immagine, l'essenza del **nuovo poeta**, dell'intellettuale moderno, che è **ridicolo** nella vita di tutti i giorni e invece **altissimo** quando si alza nei cieli dell'arte"
-
-#### Testo integrale (traduzione letta dalla prof)
+#### Il testo
 
 > Spesso, per divertirsi, i marinai
 > prendono degli albatri, grandi uccelli dei mari,
@@ -293,415 +175,301 @@ La scena: **dialogo tra un poeta e un uomo qualunque** che si ritrovano in un **
 > pietosamente accanto a sé trascina,
 > come fossero remi, le grandi ali bianche.
 >
-> Com'è fiacco e sinistro il viaggiatore alato
-> e comico e brutto, lui prima così bello.
+> Com'è fiacco e sinistro il viaggiatore alato!
+> E comico e brutto, lui prima così bello!
 > Chi gli mette una pipa sotto il becco,
 > chi imita zoppicando lo storpio che volava.
 >
-> Il poeta è come lui, principe delle nubi
-> che sta con l'uragano e ride degli arcieri.
-> Esule in terra tra gli scherni,
+> Il poeta è come lui, principe delle nubi,
+> che sta con l'uragano e ride degli arcieri;
+> esule in terra tra gli scherni,
 > non lo lasciano camminare le sue ali di gigante.
 
-#### Analisi verso per verso
+#### Analisi
 
-**vv. 1-4: "Spesso, per divertirsi, i marinai / prendono degli albatri..."**
+La poesia si costruisce interamente su un'**analogia** tra l'albatro e il poeta. Nella prima strofa i marinai catturano per divertimento degli albatri, definiti «indolenti» — quasi svogliati, che si abbandonano al cammino della navigazione. L'aggettivo "indolenti" non indica insofferenza ma una sorta di pigra maestosità.
 
-- **Indolenti** = "quasi svogliati compagni di viaggio, che seguono il corso della navigazione abbandonandosi al cammino" (parafrasi della prof)
+Nella seconda strofa si compie la trasformazione: appena posato sulla **tolda** (il ponte scoperto della nave), il «**re dell'azzurro**» diventa maldestro e vergognoso. Le grandi ali bianche, che gli consentono di dominare i cieli, a terra diventano un **impaccio**: le trascina come fossero remi. L'espressione «re dell'azzurro» è una metafora che indica l'albatro nella sua dimensione di dominio del cielo — e per estensione il poeta nella sua dimensione sublime.
 
-**vv. 5-8: "L'hanno appena posato sulla tolda..."**
+La terza strofa insiste sul contrasto: il «**viaggiatore alato**» è fiacco, sinistro, comico e brutto — lui che prima era così bello. I marinai lo beffano: gli mettono una pipa sotto il becco, imitano zoppicando «lo storpio che volava». È la dimensione dello **scherno**: gli uomini comuni (i marinai) non riconoscono il valore del poeta e anzi lo deridono.
 
-- **Soggetto di "l'hanno posato"**: i marinai (la prof lo chiede esplicitamente)
-- **Tolda** = il ponte scoperto della nave
-- **"Il re dell'azzurro"** = espressione **metaforica** per l'albatro che, quando è libero in volo, **domina i cieli**
-- A terra: risulta **goffo e ridicolo**
-- Le grandi ali bianche = a terra diventano un **impaccio** (risposta degli studenti, confermata dalla prof)
+L'ultima strofa rende esplicita l'analogia. Il poeta è come l'albatro: è «**principe delle nubi**», abituato a misurarsi con l'uragano — con tutto ciò che è disturbante, inquietante, misterioso — e ride degli arcieri, si fa beffe di chi lo vuole colpire. Ma sulla terra è un **esule**, un estraneo tra gli scherni. Le sue «**ali di gigante**» — l'immaginazione, l'intelletto, la capacità artistica — non gli consentono di restare nella dimensione bassa e terrena, perché quella che gli appartiene è la dimensione alta, elevata, del cielo.
 
-**vv. 9-12: "Com'è fiacco e sinistro il viaggiatore alato..."**
+**Espressioni chiave da ricordare** (metafore del poeta):
+- **Re dell'azzurro**: il poeta come dominatore dei cieli
+- **Viaggiatore alato**: il poeta come essere in viaggio, dotato di ali
+- **Principe delle nubi**: il poeta come figura regale delle altezze
 
-- **"Viaggiatore alato"** = seconda espressione metaforica (la prof: "queste ve le sottolineo perché le dovete imparare")
-- Il passaggio da maestoso (in aria) a ridicolo (a terra) — confermato dalla prof: "Benissimo"
-- "Chi gli mette una pipa sotto il becco, chi imita zoppicando" = **dimensione dello scherno**
-- I marinai = metafora degli **uomini comuni** che "non riconoscono il valore del poeta. E anzi, non solo non lo riconoscono, ma lo deridono"
-
-**vv. 13-16: "Il poeta è come lui, principe delle nubi..."**
-
-- **"Principe delle nubi"** = terza espressione metaforica (insieme a "re dell'azzurro" e "viaggiatore alato")
-
-> ⚠️ **DA IMPARARE**: Le tre espressioni metaforiche per il poeta/albatro:
-> 1. **Re dell'azzurro**
-> 2. **Viaggiatore alato**
-> 3. **Principe delle nubi**
-
-- "che sta con l'uragano e ride degli arcieri": il poeta è "abituato ad affrontare l'uragano, cioè a misurarsi con tutto ciò che è disturbante, tutto ciò che significa inquietudine, oscurità, mistero. E ride degli arcieri: si fa beffe di coloro che lo vogliono colpire"
-
-- **"Esule"** = parola chiave. Il poeta si riconosce come un **estraneo sulla terra**
-
-- **"Ali di gigante"** = "ali dell'immaginazione, dell'intelletto, dell'arte, della poesia" che "non gli consentono di rimanere in una dimensione bassa, terrena, perché quella che gli appartiene è quella alta, elevata, del cielo"
-
-#### Schema interpretativo dell'Albatro
+> [!note] Dalla lezione
+> La professoressa ha insistito su queste espressioni: «Queste ve le sottolineo perché le dovete imparare.» E ha sintetizzato il messaggio: «Il poeta, come l'albatro, deve coltivare le altezze sublimi dell'arte e non il mondo prosastico del consumo, del guadagno, dell'utile, della fretta, del caos. Perché per natura il poeta è un'altra cosa.»
 
 ```mermaid
-flowchart TB
-    subgraph CIELO["🔵 CIELO — Dimensione dell'arte"]
-        A1["Albatro in volo:\nRe dell'azzurro\nViaggiatore alato\nPrincipe delle nubi"]
-        P1["Poeta:\nAltissimo, sublime\nAffronta l'uragano\nRide degli arcieri"]
-    end
+flowchart TD
+    A[L'ALBATRO in volo] -->|"Re dell'azzurro<br/>Principe delle nubi"| B[Maestoso, libero,<br/>domina i cieli]
+    A -->|Catturato dai marinai| C[L'ALBATRO a terra]
+    C -->|"Ali di gigante = impaccio"| D[Goffo, ridicolo,<br/>deriso dai marinai]
     
-    subgraph TERRA["🟤 TERRA — Dimensione prosaica"]
-        A2["Albatro a terra:\nGoffo, ridicolo\nAli = impaccio\nDeriso dai marinai"]
-        P2["Poeta nella società:\nEsule, estraneo\nDeriso dagli uomini comuni\nAli di gigante = impedimento"]
-    end
+    E[IL POETA nell'arte] -->|"Veggente, profeta"| F[Altissimo, sublime,<br/>ride degli arcieri]
+    E -->|Nella società borghese| G[IL POETA nel mondo]
+    G -->|"Esule in terra"| H[Escluso, emarginato,<br/>incompreso]
     
-    A1 <-->|"analogia"| P1
-    A2 <-->|"analogia"| P2
-    A1 -->|"cattura / discesa"| A2
-    P1 -->|"società borghese"| P2
-    
-    style CIELO fill:#d5e8f7,stroke:#333
-    style TERRA fill:#e8d5c0,stroke:#333
-```
-
-> **Messaggio centrale** (parole della prof): "Il poeta, come l'albatro, deve coltivare le altezze sublimi dell'arte e non invece il mondo prosastico del consumo, del guadagno, dell'utile, della fretta, del caos. [...] Perché per natura il poeta è un'altra cosa."
-
----
-
-## 6. Paul Verlaine
-
-### 6.1 Biografia essenziale
-
-| Evento | Dettaglio |
-|---|---|
-| **18 anni** | Inizia a bere, contrae il vizio dell'**alcolismo** ("diventerà la sua rovina") |
-| **Trasferimento** | Dalla provincia a **Parigi**, frequenta scrittori e poeti |
-| **~30 anni** | Si sposa con una diciassettenne, ha un figlio |
-| **Corrispondenza** | Intrattiene un rapporto epistolare con il giovane **Arthur Rimbaud** |
-| **Relazione con Rimbaud** | Rimbaud lo raggiunge a Parigi; relazione "molto appassionata" che "distrugge la vita familiare di Verlaine" |
-| **Conflitto** | "Verlaine cerca persino di uccidere Rimbaud sparandogli" |
-| **Condanna** | **Due anni di reclusione** |
-| **Opere** | Entrano nell'antologia de *I Poeti Maledetti* (*Les Poètes Maudits*) — "pietre miliari della storia della poesia contemporanea" |
-
-> **Sintesi della prof**: "Una vita all'insegna della **sregolatezza**"
-
-### 6.2 Poetica: la musicalità del verso
-
-> **Principio fondamentale**: "*De la musique avant toute chose*" — **"La musica sopra ogni cosa"**
-
-- La musica ha un **linguaggio universale** e "si sottrae ai contenuti, ma parla a tutti"
-- Importanza del **significante**, del **suono**
-- Figure retoriche predilette: **allitterazione, assonanza, consonanza** (figure del suono)
-- **Rifiuto della rima**: "Dice che la rima è la morte della poesia" — perché "ingabbia la poesia"
-- **Rifiuto della metrica** e della tradizione
-
-### 6.3 Analisi di *Arte poetica* (*Ars Poetica*, 1874)
-
-> **Definizione**: "Manifesto letterario" di Verlaine
-
-#### Versi chiave letti dalla prof con interpretazione
-
-**"Musica sopra ogni cosa"**
-→ Apertura della poesia-manifesto con una **dichiarazione di poetica**
-
-**"E perciò preferisci il ritmo impari, / più vago e solubile nell'aria, / senza nulla che pesi o che posi"**
-→ Preferenza per il ritmo dispari, leggero, libero
-
-**"È necessario poi che tu non scelga / le tue parole senza qualche svista: / nulla di più caro della canzone grigia, / dove l'incerto si unisce al preciso"**
-→ La poesia deve mantenere una dimensione di **incertezza**, di **indeterminatezza**
-
-**"Perché vogliamo ancora la sfumatura, / non il colore, sol la sfumatura"**
-
-> ⚠️ **DA SCRIVERE** (indicazione esplicita della prof): "Vogliamo solo la sfumatura"
-
-> **Spiegazione della prof**: "La parola poetica deve suggerire, non delineare. Siamo ad anni luce dal Naturalismo, in cui la parola deve essere fedele alla cosa, la deve rispecchiare come una fotografia. Qui il poeta dice che vuole solo la sfumatura, cioè solo l'**allusione**."
-
-**"Prendi l'eloquenza e torcile il collo"**
-→ "Uccidila": l'arte del bel parlare nel corso dei secoli "si è definita come una costruzione, uno schema da seguire. Qui domina la volontà di essere liberi da imposizioni"
-
-**"Oh, chi dirà i torti della rima? / [...] quel gioiello da un soldo / che suona vuoto e falso sotto la lima?"**
-→ La rima suona "**vuota e falsa** sotto la lima"
-→ **Lima** = riferimento al *labor limae* (espressione latina che indica "le rifiniture, l'elaborazione del testo dal punto di vista stilistico" — definizione data dallo studente e confermata dalla prof)
-
-**"Musica ancora e sempre! E tutto il resto è letteratura"**
-→ "Tutto il resto è quello che è stato conosciuto, apprezzato, che è entrato nel canone e dunque appartiene a un **mondo morto, passato, che deve essere superato**"
-
-#### Mappa della poetica di Verlaine
-
-```mermaid
-mindmap
-  root((POETICA DI VERLAINE))
-    MUSICA sopra ogni cosa
-      Allitterazione
-      Assonanza
-      Consonanza
-      Importanza del significante
-    SFUMATURA, non colore
-      Parola che suggerisce
-      Allusione, non descrizione
-      L'incerto si unisce al preciso
-    RIFIUTO
-      Della rima ("morte della poesia")
-      Dell'eloquenza ("torcile il collo")
-      Della metrica tradizionale
-      Della letteratura come canone morto
-    LIBERTÀ
-      Ritmo impari
-      Verso libero
-      Nessuna imposizione formale
+    B -.->|analogia| F
+    D -.->|analogia| H
 ```
 
 ---
 
-## 7. Arthur Rimbaud
+## 4. Paul Verlaine
 
-### 7.1 Biografia essenziale
+### 4.1 Vita e personalità
 
-| Evento | Dettaglio |
-|---|---|
-| **Nascita** | **1854** |
-| **Gioventù** | "Fin da giovane un ragazzo **ribelle**" |
-| **Prove poetiche** | Invia i suoi versi a Paul Verlaine |
-| **Relazione con Verlaine** | Relazione "turbolenta", vivono di espedienti, chiedono soldi alla madre di Verlaine |
-| **Dopo la rottura** | Lite, ferimento (Verlaine gli spara), Rimbaud inizia a **vagabondare a piedi per l'Europa** |
-| **Olanda** | Si arruola nell'esercito coloniale, poi **diserta** |
-| **Varie** | Lavora in un circo, arriva fino in **Norvegia**, si trasferisce a **Cipro** (capo cantiere) |
-| **1880** | Si trasforma in **mercante di pelli e di caffè** |
-| **1891** | Violenti dolori al ginocchio → cancro → **amputazione della gamba** |
-| **Morte** | Qualche mese dopo, a **Marsiglia**, nel **1891**, a **37 anni** |
+Paul Verlaine condusse una **vita inquieta** e all'insegna della **sregolatezza**. A diciotto anni inizia a bere e contrae il vizio dell'alcolismo, che diventerà la sua rovina. Dalla provincia si trasferisce a Parigi, frequenta scrittori e poeti, e la sua vita diventa sempre più disordinata. Si sposa a circa trent'anni con una diciassettenne dalla quale avrà un figlio, ma nel frattempo intrattiene una corrispondenza epistolare con un giovane poeta, Arthur Rimbaud.
 
-> **Commento della prof**: "Questo per dirvi cosa? Per descrivervi una vita assolutamente **sregolata e raminga**"
+Quando Rimbaud lo raggiunge a Parigi, i due stringono una **relazione molto appassionata** che distrugge la vita familiare di Verlaine. La passione tra i due sfocia anche in grandi conflitti, al punto che Verlaine cerca persino di **uccidere Rimbaud sparandogli**. Per questo viene condannato a due anni di reclusione. Le sue opere entrano nell'antologia de *I poeti maledetti* (*Les Poètes maudits*) e sono una delle pietre miliari della storia della poesia contemporanea.
 
-### 7.2 Poetica: la Lettera del Veggente
+### 4.2 Poetica: la musicalità del verso
 
-> **Formato**: Testo in **prosa**, dichiarazione di poetica
+Dal punto di vista della poetica, Verlaine è da ricordare soprattutto per la **musicalità del verso**. Il suo principio fondamentale è espresso nella formula: ***«De la musique avant toute chose»*** — la musica sopra ogni cosa. La musica ha un linguaggio universale, si sottrae ai contenuti specifici e parla a tutti: per questo Verlaine attribuisce un'importanza capitale al **significante**, al suono della parola.
 
-#### "Io è un altro" (*Je est un autre*)
+La sua lirica sarà dunque dominata dalle **figure retoriche del suono**: allitterazione, assonanza, consonanza. Verlaine al contrario **rifiuta la rima**, che considera la «morte della poesia»: la rima ingabbia il verso, gli impone una costruzione prestabilita, uno schema che soffoca la libertà espressiva. Allo stesso modo rifiuta la metrica tradizionale — è un rifiuto della tradizione nel suo complesso.
 
-> **Spiegazione della prof**: "Questo non è il soggettivismo, l'individualismo romantico di Leopardi. Quando Leopardi parla del suo dolore, dice 'io', è il suo, poi si carica di una valenza universale. Qui c'è sempre l'io, ma Rimbaud dice 'io è un altro'."
+> [!note] Dalla lezione
+> Una studentessa ha spiegato così il rifiuto della rima: «Perché le rime non rendono il verso libero, cioè sono qualcosa che dà una costruzione, una forma al verso, già destinata dall'inizio perché c'è uno schema di rime da rispettare.» La professoressa ha confermato: «Certo, perché ingabbia la poesia.»
 
-**Significato**: "L'identità non è univoca, monolitica; sta dicendo che l'identità sua, di ciascuno, è **caos**."
+### 4.3 *Languore* — Il nome del decadentismo
 
-#### Il poeta come Veggente
+I versi iniziali di *Languore* sono quelli da cui il decadentismo prende il nome: **«Sono l'impero alla fine della decadenza»**. Il poeta si identifica con un impero al suo tramonto, che compone «indolenti acrostici / in uno stile dorato in cui danza il languore del sole». Sono versi composti senza utilità pratica, senza insegnamento, senza denuncia: danzano nel languore. Rimandano a una dimensione di **finitudine e di esaurimento**, un senso di fine che permea tutta la corrente decadente.
 
-> "Io dico che bisogna esser **veggente**, farsi veggente"
+### 4.4 *Arte poetica* (1874) — Il manifesto di Verlaine
 
-- Il veggente = "colui che vede ciò che all'uomo comune è negato"
-- Il poeta si muove nella dimensione della **profezia** "in cui tutto può essere rivelato e che può risultare vero e falso nello stesso tempo"
-- "Il poeta coglie nella realtà e negli uomini ciò che altri non vedono"
+*Arte poetica* (*Ars poetica*) è il manifesto letterario di Verlaine. Si apre con la dichiarazione programmatica fondamentale e sviluppa punto per punto la sua concezione della poesia. Va tenuto presente che noi leggiamo questi testi in traduzione, e dunque tutta la dimensione della musicalità, del suono, del ritmo non è pienamente verificabile — ma il contenuto resta chiarissimo.
 
-#### Come si fa a farsi veggente?
+#### Estratti e analisi
 
-> "Il poeta si fa veggente mediante un **'lungo, immenso e ragionato disordine di tutti i sensi'**"
+**«Musica sopra ogni cosa»** — La poesia-manifesto si apre con questa dichiarazione di poetica assoluta. «E perciò preferisci il ritmo impari, più vago e solubile nell'aria, senza nulla che pesi o che posi.» Il verso deve essere leggero, vago, quasi evanescente: nulla deve pesare o posare, fermarsi.
 
-- Attraverso il **disordine di tutti i sensi**: "tutte le forme d'amore, di sofferenza, di pazzia"
-- "Egli cerca se stesso e riesce così a giungere all'ignoto, poiché ha coltivato la sua anima, già ricca più di qualsiasi altra"
+**«È necessario poi che tu non scelga le tue parole senza qualche svista»** — La scelta delle parole non deve essere troppo precisa, troppo calcolata: deve mantenere un margine di indeterminatezza, di imprecisione voluta.
 
-#### Il poeta come "ladro di fuoco" (analogia con Prometeo)
+**«Perché vogliamo ancora la sfumatura, non il colore, sol la sfumatura»** — Questo è un altro verso da memorizzare. La parola poetica non deve **delineare** ma **suggerire**. Solo la sfumatura, solo l'allusione. Siamo ad anni luce dal naturalismo, dove la parola doveva essere fedele alla cosa, rispecchiarla come una fotografia. Qui il poeta vuole solo la sfumatura.
 
-> ⚠️ **Concetto spiegato due volte dalla prof** (uno studente chiede di ripetere)
+**«Prendi l'eloquenza e torcile il collo»** — Prendi l'arte del bel parlare e uccidila. L'eloquenza costruita nei secoli — con le sue regole, i suoi schemi — deve essere distrutta in nome della libertà espressiva.
+
+**«Oh, chi dirà i torti della rima? [...] quel gioiello da un soldo che suona vuoto e falso sotto la lima?»** — La rima è un gioiello da poco, suona **vuota e falsa** sotto la lima del *labor limae* — quell'espressione latina che indica l'elaborazione stilistica, le rifiniture del testo. La rima è artificiale, meccanica, morta.
+
+**«Musica ancora e sempre! E tutto il resto è letteratura.»** — La chiusura è fulminante. «Tutto il resto è letteratura» significa: tutto il resto è ciò che è stato conosciuto, apprezzato, codificato, che è entrato nel canone — e dunque appartiene a un mondo morto, passato, che deve essere superato. Conta solo la musica.
+
+---
+
+## 5. Arthur Rimbaud
+
+### 5.1 Una vita sregolata e raminga
+
+Arthur Rimbaud (1854-1891) è fin da giovane un ragazzo **ribelle** che invia le proprie prove poetiche a Paul Verlaine. Dopo averne fatto la conoscenza, i due intrecciano una relazione turbolenta, vivendo di espedienti e chiedendo soldi alla madre di Verlaine.
+
+Dopo la rottura — la lite e il ferimento per mano di Verlaine — Rimbaud inizia a **vagabondare a piedi per l'Europa**. In Olanda si arruola nell'esercito coloniale, ma poi diserta. Lavora in un circo, arriva fino in Norvegia. Si trasferisce a Cipro dove lavora come capo cantiere. Infine, nel 1880, si trasforma in **mercante di pelli e di caffè** — abbandonando completamente la poesia.
+
+Nel 1891 viene colpito da violenti dolori al ginocchio: gli viene diagnosticato un cancro e gli viene **amputata la gamba**. Muore qualche mese dopo a Marsiglia, a soli **37 anni**. Una vita assolutamente sregolata e raminga — una biografia che incarna in pieno lo spirito dei poeti maledetti.
+
+### 5.2 *Lettera del veggente* — Il poeta come ladro di fuoco
+
+La *Lettera del veggente* è un testo in prosa che funge da **dichiarazione di poetica** di Rimbaud. Si apre con una delle frasi più celebri della letteratura moderna:
+
+> **«Io è un altro.»**
+
+Questa formula sembra semplice ma è rivoluzionaria. Non si tratta del soggettivismo romantico di Leopardi, dove l'io parla del proprio dolore personale e poi lo carica di valenza universale. Qui Rimbaud dice che l'identità non è univoca, non è monolitica: l'identità di ciascuno è **caos**. L'io non coincide con se stesso — è un altro, è molteplice, è straniero a se stesso.
+
+E aggiunge:
+
+> **«Io dico che bisogna esser veggente, farsi veggente.»**
+
+Il **veggente** è colui che vede ciò che all'uomo comune è negato: il futuro, il mistero, la realtà profonda. Il poeta si muove nella dimensione della **profezia**, in cui tutto può essere rivelato e può risultare vero e falso nello stesso tempo. Il ruolo del poeta è questo: farsi veggente, cogliere nella realtà e negli uomini ciò che altri non vedono.
+
+Come si fa a farsi veggente? Come si fa a vedere oltre, a penetrare il mistero della realtà? Rimbaud risponde:
+
+> **«Il poeta si fa veggente mediante un lungo, immenso e ragionato disordine di tutti i sensi.»**
+
+Attraverso il **disordine di tutti i sensi** — tutte le forme d'amore, di sofferenza, di pazzia — il poeta cerca se stesso e giunge all'ignoto, poiché ha coltivato la sua anima, «già ricca più di qualsiasi altra».
+
+Da questa concezione deriva l'immagine del poeta come **«ladro di fuoco»**, in analogia con Prometeo. Perché ladro di fuoco? Perché il poeta non esita a calarsi in tutte le esperienze del dolore, dell'amore, della follia; non esita a sprofondare nell'**abisso della realtà**, anche nelle sue parti più inquietanti. In questo modo attinge a una verità profonda, coglie i simboli della realtà — e ne porta il significato agli uomini, così come Prometeo rubò il fuoco agli dei per consegnarlo agli uomini.
+
+> [!note] Dalla lezione
+> La professoressa ha ripetuto il concetto due volte perché una studentessa aveva chiesto di riformularlo: «Il poeta non esita a calarsi in tutte le esperienze del dolore, dell'amore, della pazzia, non esita a calarsi nell'abisso della realtà, anche nelle sue parti più inquietanti. E in questo modo attinge a una verità, coglie i simboli della realtà e ne porta il significato agli uomini, così come Prometeo ha rubato il fuoco agli dei per consegnarlo agli uomini.»
+
+### 5.3 *Vocali* — Sinestesia radicale
+
+*Vocali* è uno dei testi più noti di Rimbaud, in cui il poeta **associa suoni e colori in assoluta libertà**, quasi a riprodurre attraverso la poesia il linguaggio profondo e misterioso della realtà.
+
+#### Il testo
+
+> **A nera, E bianca, I rossa, U verde, O blu.**
+> Vocali. Io dirò un giorno i vostri ascosi nascimenti.
+>
+> **A**, nero vello al corpo delle mosche lucenti
+> che ronzano al di sopra dei crudeli fetori, golfi d'ombra.
+>
+> **E**, candori di vapori e di tende,
+> lance di ghiaccio, brividi di umbelle, bianchi re.
+>
+> **I**, porpore, rigurgito di sangue, labbra belle
+> che ridono di collera, di ebrezza penitente.
+>
+> **U**, cicli, vibrazioni sacre dei mari viridi,
+> quiete di bestie al pascolo, quiete delle ampie rughe
+> che alle fronti studiose imprime l'alchimia.
+>
+> **O**, la suprema tuba piena di stridi strani,
+> silenzi attraversati dagli angeli e dai mondi.
+> O, l'omega e il raggio violetto dei suoi occhi.
+
+#### Analisi
+
+Il principio è enunciato nel primo verso con una semplicità disarmante: a ciascuna vocale viene associato un colore. **A nera, E bianca, I rossa, U verde, O blu.** È un'associazione che non ha alcun fondamento logico — la O non è "blu" in nessun senso razionale — ma è proprio questa libertà assoluta a costituire il senso del testo.
+
+Per ogni vocale, Rimbaud costruisce poi una rete di **analogie ardite** e sinestesie:
+
+| Vocale | Colore | Immagini associate | Sensi coinvolti |
+|--------|--------|-------------------|-----------------|
+| **A** | Nera | Corpo delle mosche lucenti, crudeli fetori, golfi d'ombra | Vista, olfatto |
+| **E** | Bianca | Candori di vapori, lance di ghiaccio, brividi di umbelle (infiorescenze), bianchi re | Vista, tatto |
+| **I** | Rossa | Porpore, rigurgito di sangue, labbra belle, collera, ebrezza | Vista, sensazione fisica |
+| **U** | Verde | Mari viridi, quiete di bestie al pascolo, fronti studiose | Vista, udito |
+| **O** | Blu | Suprema tuba, stridi strani, silenzi, angeli e mondi, omega | Udito, vista |
+
+La poesia non si può afferrare razionalmente: è tutta basata su aspetti **fonetici**, **musicali** e **sinestetici**. È una fitta trama di sinestesie con associazioni fantasiose e immaginifiche. Questi sono i simboli di cui parlano i poeti maledetti: simboli che devono essere decifrati attraverso la poesia, non attraverso la ragione.
+
+> [!note] Dalla lezione
+> La professoressa ha chiesto alla classe se la poesia si potesse comprendere razionalmente: «Noi la possiamo afferrare razionalmente questa poesia? Eh, insomma. È tutta basata su aspetti fonetici, musicali e sugli aspetti sinestetici della realtà.»
+
+---
+
+## 6. Dal simbolismo francese al decadentismo italiano: Pascoli e D'Annunzio
+
+### 6.1 Due figure agli antipodi?
+
+I due maggiori rappresentanti del decadentismo italiano in poesia sono **Giovanni Pascoli** e **Gabriele D'Annunzio**. A prima vista sembrano agli antipodi: per biografia, per temperamento, per poetica. In realtà — e questo è il punto fondamentale — condividono la stessa **matrice decadente**, la stessa concezione della realtà che abbiamo visto nei simbolisti francesi.
+
+Entrambi partono dallo stesso presupposto: la **sfiducia nella scienza**, la convinzione che la realtà non si conosca attraverso la ragione, gli esperimenti, le cause e gli effetti, ma attraverso l'**intuizione**, l'**illuminazione**, l'**irrazionalità** — che consentono di cogliere quei nessi simbolici che sono da decifrare. La realtà per entrambi è **misteriosa**, **complessa**, **allusiva**. Però gli esiti a cui arrivano sono opposti.
+
+```mermaid
+flowchart TD
+    A[SIMBOLISMO FRANCESE<br/>Baudelaire, Verlaine, Rimbaud] --> B[MATRICE COMUNE<br/>Realtà misteriosa e simbolica<br/>Sfiducia nella scienza<br/>Intuizione e irrazionalità]
+    B --> C[GIOVANNI PASCOLI<br/>Il Fanciullino]
+    B --> D[GABRIELE D'ANNUNZIO<br/>Il Vate]
+    C --> E[Poeta = voce del fanciullo interiore<br/>Piccole cose, natura, lutto<br/>Vita ritirata e segnata dal dolore]
+    D --> F[Poeta = uomo eccezionale, profeta<br/>Bellezza, eroismo, vita inimitabile<br/>Esteta, primo influencer della storia]
+```
+
+### 6.2 Giovanni Pascoli — Il fanciullino
+
+#### La poetica
+
+La poetica di Pascoli è incentrata sulla figura del **fanciullino**. Secondo Pascoli, è poeta solo colui che anche da adulto riesce a sentire cristallina e limpida dentro di sé la voce del proprio **fanciullino interiore**. Il fanciullo, a differenza dell'adulto, conosce la realtà come una **scoperta**, rimanendone ogni volta meravigliato e stupito. Questa capacità di guardare il reale ogni volta come se fosse nuovo è propria del fanciullo e viene a smarrirsi con il passare del tempo, condizionata dall'educazione, dalle convenzioni sociali.
+
+Ma il fanciullino di Pascoli non è un fanciullo gioioso e vitale come quello di Leopardi. È un **fanciullo ferito**, angosciato, turbato, ripiegato su se stesso — segnato dal lutto che ha devastato la sua infanzia. La poetica pascoliana è fatta essenzialmente di **piccole cose**, di oggetti umili che risultano straordinari perché osservati attraverso gli occhi del fanciullino: il mondo contadino, la flora e la fauna della Romagna, la vita rurale tra la collina e il mare.
+
+> [!note] Dalla lezione
+> La professoressa ha definito la condizione che pervade l'intera vita e opera di Pascoli: quella di **orfano**. «La vicenda che lo segna di più è sicuramente la morte del padre, quando Pascoli ha dodici anni. Lo segna a tal punto che la critica letteraria, studiando la sua opera, interpreta tutta la produzione di Pascoli come una sorta di tentativo di rielaborazione del lutto.»
+
+#### Biografia essenziale
+
+Pascoli nasce a **San Mauro Pascoli**, tra Cesenatico e Rimini, in Romagna. La Romagna ritorna frequentemente nella sua poesia: i campi, il lavoro agricolo, il mondo contadino (scrisse persino un'ode alla piadina). Conduce una vita molto **ritirata** a partire dall'infelicissima infanzia.
+
+L'evento spartiacque è la **morte del padre**, ucciso in un agguato di notte in circostanze misteriose, i cui colpevoli rimasero impuniti e sconosciuti, mentre stava tornando a casa dalla famiglia. Pascoli ha dodici anni. L'anno dopo muore la madre, poi una sorella, un fratello — una serie di lutti in successione che segnerà tutta la sua esistenza e la sua produzione poetica.
+
+La morte del padre torna, ad esempio, nella celeberrima poesia **X Agosto**: il padre fu assassinato la notte di San Lorenzo.
+
+Dal punto di vista ideologico, Pascoli è inizialmente vicino al **socialismo** (seguace di Andrea Costa), per il quale viene anche incarcerato a Bologna. In seguito si avvicina al **nazionalismo**.
+
+I temi fondamentali della sua poesia:
+- La **natura** (il paesaggio romagnolo, la vita rurale)
+- Il **lutto** e la **morte** (la perdita del padre, della madre)
+- La **perdita** e l'**abbandono** (la condizione di orfano)
+- Le **piccole cose** osservate con lo sguardo del fanciullino
+
+### 6.3 Gabriele D'Annunzio — Il Vate
+
+#### La poetica
+
+Se la poetica di Pascoli ruota attorno al fanciullino ferito, quella di D'Annunzio ruota attorno a una figura opposta: il **vate**. Quattro lettere che indicano un uomo di straordinarie capacità, che riesce a vedere ciò che gli altri non vedono, che si erge al di sopra dell'uomo comune, che conduce una **vita inimitabile**. Il vate è un profeta, un essere eccezionale — tutto il contrario della modestia umile del fanciullino.
+
+D'Annunzio è un **esteta**: vuole fare della vita un'opera d'arte. La sua poetica è fatta di bellezza, di eroismo, di grandezza. I suoi temi: gli amori, il bello, la lotta. La sua ambizione è quella di vivere in modo eccezionale e di trasfigurare questa eccezionalità nella poesia.
+
+> [!note] Dalla lezione
+> La professoressa ha definito D'Annunzio «il primo influencer della storia». Un uomo che partecipa attivamente alle vicende del suo tempo — occupò Fiume con un esercito, fondò la Reggenza del Carnaro, fu poeta soldato — e che propone un'immagine di sé eroica, fuori dal comune, adornandosi di donne sublimi come l'attrice di teatro drammatico Eleonora Duse.
+
+#### Biografia essenziale
+
+D'Annunzio è l'opposto di Pascoli anche nella biografia: non è un uomo ritirato ma un **protagonista assoluto** della scena pubblica. È un poeta soldato, un uomo d'azione, un seduttore. Tra le sue imprese più clamorose, l'**occupazione di Fiume** dopo la Prima Guerra Mondiale, dove fondò la Reggenza del Carnaro con un esercito personale. Tra le sue relazioni più celebri, quella con **Eleonora Duse**, la più grande attrice di teatro drammatico dell'inizio del Novecento.
+
+### 6.4 Il fanciullino e il vate: la matrice comune
+
+Nonostante le differenze apparentemente inconciliabili, Pascoli e D'Annunzio **condividono la stessa radice decadente**. Entrambi rifiutano il positivismo, entrambi credono che la realtà sia misteriosa e simbolica, entrambi la indagano attraverso l'intuizione e l'irrazionalità — non attraverso la ragione e la scienza. La concezione della realtà è la stessa di Baudelaire in *Corrispondenze*: una trama di simboli da decifrare.
+
+Ciò che li differenzia è il **modo di rispondere** a questa concezione:
+
+| Aspetto | Pascoli | D'Annunzio |
+|---------|---------|------------|
+| **Figura del poeta** | Il fanciullino (voce interiore, ferita) | Il vate (profeta, essere eccezionale) |
+| **Atteggiamento** | Ripiegamento su di sé, vita ritirata | Esaltazione eroica, vita inimitabile |
+| **Temi** | Piccole cose, natura, lutto, perdita | Bellezza, eroismo, amori, lotta |
+| **Biografia** | San Mauro Pascoli, Romagna, lutti familiari | Fiume, Eleonora Duse, poeta soldato |
+| **Sguardo sulla realtà** | Dal basso, attraverso le cose umili | Dall'alto, attraverso la grandezza |
+| **Matrice comune** | Decadentismo: realtà misteriosa, sfiducia nella scienza, intuizione | Idem |
+
+---
+
+## 7. Schema riassuntivo delle poetiche
 
 ```mermaid
 flowchart LR
-    subgraph PROMETEO
-        P1["Sprofonda nel\nreame degli dei"] --> P2["Ruba il fuoco"] --> P3["Lo consegna\nagli uomini"]
+    subgraph SIMBOLISMO_FRANCESE["SIMBOLISMO FRANCESE"]
+        BAU["BAUDELAIRE<br/>• Corrispondenze<br/>• Caduta dell'aureola<br/>• L'albatro"]
+        VER["VERLAINE<br/>• Musica sopra ogni cosa<br/>• Sfumatura, non colore<br/>• Rifiuto della rima"]
+        RIM["RIMBAUD<br/>• Io è un altro<br/>• Farsi veggente<br/>• Ladro di fuoco"]
     end
     
-    subgraph POETA
-        PO1["Sprofonda negli\nabissi della realtà\n(amore, follia,\nsofferenza, irrazionalità)"] --> PO2["Coglie i simboli\ne il mistero"] --> PO3["Li porta a galla\nattraverso la poesia\ne li consegna agli uomini"]
+    subgraph DECADENTISMO_ITALIANO["DECADENTISMO ITALIANO"]
+        PAS["PASCOLI<br/>• Il fanciullino<br/>• Piccole cose<br/>• Fanciullo ferito"]
+        DAN["D'ANNUNZIO<br/>• Il vate<br/>• Vita inimitabile<br/>• Esteta"]
     end
     
-    PROMETEO -.->|"analogia"| POETA
-    
-    style PROMETEO fill:#f7d5d5,stroke:#333
-    style POETA fill:#d5d5f7,stroke:#333
-```
-
-> **Spiegazione della prof (seconda volta, più chiara)**: "**Ladro di fuoco** vuol dire che il poeta non esita a calarsi in tutte le esperienze del dolore, dell'amore, della pazzia, non esita a calarsi nell'abisso della realtà, anche nelle sue parti più inquietanti. E in questo modo attinge a una verità, coglie i simboli della realtà e ne porta il significato agli uomini, così come Prometeo ha rubato il fuoco agli dei per consegnarlo agli uomini."
-
-### 7.3 Analisi di *Vocali* (*Voyelles*)
-
-> **Riferimento libro**: pagina 146 (circa)
-> **Nota della prof**: "L'avete letto alle medie o alle elementari?"
-
-> **Principio**: "Il poeta associa suoni e colori in assoluta libertà, quasi a riprodurre attraverso la poesia il linguaggio profondo e misterioso della realtà"
-
-#### Testo letto dalla prof con analisi
-
-**"A nera, E bianca, I rossa, U verde, O blu"**
-
-→ Il poeta **associa il suono di una vocale a un colore** (la prof chiede: "È vero che la O è blu? Riuscite a immaginarvela?" — segue discussione tra studenti)
-
-#### Schema delle associazioni vocale → colore → immagini
-
-| Vocale | Colore | Immagini associate | Note |
-|---|---|---|---|
-| **A** | **Nera** | "nero vello al corpo delle mosche lucenti che ronzano al di sopra dei crudeli **fetori**, golfi d'ombra" | Analogia "molto ardita" (prof): associata al corpo nero delle mosche e a un odore sgradevole, repellente |
-| **E** | **Bianca** | "candori di vapori e di tende, lance di ghiaccio, brividi di **umbelle** (= chioma del fiore), bianchi re" | Immagini di candore e purezza |
-| **I** | **Rossa** | "porpore, rigurgito di sangue, labbra belle che ridono di collera, di ebrezza penitente" | Sangue, labbra, collera, ebrezza |
-| **U** | **Verde** | "cicli, vibrazioni sacre dei mari viridi, quiete di bestie al pascolo, ampie rughe che alle fronti studiose imprime l'alchimia" | Quiete, natura, studio |
-| **O** | **Blu** | "la suprema **tuba** (= tromba), piena di stridi strani, silenzi attraversati dagli angeli e dai mondi. O, l'omega e il raggio violetto dei suoi occhi" | Dimensione cosmica, trascendente |
-
-> **Commento finale della prof**: "Noi la possiamo afferrare razionalmente questa poesia? Eh, insomma. È tutta basata su aspetti fonetici, musicali e sugli aspetti **sinestetici** della realtà. Sono questi i simboli di cui parlano i poeti maledetti che devono essere decifrati attraverso la poesia."
-
-→ Fitta trama di **sinestesie** con associazioni "fantasiose, immaginifiche".
-
----
-
-## 8. Mappa concettuale complessiva
-
-```mermaid
-flowchart TB
-    subgraph CONTESTO["CONTESTO STORICO-CULTURALE"]
-        SOC["Società borghese\n(progresso, utile, profitto)"]
-        POS["Positivismo\n(fiducia nella ragione e nella scienza)"]
-        NAT["Naturalismo / Verismo"]
-    end
-    
-    subgraph REAZIONE["REAZIONE: SIMBOLISMO / DECADENTISMO"]
-        RIF["Rifiuto del positivismo\ne della società borghese"]
-        IRR["Irrazionalità, intuizione,\nampliamento dei sensi"]
-        SIM["Realtà = trama di simboli\nda decifrare"]
-        ESC["Esclusione, emarginazione\ndel poeta"]
-    end
-    
-    subgraph AUTORI["I POETI MALEDETTI"]
-        BAU["BAUDELAIRE\n• Corrispondenze\n• Caduta dell'aureola\n• L'Albatro"]
-        VER["VERLAINE\n• Musica sopra ogni cosa\n• Arte poetica\n• Rifiuto della rima"]
-        RIM["RIMBAUD\n• Io è un altro\n• Poeta veggente\n• Ladro di fuoco\n• Vocali"]
-    end
-    
-    subgraph FIGURE["FIGURE RETORICHE CHIAVE"]
-        SIN["SINESTESIA\n(figura centrale)"]
-        ANA["ANALOGIA\n(ardita, immaginifica)"]
-        MET["METAFORA\n(allusiva, non logica)"]
-    end
-    
-    SOC --> RIF
-    POS --> RIF
-    NAT --> RIF
-    RIF --> IRR
-    IRR --> SIM
-    SIM --> ESC
-    
-    RIF --> BAU
-    RIF --> VER
-    RIF --> RIM
-    
-    BAU --> SIN
-    RIM --> SIN
-    RIM --> ANA
-    BAU --> MET
-    
-    style CONTESTO fill:#f0e0c0,stroke:#333
-    style REAZIONE fill:#e0c0f0,stroke:#333
-    style AUTORI fill:#c0e0f0,stroke:#333
-    style FIGURE fill:#c0f0c0,stroke:#333
+    SIMBOLISMO_FRANCESE -->|"matrice comune:<br/>realtà simbolica,<br/>sfiducia nella scienza"| DECADENTISMO_ITALIANO
 ```
 
 ---
 
-## 9. Domande emerse in classe (Q&A)
+## 8. Concetti chiave da ricordare per l'esame
 
-| Domanda / Interazione | Risposta della prof |
-|---|---|
-| "Questi versi sono in continuità con il Naturalismo?" (Lorenzo) | "In continuità è la **risposta sbagliata**" — sono in netta discontinuità |
-| "Come si conosce la realtà se non con la ragione?" — "La fede?" | "Ma manco per niente" |
-| "L'edonismo?" | "No, anche se c'è una certa dose di ricerca dell'assoluto" → La risposta è l'**irrazionalità** |
-| "La sinestesia si può spiegare razionalmente?" | No, è una figura **evocativa**, senza nesso causa-effetto |
-| "Verlaine amava le rime?" | "Dice che la rima è la **morte della poesia**" perché ingabbia |
-| "Può ripetere la parte del ladro di fuoco?" | La prof ripete l'analogia Prometeo/poeta (vedi sezione 7.2) |
-
-### Interrogazione del 09/04/26 — Ripasso simbolismo e decadentismo
-
-*(Estratto dalle interrogazioni orali in classe — parte finale della lezione)*
-
-**D: Quali sono i caratteri che accomunano i poeti maledetti?**
-**R** (studente, valutata positivamente dalla prof): I poeti maledetti rientrano nel Decadentismo, corrente che rifiuta la fiducia nella scienza e nello scientismo del Positivismo. In particolare Baudelaire, Verlaine e Rimbaud sono simbolisti francesi. Il Simbolismo sostiene che il significato vero delle cose non è indagabile dalla scienza, ma è ritrovabile tramite **intuizioni, sensazioni e simboli**. Il manifesto del simbolismo è *Art poétique* di Verlaine: la musica deve stare al centro, la letteratura deve «storcere il collo all'eloquenza».
-
-**D: Perché si chiamano «poeti maledetti» (*poètes maudits*)?**
-**R**: Perché sono poeti isolati dalla società, contro il Positivismo. Non solo si sentono isolati, ma rivendicano attivamente questo isolamento — vogliono frequentare i **luoghi malfamati** e dell'**abiezione** per vivere tutta la gamma delle sensazioni possibili. Baudelaire in *Lo Spleen di Parigi* dichiara di essere stufo del Parnaso e ha «perso l'aureola nel fango di Parigi». Attraverso questa immagine: il poeta non è più una divinità ma un uomo comune, la sua arte non è più riconosciuta.
-
-**D: Come si esprime a livello poetico il senso di esclusione del poeta? Che opera di Baudelaire lo esprime al massimo grado?**
-**R**: ***L'albatro*** (1859). La figura del poeta viene paragonata a quella dell'albatro: maestoso in volo (le ali = la genialità), ma goffo e deriso sulla terra. Così il poeta sulla terra viene deriso dagli uomini e non capito.
-
-**D: Quali sono i due autori del Decadentismo italiano e come si distinguono?**
-**R**: Giovanni Pascoli e Gabriele D'Annunzio. Partono dalla stessa matrice (la realtà è conoscibile solo tramite irrazionalità e intuizione; la realtà è misteriosa, elusiva) ma arrivano a esiti molto diversi:
-- *Ideologie*: Pascoli inizialmente socialista (poi nazionalismo); D'Annunzio nazionalista, immagine eroica di sé, egocentrico
-- *Figura del poeta*: Pascoli = **fanciullino** (voce bambina interiore, si meraviglia del quotidiano); D'Annunzio = **vate/esteta** (guida spirituale con capacità sovrumane)
-
-**D: Prima raccolta di Pascoli e suoi temi?**
-**R**: ***Myricae*** (dal latino *myricae* = tamerici, da un verso di Virgilio, *Bucoliche*). Pianta umile che nasce in luoghi sabbiosi → metafora delle piccole cose quotidiane che destano meraviglia agli occhi del fanciullino. Opere chiave: *X Agosto* (morte del padre), *L'assiuolo*.
-
-**D: Di *X Agosto*, struttura e temi principali?**
-**R**: Il giorno di San Lorenzo (10 agosto), le stelle cadenti = pianto del cielo. Una rondine viene uccisa mentre porta cibo alle rondinelle → associata alla figura di Cristo. La morte del padre di Pascoli è il trauma centrale della sua vita.
-
----
-
-## 10. Espressioni e concetti da sapere a memoria
+### Espressioni fondamentali
 
 | Espressione | Autore | Significato |
-|---|---|---|
-| **"Caduta dell'aureola"** | Baudelaire | Il poeta ha perso la sua sacralità nella società moderna — **DA IMPARARE A MEMORIA** (indicazione esplicita della prof) |
-| **"Re dell'azzurro"** | Baudelaire | Metafora per il poeta/albatro libero in volo |
-| **"Viaggiatore alato"** | Baudelaire | Idem — la prof: "le dovete imparare" |
-| **"Principe delle nubi"** | Baudelaire | Idem |
-| **"Esule in terra"** | Baudelaire | Il poeta è un estraneo sulla terra |
-| **"Ali di gigante"** | Baudelaire | L'immaginazione/arte che impedisce di vivere nella dimensione terrena |
-| **"De la musique avant toute chose"** | Verlaine | "La musica sopra ogni cosa" |
-| **"Sol la sfumatura"** | Verlaine | La parola deve suggerire, non delineare — la prof: "scrivetelo" |
-| **"Prendi l'eloquenza e torcile il collo"** | Verlaine | Uccidi l'arte del bel parlare tradizionale |
-| **"Io è un altro"** | Rimbaud | L'identità è caos, non univoca |
-| **"Farsi veggente"** | Rimbaud | Il poeta vede ciò che è negato all'uomo comune |
-| **"Lungo, immenso e ragionato disordine di tutti i sensi"** | Rimbaud | Il metodo per diventare veggente |
-| **"Ladro di fuoco"** | Rimbaud | Analogia con Prometeo: il poeta ruba la verità dal mistero e la porta agli uomini |
+|-------------|--------|-------------|
+| **Caduta dell'aureola** | Baudelaire | Perdita della sacralità del poeta nella modernità |
+| **Re dell'azzurro / Principe delle nubi / Viaggiatore alato** | Baudelaire | Metafore del poeta come essere sublime ma escluso |
+| **Esule in terra** | Baudelaire | Il poeta come estraneo nella società borghese |
+| **De la musique avant toute chose** | Verlaine | La musica sopra ogni cosa — primato del suono |
+| **Sol la sfumatura** | Verlaine | La parola deve suggerire, non definire |
+| **Tutto il resto è letteratura** | Verlaine | Ciò che è codificato nel canone è morto |
+| **Io è un altro** | Rimbaud | L'identità è caos, non è univoca |
+| **Farsi veggente** | Rimbaud | Il poeta deve vedere ciò che è negato all'uomo comune |
+| **Lungo, immenso e ragionato disordine di tutti i sensi** | Rimbaud | Il metodo per accedere alla verità profonda |
+| **Ladro di fuoco** | Rimbaud | Il poeta come Prometeo che porta la verità agli uomini |
+| **Il fanciullino** | Pascoli | La voce interiore innocente che è la vera poesia |
+| **Il vate** | D'Annunzio | Il poeta come profeta e uomo eccezionale |
 
----
+### Figure retoriche centrali
 
-## 11. Glossario
+- **Sinestesia**: fusione di campi sensoriali diversi (olfattivo-tattile, olfattivo-uditivo, olfattivo-visivo) — figura chiave del simbolismo, evocativa e non razionale (cfr. *Corrispondenze*, *Vocali*)
+- **Analogia**: accostamento di immagini senza nesso logico esplicito (cfr. le associazioni di *Vocali*)
+- **Allitterazione, assonanza, consonanza**: figure del suono, centrali nella poetica di Verlaine
 
-| Termine | Definizione (dalla lezione) |
-|---|---|
-| **Fenomeno** | Dal greco *phainomai* = apparire. La realtà fenomenica è "quella che si vede" |
-| **Spleen** | Parola inglese: stato di malinconia, tristezza, noia |
-| **Parnaso** | Monte dell'antica Grecia, sacro alla poesia |
-| **Ambrosia / Nettare degli dei** | Il nutrimento più alto, che si converrebbe a un poeta |
-| **Tolda** | Il ponte scoperto di una nave |
-| **Sinestesia** | Figura retorica che fonde ambiti sensoriali diversi; non è spiegabile razionalmente |
-| **Acrostico** | Componimento in versi (dalla prof: "qualcuno fa la settimana enigmistica, spero") |
-| **Umbelle** | "La chioma del fiore" (definizione data dalla prof durante lettura di *Vocali*) |
-| **Benzoino** | "Una resina profumata" |
-| **Tuba** | "La tromba" (strumento musicale) |
-| **Labor limae** | Espressione latina: le rifiniture, l'elaborazione del testo dal punto di vista stilistico |
-| **Macadam** | Tipo di pavimentazione stradale (contesto: dove cade l'aureola) |
+### Opposizioni fondamentali
 
----
-
-## 12. Lacune e segnalazioni
-
-> ⚠️ **ATTENZIONE**: Questo schema si basa su **UNA SOLA lezione**. I seguenti aspetti risultano **incompleti o assenti** e richiedono integrazione:
-
-### Argomenti non trattati o solo accennati
-- **Decadentismo italiano**: la prof dice che "dal simbolismo prende le mosse il decadentismo italiano" ma **non tratta gli autori italiani** (D'Annunzio, Pascoli, Fogazzaro, etc.)
-- **Lirica *Languore* di Verlaine**: citata come origine del nome "Decadentismo" ma **non analizzata** nel dettaglio (solo i primi versi)
-- **Contesto storico-sociale**: accennato rapidamente, manca un approfondimento sulla crisi di fine secolo
-- **Rapporto con il Romanticismo**: citato come collegamento ma non sviluppato
-- ***I fiori del male***: citata solo *Corrispondenze*, la raccolta merita studio più ampio
-- **Rimbaud — *Una stagione all'inferno* e *Illuminazioni***: non menzionati
-- **Stéphane Mallarmé**: non menzionato (altro grande simbolista francese)
-
-### Riferimenti a Classroom / compiti / verifiche
-- La prof menziona un **test di analisi del testo** (alla quarta ora): "Test di analisi del testo, va bene?"
-- Riferimento a un **tema di italiano** che uno studente chiede — la prof risponde: "Bisogna che tu me lo ricordi la prossima volta"
-- Prossime lezioni: non più lunedì e martedì ("saremo a Bussoleno"), ripresa da **giovedì**
-- La prof chiede: "C'è qualcuno che si offre in italiano?" → possibile interrogazione imminente
-
-### Testi da studiare sul libro
-- ***Corrispondenze*** di Baudelaire — presente sul libro
-- ***L'Albatro*** di Baudelaire — **pagina 35, libro A** (la prof: "provate a fare l'analisi")
-- ***Lettera del Veggente*** di Rimbaud — **pagina 146** circa
-- ***Vocali*** di Rimbaud — presente sul libro (pagina 146 circa)
-- ***L'Impero alla fine della decadenza*** (Verlaine, *Languore*) — uno studente conferma che c'è sul libro
-- ***Arte poetica*** di Verlaine — da verificare sul libro
-
----
-
-> *Schema generato dalla lezione del 12-02-26. Verificare sempre sul libro di testo per i testi integrali e le note critiche.*
+| Positivismo / Naturalismo | Decadentismo / Simbolismo |
+|---------------------------|---------------------------|
+| Ragione, scienza | Irrazionalità, intuizione |
+| Realtà conoscibile, trasparente | Realtà misteriosa, da decifrare |
+| Parola = fotografia del reale | Parola = allusione, sfumatura |
+| Romanzo sperimentale (Zola) | Poesia simbolica, musicalità |
+| Fiducia nel progresso | Senso di finitudine e crisi |
+| Poeta inserito nella società | Poeta escluso, esule, maledetto |

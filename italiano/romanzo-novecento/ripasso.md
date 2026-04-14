@@ -1,82 +1,67 @@
-# Il Romanzo del Novecento — Ripasso veloce
-
-> **Fonte**: Lezione del 09/04/26
+# Il romanzo del Novecento — Ripasso veloce
 
 ---
 
-## 1. Ottocento vs. Novecento
+## Le tre innovazioni rispetto all'Ottocento
 
-| | Ottocento | Novecento |
+**1. Punto di vista soggettivo** — Il narratore onnisciente scompare; la narrazione coincide con la coscienza di un personaggio (es. Zeno). I giudizi sono sempre relativi.
+
+**2. Tempo interiorizzato** — Non più cronologico ma soggettivo: rallenta e accelera secondo la percezione. Influenza decisiva di **Bergson** (tempo come durata). *La coscienza di Zeno* è divisa in nuclei tematici, non capitoli cronologici.
+
+**3. Personaggio in fieri** — Ambiguo, incerto, sfumato, in divenire. Spesso isolato e estraniato dalla società.
+
+```mermaid
+flowchart LR
+    subgraph OTTOCENTO
+        A[Narratore onnisciente]
+        B[Tempo cronologico]
+        C[Personaggio saldo]
+    end
+    subgraph NOVECENTO
+        D[Punto di vista soggettivo]
+        E[Tempo interiorizzato]
+        F[Personaggio in fieri]
+    end
+    A -->|diventa| D
+    B -->|diventa| E
+    C -->|diventa| F
+```
+
+---
+
+## I quattro autori
+
+**Proust** — *Dalla parte di Swann* (1913), ciclo *Alla ricerca del tempo perduto*. Episodio della **Madeleine**: intingendo un dolcetto nel tè, il sapore fa riemergere involontariamente l'intero passato a Combray. È la **memoria involontaria**: scatenata da stimoli sensoriali (gusto, olfatto), non cercata ma spontanea, riporta non solo ricordi ma sensazioni. «L'odore e il sapore perdurano... portando l'immenso edificio del ricordo.» Non è déjà vu.
+
+**Kafka** — *La metamorfosi* (1916). Gregor Samsa si sveglia trasformato in insetto. La vicenda è narrata con **straniamento**: evento surreale in contesto realistico, vissuto come consueto. Significati: rapporto padre-figlio (autobiografico, cfr. *Lettera al padre*), crisi dell'intellettuale (perdita dell'aureola, Baudelaire), **alienazione** dell'uomo moderno (cfr. Marx, *Tempi moderni* di Chaplin). La psicanalisi freudiana è sullo sfondo.
+
+**Joyce** — *Ulisse* (1922). Maestro del **flusso di coscienza**: registrazione dei pensieri nel loro sorgere spontaneo, per libere associazioni, senza punteggiatura né sintassi convenzionale. È una rappresentazione **mimetica** del pensiero, senza filtro del narratore.
+
+**Svevo** — *La coscienza di Zeno* (1923). Romanzo psicologico italiano per eccellenza. Incarna tutte le innovazioni: io narrante = coscienza di Zeno (giudizi relativi), struttura a nuclei tematici (tempo soggettivo), personaggio ambiguo e in divenire. Insieme a Pirandello, massimo esponente del genere in Italia.
+
+---
+
+## Le due tecniche narrative
+
+| | Monologo interiore | Flusso di coscienza |
 |---|---|---|
-| Narratore | Onnisciente | Soggettivo (coincide con personaggio) |
-| Tempo | Oggettivo (orologio) | Soggettivo — **Bergson**: *durata* |
-| Personaggio | Stabile, a tutto tondo | **In fieri** (in divenire), alienato |
+| **Come funziona** | Pensieri in prima persona, come rivolti a un interlocutore | Pensieri nel flusso spontaneo e alogico della mente |
+| **Sintassi** | Mantenuta | Scompare (no punteggiatura) |
+| **Logica** | Presente | Per libere associazioni |
+| **Legame con Freud** | — | Le libere associazioni sono il meccanismo della psicanalisi |
+| **Esempio** | Preambolo, *Coscienza di Zeno* (1923) | *Ulisse* di Joyce (1922) |
 
 ---
 
-## 2. Concetti fondamentali
+## Timeline
 
-- **Bergson**: tempo come *durata* = fluire in cui i momenti si compenetrano (≠ successione lineare)
-- **Personaggio in fieri**: ambiguo, incerto, in divenire → estraniamento, isolamento
-- **Psicanalisi** (Freud): infanzia + rapporto padre-figlio determinanti; libere associazioni → flusso di coscienza
-- **Alienazione** (*alienum* = estraneo): estraneità a se stessi — Marx (operaio) + Chaplin *Tempi moderni*
-
----
-
-## 3. Tecniche narrative
-
-### Monologo interiore
-- Prima persona, come rivolto a un interlocutore
-- Filtro narrativo presente
-- **Esempio**: Preambolo *La coscienza di Zeno* (Svevo, 1923)
-
-### Flusso di coscienza
-- Libere associazioni, alogico, no punteggiatura
-- **No filtro narrativo** — rappresentazione mimetica del pensiero
-- **Esempio**: *Ulisse* (Joyce, 1922)
+```mermaid
+flowchart LR
+    A["**1913**<br/>Proust<br/>*Dalla parte di Swann*"] --> B["**1916**<br/>Kafka<br/>*La metamorfosi*"]
+    B --> C["**1922**<br/>Joyce<br/>*Ulisse*"]
+    C --> D["**1923**<br/>Svevo<br/>*La coscienza di Zeno*"]
+```
 
 ---
 
-## 4. Proust — Madeleine
-
-- *Dalla parte di Swann* (1913) — ciclo *Alla ricerca del tempo perduto*
-- **Memoria involontaria**: gusto della madeleine → intera infanzia a Combray
-- Stimolo: olfatto/gusto; riemergono **sensazioni**, non solo immagini
-- ≠ déjà vu
-- Frase chiave: *«l'odore e il sapore lungo il tempo ancora perdurano... portando... l'immenso edificio del ricordo»*
-
----
-
-## 5. Kafka — *La metamorfosi* (1916)
-
-- Incipit: *«Un mattino [...] Gregor Samsa si trovò trasformato in un enorme insetto»*
-- **Straniamento**: evento surreale → tono completamente neutro; Gregor vuole fare un dormitino
-- Stanza descritta realisticamente → massimo spaesamento
-- Temi: isolamento, alienazione intellettuale, rapporto padre-figlio (→ *Lettera al padre*)
-
----
-
-## 6. Joyce — *Ulisse* (1922)
-
-- Flusso di coscienza: pensieri senza punteggiatura, libere associazioni
-- Esempio: *«...se pensa di perché prima non ha mai fatto una cosa del genere chiedere la colazione a letto...»*
-
----
-
-## 7. Autori italiani (introduzione)
-
-- **Italo Svevo** — *La coscienza di Zeno* (1923): nuclei tematici, monologo interiore
-- **Luigi Pirandello** — *Il fu Mattia Pascal*, *Uno nessuno e centomila*: romanzo psicologico
-
----
-
-## 8. Checklist rapida
-
-- [ ] Narratore onnisciente → soggettivo
-- [ ] Bergson + durata
-- [ ] Personaggio in fieri
-- [ ] Memoria involontaria ≠ déjà vu
-- [ ] Straniamento (Kafka)
-- [ ] Alienazione (Marx + Chaplin)
-- [ ] Monologo interiore (Svevo) vs. flusso di coscienza (Joyce)
-- [ ] Libere associazioni = base psicanalisi + flusso di coscienza
+*Fonti: lezione del 09/04/2026*

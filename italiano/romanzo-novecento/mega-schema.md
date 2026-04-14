@@ -1,489 +1,271 @@
-# Il Romanzo del Novecento — Mega-Schema di Studio
-
-> **Fonti**: Lezione del 09/04/26 (intera seconda parte)
-> **Docente**: appunti dalla Prof
-> **Scopo**: preparazione esame di Italiano
-
-> [!NOTE] Argomento nuovo
-> Questo argomento è stato introdotto il 09/04/26. La prof ha annunciato il programma rimanente: *«ci mancano il romanzo del '900, Svevo, Pirandello, e poi chiudiamo con la triade Saba, Ungaretti e Montale»*.
+# Il romanzo del Novecento
 
 ---
 
-## 1. Inquadramento generale
+## Coordinate essenziali
 
-### 1.1 Il romanzo del Novecento vs. il romanzo dell'Ottocento
-
-La prof introduce il romanzo del Novecento mettendolo a confronto con il romanzo ottocentesco tradizionale.
-
-**Il romanzo ottocentesco** (es. *I Promessi Sposi* di Manzoni):
-
-| Caratteristica | Descrizione |
-|---|---|
-| **Narratore** | **Onnisciente**: conosce vicende, pensieri dei personaggi, interviene a commentare; non si identifica con nessun personaggio |
-| **Tempo** | **Oggettivo**: sviluppo cronologico lineare, misurato come l'orologio; non dipende dall'opinione del lettore |
-| **Personaggio** | **A tutto tondo**: coerenza interna, solidità psicologica, inserito in un quadro cronologico certo |
-
-> **Osservazione della prof**: «Quando pensiamo al romanzo ottocentesco, al romanzo storico, in questo tipo di romanzo l'autore domina la narrazione. Il narratore è onnisciente: conosce le vicende, gli accadimenti, i pensieri dei personaggi, interviene a commentare gli eventi e non si identifica con nessuno.»
-
-### 1.2 Le novità del romanzo del Novecento
-
-Il romanzo del Novecento porta tre cambiamenti fondamentali:
-
-1. **Punto di vista**: il narratore non è più onnisciente, ma il campo visivo si restringe fino a coincidere con quello di un personaggio
-2. **Tempo**: da oggettivo diventa **soggettivo** — il tempo interiore, della percezione
-3. **Personaggio**: non più granitico e coerente, ma ambiguo, incerto, **in fieri** (in divenire)
+| Elemento | Dettaglio |
+|----------|-----------|
+| **Contesto** | Primo Novecento europeo, crisi delle certezze positiviste |
+| **Influenze filosofiche** | Henri Bergson (tempo come durata), Sigmund Freud (psicanalisi) |
+| **Autori europei chiave** | Marcel Proust (Francia), Franz Kafka (lingua tedesca), James Joyce (Inghilterra) |
+| **Autori italiani chiave** | Luigi Pirandello, Italo Svevo |
+| **Genere dominante in Italia** | Romanzo psicologico |
+| **Opere di riferimento** | *Alla ricerca del tempo perduto* (Proust), *La metamorfosi* (Kafka), *Ulisse* (Joyce), *La coscienza di Zeno* (Svevo), *Il fu Mattia Pascal* e *Uno, nessuno e centomila* (Pirandello) |
 
 ---
 
-## 2. Le tre grandi innovazioni
+## 1. Il passaggio dall'Ottocento al Novecento: che cosa cambia nel romanzo
 
-### 2.1 Il punto di vista: dal narratore onnisciente al narratore inattendibile
+### 1.1 Il romanzo ottocentesco come punto di partenza
 
-Il **campo visivo** del narratore si restringe fino a coincidere con quello di **un personaggio**.
+Per capire la rivoluzione del romanzo novecentesco bisogna partire da ciò che lo precede. Il romanzo dell'Ottocento — il cui esempio italiano per eccellenza sono *I Promessi Sposi* di Manzoni — si fonda su alcuni pilastri molto solidi. In primo luogo, l'autore **domina la narrazione**: il narratore è **onnisciente**, conosce le vicende, gli accadimenti e persino i pensieri dei personaggi; interviene a commentare gli eventi e non si identifica con nessuno di loro. È una voce che sta sopra la storia e la governa dall'alto.
 
-> **Esempio della prof** (*La coscienza di Zeno*): «L'io narrante è Zeno, ma per meglio dire è la sua **coscienza**. Quando Zeno esprime dei giudizi, quei giudizi sono sempre relativi, perché dipendono dal suo punto di vista, dal modo in cui gli eventi vengono filtrati dalla sua coscienza.»
+In secondo luogo, la narrazione si sviluppa secondo un **tempo cronologico lineare**, percepito come una realtà stabile e immutabile: le cose accadono una dopo l'altra, e il lettore può seguirle come si segue il cammino delle lancette dell'orologio.
 
-**Conseguenza**: i giudizi del narratore sono **sempre relativi**, mai assoluti — dipendono dalla prospettiva soggettiva del personaggio.
+Infine, il personaggio ottocentesco è **saldo e granitico** — un personaggio "a tutto tondo" che possiede una coerenza interna chiara e definita.
 
-**Forme narrative** tipiche del romanzo novecentesco:
-- Novella
-- Autobiografia
-- Memorie
-- Diario
+### 1.2 Le tre grandi innovazioni del Novecento
 
-### 2.2 Il tempo soggettivo
+Il romanzo del Novecento sovverte tutti e tre questi pilastri. I cambiamenti possono essere sintetizzati in tre punti fondamentali.
 
-> **Distinzione fondamentale della prof**:
+**Primo: muta il punto di vista della narrazione.** Il campo visivo del narratore si restringe fino a coincidere con quello di un singolo personaggio. Non c'è più un narratore-Dio che vede tutto: la storia viene filtrata dalla coscienza soggettiva di chi la vive. Ne *La coscienza di Zeno*, ad esempio, l'io narrante è Zeno — o meglio la sua **coscienza**. I giudizi che Zeno esprime non sono mai assoluti ma sempre **relativi**, perché dipendono dal suo punto di vista e dal modo in cui gli eventi vengono filtrati dalla sua interiorità. Questa soggettivizzazione del racconto si esprime spesso nella forma della **confessione autobiografica**, delle **memorie** o della **novella**, che ripercorrono il vissuto del personaggio.
 
-| Tipo di tempo | Caratteristica | Esempio |
-|---|---|---|
-| **Oggettivo** | Misurato dall'orologio, indipendente dalla nostra opinione | L'ora di scuola |
-| **Soggettivo** | Dipende dalla percezione, dai desideri, dalle aspettative | «Ho perso la cognizione del tempo» |
+**Secondo: muta la concezione del tempo.** I protagonisti non sono più inseriti in un quadro cronologico certo. Il tempo non è più una serie di momenti successivi ma viene **interiorizzato** e diventa **soggettivo**.
 
-> **Spiegazione della prof**: «Il tempo, a seconda dei nostri desideri, delle nostre aspettative, della nostra percezione, rallenta oppure accelera. I cinque minuti in cui aspettiamo qualcuno che non vediamo l'ora di vedere sono lunghi quanto quelli che mancano all'intervallo? No.»
+> [!note] Dalla lezione
+> La professoressa ha proposto una serie di esempi illuminanti per far capire il concetto di tempo soggettivo: un'ora di lezione a scuola non dura quanto un'ora del sabato sera quando ci stiamo divertendo. I cinque minuti in cui aspettiamo qualcuno che non vediamo l'ora di vedere non sono lunghi cinque minuti quanto quelli che mancano all'intervallo. Il tempo, a seconda dei nostri desideri, delle nostre aspettative, della nostra percezione, **rallenta oppure accelera**. Questa dimensione temporale — il tempo soggettivo — è quella che domina il romanzo del Novecento.
 
-Il **tempo soggettivo** domina il romanzo del Novecento. I protagonisti non sono più inseriti in un quadro cronologico certo: il tempo viene **interiorizzato** e diventa **soggettivo**.
+Ne *La coscienza di Zeno* questa nuova concezione del tempo si riflette nella struttura stessa del romanzo, che non segue un ordine cronologico ma è suddiviso in **nuclei tematici**: *Il fumo*, *La morte di mio padre*, *Storia del mio matrimonio*, *Un'impresa commerciale*... Il tempo si compenetra; c'è una dialettica tra presente, passato e futuro che si intrecciano continuamente.
 
-**Riferimento filosofico**: **Henri Bergson**, filosofo francese, teorizza il tempo come **durata** (non come successione ordinata di momenti, ma come un fluire in cui i momenti si compenetrano). È il **tempo dell'interiorità**.
+Questi autori risentono profondamente del pensiero di **Henri Bergson**, il filosofo francese che teorizza il tempo come **durata**: non una successione ordinata di momenti separati, ma un fluire in cui i momenti si compenetrano l'uno nell'altro. È il **tempo dell'interiorità**, che ha un modo diverso di essere rispetto a quello dell'esteriorità e dell'orologio.
 
-> **Esempio** (*La coscienza di Zeno*): il romanzo è suddiviso in **nuclei tematici** (non capitoli cronologici): «Il fumo», «La morte di mio padre», «Storia del mio matrimonio», «Un'impresa commerciale». C'è una dialettica di piani temporali — presente, passato, futuro — che si compenetrano.
-
-### 2.3 Il personaggio in fieri
-
-Il personaggio del Novecento non è saldo e granitico come quello dell'Ottocento. È:
-
-- **Ambiguo**
-- **Incerto**
-- **Complesso**
-- **Sfumato**
-- **In fieri** (= in divenire, in sviluppo — locuzione latina usata anche in italiano corrente)
-
-Di conseguenza, si sente in una posizione di **estraniamento**, **isolamento** e **solitudine** rispetto alla società e al mondo.
-
-> **Nota della prof**: «Il personaggio si sentirà in una posizione di estraniamento, di isolamento e solitudine. Non sempre, ma spesso sarà così.»
-
----
-
-## 3. Il contesto culturale: Psicanalisi e Modernismo europeo
-
-### 3.1 L'influenza della psicanalisi
-
-Il romanzo del Novecento risente fortemente della nascita della **psicanalisi freudiana**.
-
-> **Freud** (medico austriaco): i rapporti con i genitori e le figure di riferimento influenzano lo sviluppo psichico dell'individuo anche in età adulta. Gli anni dell'**infanzia** sono fondamentali per il futuro dell'individuo.
-
-**Conseguenza letteraria**: il **tema padre-figlio** è uno dei temi fondamentali del romanzo del Novecento.
-
-**Tecnica psicoanalitica**: le **libere associazioni** — un pensiero ne richiama un altro in una catena spontanea — diventano il modello del **flusso di coscienza** come tecnica narrativa.
-
-### 3.2 Il Modernismo europeo
-
-```mermaid
-mindmap
-  root((Modernismo europeo))
-    Francia
-      Marcel Proust
-      Alla ricerca del tempo perduto
-      Teoria della memoria involontaria
-    Lingua tedesca
-      Franz Kafka
-      La metamorfosi 1916
-      Il processo
-      Il castello
-    Letteratura inglese
-      James Joyce
-      Ulisse 1922
-      Dubliners
-    Italia
-      Italo Svevo
-      La coscienza di Zeno 1923
-      Luigi Pirandello
-      Il fu Mattia Pascal
-      Uno nessuno e centomila
-```
-
-> **Nota della prof**: «In Italia i due maggiori autori sono sicuramente Luigi Pirandello e Italo Svevo con il genere del romanzo psicologico.»
-
----
-
-## 4. Marcel Proust e la memoria involontaria
-
-### 4.1 Profilo
-
-| Dato | Dettaglio |
-|---|---|
-| **Nome** | Marcel Proust |
-| **Nazionalità** | Francese |
-| **Opera principale** | *Alla ricerca del tempo perduto* (ciclo di romanzi) |
-| **Giudizio della prof** | «Per alcuni il più grande scrittore della modernità» |
-
-### 4.2 L'episodio della Madeleine
-
-L'episodio più celebre della letteratura mondiale a proposito del **tempo interiorizzato** si trova in *Dalla parte di Swann* (1913), primo volume del ciclo *Alla ricerca del tempo perduto*.
-
-> [!IMPORTANT] Concetto chiave: la memoria involontaria
-> **Memoria involontaria** = processo in cui un elemento sensoriale (soprattutto olfattivo) fa riemergere involontariamente non solo il ricordo di un momento del passato, ma le **sensazioni intere** vissute in quel momento.
->
-> - «Accade e basta» — non è volontaria
-> - Stimolo principale: l'**olfatto**
-> - Non va confusa col **déjà vu** (sensazione di aver già vissuto qualcosa)
-
-**Trama dell'episodio**: il protagonista, ormai adulto, intinge una madeleine (dolcetto francese a forma di conchiglia) in una tazza di tè. Il **sapore** della madeleine inzuppata fa riemergere intero il suo passato d'infanzia a **Combray**, quando la zia Léonie gli offriva la madeleine accompagnata dal tè. Riemergono non solo i ricordi visivi, ma la città intera, le strade, il giardino, le passeggiate.
-
-### 4.3 Testo integrale — Episodio della Madeleine
-
-*(Da: Marcel Proust, Dalla parte di Swann, 1913 — letto in classe il 09/04/26)*
-
-> «Già da molti anni, di Combray tutto ciò che non era il teatro e il dramma del coricarmi non esisteva più per me, quando in una giornata d'inverno, rientrando a casa, mia madre vedendomi infreddolito mi propose di prendere, contrariamente alla mia abitudine, un po' di tè. Rifiutai dapprima e poi, non so perché, mutai d'avviso. Ella mandò a prendere una di quelle focacce pienotte e corte chiamate maddalenine, che paiono aver avuto come stampo la valva scanalata di una conchiglia.
->
-> Ed ecco, macchinalmente, oppresso dalla giornata grigia, dalla previsione di un triste domani, portai alle labbra un cucchiaino di tè in cui avevo inzuppato un pezzo di maddalena. Ma nel momento stesso che quel sorso misto alle briciole di focaccia toccò il mio palato, trasalii, attento a quanto avveniva in me di straordinario. Un piacere delizioso m'aveva invaso, isolato, senza nozione della sua causa. M'aveva reso indifferenti le vicissitudini della vita, le sue calamità, la sua brevità illusoria, nel modo stesso che agisce l'amore, colmandomi d'un'essenza preziosa; o meglio questa essenza non era in me, era me stesso. Avevo cessato di sentirmi mediocre, contingente, mortale. Donde m'era potuta venire quella gioia violenta? Sentivo che era legata al sapore del tè e della focaccia, ma la sorpassava incommensurabilmente, non doveva essere della stessa natura. Donde veniva? Che significava? Dove afferrarla?
->
-> Bevo un secondo sorso in cui non trovo nulla di più che nel primo, un terzo dal quale ricevo meno che dal secondo. È tempo che io mi fermi, la virtù della bevanda sembra diminuire. È chiaro che la verità che cerco non è in essa, ma in me. Essa l'ha risvegliata, ma non la conosce.
->
-> Fino a quando ripete questa azione e ad un tratto il ricordo mi è apparso. Quel sapore era quello del pezzetto di maddalena che la domenica mattina a Combray, giacché quel giorno non uscivo prima della messa, quando andavo a salutarla nella sua camera, la zia Léonie mi offriva dopo averlo bagnato nel suo infuso di tè o di tiglio.
->
-> La vista della focaccia, prima d'assaggiarla, non m'aveva ricordato niente; forse perché, avendone viste spesso, senza mangiarle, sui vassoi dei pasticceri, la loro immagine aveva lasciato quei giorni di Combray per unirsi ad altri giorni più recenti. Forse perché di quei ricordi così a lungo abbandonati fuori dalla memoria niente sopravviveva, tutto s'era disgregato. Le forme, anche quella della conchiglietta di pasta, così grassamente sensuale sotto la sua veste a pieghe severa e devota, erano abolite o sonnolente, avevano perduto la forza d'espansione che avrebbe loro permesso di raggiungere la coscienza.
->
-> Ma quando niente sussiste d'un passato antico, dopo la morte degli esseri, dopo la distruzione delle cose, più tenue ma più vividi, più immateriali, più persistenti, più fedeli, **l'odore e il sapore lungo il tempo ancora perdurano, come anime a ricordare, ad attendere, a sperare, sopra la rovina di tutto il resto, portando sulla loro stilla quasi impalpabile, senza vacillare, l'immenso edificio del ricordo**.
->
-> E appena ebbi riconosciuto il sapore del pezzetto di madeleine inzuppato nel tiglio che mi dava la zia, subito la vecchia casa grigia sulla strada nella quale era la sua stanza si adattò come uno scenario di teatro al piccolo padiglione sul giardino, dietro di essa, costruito per i miei genitori. E con la casa la città, la piazza dove mi mandavano prima di colazione, le vie dove andavo in escursione dalla mattina alla sera e con tutti i tempi, le passeggiate che si facevano se il tempo era bello.
->
-> E come in quel gioco in cui i giapponesi si divertono a immergere in una scodella di porcellana piena d'acqua dei pezzetti di carta fino allora indistinti che appena immersi si distendono, prendono contorno, si colorano, si differenziano, diventano fiori, case, figure umane consistenti e riconoscibili; così ora tutti i fiori del nostro giardino e quelli del parco di Swann e le ninfee della Vivonne e la buona gente del villaggio e le loro casette e la chiesa e tutta Combray e i suoi dintorni, tutto quello che vien prendendo forma e solidità è sorto, città e giardini, dalla mia tazza di tè.»
-
-### 4.4 Analisi dell'episodio
-
-| Elemento | Analisi |
-|---|---|
-| **Stimolo sensoriale** | Il gusto della madeleine inzuppata nel tè (non la vista — la vista non aveva evocato nulla) |
-| **Meccanismo** | Memoria **involontaria**: accade da sola, non cercata volontariamente |
-| **Effetto immediato** | Smarrimento, piacere intenso, senso di non essere più «mediocre, contingente, mortale» |
-| **Processo di ricerca** | Il narratore ripete l'azione, cerca di «afferrare» la sensazione; la verità non è nel tè, ma in lui |
-| **Risultato** | Riemergono intere le sensazioni di Combray — non solo immagini, ma odori, luoghi, persone |
-| **Metafora finale** | I **pezzetti di carta giapponesi** che si distendono nell'acqua → il ricordo si espande da una piccola sensazione |
-
-> **Commento della prof sulla descrizione della madeleine**: «Guardate Proust quanto sia maestro delle descrizioni e dei dettagli più anche apparentemente insignificanti. Guardate come descrive un biscotto: "conchiglietta di pasta grassamente sensuale sotto la sua veste a pieghe severa e devota".»
-
-> **Piani temporali che si intersecano**: «vedete i piani del tempo che si intersecano, si sovrappongono» — il passato di Combray e il presente si fondono nella sensazione.
-
----
-
-## 5. Franz Kafka e la *Metamorfosi*
-
-### 5.1 Profilo
-
-| Dato | Dettaglio |
-|---|---|
-| **Nome** | Franz Kafka |
-| **Nazionalità** | Ceca (lingua tedesca) |
-| **Opera principale analizzata** | *La metamorfosi* (1916) |
-| **Altra opera citata** | *Lettera al padre* |
-
-### 5.2 *La Metamorfosi* (1916)
-
-#### Trama
-
-Il protagonista **Gregor Samsa**, commesso viaggiatore che sostiene economicamente la famiglia, una mattina si sveglia **trasformato in un enorme insetto**. La famiglia reagisce con spavento, disgusto, poi progressivo isolamento. Gregor muore (il padre gli tira una mela che gli rimane conficcata nella schiena).
-
-> **Sintesi dello studente in classe**: «Parla di questo signore che vive con la famiglia attraverso il suo lavoro. Un giorno, la mattina, si sveglia trasformato in un enorme scarafaggio. La famiglia inizialmente è spaventata e disgustata e lo rinchiude nella sua stanza. La sorella cerca comunque di mantenerlo. Muore con il padre che gli tira una mela.»
-
-#### Lo straniamento come tecnica
-
-La metamorfosi viene raccontata **come se fosse un evento consueto**. Non c'è terrore o sconvolgimento nel protagonista: pensa di «fare un altro dormitino».
-
-> [!IMPORTANT] Tecnica narrativa centrale
-> **Straniamento** (ostranenie): presentare come **consueto** un evento fuori dal comune, e viceversa. L'effetto è lo **spaesamento** del lettore.
-
-> **Domanda della prof**: «Come vive Gregor Samsa la metamorfosi?»
-> **Risposta corretta**: La vive con **indifferenza**, quasi come un evento normale.
-
-#### Testo integrale — Incipit de *La Metamorfosi*
-
-*(Da: Franz Kafka, La metamorfosi, 1916 — letto in classe il 09/04/26)*
-
-> «Un mattino, al risveglio da sogni inquieti, Gregor Samsa si trovò trasformato in un enorme insetto. Sdraiato nel letto sulla schiena dura come una corazza, bastava che alzasse un po' la testa per vedersi il ventre convesso, bruniccio, spartito da solchi arcuati. In cima al ventre la coperta, sul punto di scivolare per terra, si reggeva a malapena. Davanti agli occhi gli si agitavano le gambe, molto più numerose di prima ma di una sottigliezza desolante.
->
-> Che cosa mi è capitato? pensò. Non stava sognando. La sua camera, una normale camera d'abitazione, anche se un po' piccola, gli appariva in luce quieta fra le quattro ben note pareti. Sopra al tavolo, sul quale era sparpagliato un campionario di telerie sballato da un pacco (Samsa faceva il commesso viaggiatore), stava appesa un'illustrazione che aveva ritagliata qualche giorno prima da un giornale montandola poi in una graziosa cornice dorata. Rappresentava una signora con un cappello e un boa di pelliccia che, seduta ben dritta, sollevava verso gli astanti un grosso manicotto nascondendovi dentro l'intero avambraccio.»
-
-> *Gregor girò gli occhi verso la finestra e al vedere il brutto tempo (si udivano le gocce di pioggia battere sulla lamiera del davanzale) si sentì invadere dalla malinconia. "E se cercassi di dimenticare queste stravaganze facendo un altro dormitino?" pensò, ma non poté mandare ad effetto il suo proposito.*
->
-> *Era abituato a dormire sul fianco destro e nello stato attuale gli era impossibile assumere tale posizione. Per quanta forza mettesse nel girarsi sul fianco, ogni volta ripiombava indietro. Tentò almeno cento volte, chiudendo gli occhi per non vedere quelle gambette divincolarsi, e a un certo punto smise perché un dolore leggero, sordo, mai provato prima, cominciò a pungergli il fianco.*
-
-#### Analisi dell'incipit
-
-| Elemento | Analisi |
-|---|---|
-| **Apertura** | La metamorfosi è dichiarata subito, come fatto compiuto — nessuna gradualità |
-| **Tono** | Completamente piatto, neutro, privo di drammaticità |
-| **Reazione di Gregor** | Cerca di fare un altro dormitino → **straniamento totale** |
-| **Descrizione della stanza** | **Fortemente realistica** — campionario di telerie, cornice dorata, illustrazione ritagliata |
-| **Effetto** | Accostamento surreale (metamorfosi) + contesto realistico → massimo straniamento |
-
-> **Osservazione della prof**: «Questa descrizione della stanza è fortemente realistica. L'incipit è segnato da una metamorfosi quasi fiabesca; poi troviamo subito la descrizione degli ambienti assolutamente realistica. Qual è l'effetto? Proprio quello dello straniamento, che produce spaesamento nel lettore perché quel fatto così surreale viene inserito in un contesto realistico.»
-
-### 5.3 I temi della *Metamorfosi*
-
-La trasformazione di Gregor in insetto rappresenta:
-
-1. **L'isolamento e la diversità**: il personaggio estraniato rispetto al mondo — tema dominante del romanzo del Novecento
-2. **Dimensione autobiografica**: Kafka ha un rapporto conflittuale con il padre (→ *Lettera al padre*); si sente escluso dalla famiglia per la sua vocazione letteraria
-3. **Dimensione universale**: il disagio dell'**intellettuale** che ha perduto il suo ruolo nella società
-4. **L'alienazione dell'uomo moderno**
-
-### 5.4 L'alienazione
-
-> [!IMPORTANT] Concetto chiave: alienazione
-> **Alienazione** (dal latino *alienum* = estraneo): estraneità a se stessi.
-
-**Marx**: l'operaio si aliena nel lavoro ripetitivo e monotono, perde la sua umanità, non è più in contatto con se stesso.
-
-> **Esempio della prof**: il personaggio di **Charlie Chaplin** in *Tempi moderni* (1936) che continua ad avvitare bulloni anche una volta uscito dalla fabbrica — simbolo dell'alienazione dovuta al lavoro.
-
-> **Collegamento con Baudelaire**: l'alienazione dell'intellettuale si ricollega alla **perdita dell'aureola** (Baudelaire, *Lo spleen di Parigi*) — il poeta non è più riconosciuto come guida nella società moderna.
-
-### 5.5 *Lettera al padre*
-
-Opera autobiografica in cui Kafka si rivolge al padre con accuse dure, tra cui quella di aver ostacolato la sua unica aspirazione: diventare scrittore. Il padre non riconosce la sua identità in nome delle convenzioni sociali e della logica del profitto.
-
----
-
-## 6. James Joyce e il flusso di coscienza
-
-### 6.1 Profilo
-
-| Dato | Dettaglio |
-|---|---|
-| **Nome** | James Joyce |
-| **Nazionalità** | Irlandese |
-| **Opera principale** | *Ulisse* (1922) |
-| **Tecnica** | Flusso di coscienza |
-
-### 6.2 Le due tecniche narrative principali
-
-#### Monologo interiore
-
-> **Definizione**: presentazione **in prima persona** dei pensieri del personaggio come se fossero rivolti a un interlocutore. Il personaggio parla, come se si rivolgesse a qualcuno, ma in realtà sta parlando a se stesso.
-
-**Esempio** da studiare: **Preambolo de *La coscienza di Zeno*** (Svevo, 1923).
-
-#### Flusso di coscienza
-
-> **Definizione**: registrazione dei pensieri del personaggio secondo un flusso **spontaneo, alogico**, secondo un principio di disordine che è quello con cui i pensieri si presentano alla mente.
-
-**Caratteristiche**:
-- Assenza o riduzione della **punteggiatura**
-- Violazione delle **regole convenzionali della grammatica**
-- **Libere associazioni**: un pensiero ne richiama un altro in catena
-- **Rappresentazione mimetica del pensiero** senza che il narratore funga da filtro su logica e sintassi
-
-> **Collegamento con la psicanalisi**: le **libere associazioni** sono la base della tecnica psicoanalitica freudiana — da qui il legame tra flusso di coscienza e psicanalisi.
-
-> [!IMPORTANT] Definizione da memorizzare
-> **Flusso di coscienza** = rappresentazione **mimetica** del pensiero, **senza che il narratore funga da filtro** sul piano della logica e della sintassi.
-
-### 6.3 Testo esemplificativo — *Ulisse* (Joyce, 1922)
-
-*(Esempio letto in classe il 09/04/26)*
-
-> «...se pensa di perché prima non ha mai fatto una cosa del genere chiedere la colazione a letto con due uova da quando eravamo all'albergo City Arms quando faceva finta di star male con la voce da sofferente e faceva il pascià per rendersi interessante eccetera eccetera»
-
-> **Analisi della prof**: «Qui vediamo la registrazione di pensieri colti nel loro sorgere, nel loro dinamico scorrere attraverso libere associazioni di idee. Quella del flusso di coscienza è una rappresentazione mimetica del pensiero senza che il narratore funga da filtro sul piano della logica e della sintassi.»
-
-### 6.4 Confronto: monologo interiore vs. flusso di coscienza
-
-| Caratteristica | Monologo interiore | Flusso di coscienza |
-|---|---|---|
-| **Struttura** | Prima persona, come rivolto a un interlocutore | Registrazione spontanea, senza struttura |
-| **Logica** | Mantiene una logica di base | Alogico, per libere associazioni |
-| **Grammatica** | Rispetta le regole di base | Le viola (assenza di punteggiatura, ecc.) |
-| **Filtro narrativo** | Presente | Assente |
-| **Esempi** | Preambolo de *La coscienza di Zeno* | *Ulisse* di Joyce |
-
----
-
-## 7. Italo Svevo e *La coscienza di Zeno*
-
-### 7.1 Profilo (introduttivo)
-
-| Dato | Dettaglio |
-|---|---|
-| **Nome** | Italo Svevo |
-| **Opera principale** | *La coscienza di Zeno* (1923) |
-| **Genere** | Romanzo psicologico |
-| **Tecnica** | Monologo interiore / autobiografia fittizia |
-
-### 7.2 Struttura del romanzo
-
-*La coscienza di Zeno* è suddivisa in **nuclei tematici** (non cronologici):
-
-1. Prefazione
-2. Preambolo
-3. «Il fumo»
-4. «La morte di mio padre»
-5. «Storia del mio matrimonio»
-6. «La moglie e l'amante»
-7. «Un'impresa commerciale»
-8. «Psico-analisi»
-
-> **Nota della prof**: «Il tempo si compenetra; c'è una dialettica di piani temporali che sono il presente, il passato e il futuro.»
-
----
-
-## 8. Mappa concettuale del Romanzo del Novecento
-
-```mermaid
-mindmap
-  root((Romanzo del<br/>Novecento))
-    Innovazioni narrative
-      Punto di vista soggettivo
-        Narratore non onnisciente
-        Si identifica con un personaggio
-        Giudizi sempre relativi
-      Tempo soggettivo
-        Bergson: tempo come durata
-        Memoria involontaria Proust
-        Nuclei tematici non cronologici
-      Personaggio in fieri
-        Ambiguo e incerto
-        In divenire
-        Isolato e alienato
-    Tecniche
-      Monologo interiore
-        Prima persona
-        Come rivolto a un interlocutore
-        Esempio: La coscienza di Zeno
-      Flusso di coscienza
-        Libere associazioni
-        Alogico
-        No filtro narrativo
-        Esempio: Joyce, Ulisse
-    Contesto culturale
-      Psicanalisi freudiana
-        Rapporto padre-figlio
-        Libere associazioni
-        Infanzia determinante
-      Filosofia di Bergson
-        Tempo come durata
-        Non successione ordinata
-        Fluire dei momenti
-    Autori europei
-      Proust - Francia
-      Kafka - Area tedesca
-      Joyce - Irlanda/inglese
-      Svevo - Italia
-      Pirandello - Italia
-```
-
----
-
-## 9. Confronto: romanzo Ottocento vs. Novecento
+**Terzo: muta il personaggio.** Il protagonista del romanzo novecentesco non è più saldo e granitico come quello dell'Ottocento, ma è **ambiguo, incerto, complesso e sfumato**. È un personaggio **in fieri** — espressione latina che significa "in divenire" — che si muove in una molteplicità di piani psicologici. E proprio perché è in divenire, perché è incerto e ambiguo, il personaggio novecentesco si trova spesso in una posizione di **estraniamento**, **isolamento** e **solitudine** rispetto al mondo in cui vive.
 
 ```mermaid
 flowchart LR
-    subgraph OTT["Romanzo dell'Ottocento"]
-        O1["Narratore onnisciente"]
-        O2["Tempo oggettivo<br/>(cronologico)"]
-        O3["Personaggio a tutto tondo<br/>(coerente, stabile)"]
-        O4["Trama lineare"]
-    end
-    subgraph NOV["Romanzo del Novecento"]
-        N1["Punto di vista soggettivo<br/>(coincide con un personaggio)"]
-        N2["Tempo soggettivo<br/>(interiore, Bergson)"]
-        N3["Personaggio in fieri<br/>(ambiguo, in divenire)"]
-        N4["Nuclei tematici,<br/>piani temporali sovrapposti"]
-    end
-    OTT -->|"Innovazioni"| NOV
+    A["**ROMANZO DELL'OTTOCENTO**"] --- B["Narratore onnisciente"]
+    A --- C["Tempo cronologico lineare"]
+    A --- D["Personaggio saldo, a tutto tondo"]
 
-    style OTT fill:#7f8c8d,stroke:#5d6d7e,color:#fff
-    style NOV fill:#2980b9,stroke:#1f618d,color:#fff
+    E["**ROMANZO DEL NOVECENTO**"] --- F["Punto di vista soggettivo<br/>(coincide col personaggio)"]
+    E --- G["Tempo interiorizzato<br/>e soggettivo"]
+    E --- H["Personaggio in fieri:<br/>ambiguo, incerto, sfumato"]
 ```
 
 ---
 
-## 10. Il tema dell'alienazione
+## 2. Marcel Proust e la memoria involontaria
+
+### 2.1 L'episodio della Madeleine: un capolavoro della letteratura mondiale
+
+L'episodio più celebre della letteratura mondiale a proposito del **tempo interiorizzato** appartiene a Marcel Proust, considerato da molti il più grande scrittore della modernità. Si tratta dell'episodio della **Madeleine**, contenuto nel romanzo *Dalla parte di Swann* (1913), primo volume del ciclo *Alla ricerca del tempo perduto* — un titolo che, come si nota subito, ha a che fare direttamente con il tema del tempo.
+
+Il protagonista Swann, ormai adulto, si trova in una giornata d'inverno a intingere una Madeleine — un dolcetto francese a forma di conchiglia — in una tazza di tè. Nel momento in cui il sorso misto alle briciole tocca il suo palato, viene sorpreso da una sensazione straordinaria: un piacere delizioso lo invade, lo isola, lo rende indifferente alle vicissitudini della vita. Ripete l'azione, e quel sapore riporta alla luce, fa riemergere **intero il suo passato** — le estati a Combray, la zia Léonie che gli offriva proprio la Madeleine accompagnata dal tè.
+
+Questo processo si chiama **memoria involontaria**: non è un ricordo cercato o voluto, ma qualcosa che **accade e basta**, scatenato da uno stimolo sensoriale — in questo caso il gusto, ma spesso è l'olfatto quello che stimola di più questo meccanismo. La memoria involontaria non fa riemergere soltanto il ricordo di un momento del passato, ma le **sensazioni** stesse: si rivivono le emozioni come se fossero presenti.
+
+> [!note] Dalla lezione
+> La professoressa ha tenuto a precisare che la memoria involontaria **non va confusa con il déjà vu**. «È la stessa cosa del déjà vu?» è la domanda che le fanno sempre. La risposta è no: sono due fenomeni completamente diversi, anche se la confusione viene naturale.
+
+### 2.2 Il testo: *Dalla parte di Swann* (1913)
+
+> Già da molti anni, di Combray tutto ciò che non era il teatro e il dramma del coricarmi non esisteva più per me, quando in una giornata d'inverno, rientrando a casa, mia madre vedendomi infreddolito mi propose di prendere, contrariamente alla mia abitudine, un po' di tè. Rifiutai dapprima e poi, non so perché, mutai d'avviso. Ella mandò a prendere una di quelle focacce pienotte e corte chiamate maddalenine, che paiono aver avuto come stampo la valva scanalata di una conchiglia.
+>
+> Ed ecco, macchinalmente, oppresso dalla giornata grigia, dalla previsione di un triste domani, portai alle labbra un cucchiaino di tè in cui avevo inzuppato un pezzo di maddalena. Ma nel momento stesso che quel sorso misto alle briciole di focaccia toccò il mio palato, trasalii, attento a quanto avveniva in me di straordinario. Un piacere delizioso m'aveva invaso, isolato, senza nozione della sua causa. M'aveva reso indifferenti le vicissitudini della vita, le sue calamità, la sua brevità illusoria, nel modo stesso che agisce l'amore, colmandomi d'un'essenza preziosa; o meglio questa essenza non era in me, era me stesso. Avevo cessato di sentirmi mediocre, contingente, mortale. Donde m'era potuta venire quella gioia violenta? Sentivo che era legata al sapore del tè e della focaccia...
+>
+> Ma la sorpassava incommensurabilmente, non doveva essere della stessa natura. Donde veniva? Che significava? Dove afferrarla? [...] Bevo un secondo sorso in cui non trovo nulla di più che nel primo, un terzo dal quale ricevo meno che dal secondo. È tempo che io mi fermi, la virtù della bevanda sembra diminuire. È chiaro che la verità che cerco non è in essa, ma in me. Essa l'ha risvegliata, è la sensazione che ha risvegliata questa verità, ma non la conosce.
+
+Il protagonista capisce che la verità non è nella bevanda, ma **dentro di lui** — la sensazione del gusto ha risvegliato qualcosa che giaceva sepolto nella memoria, ma non ne è l'origine.
+
+> Fino a quando [...] ad un tratto il ricordo mi è apparso. Quel sapore era quello del pezzetto di Madeleine che la domenica mattina a Combray, giacché quel giorno non uscivo prima della messa, quando andavo a salutarla nella sua camera, la zia Léonie mi offriva dopo averlo bagnato nel suo infuso di tè o di tiglio.
+>
+> La vista della focaccia, prima d'assaggiarla, non m'aveva ricordato niente; forse perché, avendone viste spesso, senza mangiarle, sui vassoi dei pasticceri, la loro immagine aveva lasciato quei giorni di Combray per unirsi ad altri giorni più recenti.
+
+Ecco un punto fondamentale: la **vista** della Madeleine non aveva risvegliato nulla; è stato il **gusto** a farlo. L'immagine visiva si era mescolata ad altri ricordi più recenti, perdendo il suo legame con Combray. Ma il sapore, più tenue e più fedele, era rimasto intatto nel tempo.
+
+> Ma quando niente sussiste d'un passato antico, dopo la morte degli esseri, dopo la distruzione delle cose, più tenue ma più vividi, più immateriali, più persistenti, più fedeli, **l'odore e il sapore lungo il tempo ancora perdurano**, come anime a ricordare, ad attendere, a sperare, sopra la rovina di tutto il resto, portando sulla loro stilla quasi impalpabile, senza vacillare, **l'immenso edificio del ricordo**.
+
+Questa è una delle frasi più celebri della letteratura mondiale. Proust ci dice che quando tutto è crollato — gli esseri sono morti, le cose distrutte — sono l'odore e il sapore a sopravvivere, portando sulle spalle, senza vacillare, l'intero edificio del ricordo.
+
+> E appena ebbi riconosciuto il sapore del pezzetto di Madeleine inzuppato nel tiglio che mi dava la zia [...] subito la vecchia casa grigia sulla strada nella quale era la sua stanza si adattò come uno scenario di teatro al piccolo padiglione sul giardino [...] E con la casa la città, la piazza dove mi mandavano prima di colazione, le vie dove andavo in escursione dalla mattina alla sera e con tutti i tempi, le passeggiate che si facevano se il tempo era bello.
+>
+> E come in quel gioco in cui i giapponesi si divertono a immergere in una scodella di porcellana piena d'acqua dei pezzetti di carta fino allora indistinti che appena immersi si distendono, prendono contorno, si colorano, si differenziano, diventano fiori, case, figure umane consistenti e riconoscibili; così ora tutti i fiori del nostro giardino e quelli del parco di Swann e le ninfee della Vivonne e la buona gente del villaggio e le loro casette e la chiesa e **tutta Combray e i suoi dintorni, tutto quello che vien prendendo forma e solidità è sorto, città e giardini, dalla mia tazza di tè**.
+
+L'immagine conclusiva è folgorante: come quei pezzetti di carta giapponesi che a contatto con l'acqua si aprono e diventano fiori, case, figure riconoscibili, così dalla tazza di tè emerge un intero mondo — la casa, la città, le strade, i giardini, le persone, l'intera Combray. Un universo intero ricostruito a partire da un sorso di tè e un dolcetto.
+
+> [!note] Dalla lezione
+> La professoressa ha sottolineato la maestria descrittiva di Proust, capace di trasformare in poesia anche i dettagli più apparentemente insignificanti: «Guardate come descrive un biscotto: "conchiglietta di pasta grassamente sensuale sotto la sua veste a pieghe severa e devota". Scusate, eh, però...»
+
+### 2.3 I piani del tempo che si sovrappongono
+
+L'episodio della Madeleine illustra perfettamente come nel romanzo del Novecento i **piani del tempo si intersecano e si sovrappongono**. La vista della focaccia rimanda ad "altri giorni più recenti", il sapore riporta a Combray, il presente si fonde con il passato. Non c'è una sequenza temporale ordinata: il tempo si compenetra, esattamente come teorizzava Bergson con il concetto di **durata**.
+
+---
+
+## 3. Franz Kafka e *La metamorfosi*
+
+### 3.1 L'estraniamento come cifra narrativa
+
+Un caso esemplare dell'**isolamento** e dell'**estraniamento** del personaggio novecentesco rispetto al mondo è quello di *La metamorfosi* di Kafka (1916). Il protagonista è **Gregor Samsa**, un commesso viaggiatore che una mattina si sveglia trasformato in un enorme insetto.
+
+Ciò che è particolarmente suggestivo nel racconto è il modo in cui questa metamorfosi viene narrata: come se fosse un evento **consueto**, ordinario. Questa tecnica si chiama **straniamento** (che gli studenti avevano già incontrato nel programma): consiste nel presentare come consueto un evento fuori dal comune, e viceversa. Il racconto di Kafka si basa interamente su questo effetto.
+
+### 3.2 Il testo: l'incipit de *La metamorfosi* (1916)
+
+> Un mattino, al risveglio da sogni inquieti, Gregor Samsa si trovò trasformato in un enorme insetto. Sdraiato nel letto sulla schiena dura come una corazza, bastava che alzasse un po' la testa per vedersi il ventre convesso, bruniccio, spartito da solchi arcuati. In cima al ventre la coperta, sul punto di scivolare per terra, si reggeva a malapena. Davanti agli occhi gli si agitavano le gambe, molto più numerose di prima ma di una sottigliezza desolante.
+>
+> *Che cosa mi è capitato?* pensò. Non stava sognando. La sua camera, una normale camera d'abitazione, anche se un po' piccola, gli appariva in luce quieta fra le quattro ben note pareti. Sopra al tavolo, sul quale era sparpagliato un campionario di telerie sballato da un pacco (Samsa faceva il commesso viaggiatore), stava appesa un'illustrazione che aveva ritagliata qualche giorno prima da un giornale montandola poi in una graziosa cornice dorata. Rappresentava una signora con un cappello e un boa di pelliccia che, seduta ben dritta, sollevava verso gli astanti un grosso manicotto nascondendovi dentro l'intero avambraccio.
+
+Il brano è costruito su un contrasto fortissimo. L'incipit è segnato da una metamorfosi che ha a che fare con il genere quasi **fiabesco** — un uomo che si trasforma in insetto. Ma immediatamente dopo troviamo una descrizione degli ambienti che è **fortemente realistica**: la camera, il campionario di telerie, l'illustrazione ritagliata dal giornale con la cornice dorata. L'accostamento tra il fatto surreale e il contesto realistico produce esattamente l'effetto dello **straniamento**, che genera spaesamento nel lettore.
+
+E come vive Gregor la trasformazione? Non con terrore o sconvolgimento, ma con una normalità sconcertante:
+
+> Gregor girò gli occhi verso la finestra e al vedere il brutto tempo [...] si sentì invadere dalla malinconia. *«E se cercassi di dimenticare queste stravaganze facendo un altro dormitino?»* pensò.
+
+Pensa di fare **un altro dormitino**. Si è trasformato in un insetto e la sua prima reazione è tentare di dormire sul fianco destro — cosa che non riesce a fare perché nello stato attuale gli è impossibile assumere quella posizione. È lo straniamento portato alle estreme conseguenze.
+
+### 3.3 Il significato: isolamento, diversità, alienazione
+
+La metamorfosi di Gregor Samsa ha molteplici livelli di significato.
+
+**Piano personale e biografico.** Nella vicenda ci sono riflessi autobiografici importanti. Gregor è colui che si addossa la responsabilità economica della famiglia, e nel momento in cui non può più lavorare, la famiglia — anziché comprenderlo — reagisce con **disgusto, diffidenza e disperazione**, escludendolo progressivamente. Questo rispecchia il rapporto conflittuale che Kafka stesso ebbe con il padre: in *Lettera al padre* (un testo che la professoressa consiglia di leggere, definendolo "bellissimo e anche molto crudo, per non dire crudele"), lo scrittore si rivolge al genitore con una serie di accuse dure, tra cui quella di aver ostacolato la sua unica vera aspirazione — quella di fare lo **scrittore**. In questo Kafka vede un mancato riconoscimento della sua identità individuale, sacrificata in nome delle convenzioni sociali e della logica del profitto.
+
+> [!note] Dalla lezione
+> La professoressa ha sottolineato che il rapporto padre-figlio è uno dei **temi fondamentali** del romanzo del Novecento, e che questo risente direttamente della nascita della **psicanalisi freudiana**. Freud sostiene che sono i rapporti con i genitori e le figure di riferimento a influenzare lo sviluppo psichico dell'individuo, anche in età adulta: gli anni dell'infanzia sono quelli che determinano il futuro della persona.
+
+**Piano universale.** La metamorfosi rappresenta il disagio dell'**intellettuale che ha perduto il suo ruolo** — l'intellettuale che non viene più riconosciuto come tale, che non è più una guida all'interno della società. Questo si rifà a quanto già diceva Baudelaire sulla **perdita dell'aureola**: il poeta che perde il suo nimbo sacro nel fango di Parigi.
+
+In senso ancora più ampio, la metamorfosi rappresenta l'**alienazione** dell'uomo nella società moderna. Alienazione deriva dal latino *alienum*, che significa **estraneo**: è l'estraneità a se stessi, il non essere più in contatto con la propria umanità, con i propri desideri, con la propria ragione.
+
+> [!note] Dalla lezione
+> La professoressa ha collegato il concetto di alienazione a Marx (per cui l'operaio perde le sue caratteristiche umane, inserito in un lavoro ripetitivo e monotono) e ha mostrato alla classe la celebre scena di *Tempi moderni* di Charlie Chaplin, dove il protagonista continua ad avvitare bulloni anche dopo essere uscito dalla fabbrica — simbolo perfetto dell'alienazione prodotta dal lavoro industriale.
 
 ```mermaid
 flowchart TD
-    MARX["Marx:<br/>Alienazione dell'operaio<br/>(lavoro ripetitivo, monotono)"]
-    BAUD["Baudelaire:<br/>Perdita dell'aureola<br/>(poeta non riconosciuto)"]
-    KAFKA["Kafka:<br/>Gregor Samsa = insetto<br/>(isolamento, diversità)"]
-    CHAPLIN["Chaplin - Tempi moderni:<br/>Uomo-macchina<br/>(bulloni anche fuori dalla fabbrica)"]
-    ALIN["ALIENAZIONE:<br/>Estraneità a se stessi<br/>(dal latino alienum = estraneo)"]
-
-    MARX --> ALIN
-    BAUD --> ALIN
-    KAFKA --> ALIN
-    CHAPLIN --> ALIN
-
-    style ALIN fill:#e74c3c,stroke:#c0392b,color:#fff,stroke-width:3px
+    A["La metamorfosi di<br/>Gregor Samsa"] --> B["Piano personale"]
+    A --> C["Piano universale"]
+    
+    B --> D["Rapporto conflittuale<br/>padre-figlio<br/>(riflesso autobiografico)"]
+    B --> E["Esclusione dalla famiglia<br/>perché non più abile<br/>al lavoro"]
+    D --> F["*Lettera al padre*:<br/>accusa di aver ostacolato<br/>la vocazione letteraria"]
+    
+    C --> G["L'intellettuale che ha<br/>perduto il suo ruolo<br/>(cfr. Baudelaire, perdita dell'aureola)"]
+    C --> H["L'**alienazione** dell'uomo<br/>nella società moderna<br/>(cfr. Marx, Chaplin)"]
 ```
 
 ---
 
-## 11. Concetti chiave da ricordare all'esame
+## 4. Le tecniche narrative: monologo interiore e flusso di coscienza
 
-> [!IMPORTANT] Checklist dei concetti imprescindibili
+### 4.1 Il monologo interiore
 
-- [ ] **Narratore onnisciente** (Ottocento) vs. **punto di vista soggettivo** (Novecento)
-- [ ] **Tempo oggettivo** (orologio) vs. **tempo soggettivo** (Bergson: tempo come *durata*)
-- [ ] **Personaggio in fieri** = in divenire (locuzione latina)
-- [ ] **Memoria involontaria** (Proust): stimolo sensoriale → riemersione di sensazioni passate; non confondere col déjà vu
-- [ ] Testo da conoscere: **episodio della Madeleine** (*Dalla parte di Swann*, Proust, 1913)
-- [ ] **Straniamento** (Kafka): presentare come consueto l'evento straordinario → spaesamento del lettore
-- [ ] Testo da conoscere: **incipit de *La metamorfosi*** (Kafka, 1916)
-- [ ] *La metamorfosi* = isolamento dell'intellettuale + **alienazione** dell'uomo moderno
-- [ ] **Alienazione** (dal latino *alienum* = estraneo): Marx (operaio) + Chaplin *Tempi moderni*
-- [ ] **Monologo interiore** = prima persona, come rivolto a un interlocutore (es. *La coscienza di Zeno*)
-- [ ] **Flusso di coscienza** = rappresentazione mimetica del pensiero, senza filtro narrativo (es. *Ulisse*)
-- [ ] **Libere associazioni** = base sia del flusso di coscienza che della psicanalisi freudiana
-- [ ] **Bergson**: tempo come *durata* — fluire in cui i momenti si compenetrano (≠ successione lineare)
-- [ ] Testo da studiare: **Preambolo de *La coscienza di Zeno*** (monologo interiore) + incipit *Ulisse* (flusso di coscienza)
-- [ ] Da studiare sul libro: **Modernismo europeo** — romanzo e poesia — p. 496 e seguenti
+Le due principali tecniche narrative del romanzo del Novecento sono il **monologo interiore** e il **flusso di coscienza**.
 
----
+Con la tecnica del **monologo interiore** si intende la presentazione in prima persona dei pensieri del personaggio **come se fossero rivolti a un interlocutore**. Il personaggio parla, come se si rivolgesse a qualcuno, ma in realtà sta parlando a se stesso. Il monologo interiore mantiene ancora una struttura sintattica e logica riconoscibile.
 
-## 12. Assegnazioni della prof (09/04/26)
+Un esempio di monologo interiore è il **Preambolo de *La coscienza di Zeno*** (1923).
 
-> **Da studiare per la lezione di lunedì** (11-12):
+### 4.2 Il flusso di coscienza (stream of consciousness)
 
-| Cosa | Dove |
-|---|---|
-| **Modernismo europeo** — romanzo e poesia | Libro, p. 496 e seguenti |
-| **Kafka** — incipit *La metamorfosi* + *Lettera al padre* | Libro (antologia) |
-| **Joyce** — incipit *Ulisse* | Libro (antologia) |
-| **Proust** — episodio della Madeleine (incipit) | Libro (antologia) + testo sopra |
-| **Virginia Woolf** | Libro (antologia) |
+Il **flusso di coscienza** è qualcosa di più radicale. Consiste nella registrazione dei pensieri del personaggio secondo un **flusso spontaneo, alogico**, secondo un principio di disordine che è quello con cui i pensieri si presentano alla mente.
+
+Nel flusso di coscienza vengono meno le regole convenzionali della grammatica e il senso della **punteggiatura**. Perché? Perché la nostra psiche, nel concepire i pensieri, non procede con ordine ma **per libere associazioni**: un pensiero ne richiama un altro, in una sorta di catena in cui ogni elemento si aggancia al successivo non per logica, ma per associazione spontanea.
+
+Questo legame con le libere associazioni non è casuale: le libere associazioni sono proprio il meccanismo su cui si fonda la **psicanalisi** freudiana. La tecnica narrativa del flusso di coscienza ha dunque un debito diretto con la psicanalisi.
+
+L'esempio per eccellenza è l'**Ulisse** di James Joyce (1922). Ecco un frammento:
+
+> ...se pensa di perché prima non ha mai fatto una cosa del genere chiedere la colazione a letto con due uova da quando eravamo all'albergo City Arms quando faceva finta di star male con la voce da sofferente e faceva il pascià per rendersi interessante...
+
+In questo brano si vede la registrazione di pensieri colti nel loro sorgere, nel loro dinamico scorrere attraverso libere associazioni di idee. La punteggiatura scompare, la sintassi si disgrega, perché il flusso di coscienza è una **rappresentazione mimetica del pensiero** — mimetica nel senso che imita il pensiero così come effettivamente si manifesta nella mente — **senza che il narratore funga da filtro** sul piano della logica e della sintassi.
+
+| Tecnica | Definizione | Caratteristiche | Esempio |
+|---------|------------|-----------------|---------|
+| **Monologo interiore** | Pensieri del personaggio in prima persona, come se rivolti a un interlocutore | Mantiene la struttura sintattica; il personaggio "parla a se stesso" | Preambolo de *La coscienza di Zeno* (Svevo, 1923) |
+| **Flusso di coscienza** | Registrazione dei pensieri secondo il flusso spontaneo e alogico della mente | Scompare la punteggiatura; si procede per libere associazioni; rappresentazione mimetica del pensiero | *Ulisse* (Joyce, 1922) |
 
 ---
 
-## 13. Lacune e materiale da approfondire
+## 5. James Joyce e l'*Ulisse*
 
-> [!NOTE] Argomento appena iniziato — le prossime lezioni approfondiranno
+Joyce è il maestro del flusso di coscienza nella letteratura inglese. Il suo romanzo *Ulisse* (1922) rappresenta la messa in pratica più radicale di questa tecnica: il pensiero dei personaggi viene trascritto così come emerge nella mente, senza filtri narrativi, senza ordine logico, senza punteggiatura. Il risultato è una prosa che simula il funzionamento stesso della coscienza umana, con i suoi salti, le sue associazioni improvvise, i suoi ritorni e le sue deviazioni.
 
-| Argomento | Stato |
-|---|---|
-| **Italo Svevo** — vita, poetica, *La coscienza di Zeno* (analisi completa) | Da trattare in classe |
-| **Luigi Pirandello** — vita, poetica, *Il fu Mattia Pascal*, *Uno nessuno e centomila* | Da trattare in classe |
-| **Virginia Woolf** — tecnica del flusso di coscienza | Assegnata su libro |
-| **Triade lirica**: Saba, Ungaretti, Montale | Da trattare in classe |
-| Proust — approfondimento su *Alla ricerca del tempo perduto* | Libro |
-| Kafka — *Il processo*, *Il castello* | Lettura consigliata |
+---
+
+## 6. Italo Svevo e *La coscienza di Zeno*
+
+### 6.1 Un romanzo-paradigma del Novecento
+
+*La coscienza di Zeno* (1923) è il romanzo più importante di Italo Svevo e rappresenta una delle espressioni più compiute del romanzo novecentesco in Italia. Nel corso della lezione è stato usato ripetutamente come **esempio paradigmatico** delle innovazioni del Novecento.
+
+**Il punto di vista ristretto.** L'io narrante è Zeno, o meglio la sua **coscienza**. I giudizi che esprime sono sempre relativi, filtrati dalla sua soggettività. Il lettore non dispone mai di una verità "oggettiva": tutto passa attraverso il prisma deformante della coscienza del protagonista.
+
+**Il tempo soggettivo.** Il romanzo non segue un ordine cronologico ma è organizzato per **nuclei tematici** — *Il fumo*, *La morte di mio padre*, *Storia del mio matrimonio*, *Un'impresa commerciale* — in cui presente, passato e futuro si compenetrano e si intrecciano.
+
+**La forma autobiografica.** Il racconto assume la forma di memorie che ripercorrono il vissuto del personaggio, una delle forme tipiche del romanzo novecentesco.
+
+### 6.2 La collocazione nel panorama italiano
+
+Insieme a **Luigi Pirandello** (*Il fu Mattia Pascal*, *Uno, nessuno e centomila*), Svevo è il massimo esponente del **romanzo psicologico** in Italia. Entrambi gli autori sono interessati all'esplorazione dell'interiorità del personaggio, alla frammentazione dell'identità, alla crisi delle certezze.
+
+---
+
+## 7. Quadro riassuntivo: il romanzo del Novecento
+
+```mermaid
+mindmap
+  root((**Il romanzo del Novecento**))
+    **Innovazioni**
+      Punto di vista soggettivo
+      Tempo interiorizzato
+        Bergson: durata
+      Personaggio in fieri
+        Ambiguo, incerto
+        Isolato, estraniato
+    **Influenze culturali**
+      Psicanalisi di Freud
+        Rapporto padre-figlio
+        Libere associazioni
+      Filosofia di Bergson
+        Tempo come durata
+      Baudelaire
+        Perdita dell aureola
+    **Tecniche narrative**
+      Monologo interiore
+        Svevo, Preambolo
+      Flusso di coscienza
+        Joyce, Ulisse
+    **Autori**
+      Proust
+        Memoria involontaria
+        Episodio della Madeleine
+      Kafka
+        Straniamento
+        Alienazione
+        La metamorfosi
+      Joyce
+        Flusso di coscienza
+        Ulisse
+      Svevo
+        La coscienza di Zeno
+        Romanzo psicologico
+      Pirandello
+        Il fu Mattia Pascal
+        Uno nessuno e centomila
+```
+
+---
+
+## 8. Date e opere di riferimento
+
+| Anno | Opera / Evento |
+|------|---------------|
+| **1913** | Marcel Proust, *Dalla parte di Swann* (primo volume di *Alla ricerca del tempo perduto*) |
+| **1916** | Franz Kafka, *La metamorfosi* |
+| **1922** | James Joyce, *Ulisse* |
+| **1923** | Italo Svevo, *La coscienza di Zeno* |
+
+---
+
+*Fonti: lezione del 09/04/2026 — Lingua e letteratura italiana*

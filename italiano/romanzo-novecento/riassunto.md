@@ -1,125 +1,68 @@
-# Il Romanzo del Novecento — Riassunto
-
-> **Fonti**: Lezione del 09/04/26
-> **Scopo**: preparazione esame di Italiano
+# Il romanzo del Novecento — Riassunto
 
 ---
 
-## 1. Innovazioni rispetto all'Ottocento
+## 1. Dall'Ottocento al Novecento: le tre innovazioni
 
-| Aspetto | Ottocento | Novecento |
-|---|---|---|
-| **Narratore** | Onnisciente (sa tutto, commenta) | Punto di vista soggettivo (coincide con un personaggio) |
-| **Tempo** | Oggettivo, cronologico (come l'orologio) | Soggettivo, interiore (Bergson: *durata*) |
-| **Personaggio** | A tutto tondo, stabile, coerente | *In fieri* (in divenire), ambiguo, isolato |
-| **Struttura** | Trama lineare | Nuclei tematici, piani temporali sovrapposti |
+Il romanzo ottocentesco (modello: *I Promessi Sposi* di Manzoni) si regge su un narratore **onnisciente** che domina la narrazione, un **tempo cronologico lineare** e personaggi **saldi e coerenti**. Il romanzo del Novecento sovverte tutti e tre questi pilastri.
 
----
+**Il punto di vista si restringe** fino a coincidere con quello di un singolo personaggio. Ne *La coscienza di Zeno* l'io narrante è la coscienza di Zeno: i suoi giudizi sono sempre **relativi**, filtrati dalla sua soggettività. Non esiste più una verità oggettiva nel racconto.
 
-## 2. Il tempo soggettivo e Bergson
+**Il tempo diventa soggettivo.** Non è più la successione ordinata dell'orologio, ma il tempo dell'interiorità, che rallenta o accelera a seconda della percezione. *La coscienza di Zeno* non segue l'ordine cronologico ma è diviso in **nuclei tematici** (*Il fumo*, *La morte di mio padre*, ecc.) in cui passato, presente e futuro si compenetrano. Questi autori risentono del pensiero di **Bergson**, che teorizza il tempo come **durata**: un fluire in cui i momenti non si succedono ma si compenetrano.
 
-**Henri Bergson** (filosofo francese): il tempo non è una successione ordinata di momenti, ma una **durata** in cui i momenti si compenetrano. È il **tempo dell'interiorità**.
-
-> «Il tempo, a seconda dei nostri desideri, delle nostre aspettative, della nostra percezione, rallenta oppure accelera.» — Prof
-
-Il **tempo soggettivo** domina il romanzo del Novecento. I protagonisti non sono inseriti in un quadro cronologico certo.
+**Il personaggio è in fieri** — in divenire. Non è più il protagonista a tutto tondo dell'Ottocento, ma una figura **ambigua, incerta, sfumata**, che si muove su molteplici piani psicologici e che spesso vive una condizione di **estraniamento**, **isolamento** e **solitudine**.
 
 ---
 
-## 3. Il personaggio in fieri
+## 2. Proust: la memoria involontaria
 
-Il personaggio del Novecento è: **ambiguo, incerto, complesso, sfumato, in divenire**.
-Si sente in **estraniamento, isolamento e solitudine** rispetto al mondo.
+L'episodio più celebre del tempo interiorizzato è la **Madeleine** di Proust, nel romanzo *Dalla parte di Swann* (1913), parte di *Alla ricerca del tempo perduto*. Il protagonista Swann, intingendo una Madeleine (dolcetto a forma di conchiglia) in una tazza di tè, è invaso da una sensazione straordinaria: il sapore fa riemergere intero il suo passato a **Combray**, quando la zia Léonie gli offriva lo stesso dolcetto col tè.
 
-**Influenza della psicanalisi freudiana**:
-- I rapporti con i genitori determinano lo sviluppo psichico
-- Il **tema padre-figlio** è centrale nel romanzo del Novecento
-- Le **libere associazioni** (base della psicanalisi) diventano modello del flusso di coscienza
+Questo meccanismo è la **memoria involontaria**: non è un ricordo cercato ma qualcosa che accade spontaneamente, scatenato da uno stimolo sensoriale (gusto, olfatto). Non riporta solo il ricordo ma le **sensazioni** stesse del passato. La vista della focaccia non aveva evocato nulla; è stato il **sapore** a farlo, perché — come scrive Proust — «l'odore e il sapore lungo il tempo ancora perdurano, come anime a ricordare [...] portando sulla loro stilla quasi impalpabile, senza vacillare, l'immenso edificio del ricordo». Dalla tazza di tè emerge un intero mondo: la casa, la città, i giardini, le persone, tutta Combray.
 
----
-
-## 4. Autori europei (Modernismo)
-
-| Autore | Paese | Opera chiave |
-|---|---|---|
-| **Marcel Proust** | Francia | *Alla ricerca del tempo perduto* (ciclo, 1913–1927) |
-| **Franz Kafka** | Lingua tedesca | *La metamorfosi* (1916) |
-| **James Joyce** | Irlanda/inglese | *Ulisse* (1922) |
-| **Italo Svevo** | Italia | *La coscienza di Zeno* (1923) |
-| **Luigi Pirandello** | Italia | *Il fu Mattia Pascal*, *Uno nessuno e centomila* |
+> [!note] Dalla lezione
+> Memoria involontaria **non è** déjà vu: sono fenomeni diversi, anche se la confusione è frequente.
 
 ---
 
-## 5. Proust — La memoria involontaria
+## 3. Kafka: *La metamorfosi* e l'alienazione
 
-**Memoria involontaria**: un elemento sensoriale (soprattutto l'olfatto/gusto) fa riemergere non solo un ricordo, ma le **sensazioni intere** del passato. Accade spontaneamente, non è cercata.
+*La metamorfosi* (1916) racconta di **Gregor Samsa**, un commesso viaggiatore che una mattina si sveglia trasformato in un enorme insetto. Il dato più significativo è **come** viene narrata la vicenda: la metamorfosi è presentata come un evento **consueto**, attraverso la tecnica dello **straniamento**. La descrizione dell'ambiente è fortemente realistica (la camera, il campionario di telerie), e Gregor reagisce con normalità sconcertante — pensa di fare "un altro dormitino".
 
-> ≠ déjà vu (sensazione di aver già vissuto qualcosa)
+La metamorfosi ha tre livelli di significato. Sul **piano personale**, riflette il rapporto conflittuale di Kafka con il padre (approfondito in *Lettera al padre*): Gregor mantiene economicamente la famiglia, che lo esclude non appena non può più lavorare. Kafka vide nel padre un rifiuto della sua vocazione di scrittore in nome delle convenzioni sociali e della logica del profitto. Il rapporto padre-figlio è un **tema centrale** del romanzo novecentesco, direttamente legato alla **psicanalisi** freudiana (gli anni dell'infanzia determinano il futuro dell'individuo).
 
-**Episodio della Madeleine** (*Dalla parte di Swann*, 1913):
-- Il protagonista intinge la madeleine nel tè
-- Il sapore fa riemergere l'intera infanzia a Combray (zia Léonie, giardino, strade, chiesa)
-- Riemergono sensazioni, non solo immagini visive
+Sul **piano universale**, la metamorfosi rappresenta la crisi dell'**intellettuale** che ha perduto il suo ruolo (collegamento con la **perdita dell'aureola** di Baudelaire) e più in generale l'**alienazione** dell'uomo nella società moderna — l'estraneità a se stessi, il non essere più in contatto con la propria umanità.
 
-**Frase chiave**: *«l'odore e il sapore lungo il tempo ancora perdurano, come anime a ricordare, ad attendere, a sperare, sopra la rovina di tutto il resto, portando sulla loro stilla quasi impalpabile, senza vacillare, l'immenso edificio del ricordo»*
-
-**Metafora finale**: i pezzetti di carta giapponesi nell'acqua che si distendono in fiori, case, figure umane → il ricordo si espande da una piccola sensazione.
+> [!note] Dalla lezione
+> Simbolo dell'alienazione: la scena di *Tempi moderni* di Charlie Chaplin, in cui il protagonista continua ad avvitare bulloni anche fuori dalla fabbrica.
 
 ---
 
-## 6. Kafka — *La Metamorfosi* (1916)
+## 4. Le tecniche narrative
 
-**Trama**: Gregor Samsa si sveglia trasformato in un enorme insetto. La famiglia lo isola progressivamente; muore.
+Il **monologo interiore** presenta i pensieri del personaggio in prima persona, come se fossero rivolti a un interlocutore, mantenendo una struttura sintattica riconoscibile. Esempio: il Preambolo de *La coscienza di Zeno* (1923).
 
-**Tecnica**: **Straniamento** = presentare come *consueto* un evento straordinario. Gregor reagisce cercando di fare un altro dormitino — nessun terrore.
-
-**Effetto**: accostamento surreale (metamorfosi) + descrizione realistica della stanza → spaesamento del lettore.
-
-**Incipit**: *«Un mattino, al risveglio da sogni inquieti, Gregor Samsa si trovò trasformato in un enorme insetto.»*
-
-**Temi**:
-1. **Isolamento e diversità** del personaggio
-2. **Autobiografia**: Kafka escluso dalla famiglia per la vocazione letteraria (→ *Lettera al padre*)
-3. **Alienazione** dell'intellettuale nella società moderna
-
-**Alienazione** (dal latino *alienum* = estraneo): estraneità a se stessi. Marx la teorizza per l'operaio; Chaplin la mostra in *Tempi moderni* (l'uomo che avvita bulloni anche fuori dalla fabbrica).
+Il **flusso di coscienza** è più radicale: registra i pensieri secondo il flusso spontaneo e alogico della mente, eliminando punteggiatura e sintassi convenzionale. I pensieri procedono **per libere associazioni** — un pensiero ne richiama un altro in una catena non logica. Le libere associazioni sono lo stesso meccanismo su cui si fonda la **psicanalisi**. Il flusso di coscienza è una **rappresentazione mimetica del pensiero** senza che il narratore funga da filtro. Esempio chiave: l'*Ulisse* di **James Joyce** (1922).
 
 ---
 
-## 7. Joyce — Il flusso di coscienza
+## 5. Joyce e Svevo
 
-**Flusso di coscienza** = rappresentazione **mimetica** del pensiero, **senza filtro narrativo** su logica e sintassi. Procede per **libere associazioni**.
+**Joyce** con l'*Ulisse* (1922) è il maestro del flusso di coscienza: il pensiero dei personaggi viene trascritto senza filtri, senza ordine logico, senza punteggiatura.
 
-**Esempio dall'*Ulisse***: *«...se pensa di perché prima non ha mai fatto una cosa del genere chiedere la colazione a letto con due uova da quando eravamo all'albergo City Arms...»* — assenza di punteggiatura, pensieri che si incatenano.
-
-### Monologo interiore vs. flusso di coscienza
-
-| | Monologo interiore | Flusso di coscienza |
-|---|---|---|
-| **Struttura** | Prima persona, come rivolto a interlocutore | Spontaneo, alogico |
-| **Filtro narrativo** | Presente | Assente |
-| **Grammatica** | Rispettata | Violata |
-| **Esempio** | Preambolo *La coscienza di Zeno* | *Ulisse* di Joyce |
+**Svevo** con *La coscienza di Zeno* (1923), insieme a **Pirandello** (*Il fu Mattia Pascal*, *Uno, nessuno e centomila*), è il massimo rappresentante del **romanzo psicologico** italiano. Il suo romanzo incarna tutte le innovazioni del Novecento: punto di vista soggettivo, tempo non cronologico, personaggio ambiguo e in divenire.
 
 ---
 
-## 8. Da studiare sul libro
+## Date di riferimento
 
-- **Modernismo europeo** — romanzo e poesia — p. 496 e seguenti
-- Kafka: incipit *La metamorfosi* + *Lettera al padre*
-- Joyce: incipit *Ulisse*
-- Proust: episodio della Madeleine
-- Virginia Woolf (antologia)
+| Anno | Opera |
+|------|-------|
+| **1913** | Proust, *Dalla parte di Swann* |
+| **1916** | Kafka, *La metamorfosi* |
+| **1922** | Joyce, *Ulisse* |
+| **1923** | Svevo, *La coscienza di Zeno* |
 
 ---
 
-## 9. Checklist
-
-- [ ] Narratore soggettivo vs. onnisciente
-- [ ] **Bergson**: tempo come *durata*
-- [ ] **Personaggio in fieri** = in divenire
-- [ ] **Memoria involontaria** (Proust): stimolo sensoriale → sensazioni del passato ≠ déjà vu
-- [ ] **Straniamento** (Kafka): consueto = straordinario
-- [ ] **Alienazione** = estraneità a se stessi (*alienum*)
-- [ ] **Monologo interiore** = prima persona, filtro presente (*La coscienza di Zeno*)
-- [ ] **Flusso di coscienza** = mimetico, no filtro, libere associazioni (*Ulisse*)
+*Fonti: lezione del 09/04/2026*

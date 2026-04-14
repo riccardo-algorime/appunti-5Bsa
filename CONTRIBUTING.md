@@ -1,6 +1,6 @@
 # Come contribuire
 
-Chiunque della classe puo correggere errori, migliorare gli appunti o aggiungere materiale nuovo.
+Chiunque della classe puo correggere errori, migliorare gli appunti o aggiungere materiale  nuovo.
 Non serve installare niente: si fa tutto dal browser su GitHub.
 
 ---

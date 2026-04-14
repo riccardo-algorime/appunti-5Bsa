@@ -13,6 +13,7 @@ Raccolta di appunti e materiali scolastici.
 |---|---|---|
 | `italiano/` | 7 cartelle, 2 file | `INDICE.md` |
 | `pcto/` | 2 cartelle, 1 file | `appunti.md` |
+| `storia/` | 1 cartelle, 0 file | `-` |
 
 ## Tree rapido
 
@@ -56,7 +57,26 @@ Raccolta di appunti e materiali scolastici.
 │   ├── 31-03-26/
 │   │   └── transcription.txt
 │   └── appunti.md
-└── README.md
+├── README.md
+└── storia/
+    └── materiale/
+        ├── STORIA-3.1.md
+        ├── STORIA-3.1.pdf
+        ├── STORIA-3.2.md
+        ├── STORIA-3.2.pdf
+        ├── STORIA-3.3.md
+        ├── STORIA-3.3.pdf
+        ├── STORIA-3.4.md
+        ├── STORIA-3.4.pdf
+        ├── STORIA-3.5.md
+        ├── STORIA-3.5.pdf
+        ├── STORIA-3.6.md
+        ├── STORIA-3.6.pdf
+        ├── STORIA-3.7.md
+        ├── STORIA-3.8.md
+        ├── STORIA-3.9.md
+        ├── STORIA-3.9.pdf
+        └── studio/
 ```
 
 ## Come usarlo

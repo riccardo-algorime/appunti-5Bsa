@@ -610,6 +610,30 @@ flowchart TB
 | "Verlaine amava le rime?" | "Dice che la rima è la **morte della poesia**" perché ingabbia |
 | "Può ripetere la parte del ladro di fuoco?" | La prof ripete l'analogia Prometeo/poeta (vedi sezione 7.2) |
 
+### Interrogazione del 09/04/26 — Ripasso simbolismo e decadentismo
+
+*(Estratto dalle interrogazioni orali in classe — parte finale della lezione)*
+
+**D: Quali sono i caratteri che accomunano i poeti maledetti?**
+**R** (studente, valutata positivamente dalla prof): I poeti maledetti rientrano nel Decadentismo, corrente che rifiuta la fiducia nella scienza e nello scientismo del Positivismo. In particolare Baudelaire, Verlaine e Rimbaud sono simbolisti francesi. Il Simbolismo sostiene che il significato vero delle cose non è indagabile dalla scienza, ma è ritrovabile tramite **intuizioni, sensazioni e simboli**. Il manifesto del simbolismo è *Art poétique* di Verlaine: la musica deve stare al centro, la letteratura deve «storcere il collo all'eloquenza».
+
+**D: Perché si chiamano «poeti maledetti» (*poètes maudits*)?**
+**R**: Perché sono poeti isolati dalla società, contro il Positivismo. Non solo si sentono isolati, ma rivendicano attivamente questo isolamento — vogliono frequentare i **luoghi malfamati** e dell'**abiezione** per vivere tutta la gamma delle sensazioni possibili. Baudelaire in *Lo Spleen di Parigi* dichiara di essere stufo del Parnaso e ha «perso l'aureola nel fango di Parigi». Attraverso questa immagine: il poeta non è più una divinità ma un uomo comune, la sua arte non è più riconosciuta.
+
+**D: Come si esprime a livello poetico il senso di esclusione del poeta? Che opera di Baudelaire lo esprime al massimo grado?**
+**R**: ***L'albatro*** (1859). La figura del poeta viene paragonata a quella dell'albatro: maestoso in volo (le ali = la genialità), ma goffo e deriso sulla terra. Così il poeta sulla terra viene deriso dagli uomini e non capito.
+
+**D: Quali sono i due autori del Decadentismo italiano e come si distinguono?**
+**R**: Giovanni Pascoli e Gabriele D'Annunzio. Partono dalla stessa matrice (la realtà è conoscibile solo tramite irrazionalità e intuizione; la realtà è misteriosa, elusiva) ma arrivano a esiti molto diversi:
+- *Ideologie*: Pascoli inizialmente socialista (poi nazionalismo); D'Annunzio nazionalista, immagine eroica di sé, egocentrico
+- *Figura del poeta*: Pascoli = **fanciullino** (voce bambina interiore, si meraviglia del quotidiano); D'Annunzio = **vate/esteta** (guida spirituale con capacità sovrumane)
+
+**D: Prima raccolta di Pascoli e suoi temi?**
+**R**: ***Myricae*** (dal latino *myricae* = tamerici, da un verso di Virgilio, *Bucoliche*). Pianta umile che nasce in luoghi sabbiosi → metafora delle piccole cose quotidiane che destano meraviglia agli occhi del fanciullino. Opere chiave: *X Agosto* (morte del padre), *L'assiuolo*.
+
+**D: Di *X Agosto*, struttura e temi principali?**
+**R**: Il giorno di San Lorenzo (10 agosto), le stelle cadenti = pianto del cielo. Una rondine viene uccisa mentre porta cibo alle rondinelle → associata alla figura di Cristo. La morte del padre di Pascoli è il trauma centrale della sua vita.
+
 ---
 
 ## 10. Espressioni e concetti da sapere a memoria

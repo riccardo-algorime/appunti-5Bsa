@@ -1,11 +1,10 @@
 # Il Futurismo — Riassunto
 
-> **Fonti**: Lezioni del 17/03/26 e 31/03/26
+> **Fonti**: Lezioni del 17/03/26, 31/03/26 e 09/04/26
 > **Scopo**: preparazione esame di Italiano
 
-> [!WARNING] Materiale aggiuntivo
-> **Studiare sugli appunti e sul libro il Futurismo** (testi e *Contro i professori* su Classroom).
-> Il testo *Contro i professori* di Marinetti è su **Google Classroom** ed è **obbligatorio**. Non è trattato a lezione.
+> [!NOTE] Aggiornamento 09/04/26
+> Il testo *Contro i professori* di Marinetti è stato **letto e analizzato in classe** il 09/04/26. Vedi sezione 11 di questo riassunto.
 
 ---
 
@@ -110,8 +109,8 @@ I futuristi si schierano come **interventisti** e saranno poi **vicini al fascis
 - **Artista nella società capitalistica**: «**Disgustato, declassato, disoccupato.**» L'artista accetta le regole del mercato.
 - **Contro la scuola**: Marinetti vuole una scuola che «tempri lo spirito e il corpo», non un luogo di sapere obsoleto.
 
-> [!WARNING] Testo da studiare su Classroom
-> ***Contro i professori*** di Marinetti — condiviso su **Google Classroom**, da studiare autonomamente.
+> [!NOTE] Analizzato in classe il 09/04/26
+> ***Contro i professori*** è stato letto e commentato in classe. Vedi sezione 11.
 
 ---
 
@@ -236,13 +235,38 @@ Poesia visiva. Esempio: «bucato + bagno + ballo = primo amore». Le "m" riprodu
 
 ---
 
-## 11. Lacune — da integrare
+## 11. *Contro i professori* di Marinetti — Riassunto
+
+> **Fonte**: Lezione del 09/04/26 — testo letto e commentato in classe.
+
+### Rifiuto di Nietzsche
+
+I futuristi rifiutano di essere associati a Nietzsche perché il suo Superuomo è fondato sulla cultura greca classica — **Apollo, Marte e Bacco** — che i futuristi chiamano «cadaveri putrefatti». Nietzsche è per loro un **passatista** «coi piedi impacciati da lunghi testi greci».
+
+### L'uomo moltiplicato
+
+Al Superuomo nietzschiano i futuristi contrappongono **l'uomo moltiplicato**: «nemico del libro, amico dell'esperienza personale, allievo della macchina, munito di fiuto felino, fulminei calcoli, istinto selvaggio, astuzia e temerità».
+
+### I tre nemici dell'arte
+
+> **Imitazione + prudenza + denaro = viltà**
+
+### I professori come passatisti
+
+La scuola «castra gli spiriti» della gioventù italiana. I professori tramandano un sapere obsoleto che soffoca l'energia creativa. La scuola futurista ideale prevede un **«corso regolare di rischi e pericoli fisici»** (incendi, annegamenti, crolli di soffitti) per temprare corpo e spirito.
+
+### Note retoriche
+
+Prosa ritmica e agguerrita, accumulo di sostantivi, climax, iperboli aggressive («fogne dell'intellettualità», «carbone eroico delle officine»). In linea con i principi del Manifesto tecnico.
+
+---
+
+## 12. Lacune — da integrare
 
 | Lacuna | Fonte |
 |---|---|
-| ***Contro i professori*** | **Google Classroom** |
 | Parte generale del Futurismo | **Libro di testo** |
-| Testi futuristi da analizzare | Libro + Classroom |
+| Testi futuristi da analizzare | Libro di testo |
 | Biografia di Marinetti | Libro di testo |
 | Manifesto dei pittori futuristi | Libro / Appunti di Arte |
 | Rapporto Futurismo–Fascismo | Libro / Appunti di Storia |

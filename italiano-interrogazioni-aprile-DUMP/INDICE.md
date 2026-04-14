@@ -1,7 +1,7 @@
 # Indice schemi di studio — Italiano (2026)
 
-> **Programma coperto**: dal Neorealismo cinematografico al Futurismo
-> **Nota prof**: "Neorealismo cinematografico e letterario, Simbolismo francese, Decadentismo, Pascoli e D'Annunzio. Studiare sugli appunti e sul libro il Futurismo (testi e Contro i professori su Classroom)"
+> **Programma coperto**: dal Neorealismo cinematografico al Romanzo del Novecento (Proust, Kafka, Joyce, Svevo)
+> **Nota prof** (09/04/26): «Andrò avanti molto speditamente: ci mancano Svevo, Pirandello, e poi chiudiamo con la triade Saba, Ungaretti e Montale.»
 
 ---
 
@@ -29,13 +29,16 @@ flowchart LR
     C --> E[D'Annunzio]
     D -.->|confronto| E
     E --> F[Futurismo]
+    F --> G[Romanzo del<br>Novecento]
+    G --> H[Svevo / Pirandello<br>⚠ in arrivo]
+    H --> I[Saba / Ungaretti<br>Montale ⚠ in arrivo]
 ```
 
-> Nota: l'ordine cronologico letterario è Decadentismo/Simbolismo → Pascoli/D'Annunzio → Futurismo → Neorealismo, ma in classe sono stati trattati partendo dal Neorealismo (più vicino a noi) per poi tornare indietro.
+> Nota: l'ordine cronologico letterario è Decadentismo/Simbolismo → Pascoli/D'Annunzio → Futurismo → Romanzo del Novecento → Neorealismo, ma in classe sono stati trattati partendo dal Neorealismo (più vicino a noi) per poi tornare indietro.
 
 ---
 
-## Le 6 cartelle
+## Le 7 cartelle
 
 ### 1. `neorealismo-cinematografico/`
 
@@ -139,15 +142,41 @@ flowchart LR
 
 | File | Dimensione |
 |---|---|
-| mega-schema.md | 31.924 byte |
-| riassunto.md | 11.129 byte |
-| ripasso.md | 5.080 byte |
+| mega-schema.md | ~45.000 byte (aggiornato 09/04/26) |
+| riassunto.md | ~14.000 byte (aggiornato 09/04/26) |
+| ripasso.md | ~6.000 byte (aggiornato 09/04/26) |
 
 **Lezioni fonte**:
 - 17-03-26 — Contesto storico e poetica del Futurismo *(solo parte finale della lezione)*
-- 31-03-26 — Manifesto del Futurismo, Manifesto tecnico, Marinetti (Marcia futurista, Contro i professori), Govoni (Il palombaro)
+- 31-03-26 — Manifesto del Futurismo, Manifesto tecnico, Marinetti (Marcia futurista), Govoni (Il palombaro)
+- 09-04-26 — *Contro i professori* di Marinetti: analisi completa con testo
 
-> ⚠ **La prof indica di studiare anche "testi e Contro i professori su Classroom"** — materiale aggiuntivo non coperto da queste trascrizioni.
+**Contenuto aggiunto (09/04/26)**: *Contro i professori* — rifiuto di Nietzsche come passatista, l'uomo moltiplicato, i tre nemici dell'arte (imitazione+prudenza+denaro=viltà), la scuola come «castratrice degli spiriti», la scuola futurista con corso di rischi fisici.
+
+---
+
+### 7. `romanzo-novecento/`
+
+| File | Dimensione |
+|---|---|
+| mega-schema.md | ~28.000 byte |
+| riassunto.md | ~7.000 byte |
+| ripasso.md | ~3.000 byte |
+
+**Lezioni fonte**:
+- 09-04-26 — Introduzione al romanzo del Novecento (intera seconda parte della lezione)
+
+**Contenuto**: innovazioni rispetto all'Ottocento (narratore soggettivo, tempo soggettivo/Bergson, personaggio in fieri), Proust (memoria involontaria, episodio della Madeleine con testo completo), Kafka (*La metamorfosi*: straniamento, alienazione, con testo completo dell'incipit), Joyce (flusso di coscienza con esempio dall'*Ulisse*), tecniche narrative (monologo interiore vs. flusso di coscienza), psicanalisi freudiana.
+
+---
+
+## Aggiornamenti recenti
+
+### 09/04/26
+- **`futurismo/`**: integrato *Contro i professori* di Marinetti (analisi completa, testo incluso) — rimossa nota "da leggere su Classroom"
+- **`romanzo-novecento/`**: nuova cartella creata ex novo con mega-schema, riassunto, ripasso
+- **`neorealismo-letterario/`**: aggiunte Q&A dall'interrogazione orale del 09/04/26
+- **`decadentismo-simbolismo/`**: aggiunte Q&A dall'interrogazione orale del 09/04/26
 
 ---
 
@@ -166,9 +195,12 @@ flowchart LR
 | Cartella | Mega-schema | Riassunto | Ripasso | Totale |
 |---|---:|---:|---:|---:|
 | neorealismo-cinematografico | 49.561 | 29.293 | 13.389 | 92.243 |
-| neorealismo-letterario | 49.259 | 18.845 | 7.155 | 75.259 |
-| decadentismo-simbolismo | 32.330 | 18.688 | 9.445 | 60.463 |
+| neorealismo-letterario | ~52.000 | 18.845 | 7.155 | ~78.000 |
+| decadentismo-simbolismo | ~34.000 | 18.688 | 9.445 | ~62.000 |
 | pascoli | 87.695 | 42.062 | 22.715 | 152.472 |
 | dannunzio | 62.319 | 39.450 | 20.745 | 122.514 |
-| futurismo | 31.924 | 11.129 | 5.080 | 48.133 |
-| **Totale** | **313.088** | **159.467** | **78.529** | **551.084** |
+| futurismo | ~45.000 | ~14.000 | ~6.000 | ~65.000 |
+| romanzo-novecento | ~28.000 | ~7.000 | ~3.000 | ~38.000 |
+| **Totale** | **~358.000** | **~169.000** | **~82.000** | **~610.000** |
+
+*Nota: le dimensioni contrassegnate con ~ sono stime dopo gli aggiornamenti del 09/04/26.*

@@ -1,12 +1,11 @@
 # Il Futurismo — Mega-Schema di Studio
 
-> **Fonti**: Lezione del 17/03/26 (parte sul Futurismo) + Lezione del 31/03/26 (intera)
+> **Fonti**: Lezioni del 17/03/26 (parte sul Futurismo), 31/03/26 (intera), 09/04/26 (Contro i professori + ripasso)
 > **Docente**: appunti dalla Prof
 > **Scopo**: preparazione esame di Italiano
 
-> [!WARNING] Materiale aggiuntivo
-> La prof ha indicato: **"Studiare sugli appunti e sul libro il Futurismo (testi e *Contro i professori* su Classroom)"**.
-> Il testo *Contro i professori* di Marinetti è stato condiviso su **Google Classroom** ed è da leggere obbligatoriamente. Non è trattato a lezione, ma va studiato autonomamente.
+> [!NOTE] Aggiornamento 09/04/26
+> Il testo *Contro i professori* di Marinetti, precedentemente assegnato su Google Classroom, è stato **letto e analizzato in classe** il 09/04/26. Il contenuto completo e l'analisi si trovano nella sezione 15 di questo schema.
 
 ---
 
@@ -638,11 +637,106 @@ flowchart TD
 - [ ] *Zang Tumb Tumb* (Marinetti, 1914) — onomatopea della guerra d'Africa
 - [ ] *Il palombaro* (Govoni, 1915) — poesia visiva
 - [ ] Interventismo → vicinanza al Fascismo
-- [ ] Leggere ***Contro i professori*** su **Classroom**
+- [ ] ***Contro i professori***: Nietzsche = passatista; uomo moltiplicato vs Superuomo; imitazione+prudenza+denaro = viltà; scuola come «castratrice degli spiriti»; corso di «rischi e pericoli fisici»
 
 ---
 
-## 14. Lacune e materiale da integrare
+## 14. *Contro i professori* di Marinetti — Analisi completa
+
+> **Fonte**: Lezione del 09/04/26
+> **Nota**: Questo testo, inizialmente assegnato su Google Classroom come studio autonomo, è stato letto e commentato in classe dalla prof.
+
+### 14.1 Contesto e collocazione
+
+Il testo si colloca all'interno della **polemica futurista contro il passatismo** che Marinetti e il suo gruppo conducono a livello globale. È un progetto di **eversione totale** che non riguarda solo la letteratura, ma l'intera società — **inclusa la scuola**.
+
+> **Osservazione della prof**: «Questo testo si colloca all'interno della polemica nei confronti del passatismo che Marinetti e il suo gruppo conducono a livello globale. Il loro è un progetto che riguarda un'eversione che riguarda non soltanto la letteratura, ma la società tutta, dunque anche la scuola.»
+
+### 14.2 Rifiuto di Nietzsche
+
+Il testo si apre con un rifiuto esplicito di **Nietzsche**:
+
+> *«Nella nostra lotta contro la passione professorale del passato, noi rinneghiamo violentemente l'ideale e la dottrina di Nietzsche.»*
+
+I futuristi non vogliono essere associati al filosofo tedesco del **Superuomo**. La loro critica a Nietzsche si basa su un argomento preciso:
+
+> *«Vi basterà considerare la parte costruttiva dell'opera del grande filosofo tedesco per convincervi che il suo Superuomo, generato nel culto filosofico della tragedia greca, suppone in suo padre un ritorno appassionato verso il paganesimo e la mitologia.»*
+
+**Tesi centrale**: Nietzsche è in realtà un **passatista**, perché il suo Superuomo è costruito sulla grandezza della cultura greca classica e della mitologia:
+
+> *«Nietzsche resterà, malgrado tutti i suoi slanci verso l'avvenire, uno dei più accaniti difensori della grandezza e della bellezza antiche.»*
+
+> *«È un passatista che cammina arditamente sulle cime dei monti tessalici coi piedi disgraziatamente impacciati da lunghi testi greci. Il suo Superuomo è un prodotto dell'immaginazione ellenica, costruito coi tre grandi cadaveri putrefatti di Apollo, di Marte e di Bacco [...] un miscuglio della bellezza elegante, della forza guerresca, dell'ebbrezza dionisiaca quali ci sono rivelati dalla grande arte classica.»*
+
+> [!IMPORTANT] Concetto chiave
+> I futuristi considerano Nietzsche un **passatista** perché il suo Superuomo si fonda sulla mitologia greca e sulla grandezza dell'antichità — che i futuristi definiscono **«cadaveri putrefatti»**.
+
+### 14.3 Il contro-modello futurista: l'uomo moltiplicato
+
+All'Übermensch nietzschiano i futuristi contrappongono la propria figura ideale:
+
+> *«Noi opponiamo a questo Superuomo greco, nato nella polvere delle biblioteche, **l'uomo moltiplicato per opera propria**, nemico del libro, amico dell'esperienza personale, allievo della macchina, coltivatore accanito della propria volontà, lucido nell'ampio della sua ispirazione, munito di fiuto felino, di fulminei calcoli, di istinto selvaggio, di astuzia e di temerità.»*
+
+| Superuomo nietzschiano | Uomo moltiplicato futurista |
+|---|---|
+| Nato nella polvere delle biblioteche | Nemico del libro |
+| Fondato sulla mitologia greca | Allievo della macchina |
+| Cultore del passato | Amico dell'esperienza personale |
+| Bellezza elegante, forza guerresca | Istinto selvaggio, astuzia, temerità |
+
+> **Osservazione della prof**: «Guardate com'è ritmata questa prosa e com'è agguerrita: "fulminei calcoli, istinto selvaggio, intuizione, astuzia, temerità". Chi vi ricorda questa volontà così guerresca, aggressiva? A D'Annunzio.»
+
+### 14.4 Polemica contro le università e l'accademia
+
+> *«Noi non abbiamo ascoltato i consigli prudenti che Nietzsche ci avrebbe dati e abbiamo contemplato con orrore la gioventù italiana che colava tristemente canalizzata verso quelle grandi fogne dell'intellettualità.»*
+
+I futuristi disprezzano l'**accademia** e l'**università**, considerate «fogne dell'intellettualità».
+
+> *«All'alba ci arrampicammo fin sopra le porte delle accademie, dei musei, delle biblioteche, delle università, per scrivervi col carbone eroico delle officine questa dedica: al terremoto, loro unico alleato, i futuristi dedicano queste rovine di Roma e di Atene.»*
+
+### 14.5 I tre nemici irriducibili dell'arte
+
+> *«Voi dovete combattere con accanimento questi tre nemici irriducibili e corruttori dell'arte: **l'imitazione, la prudenza e il denaro**, che si riducono a uno solo: la **viltà**.»*
+
+> [!IMPORTANT] Triade da ricordare
+> I tre nemici dell'arte secondo Marinetti: **imitazione** + **prudenza** + **denaro** = **viltà**.
+
+> *«Viltà contro gli ammirabili e contro le formule acquisite, viltà contro il bisogno d'amore, contro la paura della miseria che minacciano la vita necessariamente eroica dell'artista. Poeti, pittori, scultori, musicisti, dovete lottare ovunque [...] perché il mondo ha bisogno soltanto di eroismo.»*
+
+### 14.6 I professori come simbolo del passatismo
+
+> *«I professori passatisti sono i soli responsabili di questo assassinio. I professori passatisti che vogliono soffocare in feti di canali sotterranei l'indomabile energia della gioventù italiana.»*
+
+> **Osservazione della prof**: «La scuola e i professori sono il simbolo del culto del passato, di un sapere ormai superato che diventa convenzione e che viene trasmesso alle giovani generazioni, le quali si devono, secondo i futuristi, ribellare a questo status quo per esprimere creatività, energia, genio, in modo libero.»
+
+> *«Quando si finirà di castrare gli spiriti che devono creare l'avvenire? Quando si finirà di insegnare la bruttante adorazione di un passato insuperabile ai ragazzi?»*
+
+La scuola ha una funzione che «castra, che taglia le ali, che interrompe i voli possibili dei giovani» (commento della prof).
+
+### 14.7 Il programma di scuola futurista
+
+Marinetti propone un'alternativa radicale alla scuola tradizionale:
+
+> *«...introdurre in tutte le scuole un **corso regolare di rischi e pericoli fisici**. I ragazzi sarebbero sottoposti, indipendentemente dalla loro volontà, alla necessità di affrontare continuamente una serie di pericoli sempre più terribili l'uno dell'altro, sapientemente preparati e sempre imprevisti, come l'incendio, l'annegamento, il crollo di un soffitto o altri simili disastri.»*
+
+**Scopo**: temprare il corpo e lo spirito secondo l'ideale futurista di forza, coraggio e temerità.
+
+### 14.8 Analisi retorica del testo
+
+| Caratteristica | Esempio / Nota |
+|---|---|
+| **Prosa agguerrita e ritmica** | «fulminei calcoli, istinto selvaggio, astuzia, temerità» — ritmo quasi marziale |
+| **Accumulo e climax** | Elencazione di qualità del "uomo moltiplicato" |
+| **Iperbole** | «cadaveri putrefatti di Apollo, di Marte e di Bacco» |
+| **Metafore aggressive** | «fogne dell'intellettualità», «carbone eroico delle officine» |
+| **Apostrofe** | Rivolto direttamente ad artisti e giovani |
+| **Uso del "noi"** | Voce collettiva del movimento |
+
+> **Collegamento**: La prosa ritmica e aggressiva del testo mette in pratica i principi del **Manifesto tecnico** — ritmo marziale, asindeto, elencazione intensa.
+
+---
+
+## 15. Lacune e materiale da integrare
 
 > [!CAUTION] Contenuti NON coperti a lezione — da studiare autonomamente
 
@@ -657,3 +751,5 @@ flowchart TD
 | Rapporto Futurismo–Fascismo (approfondimento) | Libro di testo / Appunti di Storia |
 
 > **Raccomandazione della prof** (31/03/26): *«Studiate al meglio possibile fin dove siamo arrivati, perché dopo, oltre ad interrogare, andrò avanti molto speditamente: ci mancano il romanzo del '900, Svevo, Pirandello, e poi chiudiamo con la triade Saba, Ungaretti e Montale.»*
+
+> **Aggiornamento (09/04/26)**: La prof ha introdotto il **Romanzo del Novecento** (Proust, Kafka, Joyce, Svevo) — vedi schema dedicato `romanzo-novecento/`.

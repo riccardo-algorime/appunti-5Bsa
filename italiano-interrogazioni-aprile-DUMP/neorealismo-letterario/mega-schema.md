@@ -754,7 +754,7 @@ graph TD
 
 ## 9. Domande reali da interrogazione (Q&A)
 
-> Estratte dalle interrogazioni delle lezioni del 30/01 e 09/02
+> Estratte dalle interrogazioni delle lezioni del 30/01, 09/02 e 09/04/26
 
 ### Q&A — Neorealismo e contesto
 
@@ -789,6 +789,31 @@ graph TD
 
 **D: Come si chiude il romanzo *I Malavoglia*?**
 **R**: Il giovane 'Ntoni torna ad Aci Trezza e non viene riconosciuto nemmeno dal cane (parallelo con Ulisse, ma **negato**). La porta/uscio rappresenta un confine invalicabile. Si sente estraneo e se ne va. Alessi rappresenta la ciclicità. Il finale rimane **aperto**.
+
+### Q&A — Interrogazione del 09/04/26 (ripasso)
+
+**D: Inquadra Elio Vittorini all'interno del Neorealismo letterario, con riferimento a *Conversazione in Sicilia*.**
+**R** (studente Enrico, valutata positivamente dalla prof):
+Vittorini è nato in Sicilia e si trasferisce successivamente al Nord, come il protagonista Silvestro del romanzo del 1941. Silvestro compie un viaggio di ritorno al Sud: accompagna la madre nelle iniezioni di beneficenza ai poveri. Il passo letto mostra Silvestro in preda agli **«astratti furori»** — «astratti» perché interiori, «furori» perché causati dalla guerra civile spagnola (i fascisti aiutano Franco). Silvestro non riesce ad agire contro la dittatura. Le **scarpe rotte** del protagonista sono un **correlativo oggettivo**: segno di povertà e di debolezza.
+
+*Ruolo di Vittorini nel Neorealismo*: è antifascista; combatte nella Resistenza; è animatore di cultura nel periodo post-bellico; Calvino lo inserisce nella triade dei romanzi-modello per il Neorealismo.
+
+**D: Quali sono gli altri due romanzi della triade citata da Calvino?**
+**R**: *I Malavoglia* di Verga (1881) e *Paesi tuoi* di Pavese (1941).
+
+**D: In *Paesi tuoi* di Pavese, come si manifesta la «dimensione animale e ancestrale»? Perché Calvino lo include nella triade?**
+**R** (studente Luca): I protagonisti Berto e Talino escono di prigione. Talino invita Berto nella sua famiglia contadina. Il romanzo insiste su elementi come il sudore, il sangue, la terra, il fango — e soprattutto il tridente, che sarà l'arma con cui Talino uccide la sorella Gisella per gelosia verso Berto. Calvino lo include perché Pavese riesce a trasmettere la **crudeltà** della scena e mostra l'**Italia contadina** — i temi principali del Neorealismo: povertà, miseria, dibattito sociale/politico.
+
+**D: In che senso il Neorealismo non è una scuola?**
+**R** (Luca): Ogni autore esprime la sua opinione diversamente; sono accomunati dal dibattito sui problemi reali dell'Italia (occupazione, miseria, povertà), in contrapposizione al fascismo che mostrava un'Italia trionfale. Questo si riflette anche nella scelta di tradurre letteratura americana (Pavese, Vittorini, Fenoglio).
+
+**D: Quali sono l'opera di apertura e di chiusura del Neorealismo letterario secondo Calvino?**
+**R**: *Il sentiero dei nidi di ragno* di Calvino (1947) come apertura; *Una questione privata* di Fenoglio (1963) come «massima espressione», «il romanzo che arriva quando nessuno se lo aspettava più».
+
+**D: In *Una questione privata*, come si intreccia la questione collettiva con quella privata di Milton?**
+**R**: Milton è in un distaccamento partigiano «sbandato e inesperto» (Fenoglio insiste su questo). Si ferma alla villa di Fulvia, sua ex ragazza. La custode gli dice che Fulvia frequentava anche Giorgio — il suo miglior amico. Milton è geloso: vuole sapere la verità. Giorgio è già stato catturato dai fascisti. La vicenda personale (la gelosia, la questione privata) si sovrappone a quella collettiva (la Resistenza).
+
+---
 
 ### Q&A — Indicazioni per l'esame scritto
 

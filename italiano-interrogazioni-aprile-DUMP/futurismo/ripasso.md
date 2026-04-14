@@ -1,8 +1,7 @@
 # Il Futurismo — Ripasso veloce
 
-> [!WARNING] Materiale obbligatorio
-> Leggere ***Contro i professori*** di Marinetti su **Google Classroom** (non trattato a lezione, ma da studiare).
-> Studiare anche la parte generale del Futurismo sul **libro di testo**.
+> [!NOTE] Aggiornamento 09/04/26
+> ***Contro i professori*** è stato letto e analizzato in classe. Vedi sezione 9 di questo ripasso.
 
 ---
 
@@ -117,7 +116,7 @@ flowchart LR
 - [ ] ***Lacerba*** (Firenze, 1913)
 - [ ] *Zang Tumb Tumb* (1914), *Il palombaro* (1915)
 - [ ] Interventismo → Fascismo
-- [ ] ***Contro i professori*** su **Classroom**
+- [ ] ***Contro i professori***: Nietzsche = passatista (Superuomo su «cadaveri putrefatti» greco-classici); uomo moltiplicato (allievo della macchina, istinto selvaggio); imitazione+prudenza+denaro = **viltà**; scuola «castra gli spiriti»; scuola futurista = corso di «rischi e pericoli fisici»
 
 ---
 
@@ -125,8 +124,18 @@ flowchart LR
 
 | Cosa | Dove |
 |---|---|
-| *Contro i professori* | **Google Classroom** |
 | Parte generale Futurismo + testi | **Libro di testo** |
 | Biografia Marinetti | Libro |
 | Manifesto pittori futuristi (1911) | Libro / Arte |
 | Rapporto Futurismo–Fascismo | Libro / Storia |
+
+---
+
+## 9. *Contro i professori* — Punti chiave
+
+- Rifiuto di Nietzsche: Superuomo = passatista (Apollo, Marte, Bacco = «**cadaveri putrefatti**»)
+- **Uomo moltiplicato**: nemico del libro, allievo della macchina, istinto selvaggio, temerità
+- 3 nemici dell'arte: **imitazione + prudenza + denaro = viltà**
+- La scuola «**castra gli spiriti**» e tramanda sapere obsoleto
+- Scuola futurista ideale: **corso di rischi e pericoli fisici** (incendi, annegamenti, crolli)
+- Prosa ritmica e agguerrita → in linea con il Manifesto tecnico

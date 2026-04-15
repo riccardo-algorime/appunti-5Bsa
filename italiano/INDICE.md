@@ -1,6 +1,6 @@
 # Indice — Appunti di Letteratura Italiana (5BSA, 2025-26)
 
-> **Ultimo aggiornamento:** 14 aprile 2026
+> **Ultimo aggiornamento:** 15 aprile 2026
 > **Scopo:** Preparazione all'Esame di Stato (maturità)
 > **Fonti:** Trascrizioni delle lezioni in classe (gennaio–aprile 2026)
 
@@ -31,12 +31,14 @@ flowchart TD
     A --> F[Gabriele D'Annunzio]
     A --> G[Il Futurismo]
     A --> H[Il Romanzo<br/>del Novecento]
+    A --> I[Italo Svevo]
 
     D -->|"matrice comune"| E
     D -->|"matrice comune"| F
     E <-->|"confronto fondamentale"| F
     F -->|"reazione contro"| G
     G -->|"contesto per"| H
+    H -->|"iniziatori italiani"| I
     B -->|"cinema → letteratura"| C
 
     style A fill:#2c3e50,stroke:#1a252f,color:#fff
@@ -59,6 +61,7 @@ La professoressa ha scelto di partire dal Novecento per poi tornare indietro, se
 | 5 | **Gabriele D'Annunzio** | 1863–1938 | 03/03, 05/03, 09/03, 10/03, 12/03, 16/03, 17/03 | `dannunzio/` |
 | 6 | **Il Futurismo** | 1909–1920 | 17/03, 31/03, 09/04 | `futurismo/` |
 | 7 | **Il Romanzo del Novecento** | Inizio '900 | 09/04 | `romanzo-novecento/` |
+| 8 | **Italo Svevo** | 1893–1923 | 13/04 | `svevo/` |
 
 \* Le lezioni del 13/01 e del 26/02 non dispongono di trascrizione valida; i contenuti sono stati integrati dalle fonti disponibili.
 
@@ -92,7 +95,11 @@ Contesto storico, il primo movimento d'avanguardia. *Manifesto del Futurismo* (1
 
 ### 7. `romanzo-novecento/`
 
-Argomento appena introdotto (una sola lezione). Le tre innovazioni rispetto all'Ottocento: punto di vista soggettivo, tempo soggettivo (Bergson), personaggio in fieri. Proust e la memoria involontaria (episodio della Madeleine). Kafka e lo straniamento (*La metamorfosi*). Joyce e il flusso di coscienza (*Ulisse*). Svevo e *La coscienza di Zeno*. Monologo interiore vs flusso di coscienza.
+Argomento introdotto nella lezione del 09/04. Le tre innovazioni rispetto all'Ottocento: punto di vista soggettivo, tempo soggettivo (Bergson), personaggio in fieri. Proust e la memoria involontaria (episodio della Madeleine). Kafka e lo straniamento (*La metamorfosi*). Joyce e il flusso di coscienza (*Ulisse*). Svevo e *La coscienza di Zeno*. Monologo interiore vs flusso di coscienza.
+
+### 8. `svevo/`
+
+Trattazione completa di Italo Svevo (lezione del 13/04). Vita e formazione: Trieste città mitteleuropea, triplice identità linguistica (dialetto-tedesco-italiano), autodidatta, doppia vita da industriale e scrittore. Il rapporto con Joyce (insegnante d'inglese) e con la psicoanalisi di Freud (stimolo letterario, non cura). La scrittura come ossessione e terapia. La "malattia dell'uomo": disagio dell'individuo nella società borghese; la malattia è la vita stessa. I tre romanzi e i tre personaggi: Alfonso Nitti (*Una vita*, 1893), Emilio Brentani (*Senilità*, 1898), Zeno Cosini (*La coscienza di Zeno*, 1923). Il concetto di inetto (abulico, inadatto). Autoinganno e grandezza latente. Stile: scrittura di grado zero, monologo interiore, discorso indiretto libero, prima persona, struttura a blocchi tematici, tono ironico.
 
 ---
 
@@ -100,7 +107,6 @@ Argomento appena introdotto (una sola lezione). Le tre innovazioni rispetto all'
 
 La professoressa ha annunciato il programma rimanente:
 
-- **Italo Svevo** — trattazione completa (vita, poetica, *La coscienza di Zeno*)
 - **Luigi Pirandello** — vita, poetica, *Il fu Mattia Pascal*, *Uno, nessuno e centomila*
 - **La triade lirica**: Saba, Ungaretti, Montale
 
@@ -117,6 +123,7 @@ La professoressa ha annunciato il programma rimanente:
 | D'Annunzio | 473 | 138 | 167 | 778 |
 | Futurismo | 316 | 130 | 104 | 550 |
 | Romanzo del Novecento | 271 | 68 | 67 | 406 |
-| **Totale** | **3009** | **804** | **734** | **4547** |
+| Svevo | 244 | 61 | 81 | 386 |
+| **Totale** | **3253** | **865** | **815** | **4933** |
 
 Dimensioni espresse in numero di righe.

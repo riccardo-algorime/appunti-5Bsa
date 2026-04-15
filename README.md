@@ -11,7 +11,7 @@ Raccolta di appunti e materiali scolastici.
 
 | Cartella | Contenuto | Entrata consigliata |
 |---|---|---|
-| `italiano/` | 7 cartelle, 1 file | `INDICE.md` |
+| `italiano/` | 8 cartelle, 1 file | `INDICE.md` |
 | `pcto/` | 2 cartelle, 1 file | `appunti.md` |
 | `storia/` | 1 cartelle, 0 file | `-` |
 
@@ -46,7 +46,11 @@ Raccolta di appunti e materiali scolastici.
 │   │   ├── mega-schema.md
 │   │   ├── riassunto.md
 │   │   └── ripasso.md
-│   └── romanzo-novecento/
+│   ├── romanzo-novecento/
+│   │   ├── mega-schema.md
+│   │   ├── riassunto.md
+│   │   └── ripasso.md
+│   └── svevo/
 │       ├── mega-schema.md
 │       ├── riassunto.md
 │       └── ripasso.md

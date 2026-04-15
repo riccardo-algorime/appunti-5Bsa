@@ -209,6 +209,9 @@ Joyce è il maestro del flusso di coscienza nella letteratura inglese. Il suo ro
 
 Insieme a **Luigi Pirandello** (*Il fu Mattia Pascal*, *Uno, nessuno e centomila*), Svevo è il massimo esponente del **romanzo psicologico** in Italia. Entrambi gli autori sono interessati all'esplorazione dell'interiorità del personaggio, alla frammentazione dell'identità, alla crisi delle certezze.
 
+> [!note] Approfondimento
+> La trattazione completa di Svevo — vita, i tre romanzi (*Una vita*, *Senilità*, *La coscienza di Zeno*), i tre personaggi (Nitti, Brentani, Zeno Cosini), il concetto di inetto, la malattia come vita, lo stile — si trova nella cartella dedicata: **`svevo/`** (lezione del 13/04/2026).
+
 ---
 
 ## 7. Quadro riassuntivo: il romanzo del Novecento

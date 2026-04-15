@@ -114,16 +114,29 @@ La professoressa ha annunciato il programma rimanente:
 
 ## Dimensioni dei file
 
-| Argomento | mega-schema | riassunto | ripasso | Totale righe | Totale caratteri |
-|-----------|-------------|-----------|---------|--------------|-----------------|
-| Neorealismo cinematografico | 236 | 60 | 59 | 355 | 24 468 |
-| Neorealismo letterario | 471 | 147 | 103 | 721 | 58 522 |
-| Decadentismo e Simbolismo | 475 | 103 | 105 | 683 | 51 667 |
-| Pascoli | 767 | 158 | 129 | 1054 | 73 574 |
-| D'Annunzio | 473 | 138 | 167 | 778 | 61 511 |
-| Futurismo | 316 | 130 | 104 | 550 | 42 170 |
-| Romanzo del Novecento | 274 | 68 | 67 | 409 | 34 758 |
-| Svevo | 244 | 61 | 81 | 386 | 24 294 |
-| **Totale** | **3256** | **865** | **815** | **4936** | **370 964** |
-
-Dimensioni espresse in numero di righe (colonne mega/riassunto/ripasso/totale) e caratteri Unicode totali per argomento (`wc -m`).
+| Argomento | File | Righe | Caratteri | Byte |
+|-----------|------|------:|----------:|-----:|
+| Neorealismo cinematografico | mega-schema | 236 | 18 248 | 18 448 |
+| Neorealismo cinematografico | riassunto | 60 | 4 207 | 4 247 |
+| Neorealismo cinematografico | ripasso | 59 | 2 013 | 2 044 |
+| Neorealismo letterario | mega-schema | 471 | 41 085 | 41 545 |
+| Neorealismo letterario | riassunto | 147 | 10 972 | 11 118 |
+| Neorealismo letterario | ripasso | 103 | 6 465 | 6 585 |
+| Decadentismo e Simbolismo | mega-schema | 475 | 38 175 | 38 786 |
+| Decadentismo e Simbolismo | riassunto | 103 | 8 987 | 9 126 |
+| Decadentismo e Simbolismo | ripasso | 105 | 4 505 | 4 609 |
+| Pascoli | mega-schema | 767 | 57 608 | 58 248 |
+| Pascoli | riassunto | 158 | 10 725 | 10 812 |
+| Pascoli | ripasso | 129 | 5 241 | 5 284 |
+| D'Annunzio | mega-schema | 473 | 44 863 | 45 308 |
+| D'Annunzio | riassunto | 138 | 9 650 | 9 704 |
+| D'Annunzio | ripasso | 167 | 6 998 | 7 065 |
+| Futurismo | mega-schema | 316 | 29 466 | 29 874 |
+| Futurismo | riassunto | 130 | 7 847 | 7 955 |
+| Futurismo | ripasso | 104 | 4 857 | 4 923 |
+| Romanzo del Novecento | mega-schema | 274 | 25 603 | 25 848 |
+| Romanzo del Novecento | riassunto | 68 | 5 853 | 5 914 |
+| Romanzo del Novecento | ripasso | 67 | 3 302 | 3 334 |
+| Svevo | mega-schema | 244 | 16 935 | 17 183 |
+| Svevo | riassunto | 61 | 4 616 | 4 677 |
+| Svevo | ripasso | 81 | 2 743 | 2 783 |

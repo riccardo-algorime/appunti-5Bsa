@@ -114,16 +114,16 @@ La professoressa ha annunciato il programma rimanente:
 
 ## Dimensioni dei file
 
-| Argomento | mega-schema | riassunto | ripasso | Totale |
-|-----------|-------------|-----------|---------|--------|
-| Neorealismo cinematografico | 236 | 60 | 59 | 355 |
-| Neorealismo letterario | 471 | 147 | 103 | 721 |
-| Decadentismo e Simbolismo | 475 | 103 | 105 | 683 |
-| Pascoli | 767 | 158 | 129 | 1054 |
-| D'Annunzio | 473 | 138 | 167 | 778 |
-| Futurismo | 316 | 130 | 104 | 550 |
-| Romanzo del Novecento | 271 | 68 | 67 | 406 |
-| Svevo | 244 | 61 | 81 | 386 |
-| **Totale** | **3253** | **865** | **815** | **4933** |
+| Argomento | mega-schema | riassunto | ripasso | Totale righe | Totale caratteri |
+|-----------|-------------|-----------|---------|--------------|-----------------|
+| Neorealismo cinematografico | 236 | 60 | 59 | 355 | 24 468 |
+| Neorealismo letterario | 471 | 147 | 103 | 721 | 58 522 |
+| Decadentismo e Simbolismo | 475 | 103 | 105 | 683 | 51 667 |
+| Pascoli | 767 | 158 | 129 | 1054 | 73 574 |
+| D'Annunzio | 473 | 138 | 167 | 778 | 61 511 |
+| Futurismo | 316 | 130 | 104 | 550 | 42 170 |
+| Romanzo del Novecento | 274 | 68 | 67 | 409 | 34 758 |
+| Svevo | 244 | 61 | 81 | 386 | 24 294 |
+| **Totale** | **3256** | **865** | **815** | **4936** | **370 964** |
 
-Dimensioni espresse in numero di righe.
+Dimensioni espresse in numero di righe (colonne mega/riassunto/ripasso/totale) e caratteri Unicode totali per argomento (`wc -m`).

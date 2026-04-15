@@ -120,23 +120,23 @@ La professoressa ha annunciato il programma rimanente:
 | Neorealismo cinematografico | riassunto | 60 | 4 207 | 4 247 |
 | Neorealismo cinematografico | ripasso | 59 | 2 013 | 2 044 |
 | Neorealismo letterario | mega-schema | 471 | 41 085 | 41 545 |
-| Neorealismo letterario | riassunto | 147 | 10 972 | 11 118 |
+| Neorealismo letterario | riassunto | 221 | 22 147 | 22 472 |
 | Neorealismo letterario | ripasso | 103 | 6 465 | 6 585 |
 | Decadentismo e Simbolismo | mega-schema | 475 | 38 175 | 38 786 |
-| Decadentismo e Simbolismo | riassunto | 103 | 8 987 | 9 126 |
+| Decadentismo e Simbolismo | riassunto | 285 | 19 641 | 19 971 |
 | Decadentismo e Simbolismo | ripasso | 105 | 4 505 | 4 609 |
 | Pascoli | mega-schema | 767 | 57 608 | 58 248 |
-| Pascoli | riassunto | 158 | 10 725 | 10 812 |
+| Pascoli | riassunto | 439 | 29 584 | 29 891 |
 | Pascoli | ripasso | 129 | 5 241 | 5 284 |
 | D'Annunzio | mega-schema | 473 | 44 863 | 45 308 |
-| D'Annunzio | riassunto | 138 | 9 650 | 9 704 |
+| D'Annunzio | riassunto | 233 | 22 847 | 23 040 |
 | D'Annunzio | ripasso | 167 | 6 998 | 7 065 |
 | Futurismo | mega-schema | 316 | 29 466 | 29 874 |
-| Futurismo | riassunto | 130 | 7 847 | 7 955 |
+| Futurismo | riassunto | 150 | 15 110 | 15 371 |
 | Futurismo | ripasso | 104 | 4 857 | 4 923 |
 | Romanzo del Novecento | mega-schema | 274 | 25 603 | 25 848 |
-| Romanzo del Novecento | riassunto | 68 | 5 853 | 5 914 |
+| Romanzo del Novecento | riassunto | 152 | 13 343 | 13 478 |
 | Romanzo del Novecento | ripasso | 67 | 3 302 | 3 334 |
 | Svevo | mega-schema | 244 | 16 935 | 17 183 |
-| Svevo | riassunto | 61 | 4 616 | 4 677 |
+| Svevo | riassunto | 123 | 8 878 | 9 000 |
 | Svevo | ripasso | 81 | 2 743 | 2 783 |

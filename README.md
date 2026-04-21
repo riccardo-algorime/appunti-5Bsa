@@ -11,6 +11,7 @@ Raccolta di appunti e materiali scolastici.
 
 | Cartella | Contenuto | Entrata consigliata |
 |---|---|---|
+| `chimica/` | 1 cartelle, 0 file | `-` |
 | `italiano/` | 8 cartelle, 2 file | `INDICE.md` |
 | `pcto/` | 2 cartelle, 1 file | `appunti.md` |
 | `storia/` | 1 cartelle, 0 file | `-` |
@@ -19,6 +20,19 @@ Raccolta di appunti e materiali scolastici.
 
 ```text
 .
+├── chimica/
+│   └── interrogazione-aprile/
+│       ├── B1-raw.md
+│       ├── B1-ripasso.md
+│       ├── B1-studio.md
+│       ├── B2B4-ripasso.md
+│       ├── B2B4-studio.md
+│       ├── B2-raw.md
+│       ├── B2-ripasso.md
+│       ├── B2-studio.md
+│       ├── B4-raw.md
+│       ├── B4-ripasso.md
+│       └── B4-studio.md
 ├── CONTRIBUTING.md
 ├── italiano/
 │   ├── dannunzio/

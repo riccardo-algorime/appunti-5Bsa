@@ -374,7 +374,7 @@ flowchart TD
     E --> F[Opinione pubblica:<br/>favore verso i ricchi]
     A --> G[Protezionismo ancora più rigido<br/>Tariffe stratosferiche 1930]
     G --> H[Ritiro investimenti<br/>all'estero]
-    H → I[Esportazioni -60% 1929-32]
+    H --> I[Esportazioni -60% 1929-32]
     H --> J[Germania interrompe<br/>riparazioni]
     G --> K[Altri protezionismi<br/>Traffici ridotti<br/>Isolamento economico]
 ```

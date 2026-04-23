@@ -2,86 +2,87 @@
 
 ---
 
-## Date fondamentali del capitolo
-
-| Anno / Data | Evento |
-|-------------|--------|
-| **1919-29** | **«Anni ruggenti»**: nasce il «sogno americano» |
-| **1919** | XVIII emendamento: **proibizionismo** (vigore 1920, abrogato 1933) |
-| **1920** | Elezioni: vittoria repubblicano **Harding**; donne al voto |
-| **1924** | **Piano Dawes**: aiuti USA a Germania ed Europa; immigrati limitati a **165.000/anno** |
-| **1925** | **Trattato di Locarno**: Germania riconosce Versailles |
-| **1928** | **Patto Briand-Kellogg**: rinuncia alla guerra |
-| **24-29 ott. 1929** | **Crollo di Wall Street**: inizio **Grande Depressione** |
-| **Nov. 1932** | Eletto il democratico **Franklin D. Roosevelt** |
-| **Mar.-Mag. 1933** | *Emergency Banking Act*, *Agricultural Adjustment Act* |
-| **Giu. 1933** | *NIRA*: diritti lavoratori, opere pubbliche; CCC e TVA |
-| **1935** | Sistema di **previdenza sociale nazionale** |
-| **Nov. 1936** | **Rielezione** di Roosevelt |
-| **1935-37** | **Leggi sulla neutralità**: isolazionismo |
-
----
-
 ## 1. La guerra e le sue eredità
 
-### Il rafforzamento dello Stato federale e i «nemici interni»
+### Il rafforzamento del governo centrale
 
-La **Prima guerra mondiale** proiettò gli USA sulla scena internazionale come **superpotenza *ante litteram***. Lo **Stato federale si rafforzò** tramite mobilitazione totale, coscrizione obbligatoria (4 milioni di uomini) e intervento nell'economia.
-
-La propaganda e le leggi limitarono le libertà: il «**nemico interno**» fu individuato in pacifisti, movimenti operai radicali e la **comunità tedesco-americana** (10.000 internati). Si riconfermò l'identità **WASP** (*White, Anglo-Saxon, Protestant*).
-
-### KKK, Red Scare e proibizionismo
-
-**Rinascita del KKK (1915)**: ispirato dal film *The Birth of a Nation*, il Klan estese le violenze da afroamericani a immigrati, ebrei, cattolici. La presidenza Wilson fu contraddittoria: donne al voto (1920), ma nessuna tutela per i diritti degli afroamericani.
-
-**Red Scare (1919-20)**: la «paura rossa» portò a repressione del movimento operaio, arresti di massa, deportazioni. Caso emblematico: **Sacco e Vanzetti**, due anarchici italiani condannati a morte (1927) senza prove.
-
-**Proibizionismo** (XVIII emendamento, 1919-1933): divieto di alcolici → traffici illegali della malavita organizzata (es. **Al Capone**).
+La Prima guerra mondiale proiettò gli Stati Uniti sulla scena internazionale nel ruolo di **superpotenza** *ante litteram*. Il governo federale **si rafforzò** attraverso la **coscrizione obbligatoria** (4 milioni di uomini chiamati alle armi) e l'intervento diretto nell'economia (industria bellica, rete ferroviaria, approvvigionamenti).
 
 ```mermaid
 flowchart TD
-    A[WWI] --> B[Rafforzamento Stato federale]
-    A --> C[Nemico interno<br/>Pacifisti, tedesco-americani]
-    C --> D[Identità WASP]
-    A --> E[Nazional-patriottismo]
-    E --> F[KKK 1915<br/>Violenze razziali]
-    E --> G[Red Scare 1919-20]
-    E --> H[Proibizionismo<br/>Malavita organizzata]
+    A[Prima guerra mondiale] --> B[Mobilitazione totale<br/>4 milioni coscritti]
+    B --> C[Rafforzamento Stato federale]
+    C --> D[Gestione industria bellica<br/>Rete ferroviaria]
 ```
+
+### Propaganda, censura e «nemici interni»
+
+Il governo allestì una **potente propaganda** e introdusse leggi che **limitarono le libertà** di opinione ed espressione. Il **«nemico interno»** fu individuato nei pacifisti e nei movimenti operai radicali. La repressione colpì la **comunità tedesco-americana** (10.000 internati). L'identità nazionale si definì come **WASP** (*white, anglo-saxon, protestant*).
+
+### La rinascita del Ku Klux Klan
+
+La crescita del sentimento **nazional-patriottico** si tradusse in violenze contro la popolazione nera. Nel **1915** il **KKK rinacque**, ispirandosi al film *The Birth of a Nation*. L'associazione ingrossò le proprie fila distinguendosi per violenze contro **afroamericani, immigrati, ebrei, cattolici**. I soldati afroamericani furono inquadrati in unità separate; la discriminazione si radicò anche nelle città industriali del Nord.
+
+### La «paura dei rossi» e il caso Sacco e Vanzetti
+
+Il biennio **1919-20** fu segnato dal ***Red Scare***, la **«paura rossa»** diffusa dopo la rivoluzione bolscevica. L'anticomunismo si saldò alla xenofobia: arresti di massa, incarcerazioni, deportazioni. Emblematico fu il processo del **1921** contro gli anarchici italiani **Nicola Sacco e Bartolomeo Vanzetti**, condannati a morte senza prove ed eseguiti nell'agosto **1927**.
+
+```mermaid
+flowchart TD
+    A[Rivoluzione bolscevica] --> B[Red Scare 1919-20]
+    B --> C[Anticomunismo + xenofobia]
+    C --> D[Arresti di massa<br/>Deportazioni]
+    C --> E[Processo Sacco e Vanzetti<br/>1921-27]
+```
+
+### Proibizionismo
+
+La guerra lasciò un clima di **conformismo** puritano. Il **XVIII emendamento** (1919) vietò produzione, vendita e trasporto di bevande alcoliche. Il proibizionismo generò **traffici illegali** per la malavita organizzata (Al Capone, «nemico pubblico numero uno» fino al 1931). L'emendamento fu abrogato nel **1933**.
 
 ---
 
 ## 2. Gli «anni ruggenti» e il «sogno americano»
 
-### La nuova potenza mondiale e il ritorno repubblicano
+### La nuova potenza mondiale
 
-Gli USA furono i **veri vincitori** della guerra: egemonia industriale e finanziaria, crediti all'estero per oltre 10 miliardi di dollari. Le **elezioni 1920** portarono al potere i repubblicani (**Harding**, poi Coolidge, poi Hoover): protezionismo, restrizione dell'immigrazione (da 350.000 a 165.000/anno), politica favorevole ai grandi gruppi d'affari.
+Gli USA furono i **veri vincitori** della guerra: vantavano **crediti esteri per oltre 10 miliardi di dollari** e l'**egemonia economica** era indiscussa. Le esportazioni passarono da materie prime a **prodotti industriali**.
 
-**Disuguaglianze**: nel 1929 lo **0,1%** controllava il **34%** del risparmio, l'**80%** non aveva risparmio, il **20%** più ricco deteneva il **55%** del reddito nazionale.
+### Il ritorno dei repubblicani
 
-### Il boom economico e la società dei consumi
+Le elezioni del **1920** videro la vittoria del repubblicano **Warren Harding**, ostile all'internazionalismo wilsoniano. Il Partito repubblicano mantenne la presidenza fino al 1933 (Harding, Coolidge, Hoover). Fu adottato un forte **protezionismo** e si restrinse l'immigrazione: **350.000/anno** nel 1921, **165.000** nel 1924, favorendo l'immigrazione anglosassone.
 
-Dal **1921-22** boom economico: PIL +50%, produzione industriale quasi raddoppiata, salari più alti, orario ridotto. L'**industria automobilistica** fu trainante: da 500.000 auto (1916) a **5,5 milioni** (1929). Entrarono nelle case elettrodomestici (frigoriferi, ferri da stiro) e radio (**40%** delle famiglie nel 1929).
+### Una politica per i grandi gruppi d'affari
 
-Radio e automobile favorirono la **nazionalizzazione** degli USA: lingua standardizzata, infrastrutture, stile di vita urbano (lavoratori in agricoltura scesi al 21%).
+Le leggi contro monopoli e **trust** furono abrogate. Prosperarono grandi concentrazioni: **Standard Oil**, **General Electric**, **Ford**, **General Motors**, **Chrysler**. La politica fiscale abbassò le imposte dirette: nel 1929 lo **0,1% controllava il 34% del risparmio**, l'**80% non aveva risparmio**.
 
-### Il «sogno americano» e i suoi esclusi
+### Il boom economico
 
-Nacque il **«sogno americano»**: individualismo, pari opportunità, benessere, ascesa sociale. Gli anni Venti furono battezzati **«anni ruggenti»** (*Roaring Twenties*). Ma ampia fascia della popolazione ne era esclusa: aree rurali (agricoltura in crisi), minatori, settori tradizionali, minoranze, afroamericani, immigrati.
+Dal 1921-22 gli USA conobbero una **crescita economica impetuosa**: il **PIL crebbe almeno del 50%** fino al 1929. La produzione automobilistica passò da **500.000 auto (1916)** a **5,5 milioni (1929)**. Nelle case entrarono elettrodomestici e radio: nel 1929 il **40% delle famiglie** possedeva un apparecchio radiofonico. La possibilità di **acquistare a rate** favorì la diffusione dei consumi.
 
-**Vivacità culturale**: jazz, charleston, ***flappers*** (donne anticonformiste), **«lost generation»** di scrittori (Hemingway, Fitzgerald).
+| Indicatore | 1916 | 1929 |
+|------------|------|------|
+| **Produzione automobilistica** | 500.000 | 5,5 milioni |
+| **Famiglie con radio** | — | 40% |
 
 ```mermaid
 flowchart TD
-    A[Elezione repubblicani 1920] --> B[Protezionismo<br/>Restrizione immigrazione]
-    B --> C[BOOM ECONOMICO<br/>1921-29]
-    C --> D[Industria auto: 5,5 milioni 1929]
-    C --> E[Beni durevoli, radio]
-    C --> F[Nazionalizzazione]
-    C --> G[Società dei consumi<br/>«Sogno americano»]
-    G --> H[«Anni ruggenti»]
-    G --> I[ESCLUSI<br/>Aree rurali, minoranze, immigrati]
+    A[Boom economico 1921-29] --> B[PIL +50%]
+    A --> C[Industria automobilistica<br/>5,5 milioni auto 1929]
+    A --> D[Beni durevoli<br/>Radio, frigoriferi]
+    A --> E[Cultura del consumo<br/>Acquisti a rate]
 ```
+
+### Radio e auto: la «nazionalizzazione» degli USA
+
+La radio portò in tutte le case una **lingua standardizzata**. L'auto stimolò la costruzione di strade e infrastrutture. I lavoratori in agricoltura scesero dal **41% (1900)** al **21% (fine decennio)**. Uno **stile di vita urbano** si impose ovunque.
+
+### Il «sogno americano»: per molti ma non per tutti
+
+Gli **«anni ruggenti»** (*Roaring Twenties*) consacrarono il mito del **«sogno americano»**: **individualismo**, **pari opportunità**, **benessere**, **ascesa sociale**. Il **cinema** alimentò i sogni di promozione sociale. Ma ampie fasce ne erano escluse: **aree rurali** (crisi agricola), **minatori**, settori tradizionali, **minoranze**, **afroamericani**, **immigrati**.
+
+### Vivacità culturale
+
+Gli anni Venti furono un'epoca di grande **vivacità culturale**: **jazz** e **charleston**, modelli di **emancipazione femminile** (le ***flappers***). La **«generazione perduta»** (*lost generation*) – Hemingway, Fitzgerald – soggiornò in Europa. La cultura statunitense smise di essere tributaria di quella europea.
 
 ---
 
@@ -89,21 +90,23 @@ flowchart TD
 
 ### L'«americanizzazione» del mondo
 
-Gli USA avviarono un internazionalismo diverso da quello wilsoniano: egemonia economica, investimenti e prestiti all'estero, modernità americana come riferimento globale (film di Hollywood). L'**«americanizzazione» del mondo** muoveva i primi passi.
+La mancata ratifica di Versailles non impedì un'internazionalismo inevitabile. Le ragioni del protagonismo USA: nuova posizione vs potenze europee, **egemonia economica**, investimenti all'estero, modernità americana come **riferimento globale** (film di Hollywood). L'**«americanizzazione» del mondo** muoveva i primi passi.
 
-### Piano Dawes e patto Briand-Kellogg
+### Debiti e riparazioni: la «diplomazia del dollaro»
 
-**Piano Dawes (1924)**: prestito alla Germania per risanare l'economia; «diplomazia del dollaro». Seguì il **Trattato di Locarno (1925)**: la Germania riconosce i confini di Versailles.
+Quando la Germania non poté pagare le riparazioni, Gran Bretagna e Francia chiesero la sospensione dei loro debiti verso gli USA. Washington, pur intransigente sul rimborso, riteneva fondamentale **rilanciare le economie europee**. Il **piano Dawes** (1924) previde un **ingente prestito alla Germania**.
 
-**Patto Briand-Kellogg (1928)**: rinuncia alla guerra come strumento di politica nazionale; sottoscritto da 63 Paesi; base per la nozione di **«crimine contro la pace»** (processi di Norimberga e Tokyo).
+### Il patto Briand-Kellogg
+
+Il piano Dawes fu la premessa del **Trattato di Locarno** (1925): la Germania riconobbe i confini di Versailles, sembrando aprirsi una fase di pace. Nel **1928** il **patto Briand-Kellogg** sancì la **rinuncia alla guerra** come strumento di politica nazionale. Sottoscritto da **15 Paesi** inizialmente, raggiunse **63 firme** nel 1939. Offrì la base per la nozione di **«crimine contro la pace»** (processi di Norimberga e Tokyo).
 
 ```mermaid
 flowchart TD
-    A[Protagonismo USA] --> B[Egemonia economica]
-    B --> C[Piano Dawes 1924]
-    C --> D[Trattato di Locarno 1925]
+    A[Piano Dawes 1924] --> B[Stabilizzazione Europa]
+    B --> C[Trattato di Locarno 1925]
+    C --> D[Pace e cooperazione]
     D --> E[Patto Briand-Kellogg 1928<br/>Rinuncia alla guerra]
-    E --> F[Base per «crimine contro la pace»<br/>Norimberga e Tokyo]
+    E --> F[Base per crimine contro la pace<br/>Norimberga, Tokyo]
 ```
 
 ---
@@ -112,106 +115,148 @@ flowchart TD
 
 ### Il crollo di Wall Street
 
-Il **24 ottobre 1929** («Giovedì nero») e il **29 ottobre** («Martedì nero»): crollo della Borsa di Wall Street. 16 milioni di titoli svenduti, **40 miliardi di perdite** in un anno (superiori alle riparazioni di guerra tedesche). Inizio della **Grande Depressione**.
-
-**Cause immediate**: euforia speculativa, assenza di controlli, crescita dei titoli senza aggancio all'economia reale.
-
-### Le cause profonde
-
-**Sovrapproduzione industriale**: esportazioni rallentate (ripreesa europea), mercato interno saturato (beni durevoli, disuguaglianze redditi).
-
-**Crisi agricola**: calo dei prezzi, reddito dei coltivatori = 1/3 del reddito medio nazionale, terre ipotecate.
-
-**Indebitamento collettivo**: facile accesso al credito, mutui e vendite a rate, sistema bancario vulnerabile (piccoli istituti).
-
-### Il circolo vizioso e la diffusione globale
-
-Crisi della fiducia → blocco dei crediti → contrazione dei consumi → riduzione della produzione → fallimenti e disoccupazione.
-
-**Entro il 1932**: PIL -1/3, produzione industriale -50%, oltre **5000 banche** fallite, **13 milioni** di disoccupati, 32.000 imprese chiuse.
-
-**Crisi globale**: le interdipendenze diffuse la crisi in Europa, America Latina, Australia, Giappone. Fu un **prodotto della Grande guerra** e dei limiti di Versailles.
-
-**Errori di Hoover**: liberismo, no assistenza nazionale, protezionismo rigido (tariffe stratosferiche 1930), ritiro capitali dall'estero (-60% esportazioni 1929-32).
+Il **24 ottobre 1929** il prezzo delle azioni iniziò a scendere: **effetto a valanga**, **12 milioni di azioni** svendute. Il **29 ottobre** le vendite riguardarono **16 milioni di titoli**. Le perdite sommarono **40 miliardi di dollari**. Il valore di titoli era cresciuto **senza aggancio con l'economia reale**. Gli USA entrarono nella **Grande Depressione**, crisi di gravità senza precedenti.
 
 ```mermaid
 flowchart TD
-    A[SOVRAPPRODUZIONE] --> E[GRANDE DEPRESSIONE]
-    B[CRISI AGRICOLA] --> E
-    C[INDEBITAMENTO] --> E
-    D[CROLLO WALL STREET<br/>Ottobre 1929] --> E
-    E --> F[Circolo vizioso<br/>13 milioni disoccupati 1932]
-    E --> G[CRISI GLOBALE]
-    H[Errori Hoover<br/>Protezionismo, no assistenza] --> G
+    A[Euforia speculativa] --> B[Prezzi azioni gonfiati<br/>Senza aggancio economia reale]
+    B --> C[24 ottobre 1929<br/>Crollo Wall Street]
+    C --> D[29 ottobre<br/>16 milioni titoli svenduti]
+    D --> E[40 miliardi perdite]
+    E --> F[GRANDE DEPRESSIONE]
 ```
+
+### Le cause della Grande Depressione
+
+| Settore | Problema |
+|---------|----------|
+| **Industriale** | Sovrapproduzione, esportazioni rallentate, mercato interno saturo |
+| **Agricolo** | Calo prezzi, reddito = 1/3 media nazionale, terre ipotecate |
+| **Finanziario** | Indebitamento collettivo, sistema bancario vulnerabile |
+
+### Le dimensioni della crisi
+
+Si innescò un **circolo vizioso**: crisi fiducia → blocco crediti → contrazione consumi → riduzione produzione → fallimenti e disoccupazione. Entro il **1932**: PIL ridotto di **un terzo**, **13 milioni** di disoccupati, oltre **5000 banche** fallite, **32.000 imprese** chiuse. La crisi divenne **globale**: le interdipendenze create dagli aiuti americani diffusero il cataclisma.
+
+### Gli errori di Hoover
+
+Fedele al liberismo, Hoover pensava la risposta dovesse venire dall'**iniziativa privata**. Interventi pubblici limitati, assistenza demandata alla carità. Nel 1930 **protezionismo ancora più rigido**: esportazioni crollarono del **60%**. La Germania interruppe le riparazioni; ogni Paese cercò autosufficienza economica.
 
 ---
 
-## 5. Il *New Deal*: contro la crisi, un progetto per il futuro
+## 5. Il New Deal: contro la crisi, un progetto per il futuro
 
-### Roosevelt e il nuovo patto con i cittadini
+### Un nuovo presidente
 
-**Elezioni 1932**: vittoria del democratico **Franklin D. Roosevelt** (voto contro Hoover). Lo slogan ***New Deal*** indicava: recuperare fiducia e ottimismo, nuovo patto con i cittadini (accrescimento del ruolo dello Stato).
+Le elezioni del **1932** videro la vittoria del democratico **Franklin Delano Roosevelt**. Lo slogan ***New Deal*** indicava: recuperare **fiducia e ottimismo**, un **nuovo patto Stato-cittadini** con ruolo accresciuto dello Stato. La crisi aveva messo in discussione il nesso tra capitalismo e liberaldemocrazia; il mondo cercava alternative (URSS, dittature di destra).
 
 ### Le misure del New Deal
 
-| Settore | Provvedimento | Contenuto |
-|---------|---------------|-----------|
-| **Bancario** | *Emergency Banking Act* (marzo 1933) | Controllo statale, garanzia risparmiatori, poteri Federal Reserve |
-| **Monetario** | Svalutazione dollaro | Politica inflazionistica per rimettere in circolazione liquidità |
-| **Agricolo** | *Agricultural Adjustment Act* (maggio 1933) | Sussidi per riduzione superfici coltivate → risalita prezzi |
-| **Industriale** | *NIRA* (giugno 1933) | Codici concorrenza leale, salario minimo, orario massimo, diritti lavoratori |
-| **Opere pubbliche** | CCC (marzo 1933), TVA (maggio 1933) | 3 milioni giovani impiegati; dighe, elettrificazione Tennessee |
-
-**Previdenza sociale (1935)**: sussidi di invalidità, disoccupazione, pensioni di vecchiaia (esclusi braccianti e lavoratori domestici).
-
-### La rielezione 1936 e la leadership carismatica
-
-Roosevelt usò la **radio** per comunicare direttamente con i cittadini: le ***fireside chats* («chiacchierate al caminetto»)**. 30 discorsi tra 1933 e 1944. Dimostrò che la leadership carismatica è possibile anche in contesti democratico-liberali. **Rieletto largamente nel 1936**.
-
-### Normalizzazione e isolazionismo
-
-Dal **1937** il New Deal si stabilizzò. Opposizione (~40%): lo Stato centrale era estraneo alla tradizione liberale americana. **Recessione 1937-38**.
-
-**Isolazionismo**: non partecipazione alla Conferenza economica di Londra (1933); scarso interesse per il disarmo; **leggi sulla neutralità (1935-37)**; embargo sulla Spagna durante la guerra civile.
-
-### L'eredità del New Deal
-
-**Limiti**: Grande Depressione non superata, disoccupazione ancora alta. L'uscita dalla crisi avvenne solo con la mobilitazione industriale della Seconda guerra mondiale.
-
-**Eredità**:
-- Accresciuto potere dell'**autorità federale**
-- Spostamento del baricentro sulla **«presidenza personale»**
-- **Svolta politica e culturale**: revisione rapporti Stato-cittadino
-- **Modello di capitalismo democratico**: conciliazione tra diritti individuali e tutela dello Stato, impresa privata e programmazione pubblica
+| Settore | Provvedimento | Data | Contenuto |
+|---------|---------------|------|-----------|
+| **Bancario** | Emergency Banking Act | 9 marzo 1933 | Controllo banche, garanzia risparmiatori |
+| **Monetario** | Svalutazione dollaro | 1933 | Politica inflazionistica |
+| **Agricolo** | Agricultural Adjustment Act | 12 maggio 1933 | Sussidi per riduzione colture |
+| **Industriale** | NIRA | 16 giugno 1933 | Salario minimo, orario massimo, opere pubbliche |
+| **Ambientale** | Civilian Conservation Corps | Marzo 1933 | 3 milioni giovani in progetti |
+| **Infrastrutture** | Tennessee Valley Authority | Maggio 1933 | Bacino fiume Tennessee |
 
 ```mermaid
 flowchart TD
-    A[Elezione Roosevelt 1932] --> B[NEW DEAL]
-    B --> C[Bancario: garanzia risparmiatori]
-    B --> D[Agricolo: sussidi riduzione colture]
-    B --> E[Industriale: NIRA, diritti lavoratori]
-    B --> F[Opere pubbliche: CCC, TVA]
-    B --> G[Previdenza sociale 1935]
-    B --> H[Radio: fireside chats]
-    H --> I[RIELEZIONE 1936]
-    I --> J[Normalizzazione 1937<br/>Recessione 1937-38]
-    B --> K[ISOLAZIONISMO<br/>Leggi neutralità]
-    B --> L[EREDITÀ<br/>Capitalismo democratico]
+    A[New Deal 1933] --> B[Emergency Banking Act<br/>Garanzia risparmiatori]
+    A --> C[Agricultural Adjustment Act<br/>Sussidi agricoli]
+    A --> D[NIRA: salario minimo<br/>orario massimo]
+    D --> E[Più consumi, più occupazione]
+    A --> F[Opere pubbliche<br/>Strade, ponti, aeroporti]
+    A --> G[Tennessee Valley Authority]
+```
+
+### La rielezione del 1936
+
+Nel **1935** furono introdotti: intensificazione opere pubbliche, legge fiscale contro i redditi alti, **sistema di previdenza sociale nazionale** (sussidi, pensioni). **Eleanor Roosevelt** sostenne i diritti civili degli afroamericani. La **rielezione del 1936** fu una vittoria larghissima: mandato a proseguire.
+
+Roosevelt usò la **radio** per le ***fireside chats*** («chiacchierate al caminetto»): **30 discorsi** tra 1933 e 1944, stile informale e rassicurante. Dimostrò che una **leadership carismatica** era possibile **anche in democrazia**.
+
+### La normalizzazione del programma
+
+Dal **1937** il New Deal si stabilizzò: non vi furono ulteriori spinte. Circa il **40% disapprovava**: lo Stato centrale era estraneo alla tradizione liberale americana, accusato di limitare la libertà d'impresa. La Corte costituzionale giudicò illegittimi alcuni provvedimenti (NIRA). Nel **1937-38** una **piccola recessione** traballò la fiducia.
+
+### New Deal e isolazionismo
+
+Nel **giugno 1933** Roosevelt non partecipò alla Conferenza economica di Londra. Mostrò scarso interesse per le conferenze sul disarmo. **Leggi sulla neutralità** (1935-37) impedivano di vendere armi a Paesi belligeranti, applicate anche alla **Guerra civile spagnola**. Solo dopo il **1938** iniziò la virata verso un ruolo di **leadership mondiale**.
+
+### L'eredità del New Deal
+
+Il New Deal mostrò **molti limiti**: la Depressione non fu risolta, la disoccupazione restò alta. L'uscita dalla crisi avvenne con la mobilitazione della **Seconda guerra mondiale**. Tuttavia:
+
+- accrebbe il **potere dell'autorità federale**
+- spostò il baricentro sulla **«presidenza personale»**
+- fu una **svolta politica e culturale**: revisione dei rapporti Stato-cittadino
+- fu un **esperimento di riforma del capitalismo in un sistema liberaldemocratico**
+
+Gli USA dimostrarono la praticabilità di un **modello di capitalismo democratico**: combinazione tra **diritti individuali e tutela dello Stato**, **impresa privata e programmazione pubblica**, **profitti privati e benessere collettivo**.
+
+```mermaid
+flowchart TD
+    A[New Deal: eredità] --> B[Limiti: Depressione non risolta]
+    B --> C[Uscita con la Seconda<br/>guerra mondiale]
+    A --> D[Potere federale accresciuto<br/>Presidenza personale]
+    A --> E[Revisione rapporti<br/>Stato-cittadino]
+    A --> F[Capitalismo democratico]
+    F --> G[Diritti individuali + tutela Stato]
+    F --> H[Impresa privata + programmazione]
+    F --> I[Profitti privati + benessere collettivo]
+    G --> J[Modello esportato<br/>post-1945]
 ```
 
 ---
 
-## 6. Le domande degli storici: quale bilancio?
+## Date fondamentali — Riepilogo cronologico
 
-### Dal punto di vista dei cittadini
+| Data | Evento |
+|---|---|
+| **1915** | Rinascita del **Ku Klux Klan** |
+| **1919** | XVIII emendamento: **proibizionismo**; **Red Scare** |
+| **1920** | Donne ammesse al voto; elezione di **Harding** (repubblicano) |
+| **1921** | Tetto immigrazione: **350.000/anno** |
+| **1924** | Piano **Dawes**; tetto immigrazione: **165.000/anno** |
+| **1925** | Trattato di **Locarno** |
+| **1928** | Patto **Briand-Kellogg** |
+| **24-29 ottobre 1929** | Crollo di **Wall Street** |
+| **1932** | Elezione di **Franklin D. Roosevelt** |
+| **9 marzo 1933** | Emergency Banking Act |
+| **12 maggio 1933** | Agricultural Adjustment Act |
+| **16 giugno 1933** | NIRA |
+| **1933** | Abrogazione proibizionismo (XXI emendamento) |
+| **1935** | Previdenza sociale nazionale |
+| **1935-37** | Leggi sulla neutralità |
+| **1936** | Rielezione di Roosevelt |
+| **1937-38** | Piccola recessione |
 
-Il New Deal rappresentò un **elemento di forte discontinuità** rispetto al liberismo di Hoover: intervento nell'economia per riordinare il sistema bancario, sostenere i gruppi in difficoltà, opere pubbliche, riorganizzare rapporti imprenditori-sindacati.
+---
 
-### I risultati concreti
+## Mappa concettuale — Visione d'insieme del capitolo
 
-Roosevelt ottenne **risultati notevoli**, ma non bastarono a risollevare il Paese dalla disoccupazione. Reddito pro capite risalito a metà anni Trenta, ma nel **1937** nuova recessione e disoccupazione tornò sopra i **10 milioni**.
-
-### La prospettiva internazionale
-
-Bilancio **decisamente positivo**: la politica di Roosevelt rafforzò la **leadership globale** degli USA. L'America mostrò un modello di Stato in grado di **conciliare democrazia e capitalismo**, ponendo le basi per l'egemonia politica post-Seconda guerra mondiale (Kiran Klaus Patel).
+```mermaid
+mindmap
+  root("**Cap. 3.10: L'inizio del secolo<br/>americano**")
+    ("**1. Eredità della guerra**")
+      ("Stato federale rafforzato<br/>WASP, KKK 1915")
+      ("Red Scare<br/>Sacco e Vanzetti")
+      ("Proibizionismo 1919-33")
+    ("**2. Anni ruggenti**")
+      ("Repubblicani 1920-33<br/>Protezionismo")
+      ("Boom economico<br/>PIL +50%, 5,5 mln auto")
+      ("Sogno americano<br/>Ma esclusi: rurali, minoranze")
+    ("**3. Ruolo mondiale USA**")
+      ("Piano Dawes 1924<br/>Trattato Locarno 1925")
+      ("Patto Briand-Kellogg 1928")
+    ("**4. Crisi 1929**")
+      ("Crollo Wall Street<br/>40 miliardi perdite")
+      ("Grande Depressione<br/>13 mln disoccupati")
+      ("Errori Hoover: liberismo<br/>protezionismo")
+    ("**5. New Deal**")
+      ("Roosevelt 1932<br/>Nuovo patto Stato-cittadini")
+      ("Emergency Banking Act<br/>NIRA, TVA")
+      ("Capitalismo democratico<br/>Isolazionismo 1933-38")
+```

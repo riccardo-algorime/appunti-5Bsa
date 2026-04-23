@@ -2,265 +2,242 @@
 
 ---
 
-## Date fondamentali
+## Date fondamentali del capitolo
 
-| Anno | Evento |
-|------|--------|
-| **21 lug. 1921** | Hitler capo del **NSDAP** |
-| **8 nov. 1923** | **Putsch di Monaco** («birreria»); Hitler arrestato → *Mein Kampf* |
-| **1928-31** | NSDAP: 2,6% → 18,3% → 37,3% |
-| **30 gen. 1933** | **Hitler Cancelliere** |
-| **28 feb. 1933** | **Incendio Reichstag** → decreto emergenza (libertà sospese) |
-| **23 mar. 1933** | **Lega dei pieni poteri** |
-| **12 nov. 1933** | **Terzo Reich** (*«Ein Volk, ein Reich, ein Führer»*) |
-| **30 giu. 1934** | **«Notte dei lunghi coltelli»**: SA eliminate |
-| **Estate 1934** | Hitler **padrone assoluto** (Cancelliere + Presidente + capo Forze armate) |
-| **Set. 1935** | **Leggi di Norimberga** (ebrei senza cittadinanza, matrimoni vietati) |
-| **9-10 nov. 1938** | **«Notte dei cristalli»**: pogrom antiebraico |
-| **Ott. 1933** | Germania esce dalla **Società delle Nazioni** |
-| **1935** | **Saar** → Germania (plebiscito 90,9%) |
-| **7 mar. 1936** | Occupazione **Renania** smilitarizzata |
-| **11-12 mar. 1938** | **Anschluss**: Austria annessa |
-| **1936-37** | **Asse Roma-Berlino** + **Patto anti-Komintern** (Giappone) |
+| Anno / Data | Evento |
+|-------------|--------|
+| **21 luglio 1921** | Hitler capo del NSDAP |
+| **8 novembre 1923** | Putsch della birreria a Monaco |
+| **30 gennaio 1933** | Hitler Cancelliere |
+| **12 novembre 1933** | Terzo Reich |
+| **30 giugno 1934** | Notte dei lunghi coltelli |
+| **Settembre 1935** | Leggi di Norimberga |
+| **Marzo 1938** | *Anschluss* Austria |
+| **9-10 novembre 1938** | Notte dei cristalli |
 
 ---
 
-## 1. Il tramonto di Weimar e l'ascesa di Hitler
+## 1. Il tramonto della Repubblica di Weimar
 
-### Stabilizzazione e crisi (1924-33)
+### Stabilizzazione 1924-29
+- **Ripresa economica** + coalizione centro-destra sotto **Hindenburg**
+- **Accordi di Locarno 1925**: frontiere inviolabili, Renania smilitarizzata
+- **Germania ammessa nella SdN** (1926)
+- **Stresemann** ministro Esteri: compromesso con i vincitori
 
-- **1924-29**: Weimar sembrava stabile (ripresa economica, **accordi di Locarno** 1925, Germania in **Società delle Nazioni** 1926)
-- **Stresemann** (ministro Esteri): compromesso con i vincitori
-- **Ottobre 1929**: morte Stresemann + **crollo Wall Street** → **Grande Depressione**
-- **Gennaio 1933**: **6 milioni di disoccupati** (vs 1,3 milioni sett. 1929)
-- Crisi = rafforzamento **partiti estremisti**; Weimar in «spirale terminale»
-
-### Il programma hitleriano
-
-- **NSDAP**: programma che miscela **anticapitalismo + pangermanesimo + darwinismo sociale + antisemitismo**
-- Più che «nazismo» = **hitlerismo** (senza Führer non c'è il nazismo)
-- **«Razza ariana»** superiore → diritto allo **«spazio vitale»** (*Lebensraum*)
-- **Ebrei** = nemico assoluto, alla radice del «complotto ebraico-comunista»
-- Milizie: **SA** («camicie brune», Röhm) e **SS** (Himmler)
-- **1923**: putsch di Monaco fallito → Hitler in carcere → ***Mein Kampf***
+### Rottura 1929
+- Morte di **Stresemann** + **crollo di Wall Street** = Grande Depressione
+- Disoccupazione: da 1,3 mln → **6 milioni** (gennaio 1933)
+- Consensi ai partiti **estremisti**, liberali irrilevanti
 
 ```mermaid
 flowchart TD
-    A[Stabilità 1924-29] --> B[Locarno + SdN]
-    C[Ott. 1929] --> D[Crash Wall Street]
-    D --> E[6 milioni disoccupati]
-    E --> F[Ascesa NSDAP]
+    A[Stabilizzazione 1924-29] --> B[Locarno 1925 + SdN 1926]
+    B --> C[Crollo Wall Street 1929]
+    C --> D[6 milioni disoccupati 1933]
+    D --> E[CRISI WEIMAR<br/>Consensi estremisti]
 ```
+
+### Il Partito nazista (NSDAP)
+- **Hitler** (austriaco, 1889): nel 1919 entra nella *Deutsche Arbeiterpartei*
+- 1921: Führer del NSDAP
+- Programma: **anticapitalismo + pangermanesimo + darwinismo sociale + antisemitismo**
+- Ideali: **«comunità di popolo»**, **«razza ariana»**, **«spazio vitale» (*Lebensraum*)**
+- **Ebreo = nemico assoluto**, complotto ebraico-comunista
+
+### SA, SS e Mein Kampf
+- **SA** (camicie brune) di **Ernst Röhm**: milizia armata
+- **SS** di **Heinrich Himmler** (dal 1929)
+- **Putsch della birreria** Monaco, 8 novembre 1923 → Hitler incarcerato
+- In carcere scrive ***Mein Kampf***
 
 ---
 
 ## 2. La conquista del potere
 
-### Repubblica «d'emergenza»
-
-- Dopo **marzo 1930**: governi con **poteri eccezionali** del Presidente (sospensione Parlamento)
-- Ultimi Cancellieri: Brüning (cons.), von Papen, von Schleicher (reazionari) → tutti impotenti
-- Sinistra lacerata: KPD vs SPD; Komintern indica socialdemocratici come **«socialfascisti»**
+### La repubblica d'emergenza
+- Marzo 1930: ultimo governo democratico si dimette
+- Poteri eccezionali del Presidente → **sospensione del Parlamento**
+- Tre Cancellieri impotenti: **Brüning → von Papen → von Schleicher**
 
 ### Ascesa elettorale NSDAP
 
-| Data | Consensi |
-|------|----------|
-| Mag. 1928 | 2,6% |
-| Set. 1930 | 18,3% |
-| Lug. 1932 | **37,3%** (maggioranza relativa) |
-| Nov. 1932 | 33,1% |
-| Mar. 1933 | **43,9%** |
+| Data | NSDAP |
+|---|---|
+| Maggio 1928 | 2,6% |
+| Settembre 1930 | 18,3% |
+| Luglio 1932 | 37,3% |
+| Novembre 1932 | 33,1% |
+| Marzo 1933 | 43,9% |
 
-- **30 gennaio 1933**: von Papen convince Hindenburg → **Hitler Cancelliere**
-- **13 marzo 1933**: **Goebbels** ministro Propaganda
-
-### Incendio Reichstag e pieni poteri
-
-- **28 febbraio 1933**: **incendio Reichstag** → decreto «protezione popolo e Stato»
-  - Sospese: opinione, stampa, riunione, associazione, inviolabilità domicilio
-  - Stato di emergenza gestito direttamente dal Cancelliere
-- **5 marzo**: elezioni, NSDAP **43,9%**; con partito tedesco-nazionale = maggioranza **51,9%**
-- **23 marzo**: **Lega dei pieni poteri** → Hitler tutti i poteri, senza limiti temporali
-  - 444 sì, 94 no (solo socialdemocratici); comunisti esclusi (carcere, esilio, clandestinità)
-  - Centristi e liberali ricattati, si piegarono «per evitare il peggio»
-
-### Terzo Reich e notte dei lunghi coltelli
-
-- **Maggio 1933**: tutti i sindacati fuori legge (tranne quello nazista)
-- **Luglio 1933**: **NSDAP unico partito legale**; sterilizzazione forzata per malattie ereditarie (400.000 persone in 12 anni)
-- **12 novembre 1933**: **Terzo Reich** (*«Ein Volk, ein Reich, ein Führer»*)
-- **30 giugno 1934**: **«Notte dei lunghi coltelli»**
-  - **Gestapo** (Göring, marzo 1933) elimina leader SA (Röhm) ~100 uccisi
-  - Destra guglielmina messa fuori gioco
-- **Estate 1934**: Hitler **padrone assoluto** → Cancelliere + Presidente + capo Forze armate
-
-```mermaid
-flowchart LR
-    A["30 gen. 1933<br/>Cancelliere"] --> B["28 feb.<br/>Incendio Reichstag"]
-    B --> C["23 mar.<br/>Pieni poteri"]
-    C --> D["Lug. 1933<br/>Partito unico"]
-    D --> E["12 nov. 1933<br/>Terzo Reich"]
-    E --> F["30 giu. 1934<br/>Lunghi coltelli"]
-    F --> G["Estate 1934<br/>Potere assoluto"]
-```
-
----
-
-## 3. La natura del regime nazista
-
-### Regime di esclusione
-
-- Obiettivo: **comunità nazionale omogenea**, devota al Führer
-- Il nazismo fu soprattutto **razzista**
-- **«Il nemico del nazista era la persona»**: tutti ridotti a membri della «comunità di sangue»
-
-### Terrore e campi di concentramento
-
-- Entro 1934: polizie e strutture repressive sotto **Himmler** → **«Stato delle SS»**
-- Oppositori, «degenerati», «razze inferiori» → **campi di concentramento**
-- **Dachau** (22 marzo 1933): primo campo, modello per gli altri
-- Operazioni eugenetiche: «migliorare la stirpe» a danno di malati, disabili
-
-### Politica della razza
-
-- **~500.000 ebrei** in Germania (0,75% della popolazione)
-- **7 aprile 1933**: legge «arianizzazione» → ebrei estromessi da pubblica amministrazione
-- **Settembre 1935**: **Leggi di Norimberga**
-  - Ebrei privati della cittadinanza
-  - Matrimoni e rapporti sessuali con tedeschi vietati
-- **9-10 novembre 1938**: **«Notte dei cristalli»**
-  - Pogrom in tutto il Reich
-  - Sinagoghe, negozi, abitazioni bruciati
-  - ~250.000 ebrei emigrano 1933-39; pochi Paesi aprirono le frontiere
-
-### Culto di Hitler e consenso
-
-- **Culto di Hitler**: religione laica fondata su **pedagogia di massa**
-- **Gioventù hitleriana** (*Hitlerjugend*): dai 10 anni, culto del corpo, indottrinamento, addestramento paramilitare
-- Propaganda: **cinema** e **radio**
-- Regime = **caos dei poteri**: conflitti Stato/partito, competenze sovrapposte, capi rivali per favore del Führer
-- **Capitalismo e dittatura**: nessuna rivoluzione sociale; proprietà privata, profitti, classi
-- **Fronte tedesco del lavoro**: tutti i lavoratori inquadrati, zero potere contrattuale, **sciopero = crimine**
+### Sinistra lacerata
+- **SPD vs KPD**: i comunisti chiamano i socialdemocratici **socialfascisti**
+- Nessun fronte comune contro il nazismo
+- **Von Papen** convince Hindenburg: **30 gennaio 1933 = Hitler Cancelliere**
 
 ```mermaid
 flowchart TD
-    A[POLITICA DELLA RAZZA] --> B[Arianizzazione<br/>Aprile 1933]
-    B --> C[Leggi Norimberga<br/>Set. 1935]
-    C --> D[Notte cristalli<br/>9-10 nov. 1938]
+    A[Governi d'emergenza 1930-33] --> B[NSDAP: 2,6% → 37,3%]
+    B --> C[30 GENNAIO 1933:<br/>HITLER CANCELLIERE]
+    D[SPD vs KPD = socialfascisti] --> E[Nessun fronte comune]
+    E --> C
 ```
+
+### Incendio del Reichstag e pieni poteri
+- **28 febbraio 1933**: incendio del Parlamento
+- Decreto emergenza: **libertà sospese**, censura, domicilio violabile
+- **5 marzo**: elezioni, NSDAP 43,9%
+- **23 marzo**: **Legge dei pieni poteri** (444 sì, 94 no) → dittatura legalizzata
+
+### Liquidazione opposizioni
+- Maggio 1933: **sindacati fuori legge**
+- Luglio 1933: **partito unico** NSDAP
+- Sterilizzazione forzata: **400.000 persone**
+
+### Notte dei lunghi coltelli (30 giugno 1934)
+- **Gestapo** (polizia segreta di Göring) elimina i **leader delle SA**
+- **Röhm** ucciso con ~100 seguaci
+- Von Papen estromesso
+- **Hitler potere assoluto**: Cancelliere + Presidente + capo Forze armate
+
+---
+
+## 3. Natura del regime
+
+### Comunità omogenea di sangue
+- **Nemico del nazista = la persona**
+- Tutti ridotti a **membri della comunità di sangue**
+- Regime soprattutto **razzista**
+
+### Stato delle SS e campi
+- Polizie repressive accentrate sotto **Himmler** = **«Stato delle SS»**
+- **Dachau** (22 marzo 1933): primo campo di concentramento
+- Eugenetica: sterilizzazione di malati e portatori di handicap
+
+### Politica della razza
+- ~**500.000 ebrei** in Germania (0,75% popolazione)
+- **Arianizzazione** (aprile 1933): ebrei estromessi dalla PA
+- **Leggi di Norimberga** (settembre 1935):
+  - Perdita **cittadinanza** per ebrei
+  - Vietati **matrimoni misti**
+- **Notte dei cristalli** (9-10 novembre 1938):
+  - Pogrom in tutto il Reich
+  - Sinagoghe, negozi, abitazioni saccheggiati e incendiati
+- **250.000 ebrei** emigrati prima del 1939
+
+```mermaid
+flowchart TD
+    A[Politica della razza] --> B[Arianizzazione 1933]
+    B --> C[Norimberga 1935<br/>Perdita cittadinanza]
+    C --> D[Cristalli 1938<br/>Pogrom generale]
+    D --> E[250.000 ebrei emigrati]
+```
+
+### Culto di Hitler
+- **Pedagogia di massa** dalla culla alla tomba
+- **Gioventù hitleriana** (*Hitlerjugend*) dai 10 anni
+- Propaganda di **Goebbels**: **cinema** e **radio**
+
+### Capitalismo e dittatura
+- **Capitalismo compatibile** con dittatura
+- Proprietà privata e profitti mantenuti
+- **Fronte tedesco del lavoro**: sindacato unico, **niente contrattazione**, **sciopero = reato**
 
 ---
 
 ## 4. Politiche economiche e sociali
 
-### Politica economica
+### Politica economica di Schacht
+- **Hjalmar Schacht** ministro Economia (1933-37)
+- **Espansione spesa pubblica**
+- **Autostrade** + **Volkswagen** (Porsche)
+- **Riarmo**: Wehrmacht 16 marzo 1935 (violazione Versailles)
+- Risultato: **riduzione disoccupazione** → **consenso di massa**
 
-- **Hjalmar Schacht** (ministro Economia 1933-37): **espansione spesa pubblica**
-- **Autostrade**: infrastrutture + motorizzazione
-- **Volkswagen**: «automobile del popolo» (Porsche)
-- **Riarmo**: esplicito dal **16 marzo 1935** (rinascita **Wehrmacht**, violazione Versailles)
-- Tedeschi: dalla povertà a **modesta prosperità**
-- **Forza dalla Gioia**: sport, turismo; **7 milioni** parteciparono a crociere 1933-39
+```mermaid
+flowchart TD
+    A[Schacht: spesa pubblica] --> B[AUTOSTRADE]
+    A --> C[VOLKSWAGEN]
+    A --> D[RIARMO WEHRMACHT]
+    B --> E[Disoccupazione ↓]
+    C --> E
+    D --> E
+    E --> F[CONSENSO DI MASSA]
+```
 
 ### Vita culturale
-
-- **10 maggio 1933**: **rogo dei libri** a Berlino (autori ebrei e socialisti)
-- **«Arte degenerata»**: mostra 1937 (Chagall, Klee, Nolde, Grosz, Kokoschka)
-- **«Musica degenerata»**: Mendelssohn, Mahler, Schönberg + musica moderna
+- **Rogo dei libri** (Berlino, 10 maggio 1933): autori ebrei e socialisti
+- **Arte degenerata** e **musica degenerata** bandite
 
 ### Religione politica
+- Adunate di massa a **Norimberga**
+- Film di **Leni Riefenstahl**: *Il trionfo della volontà* (1934), *Olympia* (1936)
+- Calendario ritmato sul **culto di Hitler**
 
-- **Adunate di Norimberga** → film *Il trionfo della volontà* (Leni Riefenstahl, 1934)
-- **Olimpiadi Berlino 1936** → *Olympia* (Riefenstahl)
-- Calendario: 30 gennaio (presa potere), 20 aprile (compleanno Hitler), 9 novembre (martiri putsch 1923)
-
-### Chiese
-
-- **20 luglio 1933**: **concordato** con Santa Sede
-- Episcopato in gran parte accettò il regime (argine al bolscevismo)
-- **Von Galen** (vescovo Münster): denunciò razzismo 1934, programma eutanasia «T4» 1941
-- **Marzo 1937**: enciclica **Pio XI** → fede inconciliabile con ideologia nazista
-- **Testimoni di Geova**: 25.000 affiliati → 10.000 incarcerati, 1200 uccisi
+### Rapporti con le Chiese
+- **Concordato con Santa Sede** (20 luglio 1933)
+- Vescovo **von Galen**: denunce di neopaganesimo (1934) ed eutanasia (1941)
+- **Pio XI** (marzo 1937): enciclica contro ideologia nazista
 
 ---
 
-## 5. Il progetto della «grande Germania»
+## 5. Il progetto di una «grande Germania»
 
 ### Orizzonte: guerra e dominio
+- **Spazio vitale** (*Lebensraum*) verso **Est**
+- Costruire la **«grande Germania»** prima della guerra
+- Contesto favorevole: **paura comunismo**, **divergenze Londra-Parigi**, **isolazionismo USA**
 
-- Obiettivo ultimo: **guerra** per dominio germanico
-- *Lebensraum* verso **Est**, poi confronto con Occidente
-- Prima: erigere la **«grande Germania»**
-- Sovvertimento Versailles = **consenso generale dei tedeschi**
-- Hitler procedette per gradi, sfruttando: **paura comunismo**, **divergenze Londra-Parigi**, isolazionismo USA, ripiegamento URSS
+### Rapporto con l'Italia
+- 1934: Mussolini truppe al Brennero contro annessione Austria
+- **1935-36**: avvicinamento dopo guerra Etiopia e **Spagna** (entrambi con Franco)
+- **Asse Roma-Berlino** (1936)
 
-### Rapporto con Italia
-
-- **1934**: Mussolini schiera 4 divisioni al Brennero contro annessione Austria
-- Avvicinamento solo **1935-36**: guerra Etiopia (nazisti neutrali) + **guerra civile spagnola** (entrambi con Franco)
-
-### Espansione tedesca
-
-- **Ottobre 1933**: Germania esce dalla **Società delle Nazioni**
-- **1935**: accordo navale Londra (flotta tedesca = 35% Royal Navy)
-- **1936-37**: **Asse Roma-Berlino** + **Patto anti-Komintern** (con Giappone, aderisce anche Italia)
-- Hitler: talento tattico → minacce alternate a proclami di pace; sfruttò debolezza Stati centro-orientali
-
-### Recupero terre perdute
-
-- **1935**: **Saar** → Germania (plebiscito: **90,9%** pro-Reich)
-- **7 marzo 1936**: occupazione **Renania** smilitarizzata; Hitler straccia accordi di Locarno
-
-### Anschluss
-
-- **11-12 marzo 1938**: Wehrmacht occupa **Austria senza resistenza**
-- Mussolini non ostacola: intesa italo-tedesca, rapporti di forza rovesciati
-- Hitler proclama ***Anschluss*** da Vienna
-- Londra: linea conciliante; Parigi: sperava nelle promesse di pace
+### Espansione tedesca 1933-38
+- **Ottobre 1933**: Germania esce dalla **SdN**
+- **1935**: accordo navale con GB
+- **1936**: Asse Roma-Berlino + Patto anti-Komintern (con Giappone)
+- **1935**: **Saar** → plebiscito 90,9% per Germania
+- **7 marzo 1936**: **Renania** occupata
+- **11-12 marzo 1938**: **Anschluss Austria** (senza resistenza)
 
 ```mermaid
 flowchart TD
-    A[GRANDE GERMANIA] --> B[Uscita SdN<br/>Ott. 1933]
-    B --> C[Asse + Patto anti-Komintern<br/>1936-37]
-    A --> D[Saar → Reich<br/>1935]
-    D --> E[Renania occupata<br/>7 mar. 1936]
-    E --> F[Anschluss Austria<br/>11-12 mar. 1938]
-```
-
-```mermaid
-flowchart LR
-    A["Ott. 1933<br/>↓ Società Nazioni"] --> B["1935<br/>Saar"]
-    B --> C["7 mar. 1936<br/>Renania"]
-    C --> D["1936-37<br/>Asse + Patto"]
-    D --> E["11-12 mar. 1938<br/>Anschluss"]
+    A[Germania 1933-38] --> B[Esce dalla SdN 1933]
+    B --> C[Asse Roma-Berlino 1936]
+    C --> D[Saar 1935: 90,9%]
+    C --> E[Renania 7 marzo 1936]
+    C --> F[ANSSCHLUSS AUSTRIA<br/>11-12 marzo 1938]
 ```
 
 ---
 
-## Schema riepilogativo: tappe del Terzo Reich
+## Mappa concettuale d'insieme
 
 ```mermaid
-flowchart TD
-    A[Crisi Weimar<br/>1929-33] --> B[NSDAP 43,9%<br/>Mar. 1933]
-    B --> C[Hitler Cancelliere<br/>30 gen. 1933]
-    C --> D[Pieni poteri<br/>23 mar. 1933]
-    D --> E[Terzo Reich<br/>Nov. 1933]
-    E --> F[Potere assoluto<br/>Estate 1934]
-    F --> G[Leggi Norimberga<br/>1935]
-    G --> H[Notte cristalli<br/>1938]
-    F --> I[Anschluss<br/>1938]
+mindmap
+  root("**Cap. 3.11: La Germania nazista**")
+    ("**1. Tramonto Weimar**")
+      ("Locarno 1925, SdN 1926")
+      ("Wall Street 1929 → 6 mln disoccupati")
+      ("NSDAP: 2,6% → 37,3%")
+      ("Lebensraum, razzismo, antisemitismo")
+    ("**2. Conquista potere**")
+      ("Hitler Cancelliere 30 gen. 1933")
+      ("Reichstag → pieni poteri 23 marzo")
+      ("Terzo Reich 12 nov. 1933")
+      ("Lunghi coltelli 30 giugno 1934")
+    ("**3. Natura regime**")
+      ("Stato delle SS, Dachau")
+      ("Norimberga 1935, Cristalli 1938")
+      ("Culto di Hitler")
+      ("Capitalismo + dittatura")
+    ("**4. Politiche economiche**")
+      ("Schacht: autostrade, Volkswagen")
+      ("Riarmo → consenso")
+      ("Roghi libri 1933")
+    ("**5. Grande Germania**")
+      ("Asse 1936")
+      ("Saar 1935, Renania 1936")
+      ("Anschluss Austria 1938")
 ```
-
----
-
-## Tabella: le fasi del Terzo Reich
-
-| Periodo | Fase | Eventi chiave |
-|---------|------|---------------|
-| **1924-29** | Stabilizzazione Weimar | Locarno; Germania in SdN |
-| **1929-33** | Crisi e ascesa nazista | Crollo Wall Street; NSDAP 2,6% → 43,9% |
-| **1933-34** | Conquista del potere | Cancelliere; incendio Reichstag; pieni poteri; Terzo Reich |
-| **1934** | Consolidamento | Notte lunghi coltelli; potere assoluto |
-| **1935-38** | Politica razziale | Leggi Norimberga; notte cristalli |
-| **1935-38** | Espansione | Saar 1935; Renania 1936; Austria 1938 |

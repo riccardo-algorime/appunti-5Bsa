@@ -42,14 +42,14 @@ Questi anni segnarono uno spartiacque geopolitico fondamentale. Sul piano intern
 ```mermaid
 flowchart TD
     A[Prima guerra mondiale] --> B[Mobilitazione totale]
-    B --> C[Coscrizione obbligatoria<br/>4 milioni di uomini]
+    B --> C[Coscrizione obbligatoria<br>4 milioni di uomini]
     B --> D[Rafforzamento dello Stato federale]
-    D --> E[Gestione industria bellica<br/>Rete ferroviaria<br/>Approvvigionamenti]
+    D --> E[Gestione industria bellica<br>Rete ferroviaria<br>Approvvigionamenti]
     A --> F[Propaganda e censura]
-    F --> G[Limitazione delle libertà<br/>di opinione ed espressione]
-    G --> H[Nemico interno:<br/>pacifisti + movimenti operai radicali]
-    G --> I[Comunità tedesco-americana<br/>10.000 internati]
-    H --> J[Identità nazionale WASP:<br/>White, Anglo-Saxon, Protestant]
+    F --> G[Limitazione delle libertà<br>di opinione ed espressione]
+    G --> H[Nemico interno:<br>pacifisti + movimenti operai radicali]
+    G --> I[Comunità tedesco-americana<br>10.000 internati]
+    H --> J[Identità nazionale WASP:<br>White, Anglo-Saxon, Protestant]
     I --> J
 ```
 
@@ -82,14 +82,14 @@ Emblematico fu il processo celebrato nel **1921** in Massachusetts contro **due 
 
 ```mermaid
 flowchart TD
-    A[Rivoluzione bolscevica 1917] --> B[Red Scare<br/>Paura rossa 1919-20]
-    C[Attentati dinamitardi<br/>di matrice politica] --> B
+    A[Rivoluzione bolscevica 1917] --> B[Red Scare<br>Paura rossa 1919-20]
+    C[Attentati dinamitardi<br>di matrice politica] --> B
     B --> D[Anticomunismo + xenofobia + razzismo]
-    D --> E[Arresti di massa<br/>Incarcerazioni e deportazioni]
-    D --> F[Processo Sacco e Vanzetti<br/>1921-27]
-    F --> G[Due anarchici italiani<br/>condannati senza prove]
-    G --> H[Mobilitazione globale<br/>per la revisione]
-    H --> I[Esecuzione agosto 1927<br/>Riabilitazione postuma 50 anni dopo]
+    D --> E[Arresti di massa<br>Incarcerazioni e deportazioni]
+    D --> F[Processo Sacco e Vanzetti<br>1921-27]
+    F --> G[Due anarchici italiani<br>condannati senza prove]
+    G --> H[Mobilitazione globale<br>per la revisione]
+    H --> I[Esecuzione agosto 1927<br>Riabilitazione postuma 50 anni dopo]
 ```
 
 ### 1.5 L'eredità della guerra: conformismo e proibizionismo
@@ -100,12 +100,12 @@ Il cosiddetto **proibizionismo** aveva lo scopo di evitare i nefasti conseguimen
 
 ```mermaid
 flowchart TD
-    A[Eredità della guerra] --> B[Clima di conformismo<br/>Crociata morale puritana]
-    B --> C[PROIBIZIONISMO<br/>XVIII emendamento 1919]
-    C --> D[Divieto produzione,<br/>vendita e trasporto alcolici]
+    A[Eredità della guerra] --> B[Clima di conformismo<br>Crociata morale puritana]
+    B --> C[PROIBIZIONISMO<br>XVIII emendamento 1919]
+    C --> D[Divieto produzione,<br>vendita e trasporto alcolici]
     D --> E[Abrogato 1933]
-    D --> F[Traffici illegali<br/>Malavita organizzata]
-    F --> G[Gangster come Al Capone<br/>Nemico pubblico n.1 fino al 1931]
+    D --> F[Traffici illegali<br>Malavita organizzata]
+    F --> G[Gangster come Al Capone<br>Nemico pubblico n.1 fino al 1931]
 ```
 
 ---
@@ -128,12 +128,12 @@ Dal **1921** fu adottato un forte **protezionismo**, che ancora non si ritorse c
 
 ```mermaid
 flowchart TD
-    A[Elezioni 1920] --> B[Vittoria repubblicana<br/>Warren Harding]
-    B --> C[Abbandono internazionalismo<br/>wilsoniano]
-    B --> D[Politica protezionista<br/>dal 1921]
+    A[Elezioni 1920] --> B[Vittoria repubblicana<br>Warren Harding]
+    B --> C[Abbandono internazionalismo<br>wilsoniano]
+    B --> D[Politica protezionista<br>dal 1921]
     B --> E[Restrizione immigrazione]
     E --> F[1921: tetto 350.000/anno]
-    E --> G[1924: tetto 165.000/anno<br/>Favorita immigrazione anglosassone]
+    E --> G[1924: tetto 165.000/anno<br>Favorita immigrazione anglosassone]
     C --> H[Coolidge 1923-29]
     C --> I[Hoover 1929-33]
 ```
@@ -166,14 +166,14 @@ L'espansione era fondata su **beni durevoli**. Nelle case entrarono elettrodomes
 
 ```mermaid
 flowchart TD
-    A[Boom economico 1921-29] --> B[PIL +50%<br/>Disoccupazione riassorbita]
-    A --> C[Industria automobilistica<br/>trainante]
-    C --> D[1916: 500.000 auto<br/>1929: 5,5 milioni]
+    A[Boom economico 1921-29] --> B[PIL +50%<br>Disoccupazione riassorbita]
+    A --> C[Industria automobilistica<br>trainante]
+    C --> D[1916: 500.000 auto<br>1929: 5,5 milioni]
     D --> E[1 auto ogni 6 abitanti]
-    A --> F[Beni durevoli<br/>elettrodomestici]
+    A --> F[Beni durevoli<br>elettrodomestici]
     F --> G[Frigoriferi: 5.000 → 1 milione]
     F --> H[Radio: 40% delle famiglie]
-    A --> I[Cultura del consumo<br/>Acquisti a rate]
+    A --> I[Cultura del consumo<br>Acquisti a rate]
 ```
 
 ### 2.5 Il ruolo della radio e dell'auto nella «nazionalizzazione» degli USA
@@ -192,13 +192,13 @@ Ampie fasce della popolazione ne erano infatti escluse, in particolare nelle **a
 
 ```mermaid
 flowchart TD
-    A[Sogno americano<br/>Anni ruggenti] --> B[Individualismo<br/>Pari opportunità<br/>Ascesa sociale]
-    A --> C[Cinema e radio<br/>modelli di benessere]
-    A --> D[MA: squilibri<br/>e differenze geografiche]
+    A[Sogno americano<br>Anni ruggenti] --> B[Individualismo<br>Pari opportunità<br>Ascesa sociale]
+    A --> C[Cinema e radio<br>modelli di benessere]
+    A --> D[MA: squilibri<br>e differenze geografiche]
     D --> E[Esclusi dal benessere:]
-    E --> F[Aree rurali<br/>Crisi agricola]
-    E --> G[Minatori<br/>Settori tradizionali]
-    E --> H[Minoranze<br/>Afroamericani<br/>Immigrati]
+    E --> F[Aree rurali<br>Crisi agricola]
+    E --> G[Minatori<br>Settori tradizionali]
+    E --> H[Minoranze<br>Afroamericani<br>Immigrati]
 ```
 
 ### 2.7 Oltre il conformismo, una nuova vivacità culturale
@@ -228,16 +228,16 @@ Gli Stati Uniti esportavano un modello e l'**«americanizzazione» del mondo** m
 
 ```mermaid
 flowchart TD
-    A[Protagonismo USA<br/>post-Versailles] --> B[Nuova posizione<br/>vs potenze europee]
-    A --> C[Egemonia economica<br/>Sistema interdipendente]
-    A --> D[Saldo attivo bilancia commerciale<br/>Investimenti e prestiti all'estero]
-    A --> E[Modernità americana<br/>riferimento globale]
-    E --> F[Film di Hollywood<br/>potenza comunicativa]
-    B --> G[AMERICANIZZAZIONE<br/>del mondo]
+    A[Protagonismo USA<br>post-Versailles] --> B[Nuova posizione<br>vs potenze europee]
+    A --> C[Egemonia economica<br>Sistema interdipendente]
+    A --> D[Saldo attivo bilancia commerciale<br>Investimenti e prestiti all'estero]
+    A --> E[Modernità americana<br>riferimento globale]
+    E --> F[Film di Hollywood<br>potenza comunicativa]
+    B --> G[AMERICANIZZAZIONE<br>del mondo]
     C --> G
     D --> G
     F --> G
-    G --> H[Obiettivo: pace stabile<br/>ordine liberale<br/>senza istituzioni sovranazionali]
+    G --> H[Obiettivo: pace stabile<br>ordine liberale<br>senza istituzioni sovranazionali]
 ```
 
 ### 3.2 Debiti e riparazioni: una «diplomazia del dollaro» verso l'Europa
@@ -260,14 +260,14 @@ Il sistema dell'economia e delle relazioni internazionali instauratosi negli ann
 
 ```mermaid
 flowchart TD
-    A[Piano Dawes 1924] --> B[Stabilizzazione Europa<br/>Détente Germania-Francia]
-    B --> C[Trattato di Locarno 1925<br/>Germania riconosce confini Versailles]
-    C --> D[Pace e cooperazione<br/>internazionale]
+    A[Piano Dawes 1924] --> B[Stabilizzazione Europa<br>Détente Germania-Francia]
+    B --> C[Trattato di Locarno 1925<br>Germania riconosce confini Versailles]
+    C --> D[Pace e cooperazione<br>internazionale]
     D --> E[Patto Briand-Kellogg 1928]
-    E --> F[Rinuncia alla guerra<br/>come strumento di politica nazionale]
-    F --> G[15 firmatari iniziali<br/>63 firme nel 1939]
-    G --> H[Dichiarazione di intenti<br/>senza meccanismi di applicazione]
-    H --> I[Base per «crimine contro la pace»<br/>Processi di Norimberga e Tokyo]
+    E --> F[Rinuncia alla guerra<br>come strumento di politica nazionale]
+    F --> G[15 firmatari iniziali<br>63 firme nel 1939]
+    G --> H[Dichiarazione di intenti<br>senza meccanismi di applicazione]
+    H --> I[Base per «crimine contro la pace»<br>Processi di Norimberga e Tokyo]
 ```
 
 ---
@@ -290,13 +290,13 @@ Gli Stati Uniti, e sulla loro scia gran parte del mondo, entrarono nell'era dell
 
 ```mermaid
 flowchart TD
-    A[Anni Venti: euforia speculativa] --> B[Prezzi azioni gonfiati<br/>Senza aggancio con economia reale]
-    B --> C[Molti si indebitano<br/>per comprare azioni]
-    C --> D[24 ottobre 1929<br/>CROLLO DI WALL STREET]
-    D --> E[Effetto a valanga<br/>12 milioni azioni svendute]
-    E --> F[29 ottobre 1929<br/>16 milioni titoli svenduti]
-    F --> G[40 miliardi di perdite<br/>Carta straccia]
-    G --> H[GRANDE DEPRESSIONE<br/>Crisi senza precedenti]
+    A[Anni Venti: euforia speculativa] --> B[Prezzi azioni gonfiati<br>Senza aggancio con economia reale]
+    B --> C[Molti si indebitano<br>per comprare azioni]
+    C --> D[24 ottobre 1929<br>CROLLO DI WALL STREET]
+    D --> E[Effetto a valanga<br>12 milioni azioni svendute]
+    E --> F[29 ottobre 1929<br>16 milioni titoli svenduti]
+    F --> G[40 miliardi di perdite<br>Carta straccia]
+    G --> H[GRANDE DEPRESSIONE<br>Crisi senza precedenti]
 ```
 
 ### 4.2 Le cause della Grande Depressione negli Stati Uniti
@@ -331,13 +331,13 @@ Entro il **1932** gli «anni ruggenti» si erano volatilizzati: il **PIL si ridu
 
 ```mermaid
 flowchart TD
-    A[Crollo Wall Street 1929] --> B[Crisi della fiducia<br/>Prelievi massicci]
-    B --> C[Blocco dei crediti<br/>Niente prestiti né mutui]
+    A[Crollo Wall Street 1929] --> B[Crisi della fiducia<br>Prelievi massicci]
+    B --> C[Blocco dei crediti<br>Niente prestiti né mutui]
     C --> D[Contrazione dei consumi]
     D --> E[Riduzione della produzione]
     E --> F[Calo prezzi agricoli]
-    F --> G[Failimenti banche e aziende<br/>Licenziamenti, disoccupazione]
-    G --> H[1932: PIL -1/3<br/>13 milioni disoccupati<br/>5000 banche fallite]
+    F --> G[Failimenti banche e aziende<br>Licenziamenti, disoccupazione]
+    G --> H[1932: PIL -1/3<br>13 milioni disoccupati<br>5000 banche fallite]
 ```
 
 ### 4.4 La diffusione mondiale della crisi
@@ -368,15 +368,15 @@ Al protezionismo statunitense risposero altri protezionismi, i **volumi dei traf
 ```mermaid
 flowchart TD
     A[Hoover e il liberismo] --> B[Interventi pubblici limitati]
-    B --> C[Assistenza demandata<br/>a carità privata e governi locali]
-    B --> D[Opere pubbliche<br/>troppo modeste]
-    B --> E[2 miliardi per prestiti<br/>a banche e imprese]
-    E --> F[Opinione pubblica:<br/>favore verso i ricchi]
-    A --> G[Protezionismo ancora più rigido<br/>Tariffe stratosferiche 1930]
-    G --> H[Ritiro investimenti<br/>all'estero]
+    B --> C[Assistenza demandata<br>a carità privata e governi locali]
+    B --> D[Opere pubbliche<br>troppo modeste]
+    B --> E[2 miliardi per prestiti<br>a banche e imprese]
+    E --> F[Opinione pubblica:<br>favore verso i ricchi]
+    A --> G[Protezionismo ancora più rigido<br>Tariffe stratosferiche 1930]
+    G --> H[Ritiro investimenti<br>all'estero]
     H --> I[Esportazioni -60% 1929-32]
-    H --> J[Germania interrompe<br/>riparazioni]
-    G --> K[Altri protezionismi<br/>Traffici ridotti<br/>Isolamento economico]
+    H --> J[Germania interrompe<br>riparazioni]
+    G --> K[Altri protezionismi<br>Traffici ridotti<br>Isolamento economico]
 ```
 
 ---
@@ -407,12 +407,12 @@ Roosevelt intraprese anche una **politica monetaria** opposta a quella di Hoover
 ```mermaid
 flowchart TD
     A[New Deal 1933] --> B[Settore bancario-finanziario]
-    B --> C[Emergency Banking Act<br/>9 marzo 1933]
-    C --> D[Chiusura banche<br/>Controllo conti]
-    D --> E[Federal Reserve Bank<br/>poteri di controllo ampliati]
+    B --> C[Emergency Banking Act<br>9 marzo 1933]
+    C --> D[Chiusura banche<br>Controllo conti]
+    D --> E[Federal Reserve Bank<br>poteri di controllo ampliati]
     E --> F[Garanzia per piccoli risparmiatori]
-    F --> G[Restituita fiducia<br/>Corse agli sportelli fermate]
-    B --> H[Politica monetaria<br/>Svalutazione dollaro<br/>Inflazione controllata]
+    F --> G[Restituita fiducia<br>Corse agli sportelli fermate]
+    B --> H[Politica monetaria<br>Svalutazione dollaro<br>Inflazione controllata]
 ```
 
 ### 5.3 Le misure nei settori agricolo, industriale e delle opere pubbliche
@@ -436,16 +436,16 @@ Con gli stessi obiettivi – impiego, rilancio dell'economia e delle infrastrutt
 
 ```mermaid
 flowchart TD
-    A[New Deal] --> B[Settore agricolo<br/>Agricultural Adjustment Act<br/>12 maggio 1933]
-    B --> C[Sussidi per riduzione<br/>superfici coltivate]
+    A[New Deal] --> B[Settore agricolo<br>Agricultural Adjustment Act<br>12 maggio 1933]
+    B --> C[Sussidi per riduzione<br>superfici coltivate]
     C --> D[Prezzi agricoli risaliti]
-    A --> E[Settore industriale<br/>NIRA 16 giugno 1933]
+    A --> E[Settore industriale<br>NIRA 16 giugno 1933]
     E --> F[Codici concorrenza leale]
-    E --> G[Salario minimo<br/>Orario massimo]
-    G --> H[Più consumi<br/>Più occupazione]
-    A --> I[Opere pubbliche<br/>Strade, ponti, scuole, aeroporti]
-    A --> J[Civilian Conservation Corps<br/>3 milioni giovani]
-    A --> K[Tennessee Valley Authority<br/>Bacino fiume Tennessee]
+    E --> G[Salario minimo<br>Orario massimo]
+    G --> H[Più consumi<br>Più occupazione]
+    A --> I[Opere pubbliche<br>Strade, ponti, scuole, aeroporti]
+    A --> J[Civilian Conservation Corps<br>3 milioni giovani]
+    A --> K[Tennessee Valley Authority<br>Bacino fiume Tennessee]
 ```
 
 ### 5.4 La rielezione del 1936: un presidente carismatico
@@ -483,13 +483,13 @@ Solo dopo il **1938** Roosevelt iniziò una virata politica che avrebbe portato 
 ```mermaid
 flowchart TD
     A[New Deal e politica estera] --> B[Isolazionismo]
-    B --> C[Non partecipazione<br/>Conferenza di Londra giugno 1933]
-    C --> D[Libertà in materia monetaria<br/>Svalutazione dollaro]
-    B --> E[Scarsa interesse<br/>conferenze sul disarmo]
-    B --> F[Leggi sulla neutralità<br/>1935-37]
-    F --> G[Divieto vendita armi<br/>a Paesi belligeranti]
-    G --> H[Applicate anche alla<br/>Guerra civile spagnola]
-    A --> I[Dopo 1938: virata<br/>verso leadership mondiale]
+    B --> C[Non partecipazione<br>Conferenza di Londra giugno 1933]
+    C --> D[Libertà in materia monetaria<br>Svalutazione dollaro]
+    B --> E[Scarsa interesse<br>conferenze sul disarmo]
+    B --> F[Leggi sulla neutralità<br>1935-37]
+    F --> G[Divieto vendita armi<br>a Paesi belligeranti]
+    G --> H[Applicate anche alla<br>Guerra civile spagnola]
+    A --> I[Dopo 1938: virata<br>verso leadership mondiale]
 ```
 
 ### 5.7 L'eredità del New Deal
@@ -509,18 +509,18 @@ In questo panorama gli Stati Uniti dimostrarono la praticabilità di un **modell
 
 ```mermaid
 flowchart TD
-    A[New Deal: eredità] --> B[Limiti: Depressione<br/>non risolta]
-    B --> C[Uscita dalla crisi<br/>con la Seconda guerra mondiale]
-    A --> D[Potere federale accresciuto<br/>vs potere degli Stati]
-    A --> E[Presidenza personale<br/>Presidente centro della politica]
-    A --> F[Revisione rapporti<br/>Stato-cittadino]
-    F --> G[Stato: controllo,<br/>riequilibrio, impulso]
-    A --> H[Riforma del capitalismo<br/>in sistema liberaldemocratico]
+    A[New Deal: eredità] --> B[Limiti: Depressione<br>non risolta]
+    B --> C[Uscita dalla crisi<br>con la Seconda guerra mondiale]
+    A --> D[Potere federale accresciuto<br>vs potere degli Stati]
+    A --> E[Presidenza personale<br>Presidente centro della politica]
+    A --> F[Revisione rapporti<br>Stato-cittadino]
+    F --> G[Stato: controllo,<br>riequilibrio, impulso]
+    A --> H[Riforma del capitalismo<br>in sistema liberaldemocratico]
     H --> I[CAPITALISMO DEMOCRATICO]
     I --> J[Diritti individuali + tutela Stato]
     I --> K[Impresa privata + programmazione pubblica]
     I --> L[Profitti privati + benessere collettivo]
-    J --> M[Modello esportato<br/>nel mondo post-1945]
+    J --> M[Modello esportato<br>nel mondo post-1945]
     K --> M
     L --> M
 ```
@@ -531,43 +531,43 @@ flowchart TD
 
 ```mermaid
 mindmap
-  root("**Cap. 3.10: L'inizio del secolo<br/>americano: anni ruggenti,<br/>crisi e New Deal**")
+  root("**Cap. 3.10: L'inizio del secolo<br>americano: anni ruggenti,<br>crisi e New Deal**")
     ("**1. La guerra e le sue eredità**")
-      ("Rafforzamento Stato federale<br/>Coscrizione obbligatoria")
-      ("Propaganda e censura<br/>Nemico interno: pacifisti")
-      ("WASP: White Anglo-Saxon Protestant<br/>Identità nazionale")
-      ("Rinascita KKK 1915<br/>Razzismo, antisemitismo, xenofobia")
-      ("Red Scare 1919-20<br/>Sacco e Vanzetti")
-      ("Proibizionismo 1919-33<br/>Malavita organizzata")
-    ("**2. Anni ruggenti<br/>e sogno americano**")
-      ("Vincitori della guerra<br/>Egemonia economica")
-      ("Repubblicani 1920-33<br/>Protezionismo, restrizione immigrazione")
-      ("Boom economico 1921-29<br/>PIL +50%, industria automobilistica")
-      ("Società del consumo<br/>Radio, cinema, acquisti a rate")
-      ("Sogno americano<br/>Individualismo, pari opportunità")
-      ("Ma: squilibri geografici<br/>Esclusi: rurali, minoranze, immigrati")
-      ("Lost generation<br/>Hemingway, Fitzgerald")
-    ("**3. Ruolo mondiale<br/>degli USA**")
+      ("Rafforzamento Stato federale<br>Coscrizione obbligatoria")
+      ("Propaganda e censura<br>Nemico interno: pacifisti")
+      ("WASP: White Anglo-Saxon Protestant<br>Identità nazionale")
+      ("Rinascita KKK 1915<br>Razzismo, antisemitismo, xenofobia")
+      ("Red Scare 1919-20<br>Sacco e Vanzetti")
+      ("Proibizionismo 1919-33<br>Malavita organizzata")
+    ("**2. Anni ruggenti<br>e sogno americano**")
+      ("Vincitori della guerra<br>Egemonia economica")
+      ("Repubblicani 1920-33<br>Protezionismo, restrizione immigrazione")
+      ("Boom economico 1921-29<br>PIL +50%, industria automobilistica")
+      ("Società del consumo<br>Radio, cinema, acquisti a rate")
+      ("Sogno americano<br>Individualismo, pari opportunità")
+      ("Ma: squilibri geografici<br>Esclusi: rurali, minoranze, immigrati")
+      ("Lost generation<br>Hemingway, Fitzgerald")
+    ("**3. Ruolo mondiale<br>degli USA**")
       ("Americanizzazione del mondo")
-      ("Piano Dawes 1924<br/>Prestiti alla Germania")
-      ("Trattato di Locarno 1925<br/>Pace e cooperazione")
-      ("Patto Briand-Kellogg 1928<br/>Rinuncia alla guerra")
-      ("Base per crimine contro la pace<br/>Norimberga, Tokyo")
+      ("Piano Dawes 1924<br>Prestiti alla Germania")
+      ("Trattato di Locarno 1925<br>Pace e cooperazione")
+      ("Patto Briand-Kellogg 1928<br>Rinuncia alla guerra")
+      ("Base per crimine contro la pace<br>Norimberga, Tokyo")
     ("**4. Crisi del 1929**")
-      ("Crollo Wall Street<br/>24-29 ottobre 1929")
+      ("Crollo Wall Street<br>24-29 ottobre 1929")
       ("40 miliardi di perdite")
-      ("Cause: sovrapproduzione,<br/>crisi agricola, indebitamento")
-      ("Grande Depressione<br/>PIL -1/3, 13 milioni disoccupati")
-      ("Crisi globale<br/>Interdipendenze diffondono la crisi")
-      ("Errori Hoover: liberismo,<br/>protezionismo, favore ai ricchi")
+      ("Cause: sovrapproduzione,<br>crisi agricola, indebitamento")
+      ("Grande Depressione<br>PIL -1/3, 13 milioni disoccupati")
+      ("Crisi globale<br>Interdipendenze diffondono la crisi")
+      ("Errori Hoover: liberismo,<br>protezionismo, favore ai ricchi")
     ("**5. New Deal**")
-      ("Franklin D. Roosevelt<br/>eletto 1932")
-      ("Nuovo patto Stato-cittadini<br/>Fiducia, ruolo dello Stato")
-      ("Emergency Banking Act 1933<br/>Garanzia piccoli risparmiatori")
-      ("Agricultural Adjustment Act<br/>Sussidi agricoli")
-      ("NIRA: salario minimo,<br/>orario massimo, opere pubbliche")
-      ("Previdenza sociale 1935<br/>Sussidi, pensioni")
-      ("Radio e fireside chats<br/>Leadership carismatica")
-      ("Capitalismo democratico<br/>Diritti + tutela Stato")
-      ("Isolazionismo 1933-38<br/>Leggi sulla neutralità")
+      ("Franklin D. Roosevelt<br>eletto 1932")
+      ("Nuovo patto Stato-cittadini<br>Fiducia, ruolo dello Stato")
+      ("Emergency Banking Act 1933<br>Garanzia piccoli risparmiatori")
+      ("Agricultural Adjustment Act<br>Sussidi agricoli")
+      ("NIRA: salario minimo,<br>orario massimo, opere pubbliche")
+      ("Previdenza sociale 1935<br>Sussidi, pensioni")
+      ("Radio e fireside chats<br>Leadership carismatica")
+      ("Capitalismo democratico<br>Diritti + tutela Stato")
+      ("Isolazionismo 1933-38<br>Leggi sulla neutralità")
 ```

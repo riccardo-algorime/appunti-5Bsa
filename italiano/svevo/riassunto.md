@@ -12,71 +12,59 @@
 | **Morto** | 1928, complicazioni da fumo dopo incidente d'auto |
 | **Professione** | Impiegato di banca, poi industriale (vernice navale Veneziani) |
 | **Lingue** | 1ª dialetto triestino · 2ª tedesco · 3ª italiano (lingua letteraria) |
-| **Opere** | *Una vita* (1893) · *Senilità* (1898) · *La coscienza di Zeno* (1923) |
+| **Opere principali** | *Una vita* (1893) · *Senilità* (1898) · *La coscienza di Zeno* (1923) |
 
 ---
 
 ## 1. Vita e formazione
 
-Italo Svevo nasce nel 1861 a **Trieste**, città di porto e di confine al crocevia tra Italia, Austria e Germania: mitteleuropea per definizione, luogo di culture che si sovrappongono. La sua formazione è quella di un **autodidatta**: studia in Germania dal 1873, torna a Trieste nel 1878 con una vocazione letteraria già forte che il padre non vuole assecondare, e si costruisce su letture autonome fuori da percorsi accademici.
+### 1.1 Trieste: città di confine
 
-> [!note] Dalla lezione
-> «L'italiano tra le lingue dei romanzi di Svevo non era di fatto né la prima e neanche la seconda lingua. Era la terza. Perché la prima lingua è quella del dialetto triestino, la seconda lingua è il tedesco, la terza lingua è l'italiano che poi lui usò come lingua letteraria delle sue opere.»
+Svevo nasce nel 1861 a **Trieste**, città **mitteleuropea** per definizione, porto al crocevia tra Italia, Austria e Germania. Questa condizione di confine è strutturante per tutta la sua opera. Nel 1873 si trasferisce in Germania per gli studi, e al ritorno a Trieste nel 1878 la sua vocazione letteraria è già forte, ma il padre non intende assecondarlo.
 
-Lavora come impiegato di banca, poi sposa Livia Veneziani e diventa industriale nell'impresa di vernice navale del suocero. **Per venticinque anni non pubblica più nulla** ma non smette di scrivere. Il nome d'arte **Italo Svevo** è la sintesi identitaria di questo autore di confine: *Italo* rimanda all'identità italiana, *Svevo* al mondo germanico.
+### 1.2 La doppia vita
 
-Nel primo decennio del Novecento avvengono due incontri fondamentali. **James Joyce** è il suo insegnante d'inglese e sarà tra i primi a riconoscere il valore de *La coscienza di Zeno*. La **psicoanalisi di Freud**, conosciuta attraverso un parente in cura da un allievo di Freud, lo affascina come stimolo letterario ma non come metodo terapeutico:
+Svevo lavora come impiegato di banca, poi sposa **Livia Veneziani** e diventa industriale nell'impresa di famiglia che produce una vernice speciale per le navi. **Per venticinque anni non pubblica più nulla**, eppure non smette di scrivere: la scrittura è per lui un'ossessione irrinunciabile, non una professione.
 
-> [!note] Dalla lezione
-> «Svevo ritiene la psicoanalisi uno strumento **inutile dal punto di vista medico**, ma **molto interessante da un punto di vista letterario**. Qual è invece lo strumento che riconosce come terapeutico? La scrittura. La scrittura per Svevo si rivela essere l'unica vera terapia.»
+### 1.3 I due incontri fondamentali
 
-Muore nel 1928: le complicazioni derivate dal **vizio del fumo** dopo un incidente d'auto ne causarono la morte — dettaglio non aneddotico, perché il fumo è il tema del primo blocco narrativo del capolavoro.
+Nel primo decennio del Novecento avvengono due incontri decisivi per la genesi de *La coscienza di Zeno*.
+
+**James Joyce** era l'insegnante d'inglese di Svevo, lingua necessaria per i suoi affari. Joyce fu tra i primi a riconoscere il valore del romanzo e aiutò Svevo a ottenere quella notorietà internazionale che in Italia gli era stata negata.
+
+**La psicoanalisi di Freud** giunse a Trieste prima che altrove in Italia. Svevo se ne interessò anche perché un parente era in cura presso un allievo di Freud. La sua posizione era di **interesse critico**: riteneva la psicoanalisi inutile come terapia medica ma interessante da un punto di vista letterario. Per lui l'unica vera cura del disagio esistenziale era la **scrittura**.
+
+### 1.4 Lo pseudonimo
+
+Il nome d'arte **Italo Svevo** insiste sulla doppia appartenenza: *Italo* rimanda all'identità italiana, *Svevo* — gli Svevi erano un popolo germanico — rimanda al mondo mitteleuropeo. È la sintesi di un autore cresciuto tra culture diverse.
 
 ---
 
-## 2. La scrittura come ossessione e terapia
+## 2. La scrittura come terapia
 
-Per Svevo scrivere è un **bisogno irrinunciabile**: ossessione privata, mai un mestiere. La scrittura è **autoanalisi** — indagine di sé, esplorazione del disagio — e **terapia**, sostituto della psicoanalisi freudiana ritenuta inutile per la guarigione. Meno condizionato dai modelli canonici, Svevo sviluppa una **scrittura di grado zero**: lineare, con disarmonie sintattiche, priva di eleganza ma immediata nel contenuto.
+Svevo è un **letterato dilettante**: autodidatta, non formato su percorsi accademici, meno condizionato dai modelli letterari canonici. La critica ha definito la sua lingua una **scrittura di grado zero** — lineare, con qualche disarmonia sintattica, non particolarmente elegante sul piano formale. Questo gli consente però di evitare i formalismi e di privilegiare l'espressione del contenuto.
 
-> [!note] Dalla lezione
-> «Sostanzialmente la critica ci ha detto che Svevo scrive male. Questo però gli consente di evitare i formalismi e di scrivere in modo più immediato e volto all'espressione del contenuto.»
+Per Svevo scrivere è un **bisogno**, un'**autoanalisi**, un modo per conoscere se stesso. La psicoanalisi può stimolare la creazione artistica, ma non cura la malattia dell'uomo; la scrittura invece **cura il proprio male di vivere** — per questo Svevo ha scritto moltissimo, anche durante i venticinque anni senza pubblicazione.
 
 ---
 
 ## 3. La "malattia dell'uomo" e la società borghese
 
-Svevo parte da un presupposto radicale: **tutti gli uomini sono malati**. La malattia è il disagio nel rapporto tra l'individuo e la **società borghese**, che impone successo economico, profitto, apparenza e conformismo. Chi non si adatta è emarginato; chi si adatta rischia di perdersi nell'ipocrisia. Svevo indaga questo rapporto dall'interno: lui stesso è un industriale di successo, fa parte di quel mondo borghese che mette a nudo sulla pagina.
+Svevo parte dal presupposto che **tutti gli uomini siano malati**. La malattia del Novecento è quella del rapporto tra l'individuo e la **società borghese**: una società che impone un modello basato sul successo economico, sul profitto e sul conformismo. Chi non risponde a queste richieste rischia l'emarginazione e l'isolamento.
 
-> [!note] Dalla lezione
-> «Qual è la malattia dell'uomo? È la vita. **La malattia è la vita**. [...] Coincide con la vita. Per cui la cura, o meglio la salute, con cosa coincide? Con la morte.»
+> «Qual è la malattia dell'uomo? È la vita. **La malattia è la vita**. La malattia di vivere coincide con la vita stessa. Per cui la cura, o meglio la salute, con cosa coincide? Con la morte.»
 
-Se la malattia è la vita, l'unica salute è la morte — posizione che ne *La coscienza di Zeno* viene presentata con ironia, rendendola sopportabile.
+Se la malattia è la vita, l'unica salute è la morte. Svevo giunge a questa conclusione radicale, ma — soprattutto ne *La coscienza di Zeno* — la presenta con una componente **ironica** che la rende sopportabile.
 
 ---
 
 ## 4. I tre romanzi e i tre personaggi
 
-Tutti i protagonisti sveviani sono **inetti** — dal latino *in-aptus*, inadatti a vivere, abulici — ma con tre risposte diverse alla stessa condizione.
-
-**Alfonso Nitti** (*Una vita*, 1893): il cognome rimanda a *nihil*, nulla. Impiegato deluso nel lavoro e in amore, si uccide. Il romanzo fu un fiasco assoluto.
-
-**Emilio Brentani** (*Senilità*, 1898): giovane con velleità letterarie mai tradotte in atto. Si innamora di Angiolina, donna volgare e fedifraga che lui **idealizza** — per tutti è "Angiolona", per lui un angelo. È l'**autoinganno**: filtrare la realtà attraverso le lenti dei propri desideri.
-
-> [!note] Dalla lezione
-> «Ognuno di noi ha le lenti colorate di un colore diverso e ognuno di noi la realtà la vede attraverso il colore delle sue lenti che non è proprio quello.»
-
-Si crede grande di una **grandezza latente** sempre in potenza e mai in atto. Finisce fuggendo nell'immaginazione: sconfitta, ma senza il tragismo del suicidio.
-
-**Zeno Cosini** (*La coscienza di Zeno*, 1923): *Zeno* dal greco *xenos* = **straniero**; *Cosini* = **insignificante**. Non riesce a smettere di fumare. Ha un rapporto conflittuale col padre. Si innamora di Ada che lo rifiuta, chiede la mano a tutte le sorelle finché Augusta acconsente. Per circostanze casuali arricchisce speculando nel dopoguerra. La differenza fondamentale: Zeno **si affida al caso** con **ironia** e distacco, e paradossalmente riesce. *La coscienza di Zeno* fa ridere.
-
-> [!note] Dalla lezione
-> «La componente che troviamo nella *Coscienza di Zeno* che è estranea ai primi due romanzi è quella dell'ironia, del distacco ironico.»
-
 ```mermaid
 flowchart LR
     A["*Una vita* (1893)"] --> B["**Alfonso Nitti**<br/>Nitti = nihil = nulla<br/>Impiegato · delusione · suicidio"]
-    C["*Senilità* (1898)"] --> D["**Emilio Brentani**<br/>Velleità · autoinganno<br/>Grandezza latente · fuga nel sogno"]
-    E["*La coscienza di Zeno* (1923)"] --> F["**Zeno Cosini**<br/>Xenos = straniero · Cosini = insignificante<br/>Inetto ironico · caso fortunato"]
+    C["*Senilità* (1898)"] --> D["**Emilio Brentani**<br/>Velleità letterarie · autoinganno<br/>Grandezza latente · fuga nel sogno"]
+    E["*La coscienza di Zeno* (1923)"] --> F["**Zeno Cosini**<br/>Xenos = straniero · Cosini = insignificante<br/>Inetto ironico · si affida al caso · fortuna"]
     B -->|"esito"| G["Suicidio"]
     D -->|"esito"| H["Fuga nell'immaginazione"]
     F -->|"esito"| I["Fortuna casuale + ironia"]
@@ -85,23 +73,38 @@ flowchart LR
     style I fill:#27ae60,color:#fff
 ```
 
+**Una vita (1893) — Alfonso Nitti**: primo romanzo, **fiasco assoluto**. Il cognome rimanda al latino *nihil*, "nulla". Alfonso è un impiegato che, dopo delusioni lavorative e sentimentali, si suicida.
+
+**Senilità (1898) — Emilio Brentani**: anch'esso ignorato. Emilio ha velleità letterarie mai tradotte in atto e si innamora di Angiolina — ragazza del popolo volgare e fedifraga — idealizzandola completamente: è vittima dell'**autoinganno**, guarda la realtà secondo i propri desideri. Si crede dotato di una **grandezza latente**, sempre in potenza e mai in atto. La sua vicenda si conclude con una fuga nell'immaginazione: una sconfitta.
+
+**La coscienza di Zeno (1923) — Zeno Cosini**: il capolavoro. *Zeno* deriva dal greco *xenos*, "straniero". Non riesce a smettere di fumare, ha un rapporto conflittuale col padre, si innamora di Ada che lo rifiuta e finisce per sposare Augusta. Grazie a circostanze fortuite ottiene anche il successo commerciale. La differenza fondamentale è la componente **ironica**: Zeno si affida al caso, che per lui si rivela fortunato. È un romanzo che, letto con il giusto spirito, fa ridere.
+
 ---
 
 ## 5. L'inetto
 
-**Inetto** — dal latino *in-aptus*, inadatto — accomuna i tre protagonisti. L'inetto è abulico, privo di volontà, si lascia vivere anziché agire. Alfonso soccombe col suicidio; Emilio evade nella fantasia; Zeno affronta l'inettitudine con ironia e prospera per puro caso. L'autoinganno di Emilio, il vizio del fumo di Zeno, la grandezza latente mai tradotta in atto: meccanismi della psicologia ordinaria, non patologie cliniche.
+Il termine che accomuna tutti e tre i protagonisti è **inetto** — dal latino *in-aptus*, inadatto: chi è **abulico** (senza volontà), che si lascia vivere anziché agire. Alfonso e Emilio soccombono (suicidio, fuga nel sogno); Zeno si affida al caso con distacco ironico e, paradossalmente, riesce.
 
-> [!note] Dalla lezione
-> «I personaggi sveviani siamo noi. Cioè Svevo sta parlando di noi, sta parlando dell'uomo del Novecento.»
+> «I personaggi sveviani siamo noi. Svevo sta parlando di noi, dell'uomo del Novecento.»
+
+L'autoinganno di Emilio, la difficoltà di smettere di fumare di Zeno, la grandezza latente mai tradotta in atto sono meccanismi della psicologia di chiunque. Svevo non descrive casi clinici, ma la nevrosi ordinaria dell'uomo borghese.
 
 ---
 
 ## 6. Stile e struttura narrativa
 
-La critica definisce lo stile di Svevo **scrittura di grado zero**: lineare, con irregolarità sintattiche, priva di eleganza ma immediata nel contenuto. Per dare voce all'interiorità usa il **monologo interiore** — pensieri in prima persona con struttura riconoscibile — e il **discorso indiretto libero**, che dà voce ai pensieri senza filtri. *La coscienza di Zeno* è in **prima persona** (i romanzi precedenti in terza), con il **narratore inaffidabile**: Zeno esprime il suo punto di vista soggettivo, non la verità assoluta. La struttura è per **blocchi tematici** non cronologici — *Il fumo*, *La morte di mio padre*, *Storia del mio matrimonio* — con piani temporali intrecciati. Il **tono ironico** è l'elemento nuovo rispetto ai romanzi precedenti.
+Svevo utilizza due tecniche fondamentali per dare voce all'interiorità dei personaggi.
 
-> [!note] Dalla lezione
-> «Svevo mette in scena l'**uomo ordinario**, non l'eroe o il superuomo. L'autore indaga la vita borghese della Trieste mercantile, per metterne a nudo gli aspetti più torbidi, le debolezze più nascoste, le ossessioni inconfessabili. Lui stesso è parte di quel mondo, lo incarna perfettamente. In pratica toglie la maschera a una realtà a cui partecipa attivamente.»
+Il **monologo interiore** è la tecnica principale de *La coscienza di Zeno*: i pensieri del personaggio vengono espressi in prima persona, mantenendo una struttura sintattica riconoscibile. Il **discorso indiretto libero** — già incontrato in Verga con funzione mimetica — serve qui a dar voce liberamente ai pensieri della coscienza, che non si presentano sempre in modo ordinato.
+
+**Caratteristiche strutturali de *La coscienza di Zeno*:**
+
+- **Prima persona** — è la coscienza stessa di Zeno a prendere la parola (i precedenti romanzi erano in terza persona)
+- **Inaffidabilità del narratore** — ciò che Zeno dice è sempre soggettivo, non la verità assoluta
+- **Struttura a blocchi tematici** (non cronologica): *Il fumo*, *La morte di mio padre*, *Storia del mio matrimonio*, ecc.
+- **Tono ironico** — la grande novità rispetto ai romanzi precedenti
+
+> «Svevo mette in scena l'**uomo ordinario**, non l'eroe. Indaga la vita borghese per metterne a nudo le debolezze nascoste e le ossessioni inconfessabili — lui stesso è parte di quel mondo e in pratica toglie la maschera a una realtà a cui partecipa attivamente.»
 
 ---
 
@@ -114,8 +117,9 @@ La critica definisce lo stile di Svevo **scrittura di grado zero**: lineare, con
 | **1878** | Ritorna a Trieste; vocazione letteraria già forte |
 | **1893** | Pubblica *Una vita* (fiasco) con lo pseudonimo Italo Svevo |
 | **1898** | Pubblica *Senilità* (anch'essa ignorata) |
-| **~1900** | Silenzio editoriale; conosce Joyce; scopre Freud |
-| **1923** | Pubblica *La coscienza di Zeno*; notorietà internazionale |
+| **~1900** | Silenzio editoriale di venticinque anni; continua a scrivere privatamente |
+| **1900s** | Conosce Joyce; scopre la psicoanalisi di Freud |
+| **1923** | Pubblica *La coscienza di Zeno*; notorietà internazionale grazie a Joyce |
 | **1928** | Muore per complicazioni da fumo dopo un incidente d'auto |
 
 ---

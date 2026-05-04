@@ -13,6 +13,7 @@ Raccolta di appunti e materiali scolastici.
 |---|---|---|
 | `chimica/` | 1 cartelle, 0 file | `-` |
 | `italiano/` | 8 cartelle, 2 file | `INDICE.md` |
+| `mate/` | 1 cartelle, 0 file | `-` |
 | `pcto/` | 2 cartelle, 1 file | `appunti.md` |
 | `storia/` | 1 cartelle, 0 file | `-` |
 
@@ -69,6 +70,10 @@ Raccolta di appunti e materiali scolastici.
 │       ├── mega-schema.md
 │       ├── riassunto.md
 │       └── ripasso.md
+├── mate/
+│   └── maturità/
+│       ├── prova-mate-2024/
+│       └── prova-mate-2025/
 ├── pcto/
 │   ├── 18-03-26/
 │   │   └── transcription.txt

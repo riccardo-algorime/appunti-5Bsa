@@ -436,6 +436,48 @@ flowchart TD
 
 ---
 
+## Nodi da non perdere
+
+### Guerra, identità nazionale e repressione
+
+La Prima guerra mondiale trasformò gli Stati Uniti in potenza globale, ma lasciò anche un'eredità interna ambigua: rafforzamento dello Stato federale, propaganda, censura, sospetto verso i «nemici interni». Il patriottismo si saldò con un'identità nazionale **WASP** e con una nuova intolleranza verso tedeschi-americani, pacifisti, radicali, afroamericani, immigrati, cattolici ed ebrei.
+
+Il caso del **Ku Klux Klan** e il ***Red Scare*** mostrano che gli anni Venti non furono solo prosperità e modernità: furono anche razzismo, xenofobia, anticomunismo e repressione. **Sacco e Vanzetti** sono il caso simbolico di una giustizia condizionata da pregiudizi politici ed etnici.
+
+### Anni ruggenti: prosperità reale, squilibri nascosti
+
+Il boom degli anni Venti si fondò su produzione industriale, automobile, elettrodomestici, radio, credito al consumo e acquisti a rate. La società americana diventò più urbana, più motorizzata, più omogenea nei consumi e nei modelli culturali. Radio e auto contribuirono alla **nazionalizzazione** degli stili di vita: lingua standard, strade, motel, pompe di benzina, cinema e pubblicità.
+
+Il **sogno americano**, però, copriva squilibri forti. Aree rurali, minatori, settori tradizionali, minoranze, afroamericani e immigrati restavano fuori dal benessere. Il problema non era l'assenza di crescita, ma la sua distribuzione: nel 1929 una quota minima della popolazione concentrava grande parte del risparmio, mentre l'80% non aveva riserve.
+
+### Americanizzazione e fragilità dell'ordine europeo
+
+Gli USA rifiutarono l'internazionalismo politico di Wilson, ma non poterono evitare un ruolo mondiale economico. Il **piano Dawes** mostra questa contraddizione: Washington non voleva entrare stabilmente in istituzioni sovranazionali, ma la stabilità europea dipendeva dai capitali americani.
+
+La diplomazia del dollaro collegò debiti interalleati, riparazioni tedesche e ricostruzione europea in un circuito fragile. Finché gli USA finanziavano la Germania, la Germania poteva pagare Francia e Gran Bretagna, che a loro volta potevano restituire i debiti agli USA. Il crollo di Wall Street spezzò proprio questa catena.
+
+### Crisi del 1929: non solo Borsa
+
+Il crollo di Wall Street fu l'innesco, non l'unica causa. Dietro la crisi c'erano **sovrapproduzione industriale**, mercato interno saturo, crisi agricola, speculazione, indebitamento e fragilità bancaria. Le azioni erano cresciute senza rapporto con l'economia reale; quando la fiducia crollò, vendite, fallimenti e disoccupazione alimentarono un circolo vizioso.
+
+La crisi diventò mondiale perché l'economia americana era ormai al centro del sistema. Il ritiro dei capitali dagli USA colpì l'Europa, soprattutto la Germania. Il protezionismo peggiorò tutto: ogni Paese cercò di difendersi chiudendosi, ma così ridusse ancora di più commercio, produzione e occupazione.
+
+### Hoover e Roosevelt: due idee opposte dello Stato
+
+**Hoover** restò legato al liberismo e all'idea che la ripresa dovesse venire da iniziativa privata, volontariato e carità. Per questo i suoi interventi apparvero insufficienti o favorevoli a banche e grandi imprese. Il protezionismo del 1930 contribuì al crollo degli scambi.
+
+**Roosevelt**, invece, propose un nuovo patto: lo Stato doveva ricostruire fiducia, regolare banche, sostenere agricoltura, occupazione, opere pubbliche e previdenza sociale. Il New Deal non abolì il capitalismo, ma lo riformò. La grande novità fu l'idea che la democrazia liberale potesse sopravvivere alla crisi solo accettando un ruolo più attivo dello Stato.
+
+### Limiti del New Deal
+
+Il New Deal non risolse completamente la Depressione. La disoccupazione restò alta, la Corte costituzionale bloccò alcuni provvedimenti, molti americani accusarono Roosevelt di eccessivo statalismo. Inoltre, sul piano internazionale, Roosevelt restò a lungo isolazionista: non partecipò alla Conferenza economica di Londra e accettò le **leggi sulla neutralità**.
+
+Il valore storico del New Deal sta quindi meno nella soluzione immediata della crisi e più nella sua eredità: rafforzamento del potere federale, centralità della presidenza, previdenza sociale, capitalismo regolato e modello democratico alternativo sia al comunismo sovietico sia alle dittature di destra.
+
+In sintesi, il capitolo va letto come una parabola: gli USA passano dall'isolazionismo politico alla centralità economica mondiale, dalla fiducia illimitata nel mercato alla necessità dell'intervento pubblico. Gli anni Venti mostrano potenza produttiva e consumo di massa; il 1929 ne rivela fragilità e disuguaglianze; il New Deal ridefinisce il patto democratico senza uscire dal capitalismo. Questa sequenza spiega perché il «secolo americano» inizi con boom, crisi e riforma insieme. Da ricordare anche il nesso tra politica interna e ruolo mondiale: quando l'economia americana crolla, l'intero equilibrio internazionale ne subisce le conseguenze economiche e diplomatiche.
+
+---
+
 ## Mappa concettuale — Visione d'insieme del capitolo
 
 ```mermaid

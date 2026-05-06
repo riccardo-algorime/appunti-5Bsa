@@ -332,6 +332,12 @@ flowchart TD
     A --> H[Prossimo obiettivo:<br/>Lebensraum verso EST]
 ```
 
+### 5.5 Nodo interpretativo essenziale
+
+L'ascesa nazista non fu solo il prodotto del carisma di Hitler: dipese dal collasso di Weimar, dalla crisi del 1929, dalla divisione SPD-KPD e dal calcolo sbagliato delle élite conservatrici, convinte di poter usare e controllare la NSDAP. Una volta Cancelliere, Hitler trasformò rapidamente strumenti legali ed emergenziali in dittatura.
+
+Il regime unì **razzismo biologico**, repressione poliziesca, propaganda di massa e compatibilità con il capitalismo privato. Il consenso nacque anche da riarmo, opere pubbliche, riduzione della disoccupazione e promessa di riscatto nazionale. La politica estera fu coerente con l'ideologia: superare Versailles, riunire i tedeschi, conquistare spazio vitale a Est e preparare una guerra razziale.
+
 ---
 
 ## Mappa concettuale — Visione d'insieme del capitolo

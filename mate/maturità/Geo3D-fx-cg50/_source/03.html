@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>03</title>
+  <style>
+    html {
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 12px;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      html {
+        background-color: white;
+      }
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    svg {
+      height: auto;
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
+      font-size: 85%;
+      margin: 0;
+      hyphens: manual;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+  </style>
+  <style>
+    html, body { margin: 0; padding: 0; background: white; }
+    body {
+      width: 384px;
+      box-sizing: border-box;
+      padding: 8px 9px 10px 9px;
+      color: #050505;
+      font-family: DejaVu Sans, Arial, sans-serif;
+      font-size: 15px;
+      line-height: 1.23;
+    }
+    h1 {
+      font-size: 20px;
+      line-height: 1.1;
+      margin: 0 0 7px 0;
+      font-weight: 800;
+      border-bottom: 2px solid #111;
+      padding-bottom: 4px;
+    }
+    h2 {
+      font-size: 16px;
+      line-height: 1.15;
+      margin: 10px 0 4px 0;
+      font-weight: 800;
+      background: #eeeeee;
+      padding: 3px 5px;
+      border-left: 4px solid #111;
+    }
+    p { margin: 4px 0; }
+    ul, ol { margin: 4px 0 5px 18px; padding: 0; }
+    li { margin: 2px 0; }
+    code {
+      font-family: DejaVu Sans Mono, monospace;
+      font-size: 13px;
+      background: #f3f3f3;
+      padding: 1px 2px;
+      border-radius: 2px;
+    }
+    pre {
+      margin: 4px 0 6px 0;
+      padding: 5px;
+      background: #f3f3f3;
+      border: 1px solid #cccccc;
+      white-space: pre-wrap;
+      font-family: DejaVu Sans Mono, monospace;
+      font-size: 13px;
+      line-height: 1.16;
+    }
+    .math.display {
+      display: block;
+      overflow-wrap: anywhere;
+      margin: 5px 0;
+      padding: 4px 3px;
+      background: #f7f7f7;
+      border: 1px solid #d8d8d8;
+      font-size: 92%;
+    }
+    .math.inline { font-size: 96%; }
+    mjx-container[jax="CHTML"][display="true"] { margin: 0.15em 0 !important; overflow-x: hidden; }
+    mjx-container { max-width: 100%; }
+  </style>
+  <script>
+  window.MathJax = {
+    tex: { inlineMath: [['\\(','\\)']], displayMath: [['$$','$$'], ['\\[','\\]']] },
+    chtml: { scale: 0.90, linebreaks: { automatic: true, width: 'container' } },
+    startup: { typeset: true }
+  };
+  </script>
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"
+  type="text/javascript"></script>
+</head>
+<body>
+<header id="title-block-header">
+<h1 class="title">03</h1>
+</header>
+<h1 id="piani">03 - Piani</h1>
+<h2 id="equazione">Equazione</h2>
+<p><span class="math display">\[ax+by+cz+d=0\]</span></p>
+<p>Normale del piano:</p>
+<p><span class="math display">\[\vec n=(a,b,c)\]</span></p>
+<h2 id="piano-per-punto-e-normale">Piano per punto e normale</h2>
+<p>Per <span class="math inline">\(P(x_0,y_0,z_0)\)</span> e <span
+class="math inline">\(\vec n=(a,b,c)\)</span>:</p>
+<p><span
+class="math display">\[a(x-x_0)+b(y-y_0)+c(z-z_0)=0\]</span></p>
+<h2 id="piano-per-3-punti">Piano per 3 punti</h2>
+<ol type="1">
+<li><span class="math inline">\(\vec v_1=\overrightarrow{AB}\)</span>,
+<span class="math inline">\(\vec v_2=\overrightarrow{AC}\)</span></li>
+<li><span class="math inline">\(\vec n=\vec v_1\times\vec
+v_2\)</span></li>
+<li><span class="math inline">\(\vec n\cdot(X-A)=0\)</span></li>
+</ol>
+<h2 id="piano-per-p-parallelo-a-due-rette">Piano per P parallelo a due
+rette</h2>
+<p>Se le rette hanno direzioni <span class="math inline">\(\vec u,\vec
+v\)</span>:</p>
+<p><span class="math display">\[\vec n=\vec u\times\vec v\]</span></p>
+<p>poi:</p>
+<p><span class="math display">\[\vec n\cdot(X-P)=0\]</span></p>
+<h2 id="posizioni-tra-piani">Posizioni tra piani</h2>
+<ul>
+<li>paralleli: <span class="math inline">\(\vec n_1 \parallel \vec
+n_2\)</span></li>
+<li>coincidenti: paralleli e un punto appartiene all’altro</li>
+<li>perpendicolari: <span class="math inline">\(\vec n_1\cdot\vec
+n_2=0\)</span></li>
+</ul>
+<h2 id="intersezione-di-2-piani">Intersezione di 2 piani</h2>
+<p>Di solito e’ una retta.</p>
+<p>Direzione della retta:</p>
+<p><span class="math display">\[\vec v=\vec n_1\times\vec
+n_2\]</span></p>
+<p>Fascio per una retta:</p>
+<p><span class="math display">\[\pi_1+k\pi_2=0\]</span></p>
+<h2 id="distanza-punto-piano">Distanza punto-piano</h2>
+<p><span class="math display">\[d(P,\pi)=
+\frac{|ax_0+by_0+cz_0+d|}
+{\sqrt{a^2+b^2+c^2}}\]</span></p>
+<h2 id="proiezione-su-piano">Proiezione su piano</h2>
+<p>Proiezione ortogonale di <span
+class="math inline">\(P(x_0,y_0,z_0)\)</span> su <span
+class="math inline">\(\pi\)</span>.</p>
+<p><span class="math display">\[\lambda=
+\frac{ax_0+by_0+cz_0+d}
+{a^2+b^2+c^2}\]</span></p>
+<p><span class="math display">\[H=P-\lambda\vec n\]</span></p>
+<p>Metodo equivalente:</p>
+<ol type="1">
+<li>retta perpendicolare al piano per <span
+class="math inline">\(P\)</span>: <span class="math inline">\(X=P+t\vec
+n\)</span></li>
+<li>interseca questa retta con il piano</li>
+<li>il punto trovato e’ la proiezione <span
+class="math inline">\(H\)</span></li>
+</ol>
+</body>
+</html>

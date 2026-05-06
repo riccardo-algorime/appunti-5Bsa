@@ -1,0 +1,59 @@
+<!doctype html><html><head><meta charset="utf-8">
+<style>
+html,body{margin:0;padding:0;background:white}
+body{width:384px;box-sizing:border-box;padding:5px 7px 7px 7px;color:#050505;font-family:DejaVu Sans,Arial,sans-serif;font-size:14px;line-height:1.14;overflow:hidden}
+h1{font-size:18px;line-height:1.05;margin:0 0 5px 0;font-weight:800;border-bottom:2px solid #111;padding-bottom:3px}
+h2{font-size:15px;line-height:1.05;margin:7px 0 3px 0;font-weight:800;background:#eee;padding:2px 4px;border-left:4px solid #111}
+p{margin:2px 0}
+ul,ol{margin:2px 0 3px 17px;padding:0}
+li{margin:1px 0}
+code{font-family:DejaVu Sans Mono,monospace;font-size:12px;background:#f3f3f3;padding:1px 2px}
+pre{margin:3px 0;padding:3px;background:#f5f5f5;border:1px solid #ddd;white-space:pre-wrap;font-family:DejaVu Sans Mono,monospace;font-size:12px;line-height:1.08}
+.math.display{display:block;margin:3px 0;padding:2px 2px;background:#f7f7f7;border:1px solid #ddd;font-size:82%;overflow:visible!important}
+.math.inline{font-size:93%}
+mjx-container{max-width:100%!important;overflow:visible!important}
+mjx-container[jax="CHTML"][display="true"]{margin:.05em 0!important;overflow:visible!important}
+svg{max-width:100%;height:auto;margin:3px 0}
+::-webkit-scrollbar{display:none;width:0!important;height:0!important}
+</style>
+<script>
+window.MathJax={tex:{inlineMath:[['\\(','\\)']],displayMath:[['$$','$$'],['\\[','\\]']]},chtml:{scale:.82,linebreaks:{automatic:true,width:'container'}},startup:{typeset:true}};
+</script>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+</head><body><h1 id="integrali-aree-volumi">09 - Integrali, aree, volumi</h1>
+<h2 id="primitive-base">Primitive base</h2>
+<p><span class="math display">\[\int x^\alpha
+dx=\frac{x^{\alpha+1}}{\alpha+1}+C\quad(\alpha\ne-1)\]</span></p>
+<p><span class="math display">\[\int\frac1x dx=\ln|x|+C\]</span></p>
+<p><span class="math display">\[\int e^x dx=e^x+C,\qquad \int a^x
+dx=\frac{a^x}{\ln a}+C\]</span></p>
+<p><span class="math display">\[\int\sin x dx=-\cos x+C\]</span></p>
+<p><span class="math display">\[\int\cos x dx=\sin x+C\]</span></p>
+<p><span class="math display">\[\int\frac1{1+x^2}dx=\arctan
+x+C\]</span></p>
+<h2 id="metodi">Metodi</h2>
+<p>Sostituzione:</p>
+<p><span class="math display">\[\int f(g(x))g&#39;(x)dx=\int
+f(u)du\]</span></p>
+<p>Parti:</p>
+<p><span class="math display">\[\int f&#39;g=fg-\int
+fg&#39;\]</span></p>
+<h2 id="integrale-definito">Integrale definito</h2>
+<p><span class="math display">\[\int_a^b f(x)dx=F(b)-F(a)\]</span></p>
+<p>Media integrale:</p>
+<p><span class="math display">\[\bar f=\frac1{b-a}\int_a^b
+f(x)dx\]</span></p>
+<h2 id="aree">Aree</h2>
+<p>Tra (f) e asse (x):</p>
+<p><span class="math display">\[A=\int_a^b |f(x)|dx\]</span></p>
+<p>Tra due curve:</p>
+<p><span class="math display">\[A=\int_a^b |f(x)-g(x)|dx\]</span></p>
+<h2 id="volumi-rotazione">Volumi rotazione</h2>
+<p>Attorno asse (x):</p>
+<p><span class="math display">\[V=\pi\int_a^b f(x)^2dx\]</span></p>
+<p>Gusci attorno asse (y):</p>
+<p><span class="math display">\[V=2\pi\int_a^b x f(x)dx\]</span></p>
+<h2 id="lunghezza-arco">Lunghezza arco</h2>
+<p><span
+class="math display">\[L=\int_a^b\sqrt{1+f&#39;(x)^2}\,dx\]</span></p>
+</body></html>

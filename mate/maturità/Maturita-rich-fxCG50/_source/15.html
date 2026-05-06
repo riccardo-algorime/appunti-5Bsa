@@ -1,0 +1,73 @@
+<!doctype html><html><head><meta charset="utf-8">
+<style>
+html,body{margin:0;padding:0;background:white}
+body{width:384px;box-sizing:border-box;padding:5px 7px 7px 7px;color:#050505;font-family:DejaVu Sans,Arial,sans-serif;font-size:14px;line-height:1.14;overflow:hidden}
+h1{font-size:18px;line-height:1.05;margin:0 0 5px 0;font-weight:800;border-bottom:2px solid #111;padding-bottom:3px}
+h2{font-size:15px;line-height:1.05;margin:7px 0 3px 0;font-weight:800;background:#eee;padding:2px 4px;border-left:4px solid #111}
+p{margin:2px 0}
+ul,ol{margin:2px 0 3px 17px;padding:0}
+li{margin:1px 0}
+code{font-family:DejaVu Sans Mono,monospace;font-size:12px;background:#f3f3f3;padding:1px 2px}
+pre{margin:3px 0;padding:3px;background:#f5f5f5;border:1px solid #ddd;white-space:pre-wrap;font-family:DejaVu Sans Mono,monospace;font-size:12px;line-height:1.08}
+.math.display{display:block;margin:3px 0;padding:2px 2px;background:#f7f7f7;border:1px solid #ddd;font-size:82%;overflow:visible!important}
+.math.inline{font-size:93%}
+mjx-container{max-width:100%!important;overflow:visible!important}
+mjx-container[jax="CHTML"][display="true"]{margin:.05em 0!important;overflow:visible!important}
+svg{max-width:100%;height:auto;margin:3px 0}
+::-webkit-scrollbar{display:none;width:0!important;height:0!important}
+</style>
+<script>
+window.MathJax={tex:{inlineMath:[['\\(','\\)']],displayMath:[['$$','$$'],['\\[','\\]']]},chtml:{scale:.82,linebreaks:{automatic:true,width:'container'}},startup:{typeset:true}};
+</script>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+</head><body><h1 id="sfere-e-piano-sfera">15 - Sfere e piano-sfera</h1>
+<h2 id="sfera">Sfera</h2>
+<p><span class="math display">\[ (x-a)^2+(y-b)^2+(z-c)^2=r^2
+\]</span></p>
+<p>Centro:</p>
+<p><span class="math display">\[C(a,b,c)\]</span></p>
+<p>Forma generale:</p>
+<p><span class="math display">\[x^2+y^2+z^2+ax+by+cz+d=0\]</span></p>
+<p><span class="math display">\[C=\left(-\frac a2,-\frac b2,-\frac
+c2\right)\]</span></p>
+<p><span
+class="math display">\[r=\sqrt{\frac{a^2+b^2+c^2}{4}-d}\]</span></p>
+<h2 id="tangente">Tangente</h2>
+<p>Piano tangente in (T):</p>
+<p><span
+class="math display">\[\overrightarrow{CT}\cdot(X-T)=0\]</span></p>
+<p>Retta tangente:</p>
+<p><span class="math display">\[d(C,r)=R\]</span></p>
+<h2 id="piano-sfera">Piano-sfera</h2>
+<p>Calcola:</p>
+<p><span class="math display">\[h=d(C,\pi)\]</span></p>
+<ul>
+<li>(h&gt;R): esterno</li>
+<li>(h=R): tangente</li>
+<li>(h&lt;R): secante, circonferenza</li>
+<li>(h=0): passa per centro</li>
+</ul>
+<p>Raggio circonferenza:</p>
+<p><span class="math display">\[\rho=\sqrt{R^2-h^2}\]</span></p>
+<p>Centro circonferenza = proiezione di (C) sul piano.</p>
+<svg viewBox="0 0 360 105" width="360" height="105">
+<circle cx="75" cy="55" r="35" fill="none" stroke="#111" stroke-width="2"/>
+<line x1="35" y1="55" x2="115" y2="55" stroke="#111"/>
+<text x="45" y="97" font-size="13">secante</text>
+<circle cx="190" cy="55" r="35" fill="none" stroke="#111" stroke-width="2"/>
+<line x1="225" y1="20" x2="225" y2="90" stroke="#111"/>
+<text x="166" y="97" font-size="13">tangente</text>
+<circle cx="305" cy="55" r="30" fill="none" stroke="#111" stroke-width="2"/>
+<line x1="260" y1="18" x2="260" y2="92" stroke="#111"/>
+<text x="280" y="97" font-size="13">esterno</text>
+</svg>
+<h2 id="con-parametro">Con parametro</h2>
+<p>Se:</p>
+<p><span class="math display">\[h=\frac{|d-3|}{3},\quad R=1\]</span></p>
+<p><span class="math display">\[h&gt;R\Rightarrow d&lt;0\vee
+d&gt;6\]</span></p>
+<p><span class="math display">\[h=R\Rightarrow d=0\vee d=6\]</span></p>
+<p><span class="math display">\[h&lt;R\Rightarrow
+0&lt;d&lt;6\]</span></p>
+<p><span class="math display">\[h=0\Rightarrow d=3\]</span></p>
+</body></html>

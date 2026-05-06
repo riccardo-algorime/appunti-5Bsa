@@ -1,0 +1,65 @@
+07 - METODI RAPIDI
+
+Piano per 3 punti A,B,C:
+AB, AC, n=AB x AC,
+n*(X-A)=0.
+
+Retta per 2 punti A,B:
+v=AB,
+X=A+t v.
+
+Piano perpendicolare a retta e per P:
+direzione retta = normale piano.
+n=v, poi n*(X-P)=0.
+
+Retta perpendicolare a piano e per P:
+direzione retta = normale piano.
+X=P+t n.
+
+Piano parallelo a 2 rette e per P:
+prendi direzioni v,u.
+n=v x u.
+n*(X-P)=0.
+
+Piano contenente una retta r e punto P:
+A punto su r, v direzione r.
+AP=P-A.
+n=v x AP.
+n*(X-A)=0.
+
+Piano contenente 2 rette incidenti:
+P punto di incontro.
+v,u direzioni rette.
+n=v x u.
+n*(X-P)=0.
+
+Piano tangente a sfera in T:
+C centro.
+n=CT.
+n*(X-T)=0.
+
+Sfera tangente a piano con centro C:
+r=d(C,piano).
+
+Sfera per 4 punti:
+forma generale,
+sostituisci i 4 punti,
+risolvi sistema.
+
+Intersezione retta-piano:
+sostituisci parametriche della retta nel piano,
+trova t,
+rimetti t nella retta.
+
+Intersezione retta-sfera:
+sostituisci parametriche nella sfera.
+Ottieni equazione di secondo grado in t:
+delta<0 nessun punto,
+delta=0 tangente,
+delta>0 due punti.
+
+Intersezione piano-sfera:
+d=d(C,piano).
+Se d<R e' circonferenza:
+centro = proiezione di C,
+raggio = sqrt(R^2-d^2).

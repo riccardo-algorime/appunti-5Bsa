@@ -1,0 +1,73 @@
+<!doctype html><html><head><meta charset="utf-8">
+<style>
+html,body{margin:0;padding:0;background:white}
+body{width:384px;box-sizing:border-box;padding:5px 7px 7px 7px;color:#050505;font-family:DejaVu Sans,Arial,sans-serif;font-size:14px;line-height:1.14;overflow:hidden}
+h1{font-size:18px;line-height:1.05;margin:0 0 5px 0;font-weight:800;border-bottom:2px solid #111;padding-bottom:3px}
+h2{font-size:15px;line-height:1.05;margin:7px 0 3px 0;font-weight:800;background:#eee;padding:2px 4px;border-left:4px solid #111}
+p{margin:2px 0}
+ul,ol{margin:2px 0 3px 17px;padding:0}
+li{margin:1px 0}
+code{font-family:DejaVu Sans Mono,monospace;font-size:12px;background:#f3f3f3;padding:1px 2px}
+pre{margin:3px 0;padding:3px;background:#f5f5f5;border:1px solid #ddd;white-space:pre-wrap;font-family:DejaVu Sans Mono,monospace;font-size:12px;line-height:1.08}
+.math.display{display:block;margin:3px 0;padding:2px 2px;background:#f7f7f7;border:1px solid #ddd;font-size:82%;overflow:visible!important}
+.math.inline{font-size:93%}
+mjx-container{max-width:100%!important;overflow:visible!important}
+mjx-container[jax="CHTML"][display="true"]{margin:.05em 0!important;overflow:visible!important}
+svg{max-width:100%;height:auto;margin:3px 0}
+::-webkit-scrollbar{display:none;width:0!important;height:0!important}
+</style>
+<script>
+window.MathJax={tex:{inlineMath:[['\\(','\\)']],displayMath:[['$$','$$'],['\\[','\\]']]},chtml:{scale:.82,linebreaks:{automatic:true,width:'container'}},startup:{typeset:true}};
+</script>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+</head><body><h1 id="problemi-metodi-operativi">17 - Problemi: metodi operativi</h1>
+<h2 id="ottimizzazione">Ottimizzazione</h2>
+<ol type="1">
+<li>scegli variabile (x)</li>
+<li>scrivi grandezza da max/min: (F(x))</li>
+<li>trova dominio fisico</li>
+<li>calcola (F’(x)=0)</li>
+<li>controlla estremi e segno di (F’)</li>
+</ol>
+<p>Condizione frequente:</p>
+<p><span class="math display">\[F&#39;(x)=0,\quad F&#39;&#39;(x)&gt;0
+\Rightarrow \min\]</span></p>
+<p><span class="math display">\[F&#39;(x)=0,\quad F&#39;&#39;(x)&lt;0
+\Rightarrow \max\]</span></p>
+<h2 id="tangente-e-normale-a-curva">Tangente e normale a curva</h2>
+<p>Tangente:</p>
+<p><span class="math display">\[y-y_0=f&#39;(x_0)(x-x_0)\]</span></p>
+<p>Normale:</p>
+<p><span
+class="math display">\[y-y_0=-\frac1{f&#39;(x_0)}(x-x_0)\]</span></p>
+<h2 id="parametro">Parametro</h2>
+<p>Se c’e’ parametro (k):</p>
+<ol type="1">
+<li>imponi condizione richiesta</li>
+<li>ottieni equazione/disequazione in (k)</li>
+<li>discuti casi limite</li>
+</ol>
+<p>Tangente doppia:</p>
+<p><span class="math display">\[\Delta=0\]</span></p>
+<p>Intersezione in due punti:</p>
+<p><span class="math display">\[\Delta&gt;0\]</span></p>
+<p>Nessuna intersezione:</p>
+<p><span class="math display">\[\Delta&lt;0\]</span></p>
+<h2 id="modelli-fisici">Modelli fisici</h2>
+<p>Velocita:</p>
+<p><span class="math display">\[v(t)=s&#39;(t)\]</span></p>
+<p>Accelerazione:</p>
+<p><span
+class="math display">\[a(t)=v&#39;(t)=s&#39;&#39;(t)\]</span></p>
+<p>Spazio percorso:</p>
+<p><span class="math display">\[s(t)-s(t_0)=\int_{t_0}^t
+v(u)du\]</span></p>
+<h2 id="checklist-finale">Checklist finale</h2>
+<ul>
+<li>unità di misura</li>
+<li>dominio realistico</li>
+<li>estremi inclusi/esclusi</li>
+<li>risultato numerico coerente</li>
+<li>grafico qualitativo se possibile</li>
+</ul>
+</body></html>

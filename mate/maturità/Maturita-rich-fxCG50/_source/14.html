@@ -1,0 +1,62 @@
+<!doctype html><html><head><meta charset="utf-8">
+<style>
+html,body{margin:0;padding:0;background:white}
+body{width:384px;box-sizing:border-box;padding:5px 7px 7px 7px;color:#050505;font-family:DejaVu Sans,Arial,sans-serif;font-size:14px;line-height:1.14;overflow:hidden}
+h1{font-size:18px;line-height:1.05;margin:0 0 5px 0;font-weight:800;border-bottom:2px solid #111;padding-bottom:3px}
+h2{font-size:15px;line-height:1.05;margin:7px 0 3px 0;font-weight:800;background:#eee;padding:2px 4px;border-left:4px solid #111}
+p{margin:2px 0}
+ul,ol{margin:2px 0 3px 17px;padding:0}
+li{margin:1px 0}
+code{font-family:DejaVu Sans Mono,monospace;font-size:12px;background:#f3f3f3;padding:1px 2px}
+pre{margin:3px 0;padding:3px;background:#f5f5f5;border:1px solid #ddd;white-space:pre-wrap;font-family:DejaVu Sans Mono,monospace;font-size:12px;line-height:1.08}
+.math.display{display:block;margin:3px 0;padding:2px 2px;background:#f7f7f7;border:1px solid #ddd;font-size:82%;overflow:visible!important}
+.math.inline{font-size:93%}
+mjx-container{max-width:100%!important;overflow:visible!important}
+mjx-container[jax="CHTML"][display="true"]{margin:.05em 0!important;overflow:visible!important}
+svg{max-width:100%;height:auto;margin:3px 0}
+::-webkit-scrollbar{display:none;width:0!important;height:0!important}
+</style>
+<script>
+window.MathJax={tex:{inlineMath:[['\\(','\\)']],displayMath:[['$$','$$'],['\\[','\\]']]},chtml:{scale:.82,linebreaks:{automatic:true,width:'container'}},startup:{typeset:true}};
+</script>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+</head><body><h1 id="geo-3d-distanze-e-proiezioni">14 - Geo 3D: distanze e
+proiezioni</h1>
+<h2 id="distanza-punto-piano">Distanza punto-piano</h2>
+<p><span
+class="math display">\[d(P,\pi)=\frac{|ax_0+by_0+cz_0+d|}{\sqrt{a^2+b^2+c^2}}\]</span></p>
+<h2 id="proiezione-p-su-piano">Proiezione P su piano</h2>
+<p><span
+class="math display">\[\lambda=\frac{ax_P+by_P+cz_P+d}{a^2+b^2+c^2}\]</span></p>
+<p><span class="math display">\[H=P-\lambda\vec n\]</span></p>
+<p>Metodo: retta (X=P+tn), intersezione col piano.</p>
+<h2 id="distanza-punto-retta">Distanza punto-retta</h2>
+<p>Retta per (A), direzione (v):</p>
+<p><span
+class="math display">\[d(P,r)=\frac{|\overrightarrow{AP}\times\vec
+v|}{|\vec v|}\]</span></p>
+<h2 id="rette-nello-spazio">Rette nello spazio</h2>
+<p>Date:</p>
+<p><span class="math display">\[r:P+t\vec v,\qquad s:Q+k\vec
+u\]</span></p>
+<p>Parallele:</p>
+<p><span class="math display">\[\vec v\parallel\vec u\]</span></p>
+<p>Incidenti: risolvi (P+tv=Q+ku).</p>
+<p>Sghembe: non parallele e non incidenti.</p>
+<p>Complanari:</p>
+<p><span class="math display">\[\overrightarrow{PQ}\cdot(\vec
+v\times\vec u)=0\]</span></p>
+<p>Distanza sghembe:</p>
+<p><span class="math display">\[d=\frac{|\overrightarrow{PQ}\cdot(\vec
+v\times\vec u)|}{|\vec v\times\vec u|}\]</span></p>
+<h2 id="angoli">Angoli</h2>
+<p>Rette:</p>
+<p><span class="math display">\[\cos\alpha=\frac{|\vec v\cdot\vec
+u|}{|\vec v||\vec u|}\]</span></p>
+<p>Piani:</p>
+<p><span class="math display">\[\cos\alpha=\frac{|\vec n_1\cdot\vec
+n_2|}{|\vec n_1||\vec n_2|}\]</span></p>
+<p>Retta-piano:</p>
+<p><span class="math display">\[\sin\alpha=\frac{|\vec v\cdot\vec
+n|}{|\vec v||\vec n|}\]</span></p>
+</body></html>

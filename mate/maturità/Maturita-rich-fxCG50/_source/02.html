@@ -1,0 +1,65 @@
+<!doctype html><html><head><meta charset="utf-8">
+<style>
+html,body{margin:0;padding:0;background:white}
+body{width:384px;box-sizing:border-box;padding:5px 7px 7px 7px;color:#050505;font-family:DejaVu Sans,Arial,sans-serif;font-size:14px;line-height:1.14;overflow:hidden}
+h1{font-size:18px;line-height:1.05;margin:0 0 5px 0;font-weight:800;border-bottom:2px solid #111;padding-bottom:3px}
+h2{font-size:15px;line-height:1.05;margin:7px 0 3px 0;font-weight:800;background:#eee;padding:2px 4px;border-left:4px solid #111}
+p{margin:2px 0}
+ul,ol{margin:2px 0 3px 17px;padding:0}
+li{margin:1px 0}
+code{font-family:DejaVu Sans Mono,monospace;font-size:12px;background:#f3f3f3;padding:1px 2px}
+pre{margin:3px 0;padding:3px;background:#f5f5f5;border:1px solid #ddd;white-space:pre-wrap;font-family:DejaVu Sans Mono,monospace;font-size:12px;line-height:1.08}
+.math.display{display:block;margin:3px 0;padding:2px 2px;background:#f7f7f7;border:1px solid #ddd;font-size:82%;overflow:visible!important}
+.math.inline{font-size:93%}
+mjx-container{max-width:100%!important;overflow:visible!important}
+mjx-container[jax="CHTML"][display="true"]{margin:.05em 0!important;overflow:visible!important}
+svg{max-width:100%;height:auto;margin:3px 0}
+::-webkit-scrollbar{display:none;width:0!important;height:0!important}
+</style>
+<script>
+window.MathJax={tex:{inlineMath:[['\\(','\\)']],displayMath:[['$$','$$'],['\\[','\\]']]},chtml:{scale:.82,linebreaks:{automatic:true,width:'container'}},startup:{typeset:true}};
+</script>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+</head><body><h1 id="funzioni-dominio-logexp">02 - Funzioni, dominio, log/exp</h1>
+<h2 id="dominio-casi-rapidi">Dominio: casi rapidi</h2>
+<p>Radice pari:</p>
+<p><span class="math display">\[\sqrt[2k]{g(x)}\Rightarrow
+g(x)\ge0\]</span></p>
+<p>Frazione:</p>
+<p><span class="math display">\[\frac{f(x)}{g(x)}\Rightarrow
+g(x)\ne0\]</span></p>
+<p>Logaritmo:</p>
+<p><span class="math display">\[\log_a(g(x))\Rightarrow g(x)&gt;0,\
+a&gt;0,\ a\ne1\]</span></p>
+<p>Tangente:</p>
+<p><span class="math display">\[\tan(g(x))\Rightarrow
+g(x)\ne\frac\pi2+k\pi\]</span></p>
+<p>Arcoseno/arccoseno:</p>
+<p><span class="math display">\[\arcsin(g),\arccos(g)\Rightarrow -1\le
+g\le1\]</span></p>
+<h2 id="simmetrie">Simmetrie</h2>
+<p>Pari:</p>
+<p><span class="math display">\[f(-x)=f(x)\]</span></p>
+<p>Dispari:</p>
+<p><span class="math display">\[f(-x)=-f(x)\]</span></p>
+<p>Periodica:</p>
+<p><span class="math display">\[f(x+T)=f(x)\]</span></p>
+<h2 id="logaritmi">Logaritmi</h2>
+<p><span class="math display">\[\log_a(xy)=\log_a x+\log_a
+y\]</span></p>
+<p><span class="math display">\[\log_a\left(\frac xy\right)=\log_a
+x-\log_a y\]</span></p>
+<p><span class="math display">\[\log_a(x^k)=k\log_a x\]</span></p>
+<p><span class="math display">\[\log_a x=\frac{\log_b x}{\log_b
+a}\]</span></p>
+<p><span class="math display">\[a^{\log_a x}=x,\qquad
+\log_a(a^x)=x\]</span></p>
+<h2 id="esponenzialilog">Esponenziali/log</h2>
+<p>Se (a&gt;1):</p>
+<p><span class="math display">\[a^{f(x)}&gt;a^{g(x)}\Leftrightarrow
+f(x)&gt;g(x)\]</span></p>
+<p>Se (0&lt;a&lt;1), verso invertito.</p>
+<p>Per log:</p>
+<p><span class="math display">\[\log_a f=\log_a g\Rightarrow f=g,\
+f&gt;0,\ g&gt;0\]</span></p>
+</body></html>

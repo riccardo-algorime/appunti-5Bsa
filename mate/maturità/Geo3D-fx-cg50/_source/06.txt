@@ -1,0 +1,55 @@
+06 - SFERE
+
+Forma canonica:
+(x-a)^2+(y-b)^2+(z-c)^2=r^2
+
+Centro:
+C(a,b,c)
+
+Forma generale:
+x^2+y^2+z^2+ax+by+cz+d=0
+
+Centro da forma generale:
+C=(-a/2,-b/2,-c/2)
+
+Raggio:
+r=sqrt((a^2+b^2+c^2)/4-d)
+
+Condizione di esistenza:
+(a^2+b^2+c^2)/4-d > 0
+
+Sfera con centro C e passante per P:
+r=CP
+poi forma canonica.
+
+Sfera di diametro AB:
+centro M punto medio di AB.
+r=AB/2.
+
+Sfera tangente a piano pi:
+r=d(C,pi)
+
+Piano tangente a sfera in T:
+normale = CT
+(xT-a)(x-xT)+(yT-b)(y-yT)+
+(zT-c)(z-zT)=0
+
+Retta tangente a sfera:
+d(C,r)=R
+
+Piano e sfera:
+calcola d=d(C,pi)
+d>R: nessuna intersezione
+d=R: piano tangente
+d<R: circonferenza
+
+Raggio circonferenza sezione:
+rho=sqrt(R^2-d^2)
+
+Centro circonferenza sezione:
+proiezione ortogonale di C sul piano.
+
+Sfera per 4 punti:
+usa x^2+y^2+z^2+ax+by+cz+d=0,
+sostituisci i 4 punti,
+risolvi a,b,c,d.

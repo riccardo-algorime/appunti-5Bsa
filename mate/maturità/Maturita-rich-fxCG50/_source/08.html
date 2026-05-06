@@ -1,0 +1,68 @@
+<!doctype html><html><head><meta charset="utf-8">
+<style>
+html,body{margin:0;padding:0;background:white}
+body{width:384px;box-sizing:border-box;padding:5px 7px 7px 7px;color:#050505;font-family:DejaVu Sans,Arial,sans-serif;font-size:14px;line-height:1.14;overflow:hidden}
+h1{font-size:18px;line-height:1.05;margin:0 0 5px 0;font-weight:800;border-bottom:2px solid #111;padding-bottom:3px}
+h2{font-size:15px;line-height:1.05;margin:7px 0 3px 0;font-weight:800;background:#eee;padding:2px 4px;border-left:4px solid #111}
+p{margin:2px 0}
+ul,ol{margin:2px 0 3px 17px;padding:0}
+li{margin:1px 0}
+code{font-family:DejaVu Sans Mono,monospace;font-size:12px;background:#f3f3f3;padding:1px 2px}
+pre{margin:3px 0;padding:3px;background:#f5f5f5;border:1px solid #ddd;white-space:pre-wrap;font-family:DejaVu Sans Mono,monospace;font-size:12px;line-height:1.08}
+.math.display{display:block;margin:3px 0;padding:2px 2px;background:#f7f7f7;border:1px solid #ddd;font-size:82%;overflow:visible!important}
+.math.inline{font-size:93%}
+mjx-container{max-width:100%!important;overflow:visible!important}
+mjx-container[jax="CHTML"][display="true"]{margin:.05em 0!important;overflow:visible!important}
+svg{max-width:100%;height:auto;margin:3px 0}
+::-webkit-scrollbar{display:none;width:0!important;height:0!important}
+</style>
+<script>
+window.MathJax={tex:{inlineMath:[['\\(','\\)']],displayMath:[['$$','$$'],['\\[','\\]']]},chtml:{scale:.82,linebreaks:{automatic:true,width:'container'}},startup:{typeset:true}};
+</script>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+</head><body><h1 id="studio-di-funzione">08 - Studio di funzione</h1>
+<h2 id="schema">Schema</h2>
+<ol type="1">
+<li>dominio</li>
+<li>simmetrie/periodicita</li>
+<li>intersezioni con assi</li>
+<li>segno</li>
+<li>limiti e asintoti</li>
+<li>derivata prima: crescenza, max/min</li>
+<li>derivata seconda: concavita, flessi</li>
+<li>grafico</li>
+</ol>
+<h2 id="crescenza">Crescenza</h2>
+<p><span class="math display">\[f&#39;(x)&gt;0\Rightarrow f \text{
+crescente}\]</span></p>
+<p><span class="math display">\[f&#39;(x)&lt;0\Rightarrow f \text{
+decrescente}\]</span></p>
+<p>Massimo:</p>
+<p><span class="math display">\[f&#39;:+\to-\]</span></p>
+<p>Minimo:</p>
+<p><span class="math display">\[f&#39;:-\to+\]</span></p>
+<h2 id="concavita">Concavita</h2>
+<p><span class="math display">\[f&#39;&#39;(x)&gt;0\Rightarrow
+\text{convessa}\]</span></p>
+<p><span class="math display">\[f&#39;&#39;(x)&lt;0\Rightarrow
+\text{concava}\]</span></p>
+<p>Flesso:</p>
+<p><span class="math display">\[f&#39;&#39; \text{ cambia
+segno}\]</span></p>
+<h2 id="punti-non-regolari">Punti non regolari</h2>
+<p>Angoloso:</p>
+<p><span class="math display">\[f&#39;_-(x_0),f&#39;_+(x_0)\in\mathbb
+R,\quad f&#39;_-\ne f&#39;_+\]</span></p>
+<p>Cuspide:</p>
+<p><span class="math display">\[f&#39;_-=+\infty,\ f&#39;_+=-\infty
+\quad\text{o viceversa}\]</span></p>
+<p>Tangente verticale:</p>
+<p><span class="math display">\[f&#39;_-=f&#39;_+=\pm\infty\]</span></p>
+<svg viewBox="0 0 360 125" width="360" height="125">
+<line x1="15" y1="95" x2="345" y2="95" stroke="#111"/>
+<path d="M30 85 C90 20,130 20,170 85 C210 150,260 40,330 65" fill="none" stroke="#111" stroke-width="2"/>
+<circle cx="170" cy="85" r="4" fill="#111"/>
+<text x="125" y="115" font-size="13">f’: + -&gt; - max</text>
+<text x="215" y="22" font-size="13">f’’ cambia: flesso</text>
+</svg>
+</body></html>

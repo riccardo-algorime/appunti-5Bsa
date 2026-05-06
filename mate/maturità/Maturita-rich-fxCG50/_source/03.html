@@ -1,0 +1,68 @@
+<!doctype html><html><head><meta charset="utf-8">
+<style>
+html,body{margin:0;padding:0;background:white}
+body{width:384px;box-sizing:border-box;padding:5px 7px 7px 7px;color:#050505;font-family:DejaVu Sans,Arial,sans-serif;font-size:14px;line-height:1.14;overflow:hidden}
+h1{font-size:18px;line-height:1.05;margin:0 0 5px 0;font-weight:800;border-bottom:2px solid #111;padding-bottom:3px}
+h2{font-size:15px;line-height:1.05;margin:7px 0 3px 0;font-weight:800;background:#eee;padding:2px 4px;border-left:4px solid #111}
+p{margin:2px 0}
+ul,ol{margin:2px 0 3px 17px;padding:0}
+li{margin:1px 0}
+code{font-family:DejaVu Sans Mono,monospace;font-size:12px;background:#f3f3f3;padding:1px 2px}
+pre{margin:3px 0;padding:3px;background:#f5f5f5;border:1px solid #ddd;white-space:pre-wrap;font-family:DejaVu Sans Mono,monospace;font-size:12px;line-height:1.08}
+.math.display{display:block;margin:3px 0;padding:2px 2px;background:#f7f7f7;border:1px solid #ddd;font-size:82%;overflow:visible!important}
+.math.inline{font-size:93%}
+mjx-container{max-width:100%!important;overflow:visible!important}
+mjx-container[jax="CHTML"][display="true"]{margin:.05em 0!important;overflow:visible!important}
+svg{max-width:100%;height:auto;margin:3px 0}
+::-webkit-scrollbar{display:none;width:0!important;height:0!important}
+</style>
+<script>
+window.MathJax={tex:{inlineMath:[['\\(','\\)']],displayMath:[['$$','$$'],['\\[','\\]']]},chtml:{scale:.82,linebreaks:{automatic:true,width:'container'}},startup:{typeset:true}};
+</script>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+</head><body><h1 id="trigonometria-essenziale">03 - Trigonometria essenziale</h1>
+<h2 id="relazioni">Relazioni</h2>
+<p><span class="math display">\[\sin^2x+\cos^2x=1\]</span></p>
+<p><span class="math display">\[\tan x=\frac{\sin x}{\cos x},\qquad \cot
+x=\frac{\cos x}{\sin x}\]</span></p>
+<h2 id="archi-associati">Archi associati</h2>
+<p><span class="math display">\[\sin(-x)=-\sin x,\qquad \cos(-x)=\cos
+x\]</span></p>
+<p><span class="math display">\[\sin(\pi-x)=\sin x,\quad
+\cos(\pi-x)=-\cos x\]</span></p>
+<p><span class="math display">\[\sin(x+\pi)=-\sin x,\quad
+\cos(x+\pi)=-\cos x\]</span></p>
+<h2 id="addizione">Addizione</h2>
+<p><span class="math display">\[\sin(a\pm b)=\sin a\cos b\pm\cos a\sin
+b\]</span></p>
+<p><span class="math display">\[\cos(a\pm b)=\cos a\cos b\mp\sin a\sin
+b\]</span></p>
+<p><span class="math display">\[\tan(a\pm b)=\frac{\tan a\pm\tan
+b}{1\mp\tan a\tan b}\]</span></p>
+<h2 id="duplicazione-e-bisezione">Duplicazione e bisezione</h2>
+<p><span class="math display">\[\sin2x=2\sin x\cos x\]</span></p>
+<p><span
+class="math display">\[\cos2x=\cos^2x-\sin^2x=1-2\sin^2x=2\cos^2x-1\]</span></p>
+<p><span class="math display">\[\tan2x=\frac{2\tan
+x}{1-\tan^2x}\]</span></p>
+<p><span class="math display">\[\sin^2\frac x2=\frac{1-\cos x}{2},\quad
+\cos^2\frac x2=\frac{1+\cos x}{2}\]</span></p>
+<h2 id="triangoli">Triangoli</h2>
+<p>Teorema dei seni:</p>
+<p><span class="math display">\[\frac a{\sin\alpha}=\frac
+b{\sin\beta}=\frac c{\sin\gamma}=2R\]</span></p>
+<p>Teorema del coseno:</p>
+<p><span class="math display">\[a^2=b^2+c^2-2bc\cos\alpha\]</span></p>
+<p>Area:</p>
+<p><span class="math display">\[A=\frac12bc\sin\alpha\]</span></p>
+<svg viewBox="0 0 360 95" width="360" height="95">
+<circle cx="55" cy="50" r="35" fill="none" stroke="#111" stroke-width="2"/>
+<line x1="55" y1="50" x2="90" y2="50" stroke="#111"/>
+<line x1="55" y1="50" x2="80" y2="25" stroke="#111"/>
+<text x="93" y="54" font-size="13">cos x</text>
+<text x="83" y="24" font-size="13">sin x</text>
+<text x="155" y="35" font-size="13">0: sin=0 cos=1</text>
+<text x="155" y="55" font-size="13">pi/2: sin=1 cos=0</text>
+<text x="155" y="75" font-size="13">pi: sin=0 cos=-1</text>
+</svg>
+</body></html>

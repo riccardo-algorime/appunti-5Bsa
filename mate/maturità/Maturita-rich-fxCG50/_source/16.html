@@ -1,0 +1,58 @@
+<!doctype html><html><head><meta charset="utf-8">
+<style>
+html,body{margin:0;padding:0;background:white}
+body{width:384px;box-sizing:border-box;padding:5px 7px 7px 7px;color:#050505;font-family:DejaVu Sans,Arial,sans-serif;font-size:14px;line-height:1.14;overflow:hidden}
+h1{font-size:18px;line-height:1.05;margin:0 0 5px 0;font-weight:800;border-bottom:2px solid #111;padding-bottom:3px}
+h2{font-size:15px;line-height:1.05;margin:7px 0 3px 0;font-weight:800;background:#eee;padding:2px 4px;border-left:4px solid #111}
+p{margin:2px 0}
+ul,ol{margin:2px 0 3px 17px;padding:0}
+li{margin:1px 0}
+code{font-family:DejaVu Sans Mono,monospace;font-size:12px;background:#f3f3f3;padding:1px 2px}
+pre{margin:3px 0;padding:3px;background:#f5f5f5;border:1px solid #ddd;white-space:pre-wrap;font-family:DejaVu Sans Mono,monospace;font-size:12px;line-height:1.08}
+.math.display{display:block;margin:3px 0;padding:2px 2px;background:#f7f7f7;border:1px solid #ddd;font-size:82%;overflow:visible!important}
+.math.inline{font-size:93%}
+mjx-container{max-width:100%!important;overflow:visible!important}
+mjx-container[jax="CHTML"][display="true"]{margin:.05em 0!important;overflow:visible!important}
+svg{max-width:100%;height:auto;margin:3px 0}
+::-webkit-scrollbar{display:none;width:0!important;height:0!important}
+</style>
+<script>
+window.MathJax={tex:{inlineMath:[['\\(','\\)']],displayMath:[['$$','$$'],['\\[','\\]']]},chtml:{scale:.82,linebreaks:{automatic:true,width:'container'}},startup:{typeset:true}};
+</script>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+</head><body><h1 id="complessi-e-diff.-base">16 - Complessi e diff. base</h1>
+<h2 id="numeri-complessi">Numeri complessi</h2>
+<p>Forma algebrica:</p>
+<p><span class="math display">\[z=a+bi\]</span></p>
+<p>Modulo e argomento:</p>
+<p><span class="math display">\[|z|=\sqrt{a^2+b^2},\qquad \arg
+z=\theta\]</span></p>
+<p>Forma trigonometrica:</p>
+<p><span
+class="math display">\[z=\rho(\cos\theta+i\sin\theta)\]</span></p>
+<p>Forma esponenziale:</p>
+<p><span class="math display">\[z=\rho e^{i\theta}\]</span></p>
+<p>Prodotto:</p>
+<p><span
+class="math display">\[\rho_1e^{i\theta_1}\rho_2e^{i\theta_2}=\rho_1\rho_2e^{i(\theta_1+\theta_2)}\]</span></p>
+<p>Potenze:</p>
+<p><span class="math display">\[z^n=\rho^n(\cos n\theta+i\sin
+n\theta)\]</span></p>
+<p>Radici:</p>
+<p><span
+class="math display">\[w_k=\sqrt[n]\rho\left(\cos\frac{\theta+2k\pi}{n}+i\sin\frac{\theta+2k\pi}{n}\right)\]</span></p>
+<h2 id="equazioni-differenziali-base">Equazioni differenziali base</h2>
+<p>Separabili:</p>
+<p><span class="math display">\[y&#39;=g(x)h(y)\Rightarrow
+\frac{dy}{h(y)}=g(x)dx\]</span></p>
+<p>Crescita/decadimento:</p>
+<p><span class="math display">\[y&#39;=ky\Rightarrow
+y=Ce^{kx}\]</span></p>
+<p>Lineare primo ordine:</p>
+<p><span class="math display">\[y&#39;+a(x)y=b(x)\]</span></p>
+<p>Fattore integrante:</p>
+<p><span class="math display">\[\mu(x)=e^{\int a(x)dx}\]</span></p>
+<p>Soluzione:</p>
+<p><span class="math display">\[y=\frac{\int \mu
+b\,dx+C}{\mu}\]</span></p>
+</body></html>

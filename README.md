@@ -72,9 +72,17 @@ Raccolta di appunti e materiali scolastici.
 │       └── ripasso.md
 ├── mate/
 │   └── maturità/
+│       ├── DeRosa-Formulario-jpg/
+│       ├── DeRosa-Formulario-jpg-ottimizzate/
 │       ├── DeRosa-Formulario.pdf
+│       ├── fx-CG50-compatibile-baseline/
+│       ├── fx-CG50-da-copiare-ottimizzato/
+│       ├── Geo3D-fx-cg50/
+│       ├── Geo3D-fx-cg50-jpg-ottimizzate/
+│       ├── Maturita-rich-fxCG50/
 │       ├── prova-mate-2024/
-│       └── prova-mate-2025/
+│       ├── prova-mate-2025/
+│       └── StudioFunzione-rich-fxCG50/
 ├── pcto/
 │   ├── 18-03-26/
 │   │   └── transcription.txt
@@ -88,6 +96,8 @@ Raccolta di appunti e materiali scolastici.
         ├── STORIA-3.10.pdf
         ├── STORIA-3.11.md
         ├── STORIA-3.11.pdf
+        ├── STORIA-3.12.md
+        ├── STORIA-3.12.pdf
         ├── STORIA-3.1.md
         ├── STORIA-3.1.pdf
         ├── STORIA-3.2.md

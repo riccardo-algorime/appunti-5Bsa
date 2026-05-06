@@ -1,0 +1,45 @@
+03 - PIANI
+
+Forma cartesiana:
+ax+by+cz+d=0
+
+Normale del piano:
+n=(a,b,c)
+
+Piano per P(x0,y0,z0) con normale n=(a,b,c):
+a(x-x0)+b(y-y0)+c(z-z0)=0
+
+Piano per 3 punti A,B,C:
+1) v1=AB, v2=AC
+2) n=v1 x v2
+3) n*(X-A)=0
+
+Piano per punto P parallelo a 2 vettori u,v:
+n=u x v
+n*(X-P)=0
+
+Piani paralleli:
+n1 // n2
+
+Piani coincidenti:
+n1 // n2 e un punto di un piano sta nell'altro.
+
+Piani perpendicolari:
+n1*n2=0
+
+Intersezione di 2 piani:
+di solito e' una retta.
+Direzione retta:
+v=n1 x n2
+
+Fascio di piani per retta r=pi1 inter pi2:
+pi1+k pi2=0
+
+Distanza punto-piano:
+d(P,pi)=|a x0+b y0+c z0+d|/
+sqrt(a^2+b^2+c^2)
+
+Proiezione ortogonale di P su piano pi:
+pi: ax+by+cz+d=0, n=(a,b,c)
+lambda=(a x0+b y0+c z0+d)/(a^2+b^2+c^2)
+H=P-lambda n

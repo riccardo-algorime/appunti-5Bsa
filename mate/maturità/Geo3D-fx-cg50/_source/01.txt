@@ -1,9 +1,0 @@
-GEOMETRIA 3D - INDICE
-
-01 - indice
-02 - punti, vettori, prodotti
-03 - piani: equazioni e posizioni
-04 - rette: forme e rapporti coi piani
-05 - rette: posizioni, distanze, angoli
-06 - sfere: equazioni, tangenti, sezioni
-07 - metodi rapidi per esercizi

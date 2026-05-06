@@ -64,6 +64,21 @@ Il regime si fondò su **burocrazie**, **polizia politica** e **culto della pers
 | **Logica** | Nemici interni, conflitto permanente, guerra futura |
 | **Grande terrore** | 1937-38: arresti di massa ed esecuzioni |
 
+```mermaid
+flowchart TD
+    A[Stalinismo anni Trenta] --> B[Controllo del partito]
+    A --> C[Trasformazione economica]
+    A --> D[Repressione politica]
+    B --> E[Segreteria generale<br/>nomina quadri]
+    C --> F[Collettivizzazione<br/>piano quinquennale]
+    F --> G[Carestia + Gulag]
+    D --> H[NKVD<br/>processi pubblici]
+    H --> I[Grande terrore 1937-38]
+    E --> J[Culto della personalità]
+    G --> J
+    I --> J
+```
+
 ### 1.5 Perché la «grande svolta» fu anche una guerra sociale
 
 La collettivizzazione fu **guerra interna** contro l'autonomia rurale. La categoria elastica di *kulako* colpì contadini solidi, clero e notabili di villaggio. La fame derivò da deportazioni, requisizioni, inefficienza dei *kolchoz* ed estrazione del grano per finanziare l'industria.
@@ -135,6 +150,22 @@ Il consenso in dittatura unì propaganda, religione politica, benefici sociali, 
 | **IMI / IRI** | Intervento statale nell'economia |
 | **Autarchia** | Preparazione economica alla guerra |
 
+```mermaid
+flowchart LR
+    A[Fascistizzazione] --> B[Scuola e giovani<br/>ONB, GIL, GUF]
+    A --> C[Tempo libero<br/>OND]
+    A --> D[Economia<br/>IMI, IRI, autarchia]
+    A --> E[Famiglia e natalità<br/>ONMI]
+    A --> F[Linguaggio e gesti<br/>voi, saluto romano]
+    B --> G[Uomo nuovo fascista]
+    C --> G
+    D --> H[Preparazione alla guerra]
+    E --> H
+    F --> G
+    G --> I[Consenso + conformismo]
+    H --> J[Distacco psicologico<br/>fine anni Trenta]
+```
+
 ---
 
 ## 3. Dall'invasione dell'Etiopia alle leggi antiebraiche
@@ -178,6 +209,23 @@ Le leggi razziste non furono imposizione tedesca: **Mussolini** scelse l'antisem
 ### 3.8 Reazioni degli italiani alle leggi razziste
 
 Le reazioni andarono da rifiuto e indignazione a conformismo, cinismo e opportunismo: l'esclusione degli ebrei apriva posti, carriere e patrimoni agli «ariani».
+
+```mermaid
+timeline
+    title Razzismo fascista: passaggi chiave
+    1935 : Guerra d'Etiopia
+         : propaganda coloniale
+    1936 : Proclamazione dell'Impero
+         : apartheid nelle colonie
+    1937 : Repressione in Etiopia
+         : Addis Abeba e Debra Libanòs
+    1938 : Manifesto degli scienziati razzisti
+         : censimento degli ebrei
+    17 novembre 1938 : Leggi razziste
+         : esclusione da scuola, Stato, PNF, professioni
+    1943 : persecuzione delle vite
+         : arresti e deportazioni
+```
 
 ```mermaid
 flowchart TD
@@ -244,6 +292,23 @@ Le Brigate ebbero valore politico e simbolico: fecero della Spagna una battaglia
 | **Germania nazista** | Armi, aviazione, Legione Condor |
 | **Brigate internazionali** | Volontari antifascisti, valore globale |
 
+```mermaid
+flowchart TD
+    A[Guerra civile spagnola] --> B[Conflitto interno]
+    A --> C[Conflitto internazionale]
+    B --> D[Repubblica<br/>Fronte popolare]
+    B --> E[Nazionalisti<br/>Franco + Falange]
+    C --> F[URSS ai repubblicani]
+    C --> G[Italia e Germania ai nazionalisti]
+    C --> H[Brigate internazionali]
+    G --> I[Guernica<br/>bombardamenti sui civili]
+    H --> J[Antifascismo europeo]
+    E --> K[Vittoria Franco 1939]
+    I --> L[Anteprima guerra mondiale]
+    J --> L
+    K --> L
+```
+
 ---
 
 ## 5. Il revisionismo hitleriano
@@ -293,6 +358,20 @@ L'annessione dell'Austria poteva sembrare riunificazione tedesca; il **protettor
 | **Polonia** | Obiettivo della guerra-lampo |
 | **Patto Molotov-von Ribbentrop** | Spartizione dell'Est e rinvio dello scontro tedesco-sovietico |
 | **1° settembre 1939** | Inizio della Seconda guerra mondiale |
+
+```mermaid
+timeline
+    title Revisionismo hitleriano verso la guerra
+    1935 : Saar torna alla Germania
+    1936 : Rimilitarizzazione della Renania
+    Marzo 1938 : Anschluss dell'Austria
+    Settembre 1938 : Conferenza di Monaco
+    Ottobre 1938 : Annessione dei Sudeti
+    Marzo 1939 : Invasione della Cecoslovacchia
+    23 agosto 1939 : Patto Molotov-von Ribbentrop
+    1 settembre 1939 : Invasione della Polonia
+         : inizio Seconda guerra mondiale
+```
 
 ---
 
@@ -356,6 +435,23 @@ Manciuria e Manchiukuò davano risorse e controllo sulla Cina settentrionale. La
 ### 6.9 Verso l'Asse Roma-Berlino-Tokyo
 
 L'espansione giapponese urtava Francia, Gran Bretagna e Stati Uniti, presenti nel Pacifico e fornitori di **petrolio** e **acciaio**. Con Germania e Italia pesavano revisionismo, anticomunismo, militarismo e impero.
+
+```mermaid
+flowchart TD
+    A[Crisi asiatica] --> B[Giappone revisionista]
+    A --> C[Cina frammentata]
+    B --> D[Bisogno di materie prime<br/>e mercati]
+    B --> E[Militarismo + zaibatsu]
+    C --> F[Kuomintang di Chiang]
+    C --> G[Comunisti di Mao]
+    D --> H[Manciuria 1931<br/>Manchiukuò]
+    F --> I[Repressione anticomunista]
+    G --> J[Lunga marcia 1934-35]
+    H --> K[Invasione Cina 1937]
+    K --> L[Massacro di Nanchino]
+    K --> M[Grande sfera di coprosperità]
+    M --> N[Patto anti-Komintern 1936<br/>Tripartito 1940]
+```
 
 ---
 

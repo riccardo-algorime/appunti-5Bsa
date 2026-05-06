@@ -88,7 +88,7 @@ flowchart TD
 
 La guerra lasciò **conformismo** e moralismo puritano. Il **proibizionismo** (**XVIII emendamento**, **1919**, in vigore dal **1920**, abrogato nel **1933**) vietò produzione, vendita e trasporto di alcolici.
 
-Voleva correggere i costumi, ma alimentò traffici illegali e **malavita organizzata**: età dei gangster come **Al Capone**, arrestato nel **1931** per frode fiscale.
+Voleva correggere i costumi, soprattutto delle classi popolari, ma alimentò traffici illegali e **malavita organizzata**: età dei gangster come **Al Capone**, arrestato nel **1931** per frode fiscale. Anche qui emerge una tensione tipica del dopoguerra americano: moralismo pubblico, repressione e crescita di economie illegali.
 
 ```mermaid
 flowchart TD
@@ -114,6 +114,8 @@ Nel **1920** vinse il repubblicano **Warren Harding**, contro internazionalismo 
 
 Dal **1921**: **protezionismo** e restrizioni migratorie, da **350.000 immigrati/anno** nel 1921 a **165.000** nel 1924, favorendo gli anglosassoni.
 
+La «normalità» repubblicana significava meno internazionalismo politico, più difesa del mercato interno e selezione etnica dell'immigrazione. Gli USA restavano globali per finanza e industria, ma volevano proteggere società e politica interna dalle pressioni esterne e dai conflitti europei.
+
 ```mermaid
 flowchart TD
     A[Elezioni 1920] --> B[Vittoria repubblicana<br>Warren Harding]
@@ -133,6 +135,8 @@ Le amministrazioni repubblicane favorirono **affari e finanza**: norme anti-**tr
 La fiscalità premiò i profitti: nel **1929** lo **0,1% controllava il 34% del risparmio**, l'**80% non aveva risparmi**, il **20% più ricco aveva il 55% del reddito nazionale**.
 
 > **Trust:** associazione di imprese sottoposte a direzione unica per ridurre costi, battere la concorrenza e imporsi sul mercato.
+
+Questa concentrazione della ricchezza è centrale per capire la crisi: se salari e risparmi della maggioranza restano limitati, il mercato interno non può assorbire all'infinito la produzione crescente. Il benessere degli anni ruggenti era reale, ma poggiava su basi sociali molto diseguali.
 
 ### 2.4 Il boom economico
 
@@ -164,6 +168,8 @@ flowchart TD
 
 **Radio** e **automobile** omogeneizzarono lo stile di vita: lingua parlata standard, strade, distributori, officine, motel. Le campagne si isolarono meno; a fine decennio gli attivi agricoli erano il **21%** (contro **41%** nel 1900), più di metà della popolazione viveva in città e lo stile urbano dominava.
 
+Questa «nazionalizzazione» fu culturale prima ancora che politica: stessi programmi radio, stessi modelli di consumo, stessi miti cinematografici, stessa idea di modernità. Anche chi viveva lontano dalle metropoli veniva raggiunto da linguaggi, mode e desideri urbani, riducendo la distanza simbolica tra città e campagne.
+
 ### 2.6 Il «sogno americano»: per molti ma non per tutti
 
 Il **«sogno americano»** univa **individualismo**, pari opportunità, benessere e ascesa sociale; cinema e radio lo diffusero con divi, mode e consumi. Ma copriva **squilibri**: crisi agricola, aree rurali, **minatori**, tessile/abbigliamento, **minoranze**, **afroamericani**, **immigrati**. Il problema non era l'assenza di crescita, ma la distribuzione diseguale dei suoi benefici.
@@ -185,6 +191,8 @@ Accanto al conservatorismo: **jazz**, **charleston**, emancipazione femminile e 
 
 Riviste progressiste e scrittori sperimentarono nuovi linguaggi. La **«lost generation»** (**Hemingway**, **Fitzgerald**) soggiornò spesso in Europa, mentre la cultura USA iniziava a non dipendere più da quella europea.
 
+La vivacità culturale non cancellava il moralismo dominante: convivevano proibizionismo e jazz, conformismo e *flappers*, razzismo e modernità dei consumi. Per questo gli anni Venti sono contraddittori, non solo «ruggenti».
+
 > **Lost generation:** negli USA indica un gruppo di scrittori degli anni Venti segnato dalla guerra o dal clima del dopoguerra.
 
 ---
@@ -196,6 +204,8 @@ Riviste progressiste e scrittori sperimentarono nuovi linguaggi. La **«lost gen
 Dopo il no alla Società delle Nazioni, gli USA avviarono un internazionalismo diverso dal wilsonismo ma inevitabile: nuova posizione globale, **egemonia economica**, interdipendenza, saldo commerciale attivo usato in prestiti/investimenti, forza culturale di Hollywood.
 
 L'**americanizzazione** esportava modernità. Obiettivo: **pace stabile** e ordine liberale favorevole allo sviluppo, senza istituzioni sovranazionali vincolanti né interventi diretti.
+
+È un internazionalismo selettivo: Hollywood, prestiti e prodotti industriali diffondono modelli americani, mentre Washington evita impegni politici permanenti. Gli USA vogliono stabilità mondiale perché serve ai commerci, ma non vogliono ancora guidarla direttamente.
 
 ```mermaid
 flowchart TD
@@ -222,6 +232,8 @@ Il **piano Dawes** (**1924**) rivide pagamenti e tempi delle riparazioni e finan
 Il piano Dawes preparò il **Trattato di Locarno** (**1925**): la Germania riconobbe i confini occidentali di Versailles e sembrò aprirsi pace/cooperazione.
 
 Nel **1928** il **patto Briand-Kellogg** sancì la **rinuncia alla guerra**. Firmato subito da **15 Paesi**, arrivò a **63 firme** nel 1939. Senza meccanismi applicativi, contribuì però alla nozione di **«crimine contro la pace»** dei processi di **Norimberga** e **Tokyo**. Il 1929 riportò centralità interna e isolazionismo.
+
+Locarno e Briand-Kellogg mostrano l'illusione di una pace garantita da accordi diplomatici e interdipendenza economica. Il limite è che mancavano strumenti coercitivi: quando negli anni Trenta cresceranno revisionismi e aggressioni, quelle promesse non basteranno.
 
 ```mermaid
 flowchart TD
@@ -355,6 +367,8 @@ flowchart TD
 
 Opere pubbliche: strade, ponti, scuole, ospedali, aeroporti. ***Civilian Conservation Corps*** (marzo **1933**): circa **3 milioni** di giovani in progetti ambientali fino al 1942. ***Tennessee Valley Authority*** (maggio **1933**): bacino del Tennessee, simbolo del New Deal.
 
+La logica comune era riattivare domanda, lavoro e fiducia. In agricoltura si voleva fermare il crollo dei prezzi; nell'industria evitare concorrenza distruttiva e salari troppo bassi; nelle opere pubbliche lo Stato diventava datore di lavoro e motore della ripresa. Il New Deal fu pragmatico: non un piano unico già definito, ma una serie di interventi sperimentati sotto pressione. Proprio questa flessibilità spiega sia la sua forza politica sia le molte critiche di incoerenza.
+
 | Settore | Provvedimento | Data | Contenuto |
 |---------|---------------|------|-----------|
 | **Agricolo** | Agricultural Adjustment Act | 12 maggio 1933 | Sussidi per riduzione superfici coltivate → risalita prezzi |
@@ -382,6 +396,8 @@ Nel **1935**: più opere pubbliche, tasse sui redditi alti, **previdenza sociale
 
 Nel **1936** Roosevelt vinse largamente. Centrale la **radio**: le ***fireside chats*** entrarono nelle case; **30** discorsi tra **1933 e 1944**, radio nell'**88%** delle famiglie nel 1945. Leadership carismatica anche in democrazia liberale.
 
+Le *fireside chats* trasformarono la comunicazione politica: il presidente spiegava direttamente le misure, rassicurava i cittadini e ricostruiva fiducia nel sistema bancario e nelle istituzioni. La radio, simbolo dei consumi anni Venti, divenne strumento di governo democratico.
+
 > Roosevelt sosteneva che ridurre l'orario e aumentare i salari avrebbe aumentato l'occupazione senza danneggiare i datori di lavoro, perché i costi sarebbero cresciuti per tutti.
 
 ### 5.5 Una «normalizzazione» del programma riformista
@@ -390,11 +406,15 @@ Dal **1937** il *New Deal* si stabilizzò: misure confermate, poche nuove spinte
 
 Imprenditori: accuse di limitare libertà d'impresa e concorrenza sleale; Roosevelt accusato di socialismo o corporativismo. Alcuni atti, incluso il **NIRA**, furono dichiarati illegittimi e riformulati. Nel **1937-38** una piccola recessione ridusse fiducia e risorse.
 
+Le critiche venivano sia da destra sia da chi giudicava le riforme insufficienti. Per i conservatori Roosevelt stava creando uno Stato troppo invadente; per molti lavoratori e disoccupati, invece, il New Deal non garantiva ancora piena occupazione e sicurezza.
+
 ### 5.6 New Deal e isolazionismo
 
 Roosevelt fu inizialmente isolazionista: nel **giugno 1933** evitò la **Conferenza economica di Londra** per poter svalutare il dollaro e sostenere il mercato interno.
 
 Scarso interesse per disarmo e militarismo giapponese. **Leggi sulla neutralità** (**1935-37**): niente armi ai belligeranti, anche nella **guerra civile spagnola** (**1936**). Dopo il **1938** svolta verso leadership mondiale; in **America Latina** restò l'attivismo USA.
+
+Questo isolazionismo non cancellava il peso mondiale degli USA, ma ne limitava l'uso politico. Mentre Europa e Asia scivolavano verso nuovi conflitti, Washington restava concentrata sulla ripresa interna e sull'evitare un nuovo coinvolgimento militare.
 
 ```mermaid
 flowchart TD
@@ -410,7 +430,7 @@ flowchart TD
 
 ### 5.7 L'eredità del New Deal
 
-Il *New Deal* non superò del tutto la Depressione: disoccupazione alta, salari sotto il 1929. Uscita definitiva solo con la mobilitazione della **Seconda guerra mondiale**.
+Il *New Deal* non superò del tutto la Depressione: disoccupazione alta, salari sotto il 1929. Uscita definitiva solo con la mobilitazione della **Seconda guerra mondiale**, che assorbì disoccupazione e riattivò industria su scala enorme.
 
 Eredità: più potere federale, **«presidenza personale»**, nuovo rapporto Stato-cittadino. Dimostrò un capitalismo riformabile in democrazia liberale: **diritti + tutela pubblica**, **impresa privata + programmazione**, **profitti + benessere collettivo**. Questo **capitalismo democratico** divenne modello USA dopo il 1945. Roosevelt non uscì dal capitalismo: ne modificò le regole per salvarlo dalla crisi e renderlo compatibile con la democrazia di massa.
 

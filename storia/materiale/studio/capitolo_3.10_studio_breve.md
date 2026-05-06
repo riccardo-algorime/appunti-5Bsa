@@ -25,15 +25,15 @@
 
 ### 1.1 Il rafforzamento del governo centrale negli anni di guerra
 
-La Prima guerra mondiale proiettò gli USA come **superpotenza** e impose una mobilitazione totale: tra 1917 e 1919 la **coscrizione obbligatoria** arruolò **4 milioni di uomini**, **2 milioni** dei quali inviati in Europa.
+La Prima guerra mondiale proiettò gli USA come **superpotenza** e impose una mobilitazione totale: tra 1917 e 1919 la **coscrizione obbligatoria** arruolò **4 milioni di uomini**, **2 milioni** dei quali inviati in Europa. Il contributo militare fu breve rispetto a quello europeo, ma decisivo; soprattutto, mostrò la superiorità industriale, finanziaria e logistica americana.
 
-Lo **Stato federale** si rafforzò sugli Stati federati intervenendo in **industria bellica**, approvvigionamenti, carburanti e **ferrovie**: uno spartiacque nel ruolo economico del governo centrale.
+Lo **Stato federale** si rafforzò sugli Stati federati intervenendo in **industria bellica**, approvvigionamenti, carburanti e **ferrovie**: uno spartiacque nel ruolo economico del governo centrale, che anticipa il tema del futuro intervento pubblico del New Deal.
 
 ### 1.2 Propaganda e censura: i «nemici interni»
 
-**Propaganda** e leggi restrittive limitarono **opinione ed espressione**. Il «nemico interno» fu identificato in **pacifisti** e radicali del **movimento operaio**.
+**Propaganda** e leggi restrittive limitarono **opinione ed espressione**. Il «nemico interno» fu identificato in **pacifisti** e radicali del **movimento operaio**: il dissenso veniva presentato come tradimento della nazione in guerra.
 
-Colpita anche la **comunità tedesco-americana**: circa **10.000** tedeschi non naturalizzati furono internati. Si consolidò l'identità **WASP**: bianca, anglosassone, protestante.
+Colpita anche la **comunità tedesco-americana**: circa **10.000** tedeschi non naturalizzati furono internati. Si consolidò l'identità **WASP**: bianca, anglosassone, protestante, quindi escludente verso minoranze etniche, religiose e politiche.
 
 > Il «nemico interno» nasce nella propaganda di guerra: oppositori e pacifisti vengono presentati come nemici da combattere.
 
@@ -55,7 +55,7 @@ flowchart TD
 
 Il nazionalismo di guerra aggravò le **violenze razziste**. Nel **1915** ***The Birth of a Nation*** diffuse stereotipi anti-afroamericani ed esaltò il **KKK**, contro le proteste della **NAACP** (**1909**).
 
-Il KKK originario, nato dopo la **Guerra di secessione**, voleva mantenere subordinati gli afroamericani; represso negli anni Settanta dell'Ottocento, rinacque nel **1915** con **cappuccio bianco** e **croce incendiata**, colpendo **afroamericani, immigrati, ebrei e cattolici**.
+Il KKK originario, nato dopo la **Guerra di secessione**, voleva mantenere subordinati gli afroamericani; represso negli anni Settanta dell'Ottocento, rinacque nel **1915** con **cappuccio bianco** e **croce incendiata**, colpendo **afroamericani, immigrati, ebrei e cattolici**. Il nuovo Klan non difendeva solo la segregazione del Sud: pretendeva di stabilire chi fosse davvero «americano».
 
 In guerra i **soldati afroamericani** restarono separati. Nel Nord industriale la migrazione nera dal Sud fu poi associata alla disoccupazione e scatenò violenze. Wilson: **voto alle donne nel 1920**, ma nessuna vera tutela dei diritti afroamericani.
 
@@ -106,7 +106,7 @@ flowchart TD
 
 ### 2.1 La nuova potenza mondiale
 
-Gli USA vinsero soprattutto sul piano **industriale e finanziario**: nel **1919** avevano **oltre 10 miliardi di dollari** di crediti esteri e esportavano sempre più **prodotti industriali**. Wilson voleva una guida politica mondiale, ma prevalse la riluttanza a responsabilità internazionali dirette.
+Gli USA vinsero soprattutto sul piano **industriale e finanziario**: nel **1919** avevano **oltre 10 miliardi di dollari** di crediti esteri e esportavano sempre più **prodotti industriali**. Prima della guerra vendevano soprattutto materie prime e prodotti agricoli; dopo le commesse belliche si affermarono come potenza manifatturiera. Wilson voleva una guida politica mondiale, ma prevalse la riluttanza a responsabilità internazionali dirette.
 
 ### 2.2 Il ritorno dei repubblicani
 
@@ -136,9 +136,9 @@ La fiscalità premiò i profitti: nel **1929** lo **0,1% controllava il 34% del 
 
 ### 2.4 Il boom economico
 
-Dal **1921-22** al 1929: **PIL +50%**, disoccupazione riassorbita, industria quasi raddoppiata, terziario in crescita. Produttività, salari e consumi salirono grazie a **organizzazione scientifica del lavoro** e **rate**.
+Dal **1921-22** al 1929: **PIL +50%**, disoccupazione riassorbita, industria quasi raddoppiata, terziario in crescita. Produttività, salari e consumi salirono grazie a **organizzazione scientifica del lavoro** e **rate**. Il credito rese accessibili beni costosi, ma aumentò la vulnerabilità quando redditi e occupazione crollarono.
 
-Traino: **automobile**, da **500.000** nel 1916 a **5,5 milioni** nel 1929, un'auto ogni sei abitanti. Beni durevoli: frigoriferi da **5.000** nel 1922 a quasi **1 milione** nel 1929, ferri nel **60%** delle case, radio nel **40%**.
+Traino: **automobile**, da **500.000** nel 1916 a **5,5 milioni** nel 1929, un'auto ogni sei abitanti. L'auto generò strade, officine, pompe di benzina, motel e nuova mobilità. Beni durevoli: frigoriferi da **5.000** nel 1922 a quasi **1 milione** nel 1929, ferri nel **60%** delle case, radio nel **40%**.
 
 | Indicatore | 1916 | 1929 |
 |------------|------|------|
@@ -166,7 +166,7 @@ flowchart TD
 
 ### 2.6 Il «sogno americano»: per molti ma non per tutti
 
-Il **«sogno americano»** univa **individualismo**, pari opportunità, benessere e ascesa sociale; cinema e radio lo diffusero con divi, mode e consumi. Ma copriva **squilibri**: crisi agricola, aree rurali, **minatori**, tessile/abbigliamento, **minoranze**, **afroamericani**, **immigrati**.
+Il **«sogno americano»** univa **individualismo**, pari opportunità, benessere e ascesa sociale; cinema e radio lo diffusero con divi, mode e consumi. Ma copriva **squilibri**: crisi agricola, aree rurali, **minatori**, tessile/abbigliamento, **minoranze**, **afroamericani**, **immigrati**. Il problema non era l'assenza di crescita, ma la distribuzione diseguale dei suoi benefici.
 
 ```mermaid
 flowchart TD
@@ -213,9 +213,9 @@ flowchart TD
 
 ### 3.2 Debiti e riparazioni: una «diplomazia del dollaro» verso l'Europa
 
-I **crediti USA** verso l'Europa si legarono alle riparazioni tedesche: Francia e Gran Bretagna volevano sospendere i debiti se la Germania non pagava; Washington pretendeva il rimborso ma voleva rilanciare l'Europa.
+I **crediti USA** verso l'Europa si legarono alle riparazioni tedesche: Francia e Gran Bretagna volevano sospendere i debiti se la Germania non pagava; Washington pretendeva il rimborso ma voleva rilanciare l'Europa. Il circuito era fragile: capitali americani alla Germania, riparazioni tedesche ai vincitori europei, rimborso dei debiti europei agli Stati Uniti.
 
-Il **piano Dawes** (**1924**) rivide pagamenti e tempi delle riparazioni e finanziò la Germania. L'Europa riconobbe la dipendenza dai capitali USA: **«diplomazia del dollaro»** in forma morbida.
+Il **piano Dawes** (**1924**) rivide pagamenti e tempi delle riparazioni e finanziò la Germania. L'Europa riconobbe la dipendenza dai capitali USA: **«diplomazia del dollaro»** in forma morbida. Quando Wall Street crollò, anche questa stabilizzazione costruita sul credito americano entrò in crisi.
 
 ### 3.3 Gli obiettivi della pace e del disarmo: il patto Briand-Kellogg
 
@@ -260,9 +260,9 @@ flowchart TD
 
 ### 4.2 Le cause della Grande Depressione negli Stati Uniti
 
-Cause: **sovrapproduzione** industriale; dal 1925 esportazioni in calo per ripresa europea e protezionismi; mercato interno saturo per beni durevoli e redditi squilibrati.
+Cause: **sovrapproduzione** industriale; dal 1925 esportazioni in calo per ripresa europea e protezionismi; mercato interno saturo per beni durevoli e redditi squilibrati. La Borsa fu l'innesco visibile, ma sotto c'erano merci invendute, profitti concentrati e consumatori incapaci di assorbire tutta la produzione.
 
-In agricoltura il **calo dei prezzi** aggravò debiti e ipoteche; nel 1929 il reddito dei coltivatori era **1/3** della media nazionale. Credito facile, mutui e rate resero fragile il sistema bancario di piccoli istituti.
+In agricoltura il **calo dei prezzi** aggravò debiti e ipoteche; nel 1929 il reddito dei coltivatori era **1/3** della media nazionale. Credito facile, mutui e rate resero fragile il sistema bancario di piccoli istituti. Quando famiglie e imprese non riuscirono più a restituire i prestiti, la crisi finanziaria divenne crisi produttiva e sociale.
 
 | Settore | Problema | Conseguenza |
 |---------|----------|-------------|
@@ -289,7 +289,7 @@ flowchart TD
 
 ### 4.4 La diffusione mondiale della crisi
 
-La crisi divenne **globale** perché il sistema si reggeva su debiti, prestiti USA, riparazioni tedesche e scambi. Le interdipendenze diffusero la crisi: anche il 1929 fu effetto della **Grande guerra** e dei limiti di Versailles.
+La crisi divenne **globale** perché il sistema si reggeva su debiti, prestiti USA, riparazioni tedesche e scambi. Le interdipendenze diffusero la crisi: anche il 1929 fu effetto della **Grande guerra** e dei limiti di Versailles. Il ritiro dei capitali americani colpì soprattutto la Germania, mentre il protezionismo ridusse ulteriormente commercio e produzione.
 
 | Paese | PIL 1932 (1929=100) | Produzione industriale 1932 (1929=100) |
 |-------|---------------------|----------------------------------------|
@@ -302,7 +302,7 @@ La crisi divenne **globale** perché il sistema si reggeva su debiti, prestiti U
 
 ### 4.5 Gli errori dell'amministrazione Hoover
 
-Hoover, liberista, affidò la crisi all'iniziativa privata: niente assistenza nazionale, carità/governi locali insufficienti, opere pubbliche modeste.
+Hoover, liberista, affidò la crisi all'iniziativa privata: niente assistenza nazionale, carità/governi locali insufficienti, opere pubbliche modeste. Temeva che un intervento federale diretto indebolisse responsabilità individuale e mercato; per milioni di disoccupati, però, questa prudenza apparve abbandono.
 
 Nel **1932** diede quasi **2 miliardi di dollari** in prestiti a banche e imprese: apparve un favore ai ricchi. All'estero irrigidì il **protezionismo**; nel 1930 tariffe altissime, ritiro di capitali, esportazioni **-60% dal 1929 al 1932**. Gli altri protezionismi ridussero i traffici e aumentarono l'isolamento.
 
@@ -412,7 +412,7 @@ flowchart TD
 
 Il *New Deal* non superò del tutto la Depressione: disoccupazione alta, salari sotto il 1929. Uscita definitiva solo con la mobilitazione della **Seconda guerra mondiale**.
 
-Eredità: più potere federale, **«presidenza personale»**, nuovo rapporto Stato-cittadino. Dimostrò un capitalismo riformabile in democrazia liberale: **diritti + tutela pubblica**, **impresa privata + programmazione**, **profitti + benessere collettivo**. Questo **capitalismo democratico** divenne modello USA dopo il 1945.
+Eredità: più potere federale, **«presidenza personale»**, nuovo rapporto Stato-cittadino. Dimostrò un capitalismo riformabile in democrazia liberale: **diritti + tutela pubblica**, **impresa privata + programmazione**, **profitti + benessere collettivo**. Questo **capitalismo democratico** divenne modello USA dopo il 1945. Roosevelt non uscì dal capitalismo: ne modificò le regole per salvarlo dalla crisi e renderlo compatibile con la democrazia di massa.
 
 > Per Kiran Klaus Patel, il New Deal mostrò un modello capace di conciliare democrazia e capitalismo, preparando l'egemonia americana del secondo dopoguerra.
 
@@ -433,48 +433,6 @@ flowchart TD
     K --> M
     L --> M
 ```
-
----
-
-## Nodi da non perdere
-
-### Guerra, identità nazionale e repressione
-
-La Prima guerra mondiale trasformò gli Stati Uniti in potenza globale, ma lasciò anche un'eredità interna ambigua: rafforzamento dello Stato federale, propaganda, censura, sospetto verso i «nemici interni». Il patriottismo si saldò con un'identità nazionale **WASP** e con una nuova intolleranza verso tedeschi-americani, pacifisti, radicali, afroamericani, immigrati, cattolici ed ebrei.
-
-Il caso del **Ku Klux Klan** e il ***Red Scare*** mostrano che gli anni Venti non furono solo prosperità e modernità: furono anche razzismo, xenofobia, anticomunismo e repressione. **Sacco e Vanzetti** sono il caso simbolico di una giustizia condizionata da pregiudizi politici ed etnici.
-
-### Anni ruggenti: prosperità reale, squilibri nascosti
-
-Il boom degli anni Venti si fondò su produzione industriale, automobile, elettrodomestici, radio, credito al consumo e acquisti a rate. La società americana diventò più urbana, più motorizzata, più omogenea nei consumi e nei modelli culturali. Radio e auto contribuirono alla **nazionalizzazione** degli stili di vita: lingua standard, strade, motel, pompe di benzina, cinema e pubblicità.
-
-Il **sogno americano**, però, copriva squilibri forti. Aree rurali, minatori, settori tradizionali, minoranze, afroamericani e immigrati restavano fuori dal benessere. Il problema non era l'assenza di crescita, ma la sua distribuzione: nel 1929 una quota minima della popolazione concentrava grande parte del risparmio, mentre l'80% non aveva riserve.
-
-### Americanizzazione e fragilità dell'ordine europeo
-
-Gli USA rifiutarono l'internazionalismo politico di Wilson, ma non poterono evitare un ruolo mondiale economico. Il **piano Dawes** mostra questa contraddizione: Washington non voleva entrare stabilmente in istituzioni sovranazionali, ma la stabilità europea dipendeva dai capitali americani.
-
-La diplomazia del dollaro collegò debiti interalleati, riparazioni tedesche e ricostruzione europea in un circuito fragile. Finché gli USA finanziavano la Germania, la Germania poteva pagare Francia e Gran Bretagna, che a loro volta potevano restituire i debiti agli USA. Il crollo di Wall Street spezzò proprio questa catena.
-
-### Crisi del 1929: non solo Borsa
-
-Il crollo di Wall Street fu l'innesco, non l'unica causa. Dietro la crisi c'erano **sovrapproduzione industriale**, mercato interno saturo, crisi agricola, speculazione, indebitamento e fragilità bancaria. Le azioni erano cresciute senza rapporto con l'economia reale; quando la fiducia crollò, vendite, fallimenti e disoccupazione alimentarono un circolo vizioso.
-
-La crisi diventò mondiale perché l'economia americana era ormai al centro del sistema. Il ritiro dei capitali dagli USA colpì l'Europa, soprattutto la Germania. Il protezionismo peggiorò tutto: ogni Paese cercò di difendersi chiudendosi, ma così ridusse ancora di più commercio, produzione e occupazione.
-
-### Hoover e Roosevelt: due idee opposte dello Stato
-
-**Hoover** restò legato al liberismo e all'idea che la ripresa dovesse venire da iniziativa privata, volontariato e carità. Per questo i suoi interventi apparvero insufficienti o favorevoli a banche e grandi imprese. Il protezionismo del 1930 contribuì al crollo degli scambi.
-
-**Roosevelt**, invece, propose un nuovo patto: lo Stato doveva ricostruire fiducia, regolare banche, sostenere agricoltura, occupazione, opere pubbliche e previdenza sociale. Il New Deal non abolì il capitalismo, ma lo riformò. La grande novità fu l'idea che la democrazia liberale potesse sopravvivere alla crisi solo accettando un ruolo più attivo dello Stato.
-
-### Limiti del New Deal
-
-Il New Deal non risolse completamente la Depressione. La disoccupazione restò alta, la Corte costituzionale bloccò alcuni provvedimenti, molti americani accusarono Roosevelt di eccessivo statalismo. Inoltre, sul piano internazionale, Roosevelt restò a lungo isolazionista: non partecipò alla Conferenza economica di Londra e accettò le **leggi sulla neutralità**.
-
-Il valore storico del New Deal sta quindi meno nella soluzione immediata della crisi e più nella sua eredità: rafforzamento del potere federale, centralità della presidenza, previdenza sociale, capitalismo regolato e modello democratico alternativo sia al comunismo sovietico sia alle dittature di destra.
-
-In sintesi, il capitolo va letto come una parabola: gli USA passano dall'isolazionismo politico alla centralità economica mondiale, dalla fiducia illimitata nel mercato alla necessità dell'intervento pubblico. Gli anni Venti mostrano potenza produttiva e consumo di massa; il 1929 ne rivela fragilità e disuguaglianze; il New Deal ridefinisce il patto democratico senza uscire dal capitalismo. Questa sequenza spiega perché il «secolo americano» inizi con boom, crisi e riforma insieme. Da ricordare anche il nesso tra politica interna e ruolo mondiale: quando l'economia americana crolla, l'intero equilibrio internazionale ne subisce le conseguenze economiche e diplomatiche.
 
 ---
 

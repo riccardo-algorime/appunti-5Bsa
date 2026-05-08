@@ -1,213 +1,678 @@
-# PCTO — Appunti Lezioni
+# Appunti PCTO
 
-> Due incontri con esperti (polizia, avvocati) su temi di attualità giuridica e sociale.
+> [!info]
+> Appunti ricavati dalla lettura integrale delle trascrizioni `18-03-26`, `31-03-26`, `23-04-26` e `06-05-20`.
+>  
+> Le registrazioni contengono alcuni tratti rumorosi, ripetizioni e parti poco udibili: qui sotto sono stati mantenuti i contenuti sostanziali delle lezioni, riorganizzati in forma chiara e studiabile.
 
----
+## Quadro generale
 
-## Lezione 1 — 18/03/26 | Codice della Strada: ebbrezza e stupefacenti
+Le lezioni affrontano soprattutto quattro aree:
 
-**Relatori:** Avv. Andrea Pisani (Foro di Latina) + collega penalista
-
-### Quadro generale: tipi di illecito
-
-| Tipo | Controparte | Sanzione |
-|------|-------------|----------|
-| Amministrativo | Stato | Multa / sospensione patente |
-| Penale | Stato | Arresto / ammenda (+ accessorie) |
-| Civile | Privato | Risarcimento del danno |
-
-> **Nota terminologica:** nel diritto penale "contravvenzione" ≠ "multa amministrativa". Le contravvenzioni penali sono punite con **arresto** o **ammenda**, i delitti con **reclusione** o **multa**.
+| Data | Tema principale | Nucleo della lezione |
+| --- | --- | --- |
+| `18-03-26` | Diritto penale della circolazione stradale | guida in stato di ebbrezza, sostanze stupefacenti, sanzioni, garanzie difensive |
+| `31-03-26` | Ordinamento giudiziario e processo penale | ruoli di PM, avvocato, giudice; indagini; rito abbreviato; simulazione processuale |
+| `23-04-26` | Social network, dipendenze e reati online | uso eccessivo del digitale, dati personali, reputazione, truffe, cyberbullismo |
+| `06-05-20` | Procedimento penale e logica del giudizio | nascita di un procedimento, attività della procura, lettura critica dei fatti, valore del dubbio |
 
 ---
 
-### Art. 186 C.d.S. — Guida in stato di ebbrezza
+## 1. Lezione del `18-03-26`
+## Pubblica sicurezza e circolazione stradale
 
-Le tre fasce alcolemiche (misurate con **etilometro**):
+### Distinzione fra illeciti
 
-| Fascia | Valore (g/L aria alveolare) | Tipo sanzione |
-|--------|-----------------------------|---------------|
-| A | 0,1 – 0,5 | Solo amministrativa (multa + sospensione patente limitata). Il Prefetto può autorizzare la guida per necessità lavorativa. |
-| B | 0,5 – 0,8 | **Penale** (processo, possibile conversione in lavori di pubblica utilità). Sospensione patente fino a oltre 1 anno. Niente autorizzazione del Prefetto. |
-| C | > 1,5 (o rifiuto accertamento) | **Penale aggravata.** Se c'è anche un incidente: **revoca** della patente + **confisca del veicolo**. |
+La lezione parte da una base fondamentale: non ogni violazione della legge è uguale.
 
-**Procedura:**
-- Al momento del fermo la persona deve essere avvisata della **facoltà di farsi assistere da un difensore** — pena la *nullità* dell'accertamento.
-- L'etilometro deve essere omologato e tarato.
-- Il rifiuto dell'accertamento = fascia C automatica.
+| Tipo di illecito | Contro chi si configura | Conseguenza tipica |
+| --- | --- | --- |
+| **Amministrativo** | contro lo Stato | sanzione pecuniaria, cioè multa |
+| **Penale** | contro lo Stato | pena più grave, con rilievo penale |
+| **Civile** | tra privati | risarcimento del danno |
 
-**Lavori di pubblica utilità (LPU):**
-- Alternativa alla sanzione penale detentiva, non sempre concedibile (no ai recidivi).
-- Vantaggi: riduzione della metà della sospensione patente, possibile cancellazione della confisca (solo senza incidente).
+Il docente insiste molto su questo punto perché il linguaggio comune crea confusione. Nella vita quotidiana si dice spesso "ho preso una contravvenzione" per indicare una multa, ma in diritto penale la **contravvenzione** è una vera categoria di reato.
 
-**Commissione Medica Locale:**
-- Per riottenere la patente nelle fasce B e C serve il **certificato di idoneità** dalla CML, i cui tempi possono superare la durata della sospensione stessa.
-- Per essere dichiarati inidonei occorre alcolismo **cronico conclamato**, non un singolo episodio.
+### Delitti e contravvenzioni
 
----
+Nel diritto penale i reati si dividono in:
 
-### Art. 187 C.d.S. — Guida sotto effetto di stupefacenti
+- **delitti**
+- **contravvenzioni**
 
-- **Non ci sono fasce:** qualsiasi accertamento positivo apre il circuito penale.
-- Il vecchio testo richiedeva lo **stato di alterazione** al momento della guida — difficile da provare perché i metaboliti (es. THC) restano nelle urine per settimane/mesi.
-- **Decreto Sicurezza (nov. 2023):** ora basta guidare **"dopo aver assunto"** stupefacenti, senza dimostrare l'alterazione in atto.
-- La **Corte Costituzionale** ha emesso una *sentenza interpretativa di rigetto*: la norma è costituzionale solo se interpretata richiedendo una correlazione temporale stretta tra assunzione e guida (non basta un metabolita residuo di settimane fa).
+La distinzione è tecnica ma importante:
 
-**Accertamento:**
-- Più invasivo dell'etilometro: prelievo salivare, ematico, urine — in struttura ospedaliera.
-- Richiede un sospetto concreto o il coinvolgimento in un incidente; non avviene di routine.
+| Categoria | Pena tipica |
+| --- | --- |
+| **Delitto** | reclusione e multa |
+| **Contravvenzione** | arresto e ammenda |
 
-**Farmaci con principi stupefacenti (es. oppioidi):**
-- Avere la **ricetta medica** è fondamentale: va dichiarata subito e messa a verbale.
-- Non è automaticamente reato: bisogna dimostrare che la positività deriva dal farmaco e non da uno stato di alterazione.
+La lezione sottolinea che i reati del Codice della Strada trattati nell'incontro, soprattutto gli articoli `186` e `187`, sono **contravvenzioni penali**, non semplici sanzioni amministrative.
 
-**Aggravanti:**
-- Incidente stradale (anche lieve: urto contro cartello, uscita di strada con danni).
-- Orario notturno.
-- Neopatentati.
+### Reati stradali: alcol e droghe
 
----
+Il focus centrale è su due fattispecie:
 
-### Concetti giuridici chiave
+- **guida in stato di ebbrezza**
+- **guida dopo assunzione di sostanze stupefacenti**
 
-- **Riserva di legge:** solo il Parlamento può creare un reato (non Regioni né Comuni).
-- **Tassatività:** la norma penale deve descrivere la condotta in modo preciso e non lasciare tutto alla discrezionalità del giudice.
-- **Corte Costituzionale:** controlla che le leggi del Parlamento rispettino la Costituzione; ci si accede solo *in via incidentale* (nell'ambito di un processo già aperto).
-- **Nullità dell'accertamento:** vizio procedurale che rende inutilizzabile la prova (es. mancato avviso del diritto al difensore).
+Il messaggio chiave è che questi comportamenti non sono trattati come semplici infrazioni, ma possono aprire un **procedimento penale**.
 
----
+### Guida in stato di ebbrezza
 
-## Lezione 2 — 31/03/26 | Dipendenze digitali, social network e cyberbullismo
+Per la guida in stato di ebbrezza conta l'accertamento tecnico, in particolare l'**etilometro**. Il docente chiarisce che:
 
-**Relatori:** Operatori Cooperativa Sociale "Il Volo" / On the Road + Ispettore di Polizia + Magistrato
+- le forze dell'ordine devono avvertire il soggetto della **facoltà di farsi assistere da un difensore**
+- l'accertamento è considerato un atto tecnico delicato
+- se mancano determinate garanzie, può esserci **nullità** dell'accertamento
 
----
+Questo mostra che il diritto penale non punisce soltanto, ma pretende anche il rispetto di regole rigorose nella raccolta della prova.
 
-### Dati sul consumo digitale (adolescenti 11–18 anni)
+### Il ruolo del difensore
 
-- **70%** trascorre più di 4 ore/giorno sui social.
-- 4 ore/giorno = **2 mesi interi all'anno** (senza sonno).
-- **58%** ha tentato di ridurre il tempo sullo schermo senza riuscirci.
-- **40%** perde ore di sonno a causa dei device.
-- 1 su 3 ha assistito a episodi di odio online.
-- 1 su 3 si arrabbia se viene disturbato mentre è connesso.
+Un punto ripetuto più volte è che, in procedimenti di questo tipo, la presenza di un avvocato è decisiva. Non tanto perché "salva sempre", ma perché:
 
-> *"Sempre online non significa essere sempre felici."*
+- verifica la regolarità degli atti
+- controlla come è stato eseguito l'accertamento
+- può evitare che una situazione gestita male degeneri
 
----
+Il docente spiega anche che, nella pratica, per questo genere di reati il carcere è raro e si arriva a conseguenze molto gravi soprattutto quando:
 
-### Meccanismi di dipendenza
+- la persona è già gravata da precedenti
+- la difesa è stata completamente trascurata
+- si perdono tutte le possibilità alternative offerte dall'ordinamento
 
-**Algoritmo e "bolla":**
-- I social mostrano solo ciò che ti piace → creano una bolla che rinforza le tue opinioni.
-- Non due utenti vedono lo stesso feed, anche se amici.
-- Documentario consigliato: **The Social Dilemma** (Netflix).
+### Guida dopo assunzione di sostanze stupefacenti
 
-**Dopamina e dopamine scrolling:**
-- Lo scroll infinito stimola il rilascio di **dopamina** (neurotrasmettitore del piacere/ricompensa).
-- Il *dopamine scrolling* è riconosciuto come una dipendenza equiparabile a una sostanza tossica.
+Questa parte è una delle più rilevanti dell'intera lezione. Viene spiegato che la normativa è cambiata e che il legislatore ha abbandonato la formula più legata allo **stato di alterazione**, puntando invece sulla guida **dopo aver assunto** sostanze stupefacenti.
 
-**Nomofobia:** paura di non avere con sé il cellulare.
+Il problema, secondo il relatore, è evidente: la formula è troppo vaga.
 
-**3 campanelli d'allarme:**
-1. Alterazione del ciclo sonno-veglia.
-2. Preferire la vita online a quella offline (limitazione sociale reale).
-3. Irritabilità / rabbia quando si viene disconnessi.
+Domande implicite poste durante la lezione:
 
-**Contenuti on-demand e binge-watching:** la disponibilità 24/7 elimina il "limite naturale" della tv tradizionale, favorendo le maratone notturne.
+- dopo quanto tempo dall'assunzione?
+- basta la presenza di metaboliti?
+- è necessario che la persona sia ancora alterata?
+- il semplice consumo passato può bastare?
 
----
+### La questione costituzionale
 
-### Privacy e sicurezza
+Qui entra in gioco la **Corte Costituzionale**. La lezione spiega:
 
-**I social non sono gratuiti — il prodotto sei tu:**
-- Accettando i T&C cedi dati, geolocalizzazione, accesso alla fotocamera.
-- **TikTok** è in grado di mappare l'ambiente circostante tramite la fotocamera; i dati raccolti hanno interesse geopolitico (vedi vicenda Trump/Biden vs. ByteDance).
+- cos'è la separazione dei poteri
+- che la Corte Costituzionale controlla se una legge è conforme alla Costituzione
+- che in Italia non ci si rivolge direttamente alla Corte "quando si vuole", ma solo tramite una questione sollevata dentro un procedimento
 
-**Password:**
-- La password più usata al mondo è `123456` (al 4° posto c'è "password").
-- `123456` viene crackata in **8 secondi**.
-- Regole base: password diversa per ogni servizio, cambio ogni 2–3 mesi, uso di caratteri misti.
-- **Autenticazione a due fattori (2FA):** dimezza i rischi di furto account; disponibile su WhatsApp, email, home banking, Amazon, Apple ecc.
+La critica alla norma sulla guida dopo assunzione di stupefacenti è legata a principi fondamentali del diritto penale:
 
-**Truffa "della ballerina" (WhatsApp):**
-- Un contatto fidato ti manda un link per un "concorso".
-- Il link non ruba il profilo ma apre una **sessione desktop** silente.
-- Da quella sessione vengono mandati altri messaggi truffa ai tuoi contatti.
-- Con la 2FA attiva, l'attacco viene bloccato.
+| Principio | Significato |
+| --- | --- |
+| **Riserva di legge** | solo la legge può creare reati |
+| **Irretroattività** | non si può punire un fatto che non era reato quando è stato commesso |
+| **Tassatività** | la condotta vietata deve essere descritta in modo chiaro |
 
-**Indicizzazione e motori di ricerca alternativi:**
-- Immagini non trovabili su Google possono apparire su **Yandex** (motore russo) o su **VK** (social russo).
-- Utile per smascherare falsi profili (reverse image search).
+Secondo la lezione, il problema della nuova formulazione è che rischia di punire anche chi **non rappresenta un pericolo attuale per la circolazione**, ad esempio in presenza di metaboliti residui rintracciabili molto tempo dopo l'assunzione.
 
-**Web reputation:**
-- Foto/post imbarazzanti online possono compromettere un colloquio di lavoro.
-- Gli HR fanno screening della presenza web dei candidati.
-- *"Su internet non si scrive con la matita, si scrive con l'inchiostro."* (The Social Network)
-- Il **diritto all'oblio** esiste formalmente ma è difficile da esercitare: la velocità di download/upload rende quasi impossibile cancellare qualcosa una volta diffuso.
+### Interpretazione della Corte
 
-**Fake news:**
-- Si diffondono perché le valutiamo in base alla *plausibilità soggettiva* e le condividiamo in modo inconsapevole.
-- Esperimento: Instagram non ascolta le conversazioni (non dimostrato); TikTok sì (tramite microfono/fotocamera).
+La Corte, per come viene spiegato nell'incontro, non ha semplicemente eliminato la norma, ma l'ha letta in modo restrittivo: non basta che la sostanza sia stata assunta in passato, deve esserci una **correlazione temporale significativa** con la guida.
 
----
+In sostanza, l'idea è questa:
 
-### Cyberbullismo e reati online
+> La norma non può essere usata in modo automatico solo perché compaiono metaboliti; occorre un legame serio tra assunzione e condotta di guida.
 
-**Legge 71/2017:**
-- Non ha creato nuovi reati, ha raccolto norme già esistenti nel codice penale in un unico contenitore.
-- **Novità:** strumenti preventivi.
-  - **Istanza di oscuramento/rimozione:** il minore ≥ 14 anni può richiedere autonomamente al provider la rimozione di contenuti lesivi.
-  - **Ammonimento:** il Prefetto/Questore convoca il cyberbullo e gli dà un "cartellino giallo". Il minore deve astenersi da quei comportamenti fino ai 18 anni, pena sanzioni molto più gravi.
+### Farmaci e responsabilità
 
-**Reati più comuni legati al web:**
+Uno studente chiede cosa succede nel caso di medicinali contenenti principi attivi compatibili con sostanze stupefacenti. La risposta è molto pratica:
 
-| Reato | Articolo | Esempio tipico |
-|-------|----------|----------------|
-| Diffamazione | art. 595 c.p. | Pubblicare una foto di qualcuno senza consenso alla pubblicazione |
-| Accesso abusivo a sistema informatico | art. 615-ter c.p. | Usare la password di gioco di un amico oltre il consenso |
-| Trattamento illecito di dati | art. 167 D.lgs. 196/03 | Caricare foto con persone non consenzientI |
-| Atti persecutori / stalking | art. 612-bis c.p. | Messaggi ripetuti, minacce online (pena: 1–6,5 anni) |
-| Revenge porn | art. 612-ter c.p. | Diffusione di immagini intime senza consenso |
-| Deepfake sessuale | art. 612-quater c.p. | Foto/video manipolati con IA |
-| Sostituzione di persona | art. 494 c.p. | Falso profilo Instagram |
+- è **fondamentale** avere la **prescrizione medica**
+- bisogna dichiarare subito l'assunzione del farmaco
+- è importante farlo verbalizzare
+- in caso di positività, la documentazione medica può essere decisiva per la difesa
 
-> **Nota importante sul consenso alle foto:** scattare una foto con il consenso del soggetto non autorizza la pubblicazione. Serve un **secondo consenso esplicito** per la pubblicazione.
+Non significa libertà assoluta: se un farmaco altera davvero la capacità di guida, il problema rimane. Però la prescrizione è l'elemento centrale per distinguere uso terapeutico e assunzione illecita.
 
-**Caso emblematico — Carolina Picchio:**
-- Prima vittima accertata di cyberbullismo in Italia (2013, 14 anni).
-- La sua storia ha ispirato la Legge 71/2017 (approvata tre anni dopo il fatto).
+### Aggravanti
 
-**Sexting e sextortion:**
-- **Sexting:** scambio di immagini intime; il rischio esiste sia con il partner sia con sconosciuti online.
-- **Sextortion:** ricatto (anche economico) tramite immagini intime. Spesso condotto da organizzazioni criminali che si fingono persone attraenti sui social.
-- Le immagini inviate non sono mai sotto il proprio controllo.
+Vengono richiamate anche alcune aggravanti, soprattutto per:
 
-**Imputabilità penale:** a partire dai **14 anni**.
+- **neopatentati**
+- **guida in orario notturno**
 
-**App utile — YouPol:**
-- App della Polizia per segnalazioni anonime (bullismo, maltrattamenti, ecc.).
-- Reale: a Ravenna due minori hanno usato YouPol per segnalare maltrattamenti familiari, portando all'intervento della Squadra Mobile.
+La logica è che, in situazioni considerate più rischiose, l'ordinamento reagisce in modo più severo.
+
+### Idee chiave da ricordare
+
+- Non tutte le violazioni del Codice della Strada sono semplici multe.
+- Alcune condotte stradali sono veri **reati**.
+- La procedura di accertamento è decisiva quanto il fatto materiale.
+- In materia di stupefacenti il nodo centrale è il rapporto tra **assunzione**, **alterazione** e **sicurezza stradale**.
+- Il diritto penale deve restare preciso: non può punire in modo vago o simbolico.
 
 ---
 
-### La rete è reale o virtuale?
+## 2. Lezione del `31-03-26`
+## Ordinamento giudiziario e simulazione del processo
 
-> *"Virtuale è lo strumento. Gli effetti sono reali."*
+### Le tre figure fondamentali
 
-- Quello che fai in rete produce conseguenze reali: una minaccia online è una minaccia penalmente rilevante; una foto pubblicata è una prova reale.
-- Le persone tendono a fare online cose che non farebbero di persona, sottovalutando il "disvalore" dell'azione digitale.
+La lezione ruota attorno a tre figure:
+
+| Figura | Funzione essenziale |
+| --- | --- |
+| **Pubblico Ministero** | dirige le indagini e sostiene l'accusa quando ci sono elementi sufficienti |
+| **Avvocato** | difende l'assistito e tutela i suoi diritti |
+| **Giudice** | decide in posizione di terzietà |
+
+Viene sottolineato che questa tripartizione è facile da dire in teoria, ma molto più complessa da capire davvero.
+
+### Differenza con il modello anglosassone
+
+Uno dei passaggi più interessanti è il confronto con il sistema americano o anglosassone.
+
+Nel modello evocato durante la lezione:
+
+- l'accusa è più chiaramente "parte"
+- la difesa è contrapposta frontalmente
+- il giudice è più esterno
+- la giuria popolare ha un peso centrale
+
+Nel sistema italiano, invece, il **Pubblico Ministero** non viene presentato come un semplice "avvocato dell'accusa", ma come un soggetto che ha il dovere di cercare la **verità**, anche quando favorisce l'indagato.
+
+Questo è un punto chiave:
+
+> Il PM non dovrebbe cercare la condanna a ogni costo; dovrebbe cercare gli elementi veri, sia contro sia a favore.
+
+### Indagini e notizia di reato
+
+La lezione spiega in modo concreto l'avvio del procedimento:
+
+1. una forza di polizia apprende una possibile **notizia di reato**
+2. la notizia viene trasmessa alla Procura
+3. il PM iscrive il fatto e dirige le indagini
+4. la polizia giudiziaria svolge gli accertamenti delegati
+5. alla fine si decide se chiedere archiviazione o esercitare l'azione penale
+
+Vengono citate varie forze di polizia e il loro ruolo, con l'idea che non agiscono tutte allo stesso modo, ma secondo competenze diverse.
+
+### Processo e procedimento non sono la stessa cosa
+
+Un chiarimento importante è la distinzione tra:
+
+- **procedimento penale**: l'intero percorso che parte dalla notizia di reato
+- **processo penale**: la fase in cui il giudice è chiamato a decidere
+
+Questa differenza è basilare per capire il lessico giuridico corretto.
+
+### La simulazione processuale
+
+Gran parte della lezione è dedicata a una simulazione costruita su un caso reale rielaborato, con documenti semplificati per gli studenti.
+
+Gli studenti lavorano su:
+
+- denuncia-querela
+- verbali di sommarie informazioni
+- annotazioni
+- relazioni finali
+
+L'obiettivo non è imparare formule a memoria, ma ragionare su:
+
+- fatti
+- prove
+- contraddizioni
+- possibili qualificazioni giuridiche
+
+### Il caso: tentato omicidio e concorso
+
+Nel materiale della simulazione compare un'imputazione per:
+
+- **tentato omicidio**
+- **concorso di persone nel reato**
+- porto o disponibilità di arma
+
+La lezione insiste sul concetto di **concorso**: non serve che tutti compiano materialmente il gesto finale. Se più persone condividono il progetto criminoso con ruoli diversi, possono rispondere insieme.
+
+### Il giudizio abbreviato
+
+Un blocco molto importante della lezione riguarda il **rito abbreviato**.
+
+| Aspetto | Significato |
+| --- | --- |
+| Cos'è | decisione del giudice sugli atti già raccolti |
+| Perché si sceglie | strategia difensiva o riduzione del rischio |
+| Vantaggio tipico | sconto di pena in caso di condanna |
+
+Il relatore spiega che il giudizio abbreviato può convenire soprattutto quando:
+
+- le indagini non sono complete
+- il quadro non è limpido
+- il dubbio può giocare a favore dell'imputato
+
+Quindi non è una scorciatoia casuale, ma una scelta processuale ragionata.
+
+### Regole del dibattito in aula
+
+La simulazione serve anche a far capire il comportamento processuale:
+
+- si parla nel proprio turno
+- non si interrompe senza motivo
+- l'ordine dell'udienza conta
+- accusa e difesa stanno sullo stesso piano
+- il giudice non dovrebbe intervenire continuamente, salvo necessità
+
+Viene anche spiegato il valore simbolico della **toga**, come segno della funzione e della formalità dell'udienza.
+
+### Il caso Roggero e la legittima difesa
+
+Nella seconda parte emerge una discussione su un caso di cronaca legato a:
+
+- **legittima difesa**
+- **tentato omicidio**
+- **sequestro di persona**
+- **omissione di soccorso**
+- stato di shock
+
+Il cuore del confronto è capire quando la legittima difesa smette di operare. La lezione fa emergere una distinzione centrale:
+
+> Se il pericolo attuale è cessato, la reazione violenta non è più automaticamente giustificata.
+
+Si ragiona anche sul fatto che:
+
+- sparare a chi è in fuga può far cadere la legittima difesa
+- lo shock psicologico può incidere, ma non giustifica tutto
+- alcuni reati possono essere **assorbiti** da altri più gravi
+
+Il concetto di **assorbimento** viene spiegato in modo utile: talvolta un reato minore non resta autonomo se è già contenuto in uno più grave.
+
+### Il valore formativo della lezione
+
+La lezione non vuole solo spiegare "chi fa cosa" nel processo, ma abituare a:
+
+- distinguere ruoli
+- leggere i fatti con precisione
+- evitare conclusioni istintive
+- capire che il diritto vive di qualificazioni tecniche e prove, non di impressioni
+
+### Idee chiave da ricordare
+
+- Il PM italiano, almeno in teoria, non è un accusatore cieco.
+- Avvocato e giudice hanno funzioni diverse ma complementari nel garantire il processo.
+- Il processo penale è una costruzione rigorosa di fatti, prove e regole.
+- Il **rito abbreviato** è una scelta strategica importante.
+- La legittima difesa richiede attualità del pericolo e proporzione della reazione.
 
 ---
 
-## Sintesi trasversale
+## 3. Lezione del `23-04-26`
+## Social network, dipendenze digitali e reati sul web
 
-| Tema | Messaggio chiave |
-|------|-----------------|
-| Social e dipendenza | 4 h/giorno = 2 mesi/anno persi; lo scroll è una dipendenza reale |
-| Algoritmi | Ti creano una bolla; il prodotto sei tu (dati) |
-| Privacy | Leggi i T&C; usa 2FA; non cedere password |
-| Fake news | Condividi solo dopo aver verificato |
-| Cyberbullismo | Pensare prima di postare; "cartellino giallo" è già un precedente |
-| Reputazione | Internet non dimentica; HR controllano il tuo profilo |
-| Guida | Dalla fascia B in su: processo penale; C + incidente = revoca + confisca |
-| Stupefacenti e guida | Positività ≠ alterazione, ma la legge ora punisce anche solo l'assunzione recente |
+### Il digitale come ambiente di vita
+
+La lezione parte da una constatazione: i social network e l'uso continuo di internet non sono un dettaglio della vita giovanile, ma una parte strutturale della quotidianità.
+
+Vengono messi in evidenza alcuni dati e osservazioni:
+
+- moltissimi ragazzi passano **più di quattro ore al giorno** online
+- una parte consistente prova a ridurre l'uso del telefono ma non ci riesce
+- il digitale sottrae **sonno**, attenzione e presenza sociale
+
+Il messaggio non è moralistico ma concreto: stare sempre connessi non coincide con stare bene.
+
+### Nomofobia e segnali di dipendenza
+
+Compare il termine **nomofobia**, cioè la paura di restare senza cellulare. Viene trattata non come una battuta, ma come sintomo di un rapporto sbilanciato con il dispositivo.
+
+Tre segnali di allarme richiamati nella lezione:
+
+| Segnale | Effetto |
+| --- | --- |
+| alterazione del sonno | si dorme meno e peggio |
+| riduzione della vita offline | si preferisce la connessione alle relazioni reali |
+| irritabilità quando si viene interrotti | reazione aggressiva o nervosa allo "stacco" |
+
+### Contenuti on demand e perdita del limite
+
+Viene fatto anche un confronto fra passato e presente:
+
+- prima i contenuti avevano orari fissi
+- oggi tutto è disponibile subito
+- questo favorisce maratone, binge watching, notti svegli e sovraesposizione
+
+Il punto non è la nostalgia, ma il fatto che l'assenza di limite esterno richiede più autocontrollo interno.
+
+### I social non sono gratis
+
+Uno dei nuclei più forti della lezione è la consapevolezza economica dei social. Le piattaforme sembrano gratuite, ma in realtà il prezzo sono:
+
+- i **dati personali**
+- il **tempo di permanenza**
+- la **profilazione**
+
+L'utente non è soltanto cliente: in larga parte è anche prodotto.
+
+### Algoritmi e bolla informativa
+
+La lezione insiste sul funzionamento degli **algoritmi**:
+
+- mostrano ciò che interessa
+- apprendono dalle abitudini
+- trattengono l'attenzione
+- costruiscono una **bolla**
+
+Questo produce almeno due effetti:
+
+1. aumenta la dipendenza dall'app
+2. riduce l'esposizione a punti di vista diversi
+
+### Dati, privacy e TikTok
+
+Una parte della lezione si concentra su TikTok come esempio di piattaforma percepita come particolarmente invasiva. Al di là di alcuni toni divulgativi, il punto sostanziale è:
+
+- molte app raccolgono moltissimi dati
+- gli utenti accettano condizioni d'uso senza leggerle
+- geolocalizzazione, fotocamera e tracciamenti possono essere sfruttati in modi difficili da percepire
+
+Il tema non è solo tecnico, ma politico e sociale: chi controlla dati e algoritmi esercita una forma di potere.
+
+### La rete è virtuale o reale?
+
+La seconda parte della lezione porta una tesi molto netta:
+
+> Lo strumento può essere virtuale, ma gli effetti sono reali.
+
+Questo vale per:
+
+- insulti
+- minacce
+- molestie
+- diffusione di contenuti
+- reputazione
+- danni psicologici e sociali
+
+La distinzione fondamentale è che il web non annulla la responsabilità; semmai la amplifica perché rende i contenuti:
+
+- replicabili
+- diffondibili
+- persistenti
+
+### Sul web non si cancella davvero
+
+Un concetto ripetuto con forza è che su internet **nulla sparisce davvero**. Anche se un contenuto viene rimosso da un profilo:
+
+- può essere stato scaricato
+- salvato
+- inoltrato
+- ripubblicato altrove
+
+Da qui il richiamo alla **web reputation**.
+
+### Reputazione digitale e lavoro
+
+Viene spiegato che, nel mondo del lavoro, contano sempre di più non solo:
+
+- curriculum
+- competenze
+- titoli
+
+ma anche l'immagine online della persona. Foto compromettenti, post aggressivi o contenuti degradanti possono influire sulle selezioni.
+
+### Reati online richiamati nella lezione
+
+La lezione cita varie figure di reato o comportamenti illeciti:
+
+| Tema | Contenuto |
+| --- | --- |
+| **atti persecutori / stalking** | molestie o minacce ripetute, favorite dal mezzo digitale |
+| **revenge porn / art. 612-ter** | diffusione non consensuale di immagini intime |
+| **diffamazione** | offesa alla reputazione altrui |
+| **truffe online** | raggiri negli acquisti o nelle vendite |
+| **furto di account** | appropriazione o compromissione di profili e accessi |
+
+Particolare attenzione viene data al **ricatto sessuale** e alla condivisione di immagini intime: il problema non è solo morale, ma soprattutto la perdita di controllo sul contenuto.
+
+### Fedina penale e imputabilità
+
+Il relatore ricorda che, superati i 18 anni, si risponde pienamente davanti al giudice ordinario. L'idea che online "sia meno grave" viene smontata anche su questo piano:
+
+- certe condotte producono una **fedina penale**
+- il danno reputazionale si somma al danno giuridico
+
+### Etica prima ancora della legalità
+
+Una frase di fondo della lezione è che non basta chiedersi se qualcosa sia penalmente vietato: bisogna chiedersi se sia **eticamente scorretto**.
+
+Questa è forse una delle idee più mature dell'incontro:
+
+> Non bisogna fermarsi alla soglia minima del "non è ancora reato"; bisognerebbe evitare anche ciò che è degradante, offensivo o pericoloso prima di arrivare all'illecito penale.
+
+### Segnalare e non voltarsi dall'altra parte
+
+Viene presentata anche l'app **YouPol**, come strumento per segnalazioni, anche anonime. Il messaggio è chiaro:
+
+- il digitale può creare problemi
+- ma può anche essere usato per chiedere aiuto o proteggere altri
+
+### Fake news, OSINT e deepfake
+
+Nella parte finale la lezione si allarga al tema della manipolazione informativa:
+
+- contenuti ritagliati e decontestualizzati
+- video falsi o alterati
+- **deepfake**
+- notizie difficili da verificare
+
+Viene richiamato il concetto di **OSINT** (`Open Source Intelligence`), cioè l'uso investigativo delle fonti aperte.
+
+Il punto centrale è che oggi la difficoltà non è solo trovare informazioni, ma capire:
+
+- se sono vere
+- da dove vengono
+- chi le diffonde
+- con quale scopo
+
+### Chat control, privacy e controllo
+
+In una domanda finale emerge anche il tema del **Chat Control 2.0**. La risposta data durante la lezione è prudente:
+
+- esistono esigenze di sicurezza
+- ma il rischio per la **riservatezza** e la privacy è molto forte
+- l'evoluzione dell'intelligenza artificiale rende ancora più delicato il bilanciamento
+
+### Idee chiave da ricordare
+
+- Il web non è un mondo separato dalla realtà.
+- Dati, tempo e attenzione sono il vero prezzo dei social.
+- Gli algoritmi modellano comportamenti e percezioni.
+- Ciò che si pubblica online può restare e produrre effetti a lungo termine.
+- Serve spirito critico verso contenuti, fonti e narrazioni digitali.
+
+---
+
+## 4. Lezione del `06-05-20`
+## Come nasce e si sviluppa un procedimento penale
+
+### Un caso concreto per spiegare il diritto
+
+La lezione usa un esempio vicino all'esperienza degli studenti: uscita serale, auto, incidente, possibile assunzione di alcol, ferimento di un passeggero.
+
+Da questo esempio si vede come un fatto apparentemente "normale" possa trasformarsi in **procedimento penale**.
+
+### Dal controllo su strada al procedimento
+
+Il percorso spiegato è questo:
+
+1. intervento della polizia su un fatto
+2. verifica delle condizioni delle persone
+3. eventuale test preliminare
+4. accertamento con etilometro
+5. contestazione del possibile reato
+6. nomina o indicazione del difensore
+7. avvio formale del procedimento
+
+È importante il passaggio simbolico e giuridico per cui l'agente che interviene non è più soltanto un operatore di soccorso o controllo, ma diventa **ufficiale di polizia giudiziaria** davanti a una possibile notizia di reato.
+
+### Neopatentati e soglia zero
+
+La lezione ricorda che per i **neopatentati** la tolleranza è molto più rigida. Anche valori minimi possono avere conseguenze che per altri conducenti non scattano nello stesso modo.
+
+### Lesioni stradali
+
+Se nel fatto c'è una persona ferita, la situazione cambia molto. In particolare, se le lesioni superano certe soglie, il rilievo penale cresce e può procedere anche l'autorità pubblica senza attendere la volontà della persona offesa.
+
+### Il lavoro del PM e della polizia giudiziaria
+
+Qui la lezione torna su un aspetto organizzativo fondamentale:
+
+- il PM riceve la notizia di reato
+- iscrive il fatto
+- delega indagini
+- valuta il materiale raccolto
+- decide se archiviare o esercitare l'azione penale
+
+Viene ribadito che il PM non lavora da solo: si serve di corpi specializzati a seconda della materia.
+
+Esempi richiamati:
+
+- **vigili del fuoco** per incendi e loro origine
+- **polizia locale** per ricostruzione dei sinistri
+
+### Esercitare l'azione penale o archiviare
+
+La scelta finale della fase delle indagini si riassume in due possibili sbocchi:
+
+| Esito | Significato |
+| --- | --- |
+| **Archiviazione** | mancano elementi sufficienti per sostenere l'accusa |
+| **Esercizio dell'azione penale** | si manda l'imputato davanti al giudice |
+
+È il punto in cui il procedimento passa, eventualmente, al processo.
+
+### Documenti del fascicolo
+
+Nel caso proposto agli studenti compaiono atti tipici:
+
+- denuncia-querela
+- verbali di sommarie informazioni
+- annotazioni di polizia giudiziaria
+- relazioni finali
+
+Gli studenti vengono guidati a capire che ogni atto ha una funzione precisa e che il processo non si fonda su "voci", ma su un fascicolo strutturato.
+
+### Giudicare significa ragionare
+
+Uno dei passaggi più forti della lezione è l'idea che:
+
+> Giudicare è un procedimento logico, quasi scientifico, che deve sottoporre le ipotesi a verifica e falsificazione.
+
+Questo significa che il giudice serio:
+
+- non si innamora della prima tesi
+- ascolta accusa e difesa
+- mette alla prova la propria ipotesi
+- accetta il dubbio come strumento di verità
+
+### Il caso simulato: la posizione di Mohamed
+
+Nella simulazione viene discusso soprattutto il ruolo di un imputato che, secondo una lettura possibile, non avrebbe partecipato realmente al fatto principale ma si sarebbe trovato coinvolto per vicinanza agli altri.
+
+La lezione mostra come:
+
+- la presenza sul luogo non basta automaticamente
+- il trasporto in auto o il supporto logistico vanno letti nel contesto
+- bisogna distinguere tra semplice presenza, aiuto materiale e partecipazione consapevole al progetto criminoso
+
+### Il valore della chiave di lettura corretta
+
+La parte finale è molto formativa: il relatore racconta di aver compreso davvero una linea difensiva decisiva solo in appello.
+
+Il senso dell'episodio è questo:
+
+- la prima lettura dei fatti può essere plausibile ma incompleta
+- il dettaglio giusto può cambiare la qualificazione dell'intera vicenda
+- ascoltare tutte le voci è una necessità pratica, non una virtù astratta
+
+### Insegnamento conclusivo
+
+La chiusura dell'incontro trasforma la lezione giuridica in una lezione di metodo:
+
+- avere **umiltà**
+- non fissarsi sulla propria tesi iniziale
+- ascoltare davvero
+- leggere i fatti da più lati
+- non avere paura di correggere il proprio giudizio
+
+È un messaggio valido non solo per il diritto, ma per studio, lavoro e vita pubblica.
+
+### Idee chiave da ricordare
+
+- Un procedimento penale può nascere da fatti molto vicini alla vita quotidiana.
+- La fase delle indagini è decisiva quanto il processo.
+- Il fascicolo penale è una costruzione ordinata di atti.
+- La responsabilità non si deduce meccanicamente dalla vicinanza ai fatti.
+- Il buon giudizio richiede dubbio, confronto e capacità di rivedere le proprie ipotesi.
+
+---
+
+## Collegamenti trasversali fra le lezioni
+
+### 1. La realtà dei fatti conta più delle etichette
+
+In tutte le lezioni ritorna la stessa idea: non bisogna fermarsi alle parole comuni.
+
+Esempi:
+
+- "contravvenzione" non vuol dire sempre semplice multa
+- "virtuale" non vuol dire irreale
+- "accusa" non coincide sempre con verità
+- "presenza sul posto" non equivale automaticamente a responsabilità penale
+
+### 2. Il diritto richiede precisione
+
+Il lessico giuridico è tecnico perché serve a evitare ambiguità:
+
+- reato vs illecito amministrativo
+- procedimento vs processo
+- delitto vs contravvenzione
+- archiviazione vs condanna
+- legittima difesa vs vendetta
+
+### 3. Le garanzie non sono formalità vuote
+
+Sia nella guida in stato di ebbrezza sia nel processo penale emerge che:
+
+- il modo in cui si accerta un fatto è decisivo
+- la difesa non è un optional
+- il rispetto delle regole tutela tutti
+
+### 4. La responsabilità personale è centrale
+
+Le lezioni insistono molto su un punto educativo: crescere significa capire che le azioni producono conseguenze.
+
+Questo vale:
+
+- sulla strada
+- online
+- nei conflitti
+- nella gestione delle prove e delle parole
+
+### 5. Serve spirito critico
+
+Che si tratti di una norma penale, di una prova processuale o di un contenuto online, il messaggio è sempre lo stesso:
+
+> Non reagire in automatico. Verifica, interpreta, confronta, dubita quando serve.
+
+---
+
+## Schema finale rapido
+
+| Tema | Idea da portare a casa |
+| --- | --- |
+| Guida e diritto penale | alcune condotte stradali sono veri reati e richiedono garanzie precise |
+| PM, avvocato, giudice | hanno ruoli diversi ma tutti indispensabili alla giustizia |
+| Processo penale | nasce dalla notizia di reato e si fonda su atti, prove e regole |
+| Web e social | il virtuale produce effetti reali, giuridici e personali |
+| Metodo | servono ascolto, precisione, responsabilità e spirito critico |
+
+> [!summary]
+> Le lezioni di PCTO mostrano che diritto, cittadinanza digitale e responsabilità personale sono collegati.  
+> Capire una norma, usare bene il web, difendersi correttamente, valutare un fatto con prudenza: sono tutte forme della stessa competenza civile, cioè saper stare nella società senza agire in modo superficiale.

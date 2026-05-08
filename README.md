@@ -14,7 +14,7 @@ Raccolta di appunti e materiali scolastici.
 | `chimica/` | 1 cartelle, 0 file | `-` |
 | `italiano/` | 8 cartelle, 2 file | `INDICE.md` |
 | `mate/` | 0 cartelle, 0 file | `-` |
-| `pcto/` | 2 cartelle, 1 file | `appunti.md` |
+| `pcto/` | 5 cartelle, 1 file | `appunti.md` |
 | `storia/` | 1 cartelle, 0 file | `-` |
 
 ## Tree rapido
@@ -72,11 +72,23 @@ Raccolta di appunti e materiali scolastici.
 │       └── ripasso.md
 ├── mate/
 ├── pcto/
+│   ├── 06-05-20/
+│   │   └── transcription.txt
 │   ├── 18-03-26/
+│   │   └── transcription.txt
+│   ├── 23-04-26/
 │   │   └── transcription.txt
 │   ├── 31-03-26/
 │   │   └── transcription.txt
-│   └── appunti.md
+│   ├── appunti.md
+│   └── materiali-pcto/
+│       ├── 06-05-20/
+│       ├── 18-03-26/
+│       ├── 23-04-26/
+│       ├── 31-03-26/
+│       ├── quarta/
+│       ├── quinta/
+│       └── terza/
 ├── README.md
 └── storia/
     └── materiale/

@@ -41,6 +41,7 @@ Raccolta di appunti e materiali scolastici.
 │       ├── appunti-bea.md
 │       ├── appunti-verifica-fisica-compatto.md
 │       ├── appunti-verifica-fisica.md
+│       ├── calc/
 │       ├── teoria-verifica-fisica-orale.md
 │       ├── trascrizione-app-giulia.md
 │       └── trascrizione-lezioni/

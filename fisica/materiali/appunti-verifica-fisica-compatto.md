@@ -4,17 +4,65 @@
 > Formulaio rapido per esercizi e ripasso finale. Per la teoria discorsiva usa [`teoria-verifica-fisica-orale.md`](./teoria-verifica-fisica-orale.md).
 
 > [!warning] Scope prof
-> Fotoelettrico solo teorico. Michelson-Morley: scopo e risultato, non matematica. Trasformazioni di Lorentz escluse come teoria.
+> Questo formulaio serve per la parte di esercizi e formule della relatività ristretta. Fotoelettrico: solo orale teorico, quindi non è incluso qui. Michelson-Morley: scopo e risultato, non matematica. Trasformazioni di Lorentz escluse come teoria.
 
 ---
 
 ## Costanti
 
-| Quantità | Formula / valore | Uso |
-|---|---:|---|
-| Luce | \(c=3{,}0\cdot10^8\ \text{m/s}\) | velocità limite |
-| Elettronvolt | \(1\ \text{eV}=1{,}6\cdot10^{-19}\ \text{J}\) | conversioni |
-| Mega-eV | \(1\ \text{MeV}=10^6\ \text{eV}=1{,}6\cdot10^{-13}\ \text{J}\) | energie relativistiche |
+**Velocità della luce**
+
+$$
+c=3{,}0\cdot10^8\ \text{m/s}
+$$
+
+Serve come velocità limite e in tutte le formule relativistiche.
+
+**Elettronvolt**
+
+$$
+1\ \text{eV}=1{,}6\cdot10^{-19}\ \text{J}
+$$
+
+**Mega-elettronvolt**
+
+$$
+1\ \text{MeV}=10^6\ \text{eV}=1{,}6\cdot10^{-13}\ \text{J}
+$$
+
+Serve per convertire energie in esercizi con elettroni, protoni e particelle relativistiche.
+
+**Carica elementare**
+
+$$
+e=1{,}6\cdot10^{-19}\ \text{C}
+$$
+
+Per l'elettrone la carica è \(-e\), per il protone è \(+e\). Negli esercizi con moduli si usa spesso \(|q|=e\).
+
+**Massa dell'elettrone**
+
+$$
+m_e=9{,}11\cdot10^{-31}\ \text{kg}
+$$
+
+oppure:
+
+$$
+m_e\approx0{,}511\ \text{MeV}/c^2
+$$
+
+**Massa del protone**
+
+$$
+m_p=1{,}67\cdot10^{-27}\ \text{kg}
+$$
+
+oppure:
+
+$$
+m_p\approx938\ \text{MeV}/c^2
+$$
 
 ---
 
@@ -27,6 +75,18 @@ $$
 $$
 
 \(\beta\) è la velocità in unità di \(c\). \(\gamma\) misura quanto sono forti gli effetti relativistici. Deve essere sempre \(\gamma\geq1\).
+
+Forma equivalente:
+
+$$
+\gamma=\frac{1}{\sqrt{1-\frac{v^2}{c^2}}}
+$$
+
+Approssimazione per velocità non troppo grandi, circa \(v<0{,}4c\):
+
+$$
+\gamma\approx1+\frac{1}{2}\frac{v^2}{c^2}
+$$
 
 Inverse:
 
@@ -74,10 +134,22 @@ $$
 v_x'=\frac{v_x-u}{1-\frac{uv_x}{c^2}}
 $$
 
+Con la nomenclatura \(V\) = velocità di \(S'\) rispetto a \(S\), \(v\) = velocità vista da \(S\), \(v'\) = velocità vista da \(S'\):
+
+$$
+v'=\frac{v-V}{1-\frac{vV}{c^2}}
+$$
+
 Formula inversa:
 
 $$
 v_x=\frac{v_x'+u}{1+\frac{uv_x'}{c^2}}
+$$
+
+Nella stessa nomenclatura:
+
+$$
+v=\frac{v'+V}{1+\frac{v'V}{c^2}}
 $$
 
 Componenti perpendicolari:
@@ -136,10 +208,18 @@ $$
 F=ma\gamma^3
 $$
 
+$$
+F_\parallel=ma\gamma^3
+$$
+
 Forza perpendicolare a \(\vec v\), caso centripeto:
 
 $$
 F=ma\gamma
+$$
+
+$$
+F_\perp=ma\gamma
 $$
 
 Sistema isolato:
@@ -170,6 +250,18 @@ $$
 E_c=E-E_0=(\gamma-1)mc^2
 $$
 
+Stessa formula con la notazione \(K\), spesso usata nei testi:
+
+$$
+K=mc^2(\gamma-1)
+$$
+
+Relazione fondamentale:
+
+$$
+E=E_0+K
+$$
+
 Se conosci \(E_c\):
 
 $$
@@ -182,6 +274,14 @@ $$
 
 > [!tip] \(E_0\): fermo. \(E\): totale. \(E_c\): moto.
 
+Relazione energia-momento:
+
+$$
+E^2=(pc)^2+E_0^2
+$$
+
+È utile come scorciatoia quando l'esercizio usa unità tipo \(\text{MeV}\), \(\text{MeV}/c\), \(\text{MeV}/c^2\).
+
 ---
 
 ## Lavoro elettrico
@@ -192,6 +292,12 @@ $$
 
 $$
 L=-q\Delta V
+$$
+
+In alcune convenzioni, o se il verso è già gestito dal testo, si scrive anche:
+
+$$
+L=q\Delta V
 $$
 
 In valore assoluto:
@@ -214,6 +320,12 @@ $$
 F_L=|q|vB
 $$
 
+Se \(q\) viene usato come modulo della carica:
+
+$$
+F_L=qvB
+$$
+
 Forza centripeta relativistica:
 
 $$
@@ -226,50 +338,11 @@ $$
 r=\frac{\gamma mv}{|q|B}=\frac{p}{|q|B}
 $$
 
----
-
-## Fotoelettrico e fotoni
-
-Energia del fotone:
+Versione con \(q\) inteso come modulo della carica:
 
 $$
-E=hf
+r=\frac{p}{qB}=\frac{\gamma mv}{qB}
 $$
-
-Quantità di moto del fotone:
-
-$$
-p=\frac{E}{c}
-$$
-
-Lavoro di estrazione:
-
-$$
-W_0=hf_0
-$$
-
-Bilancio:
-
-$$
-hf=W_0+E_{c,\max}
-$$
-
-Quindi:
-
-$$
-E_{c,\max}=hf-hf_0
-$$
-
-Potenziale di arresto:
-
-$$
-E_{c,\max}=|q_e|\Delta V_0
-$$
-
-> [!warning] Per teoria
-> Frequenza \(f\) = energia del singolo fotone. Intensità = numero di fotoni. Se \(f<f_0\), non escono elettroni.
-
----
 
 ## Muoni
 
@@ -323,8 +396,6 @@ Non è simmetrico perché il gemello sull'astronave accelera e cambia sistema di
 
 **Bertozzi:** elettroni accelerati con energia crescente si avvicinano a \(c\), ma non la raggiungono. Conferma \(c\) come limite per particelle con massa.
 
-**Fotoelettrico:** mostra che la luce scambia energia in fotoni; spiega frequenza soglia e ruolo dell'intensità.
-
 ---
 
 ## Mini teoria flash
@@ -339,7 +410,4 @@ Non è simmetrico perché il gemello sull'astronave accelera e cambia sistema di
 
 **Massa-energia:** un corpo possiede energia anche da fermo: \(E_0=mc^2\).
 
-**Fotoelettrico:** intensità aumenta quanti elettroni escono; frequenza aumenta l'energia massima.
-
 **Dualismo:** luce e materia possono mostrare comportamento ondulatorio o corpuscolare.
-

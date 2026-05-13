@@ -421,52 +421,9 @@ Fonte: [`11-04-26/transcription.txt`](./trascrizione-lezioni/11-04-26/transcript
 
 ---
 
-## Trasformazioni di Lorentz
-
-Lorentz introduce queste trasformazioni prima del 1905 per conciliare elettromagnetismo e relatività galileiana. Einstein le ricava poi in modo autonomo dai postulati della relatività ristretta, dando loro un significato fisico.
-
-Si considera un sistema \(S'\) in moto con velocità \(u\) lungo l'asse \(x\) positivo rispetto a \(S\). Le origini coincidono a \(t=t'=0\). Le trasformazioni sono:
-
-$$
-\begin{cases}
-x' = \gamma(x-ut) \\
-y' = y \\
-z' = z \\
-t' = \gamma\left(t - \frac{\beta}{c}x\right)
-\end{cases}
-$$
-
-dove:
-
-$$
-\beta = \frac{u}{c}
-\qquad
-\gamma = \frac{1}{\sqrt{1-\beta^2}}
-$$
-
-Le trasformazioni galileiane erano:
-
-$$
-\begin{cases}
-x' = x-ut \\
-y' = y \\
-z' = z \\
-t' = t
-\end{cases}
-$$
-
-Se \(u \ll c\), allora \(\beta \approx 0\) e \(\gamma \approx 1\). Le trasformazioni di Lorentz si riducono a quelle di Galileo. Questo mostra che la relatività galileiana non è "falsa" in assoluto: è un caso limite valido per velocità molto piccole rispetto alla luce.
-
-> [!warning] Indicazione esplicita sulla verifica
-> Alla domanda sulla prova del 20, la prof ha detto che **non metterà la parte teorica sulle trasformazioni di Lorentz** e non vi farà ricavare le leggi di composizione da esse. Però le trasformazioni restano lo sfondo teorico da cui nascono le formule usate.
-
-Fonte: [`15-04-26/transcription.txt`](./trascrizione-lezioni/15-04-26/transcription.txt), [`09-05-26/transcription.txt`](./trascrizione-lezioni/09-05-26/transcription.txt).
-
----
-
 ## Composizione relativistica delle velocità
 
-Dalle trasformazioni di Lorentz si ricava la composizione relativistica delle velocità. Se \(S'\) si muove rispetto a \(S\) con velocità \(u\) lungo \(x\), e un corpo ha velocità \(v_x\) in \(S\), allora la sua velocità in \(S'\) è:
+La relatività ristretta modifica anche il modo in cui si compongono le velocità. Se \(S'\) si muove rispetto a \(S\) con velocità \(u\) lungo \(x\), e un corpo ha velocità \(v_x\) in \(S\), allora la sua velocità in \(S'\) è:
 
 $$
 v_x' = \frac{v_x-u}{1-\frac{uv_x}{c^2}}

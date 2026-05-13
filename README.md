@@ -12,6 +12,7 @@ Raccolta di appunti e materiali scolastici.
 | Cartella | Contenuto | Entrata consigliata |
 |---|---|---|
 | `chimica/` | 1 cartelle, 0 file | `-` |
+| `fisica/` | 1 cartelle, 0 file | `-` |
 | `italiano/` | 8 cartelle, 2 file | `INDICE.md` |
 | `mate/` | 0 cartelle, 0 file | `-` |
 | `pcto/` | 5 cartelle, 1 file | `appunti.md` |
@@ -35,6 +36,9 @@ Raccolta di appunti e materiali scolastici.
 │       ├── B4-ripasso.md
 │       └── B4-studio.md
 ├── CONTRIBUTING.md
+├── fisica/
+│   └── materiali/
+│       └── trascrizione-app-giulia.md
 ├── italiano/
 │   ├── dannunzio/
 │   │   ├── mega-schema.md

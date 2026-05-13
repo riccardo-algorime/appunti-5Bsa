@@ -38,6 +38,7 @@ Raccolta di appunti e materiali scolastici.
 ├── CONTRIBUTING.md
 ├── fisica/
 │   └── materiali/
+│       ├── appunti-bea.md
 │       ├── appunti-verifica-fisica.md
 │       ├── trascrizione-app-giulia.md
 │       └── trascrizione-lezioni/

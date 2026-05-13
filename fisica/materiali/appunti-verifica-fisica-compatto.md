@@ -38,7 +38,7 @@ $$
 e=1{,}6\cdot10^{-19}\ \text{C}
 $$
 
-Per l'elettrone la carica è \(-e\), per il protone è \(+e\). Negli esercizi con moduli si usa spesso \(|q|=e\).
+Per l'elettrone la carica è negativa, per il protone è positiva. Negli esercizi con moduli si usa spesso il modulo della carica elementare.
 
 **Massa dell'elettrone**
 
@@ -74,7 +74,7 @@ $$
 \gamma=\frac{1}{\sqrt{1-\beta^2}}
 $$
 
-\(\beta\) è la velocità in unità di \(c\). \(\gamma\) misura quanto sono forti gli effetti relativistici. Deve essere sempre \(\gamma\geq1\).
+Beta è la velocità in unità di c. Gamma misura quanto sono forti gli effetti relativistici. Deve essere sempre maggiore o uguale a 1.
 
 Forma equivalente:
 
@@ -82,7 +82,7 @@ $$
 \gamma=\frac{1}{\sqrt{1-\frac{v^2}{c^2}}}
 $$
 
-Approssimazione per velocità non troppo grandi, circa \(v<0{,}4c\):
+Approssimazione per velocità non troppo grandi, circa v minore di 0,4c:
 
 $$
 \gamma\approx1+\frac{1}{2}\frac{v^2}{c^2}
@@ -96,7 +96,7 @@ $$
 v=\beta c
 $$
 
-> [!error] Se \(\gamma<1\), formula scritta male.
+> [!error] Se gamma viene minore di 1, la formula è scritta male.
 
 ---
 
@@ -106,10 +106,10 @@ $$
 \Delta t=\gamma\Delta t_0
 $$
 
-\(\Delta t_0\) = **tempo proprio**, misurato da chi vede i due eventi nello stesso punto.  
-\(\Delta t\) = tempo misurato da chi vede gli eventi in punti diversi.
+Delta t0 = **tempo proprio**, misurato da chi vede i due eventi nello stesso punto.  
+Delta t = tempo misurato da chi vede gli eventi in punti diversi.
 
-Poiché \(\gamma\geq1\), allora \(\Delta t\geq\Delta t_0\): il tempo non proprio è più lungo.
+Poiché gamma è maggiore o uguale a 1, allora Delta t è maggiore o uguale a Delta t0: il tempo non proprio è più lungo.
 
 ---
 
@@ -119,8 +119,8 @@ $$
 L=\frac{L_0}{\gamma}
 $$
 
-\(L_0\) = **lunghezza propria**, misurata da chi vede l'oggetto fermo.  
-\(L\) = lunghezza misurata da chi vede l'oggetto in moto.
+L0 = **lunghezza propria**, misurata da chi vede l'oggetto fermo.  
+L = lunghezza misurata da chi vede l'oggetto in moto.
 
 La contrazione vale solo lungo la direzione del moto.
 
@@ -128,13 +128,13 @@ La contrazione vale solo lungo la direzione del moto.
 
 ## Composizione delle velocità
 
-Da \(S\) a \(S'\):
+Da S a S':
 
 $$
 v_x'=\frac{v_x-u}{1-\frac{uv_x}{c^2}}
 $$
 
-Con la nomenclatura \(V\) = velocità di \(S'\) rispetto a \(S\), \(v\) = velocità vista da \(S\), \(v'\) = velocità vista da \(S'\):
+Con la nomenclatura V = velocità di S' rispetto a S, v = velocità vista da S, v' = velocità vista da S':
 
 $$
 v'=\frac{v-V}{1-\frac{vV}{c^2}}
@@ -164,7 +164,7 @@ $$
 
 ---
 
-## Quantità di moto e limite \(c\)
+## Quantità di moto e limite c
 
 Classica:
 
@@ -184,7 +184,7 @@ $$
 \Delta\vec p=\vec F\Delta t
 $$
 
-Quando \(v\to c\), \(\gamma\to\infty\), quindi servirebbe quantità di moto infinita. Per questo un corpo con massa non raggiunge \(c\).
+Quando v tende a c, gamma tende all'infinito, quindi servirebbe quantità di moto infinita. Per questo un corpo con massa non raggiunge c.
 
 ---
 
@@ -202,7 +202,7 @@ $$
 \vec F=\frac{d}{dt}(\gamma m\vec v)
 $$
 
-Forza parallela a \(\vec v\):
+Forza parallela alla velocità:
 
 $$
 F=ma\gamma^3
@@ -212,7 +212,7 @@ $$
 F_\parallel=ma\gamma^3
 $$
 
-Forza perpendicolare a \(\vec v\), caso centripeto:
+Forza perpendicolare alla velocità, caso centripeto:
 
 $$
 F=ma\gamma
@@ -250,7 +250,7 @@ $$
 E_c=E-E_0=(\gamma-1)mc^2
 $$
 
-Stessa formula con la notazione \(K\), spesso usata nei testi:
+Stessa formula con la notazione K, spesso usata nei testi:
 
 $$
 K=mc^2(\gamma-1)
@@ -262,7 +262,7 @@ $$
 E=E_0+K
 $$
 
-Se conosci \(E_c\):
+Se conosci l'energia cinetica:
 
 $$
 \gamma=\frac{E_c}{mc^2}+1
@@ -272,7 +272,7 @@ $$
 v=\beta c
 $$
 
-> [!tip] \(E_0\): fermo. \(E\): totale. \(E_c\): moto.
+> [!tip] E0: energia a riposo. E: energia totale. Ec oppure K: energia cinetica.
 
 Relazione energia-momento:
 
@@ -280,7 +280,7 @@ $$
 E^2=(pc)^2+E_0^2
 $$
 
-È utile come scorciatoia quando l'esercizio usa unità tipo \(\text{MeV}\), \(\text{MeV}/c\), \(\text{MeV}/c^2\).
+È utile come scorciatoia quando l'esercizio usa unità tipo MeV, MeV/c, MeV/c^2.
 
 ---
 
@@ -314,13 +314,13 @@ Da usare quando una particella carica viene accelerata da una differenza di pote
 
 ## Campo magnetico
 
-Se \(\vec v\perp\vec B\):
+Se velocità e campo magnetico sono perpendicolari:
 
 $$
 F_L=|q|vB
 $$
 
-Se \(q\) viene usato come modulo della carica:
+Se q viene usato come modulo della carica:
 
 $$
 F_L=qvB
@@ -338,7 +338,7 @@ $$
 r=\frac{\gamma mv}{|q|B}=\frac{p}{|q|B}
 $$
 
-Versione con \(q\) inteso come modulo della carica:
+Versione con q inteso come modulo della carica:
 
 $$
 r=\frac{p}{qB}=\frac{\gamma mv}{qB}
@@ -390,24 +390,28 @@ Non è simmetrico perché il gemello sull'astronave accelera e cambia sistema di
 
 ## Esperimenti da ricordare
 
-**Michelson-Morley:** cercava il moto della Terra rispetto all'etere. Risultato nullo: nessuna variazione significativa. Importanza: crisi dell'etere e strada verso \(c\) costante.
+**Michelson-Morley:** cercava il moto della Terra rispetto all'etere. Risultato nullo: nessuna variazione significativa. Importanza: crisi dell'etere e strada verso c costante.
 
 **Muoni:** evidenza della dilatazione dei tempi.
 
-**Bertozzi:** elettroni accelerati con energia crescente si avvicinano a \(c\), ma non la raggiungono. Conferma \(c\) come limite per particelle con massa.
+**Bertozzi:** elettroni accelerati con energia crescente si avvicinano a c, ma non la raggiungono. Conferma c come limite per particelle con massa.
 
 ---
 
 ## Mini teoria flash
 
-**Postulati RR:** leggi fisiche uguali in tutti i SRI; \(c\) uguale in tutti i SRI.
+**Postulati RR:** leggi fisiche uguali in tutti i SRI; c uguale in tutti i SRI.
 
 **Tempo proprio:** chi vede i due eventi nello stesso punto.
 
 **Lunghezza propria:** chi vede l'oggetto fermo.
 
-**Limite \(c\):** per \(v\to c\), \(\gamma\to\infty\).
+**Limite c:** per v che tende a c, gamma tende all'infinito.
 
-**Massa-energia:** un corpo possiede energia anche da fermo: \(E_0=mc^2\).
+**Massa-energia:** un corpo possiede energia anche da fermo.
+
+$$
+E_0=mc^2
+$$
 
 **Dualismo:** luce e materia possono mostrare comportamento ondulatorio o corpuscolare.

@@ -1,564 +1,345 @@
-# Fisica - Appunto compatto per la verifica
+# Formulaio accessibile - verifica fisica
 
-> [!summary] Uso del file
-> Questo è il ripasso compatto ricavato da [`appunti-verifica-fisica.md`](./appunti-verifica-fisica.md). È diviso per macro-argomenti e tiene insieme teoria, formule e uso pratico. La verifica è valida per orale, quindi le formule non vanno imparate isolate: devi saper dire **cosa significano**, **quando si usano** e **quale idea fisica esprimono**.
+> [!summary] Uso
+> Formulaio rapido per esercizi e ripasso finale. Per la teoria discorsiva usa [`teoria-verifica-fisica-orale.md`](./teoria-verifica-fisica-orale.md).
 
-> [!warning] Programma reale della prof
-> Relatività ristretta ed effetto fotoelettrico. Per Michelson-Morley non servono i dettagli matematici, ma servono scopo e risultato. La simultaneità e la sincronizzazione degli orologi sono abbuonate come parte dettagliata. Le trasformazioni di Lorentz non vanno studiate come teoria. Il fotoelettrico è richiesto soprattutto a livello teorico, non come esercizi applicativi.
-
----
-
-## 1. Crisi della fisica classica e nascita della relatività ristretta
-
-La relatività ristretta nasce perché la meccanica galileiana e l'elettromagnetismo di Maxwell non sono compatibili se vengono mantenuti entrambi nella forma classica. Galileo descrive bene il passaggio tra sistemi inerziali nella vita quotidiana, dove le velocità sono molto piccole rispetto a \(c\). Maxwell invece porta alla velocità della luce come costante legata alle proprietà del vuoto.
-
-La meccanica galileiana assume che tempo, lunghezze e simultaneità siano assoluti. Inoltre, tra sistemi inerziali in moto rettilineo uniforme, l'accelerazione rimane la stessa:
-
-$$
-\vec a' = \vec a
-$$
-
-Questa formula significa che, secondo Galileo, due osservatori inerziali possono misurare velocità diverse, ma concordano sull'accelerazione. Se la massa è la stessa, concordano anche sulla risultante delle forze:
-
-$$
-\vec R' = \vec R
-$$
-
-Il problema compare con la luce. In relatività galileiana le velocità si sommano:
-
-$$
-\vec v = \vec v' + \vec u
-$$
-
-Qui \(\vec v\) è la velocità del corpo nel sistema \(S\), \(\vec v'\) è la velocità nel sistema \(S'\), e \(\vec u\) è la velocità di \(S'\) rispetto a \(S\). Se questa legge valesse anche per la luce, la velocità della luce cambierebbe da osservatore a osservatore:
-
-$$
-\vec c = \vec c' + \vec u
-$$
-
-Maxwell invece porta a:
-
-$$
-c = \frac{1}{\sqrt{\varepsilon_0\mu_0}}
-$$
-
-Questa formula dice che la velocità della luce nel vuoto dipende da costanti elettromagnetiche del vuoto, non dal moto dell'osservatore. Qui nasce il conflitto fondamentale: per Galileo \(c\) dovrebbe variare, per Maxwell sembra costante.
-
-> [!important] Da dire all'orale
-> La relatività ristretta non nasce perché Galileo "non funziona mai", ma perché Galileo funziona solo come limite per \(v \ll c\). Quando si considerano luce ed elettromagnetismo, la composizione classica delle velocità entra in crisi.
+> [!warning] Scope prof
+> Fotoelettrico solo teorico. Michelson-Morley: scopo e risultato, non matematica. Trasformazioni di Lorentz escluse come teoria.
 
 ---
 
-## 2. Michelson-Morley
+## Costanti
 
-L'esperimento di Michelson e Morley serviva a verificare se la Terra si muovesse rispetto all'etere. L'etere era immaginato come il mezzo privilegiato in cui la luce si propagava con velocità \(c\). Se la Terra si fosse mossa rispetto all'etere, la luce avrebbe dovuto avere tempi di percorrenza diversi in direzioni diverse.
-
-L'apparato usava un interferometro: un fascio di luce veniva diviso in due raggi perpendicolari, riflesso da specchi e poi ricombinato. Se i tempi di percorrenza fossero cambiati ruotando l'apparato, sarebbe cambiata la figura di interferenza.
-
-Il risultato fu nullo: non si osservarono variazioni significative attribuibili al moto della Terra rispetto all'etere. Questo risultato aprì la strada all'idea che non esista un sistema privilegiato e che la velocità della luce sia la stessa in tutti i sistemi inerziali.
-
-> [!warning] Cosa studiare
-> Non servono i dettagli matematici dei tempi nei bracci dell'interferometro. Devi sapere **scopo**, **metodo generale**, **risultato nullo** e **importanza per Einstein**.
+| Quantità | Formula / valore | Uso |
+|---|---:|---|
+| Luce | \(c=3{,}0\cdot10^8\ \text{m/s}\) | velocità limite |
+| Elettronvolt | \(1\ \text{eV}=1{,}6\cdot10^{-19}\ \text{J}\) | conversioni |
+| Mega-eV | \(1\ \text{MeV}=10^6\ \text{eV}=1{,}6\cdot10^{-13}\ \text{J}\) | energie relativistiche |
 
 ---
 
-## 3. Postulati di Einstein e sistemi inerziali
+## Fattore di Lorentz
 
-Einstein fonda la relatività ristretta su due postulati.
+$$
+\beta=\frac{v}{c}
+\qquad
+\gamma=\frac{1}{\sqrt{1-\beta^2}}
+$$
 
-Il primo dice che **le leggi fisiche sono le stesse in tutti i sistemi di riferimento inerziali**. Non vale solo per la meccanica, ma anche per l'elettromagnetismo. Questo elimina l'idea di un sistema privilegiato.
+\(\beta\) è la velocità in unità di \(c\). \(\gamma\) misura quanto sono forti gli effetti relativistici. Deve essere sempre \(\gamma\geq1\).
 
-Il secondo dice che **la velocità della luce nel vuoto è la stessa in tutti i sistemi inerziali**, indipendentemente dal moto della sorgente e dell'osservatore.
+Inverse:
 
-La relatività ristretta vale per sistemi inerziali, cioè sistemi non accelerati. Quando compaiono accelerazioni importanti, come nel paradosso dei gemelli completo, la situazione non è più simmetrica e il discorso richiede più attenzione.
+$$
+\beta=\sqrt{1-\frac{1}{\gamma^2}}
+\qquad
+v=\beta c
+$$
+
+> [!error] Se \(\gamma<1\), formula scritta male.
 
 ---
 
-## 4. Fattore di Lorentz
-
-Il fattore fondamentale della relatività ristretta è:
+## Tempo
 
 $$
-\beta = \frac{v}{c}
+\Delta t=\gamma\Delta t_0
 $$
 
-\(\beta\) è la velocità espressa come frazione della velocità della luce. Se \(v=0{,}8c\), allora \(\beta=0{,}8\).
+\(\Delta t_0\) = **tempo proprio**, misurato da chi vede i due eventi nello stesso punto.  
+\(\Delta t\) = tempo misurato da chi vede gli eventi in punti diversi.
 
-$$
-\gamma = \frac{1}{\sqrt{1-\beta^2}}
-$$
-
-\(\gamma\) è il fattore di Lorentz. Misura quanto diventano importanti gli effetti relativistici. Se \(v\ll c\), \(\gamma \approx 1\), quindi la fisica classica funziona bene. Se \(v\) si avvicina a \(c\), \(\gamma\) cresce molto e tende all'infinito.
-
-Per corpi con massa diversa da zero:
-
-$$
-v<c
-$$
-
-La velocità della luce è un limite: non si raggiunge con particelle massive.
-
-> [!error] Errore tipico
-> \(\gamma\) è **uno fratto la radice**. Se in un esercizio ottieni \(\gamma<1\), quasi certamente hai scritto la formula al contrario.
+Poiché \(\gamma\geq1\), allora \(\Delta t\geq\Delta t_0\): il tempo non proprio è più lungo.
 
 ---
 
-## 5. Dilatazione dei tempi
-
-La relatività ristretta cambia l'idea di tempo: il tempo non è più assoluto. La formula centrale è:
+## Lunghezza
 
 $$
-\Delta t = \gamma \Delta t_0
+L=\frac{L_0}{\gamma}
 $$
 
-\(\Delta t_0\) è il **tempo proprio**, cioè il tempo misurato dall'osservatore che vede i due eventi accadere nello stesso punto dello spazio. \(\Delta t\) è il tempo misurato da un osservatore che vede quei due eventi in posizioni diverse.
+\(L_0\) = **lunghezza propria**, misurata da chi vede l'oggetto fermo.  
+\(L\) = lunghezza misurata da chi vede l'oggetto in moto.
 
-Poiché \(\gamma \geq 1\):
-
-$$
-\Delta t \geq \Delta t_0
-$$
-
-Il tempo misurato dall'osservatore esterno è più lungo del tempo proprio: questo è il fenomeno della **dilatazione dei tempi**.
-
-> [!important] Come riconoscere il tempo proprio
-> Non chiederti "chi si muove?". Chiediti: **chi vede i due eventi nello stesso punto?** Quello misura \(\Delta t_0\).
+La contrazione vale solo lungo la direzione del moto.
 
 ---
 
-## 6. Contrazione delle lunghezze
+## Composizione delle velocità
 
-Anche la lunghezza non è più assoluta. La formula centrale è:
-
-$$
-L = \frac{L_0}{\gamma}
-$$
-
-\(L_0\) è la **lunghezza propria**, cioè la lunghezza misurata dall'osservatore che vede l'oggetto fermo. \(L\) è la lunghezza misurata da chi vede l'oggetto in movimento.
-
-Poiché \(\gamma \geq 1\), si ha:
+Da \(S\) a \(S'\):
 
 $$
-L \leq L_0
+v_x'=\frac{v_x-u}{1-\frac{uv_x}{c^2}}
 $$
 
-Quindi un oggetto in moto viene misurato più corto nella direzione del moto. La contrazione riguarda solo le dimensioni parallele al moto; le dimensioni perpendicolari non si contraggono.
+Formula inversa:
 
-> [!tip] Negli esercizi
-> Devi usare il \(\gamma\) relativo alla velocità dell'oggetto rispetto all'osservatore che misura la lunghezza. Non esiste un gamma unico per tutto l'esercizio.
+$$
+v_x=\frac{v_x'+u}{1+\frac{uv_x'}{c^2}}
+$$
+
+Componenti perpendicolari:
+
+$$
+v_y'=\frac{v_y}{\gamma\left(1-\frac{uv_x}{c^2}\right)}
+\qquad
+v_z'=\frac{v_z}{\gamma\left(1-\frac{uv_x}{c^2}\right)}
+$$
+
+> [!tip] Prima scegli l'asse e i segni. Il segno negativo è un verso, non un errore.
 
 ---
 
-## 7. Muoni
+## Quantità di moto e limite \(c\)
 
-I muoni sono particelle instabili prodotte nell'alta atmosfera dai raggi cosmici. Hanno vita media propria circa:
-
-$$
-\Delta t_0 = 2{,}2 \cdot 10^{-6}\ \text{s}
-$$
-
-Se si usasse la fisica classica, con \(v=0{,}995c\), percorrerebbero solo:
+Classica:
 
 $$
-d = v\Delta t_0 \approx 0{,}995c \cdot 2{,}2\cdot 10^{-6} \approx 657\ \text{m}
+\vec p=m\vec v
 $$
 
-Questa distanza non basterebbe per arrivare al suolo. Però per l'osservatore terrestre il tempo di vita del muone è dilatato:
+Relativistica:
 
 $$
-\Delta t = \gamma \Delta t_0
+\vec p=\gamma m\vec v
 $$
 
-Con \(v=0{,}995c\), \(\gamma \approx 10\), quindi:
+Impulso:
 
 $$
-d \approx 0{,}995c \cdot \Delta t_0 \cdot \gamma \approx 6570\ \text{m}
+\Delta\vec p=\vec F\Delta t
 $$
 
-I muoni sono importanti perché mostrano che la dilatazione dei tempi non è solo un esperimento mentale: ha conseguenze osservabili.
+Quando \(v\to c\), \(\gamma\to\infty\), quindi servirebbe quantità di moto infinita. Per questo un corpo con massa non raggiunge \(c\).
 
 ---
 
-## 8. Paradosso dei gemelli
+## Dinamica relativistica
 
-Nel paradosso dei gemelli, un gemello resta sulla Terra e l'altro viaggia su un'astronave a velocità relativistica. Per il gemello che viaggia, il tempo proprio del viaggio può essere molto più piccolo del tempo misurato sulla Terra.
-
-Se il gemello viaggiatore misura:
+Secondo principio generale:
 
 $$
-\Delta t_0 = 10\ \text{anni}
+\vec F=\frac{d\vec p}{dt}
 $$
 
-e viaggia a:
+In relatività:
 
 $$
-v = 0{,}98c
+\vec F=\frac{d}{dt}(\gamma m\vec v)
 $$
 
-allora \(\gamma \approx 5\), quindi sulla Terra passa circa:
+Forza parallela a \(\vec v\):
 
 $$
-\Delta t = \gamma \Delta t_0 \approx 50\ \text{anni}
+F=ma\gamma^3
 $$
 
-Il punto teorico non è solo che uno invecchia meno. Il paradosso nasce perché sembrerebbe che ciascuno possa dire che è l'altro a muoversi. La risoluzione è che i due sistemi non sono equivalenti: l'astronave accelera, decelera e cambia direzione, quindi il gemello viaggiatore non resta sempre nello stesso sistema inerziale.
-
----
-
-## 9. Composizione relativistica delle velocità
-
-In Galileo le velocità si sommano:
+Forza perpendicolare a \(\vec v\), caso centripeto:
 
 $$
-v = v' + u
+F=ma\gamma
 $$
 
-In relatività ristretta questa formula viene sostituita, lungo la direzione del moto, da:
+Sistema isolato:
 
 $$
-v_x' = \frac{v_x-u}{1-\frac{uv_x}{c^2}}
-$$
-
-Questa formula dà la velocità del corpo in \(S'\), sapendo la sua velocità \(v_x\) in \(S\) e la velocità \(u\) di \(S'\) rispetto a \(S\).
-
-La formula inversa è:
-
-$$
-v_x = \frac{v_x'+u}{1+\frac{uv_x'}{c^2}}
-$$
-
-Serve quando conosci la velocità nel sistema \(S'\) e vuoi passare a \(S\).
-
-Per le componenti trasversali:
-
-$$
-v_y' = \frac{v_y}{\gamma\left(1-\frac{uv_x}{c^2}\right)}
-$$
-
-e:
-
-$$
-v_z' = \frac{v_z}{\gamma\left(1-\frac{uv_x}{c^2}\right)}
-$$
-
-Queste formule sono importanti perché impediscono di ottenere velocità maggiori di \(c\). Se componi \(c\) con qualunque velocità inferiore a \(c\), il risultato resta \(c\), non \(c+u\).
-
-> [!danger] Procedura negli esercizi
-> Scegli l'asse, assegna i segni, identifica il sistema di riferimento e non cancellare i segni negativi. Una velocità negativa significa solo che il moto avviene nel verso opposto all'asse scelto.
-
----
-
-## 10. Quantità di moto relativistica e limite \(c\)
-
-In meccanica classica:
-
-$$
-\vec p = m\vec v
-$$
-
-In relatività ristretta:
-
-$$
-\vec p = \gamma m\vec v
-$$
-
-La differenza è decisiva: quando \(v\) si avvicina a \(c\), \(\gamma\) cresce moltissimo, quindi cresce moltissimo anche la quantità di moto. Per aumentare ancora la velocità servirebbe un impulso sempre più grande.
-
-L'impulso è:
-
-$$
-\Delta \vec p = \vec F \Delta t
-$$
-
-Per portare una particella con massa fino a \(c\), servirebbe \(\Delta p \to \infty\), quindi forza infinita o tempo infinito. Entrambe le possibilità sono fisicamente irrealizzabili. Per questo un corpo con massa diversa da zero non può raggiungere la velocità della luce.
-
----
-
-## 11. Bertozzi
-
-L'esperimento di Bertozzi del 1964 conferma sperimentalmente che particelle con massa diversa da zero non raggiungono \(c\). Nell'esperimento vengono accelerati elettroni con campi elettrici sempre più intensi. Aumentando l'energia fornita, la velocità cresce, ma si avvicina asintoticamente a \(c\) senza superarla.
-
-L'energia non sparisce: aumenta l'energia relativistica e la quantità di moto, ma non permette di superare la velocità limite.
-
----
-
-## 12. Dinamica relativistica
-
-Il secondo principio va scritto nella forma generale:
-
-$$
-\vec F = \frac{d\vec p}{dt}
-$$
-
-In meccanica classica, poiché \(\vec p=m\vec v\), questa formula diventa:
-
-$$
-\vec F = m\vec a
-$$
-
-In relatività invece:
-
-$$
-\vec F = \frac{d}{dt}(\gamma m\vec v)
-$$
-
-Non si può semplificare sempre in \(m\vec a\), perché \(\gamma\) dipende da \(v\). A forza finita, mentre \(v\) si avvicina a \(c\), l'accelerazione diminuisce.
-
-Se forza, accelerazione e velocità sono parallele:
-
-$$
-F = ma\gamma^3
-$$
-
-Questo caso riguarda una forza che prova ad aumentare direttamente il modulo della velocità.
-
-Se l'accelerazione è perpendicolare alla velocità, come nel moto circolare:
-
-$$
-F = ma\gamma
-$$
-
-Questo caso serve negli esercizi con forza magnetica centripeta.
-
-Il terzo principio classico, azione e reazione simultanee, non è più sicuro nella forma ingenua perché la simultaneità non è assoluta. In relatività conviene usare la conservazione della quantità di moto totale in un sistema isolato:
-
-$$
-\vec p_{\text{tot}} = \text{costante}
+\vec p_{\text{tot}}=\text{costante}
 $$
 
 ---
 
-## 13. Energia relativistica
+## Energia relativistica
 
-L'energia totale relativistica è:
-
-$$
-E = \gamma mc^2
-$$
-
-Questa è l'energia totale di una particella con massa \(m\) e velocità \(v\).
-
-Se il corpo è fermo, allora \(v=0\), \(\gamma=1\), e si ottiene l'energia a riposo:
+Energia totale:
 
 $$
-E_0 = mc^2
+E=\gamma mc^2
 $$
 
-Questa formula significa che un corpo possiede energia anche solo perché ha massa.
-
-L'energia cinetica relativistica è:
+Energia a riposo:
 
 $$
-E_c = E - E_0
+E_0=mc^2
 $$
 
-Sostituendo:
+Energia cinetica:
 
 $$
-E_c = \gamma mc^2 - mc^2
+E_c=E-E_0=(\gamma-1)mc^2
 $$
 
-quindi:
+Se conosci \(E_c\):
 
 $$
-E_c = (\gamma-1)mc^2
+\gamma=\frac{E_c}{mc^2}+1
+\qquad
+\beta=\sqrt{1-\frac{1}{\gamma^2}}
+\qquad
+v=\beta c
 $$
 
-Questa è la formula da usare negli esercizi relativistici. Per ricavare la velocità da \(E_c\), prima trovi:
+> [!tip] \(E_0\): fermo. \(E\): totale. \(E_c\): moto.
+
+---
+
+## Lavoro elettrico
 
 $$
-\gamma = \frac{E_c}{mc^2}+1
+L=\Delta E_c
 $$
 
-poi:
-
 $$
-\beta = \sqrt{1-\frac{1}{\gamma^2}}
+L=-q\Delta V
 $$
 
-e infine:
+In valore assoluto:
 
 $$
-v = \beta c
+\Delta E_c=|q|\,|\Delta V|
+\qquad
+|\Delta V|=\frac{\Delta E_c}{|q|}
+$$
+
+Da usare quando una particella carica viene accelerata da una differenza di potenziale.
+
+---
+
+## Campo magnetico
+
+Se \(\vec v\perp\vec B\):
+
+$$
+F_L=|q|vB
+$$
+
+Forza centripeta relativistica:
+
+$$
+F_c=\gamma m\frac{v^2}{r}
+$$
+
+Raggio:
+
+$$
+r=\frac{\gamma mv}{|q|B}=\frac{p}{|q|B}
 $$
 
 ---
 
-## 14. Applicazioni di \(E=mc^2\)
+## Fotoelettrico e fotoni
 
-L'equivalenza massa-energia spiega fenomeni reali in cui una piccola variazione di massa corrisponde a molta energia.
+Energia del fotone:
 
-Nel **difetto di massa**, la massa di un nucleo formato è minore della somma delle masse dei nucleoni separati. La differenza corrisponde all'energia di legame.
+$$
+E=hf
+$$
 
-Nel **decadimento radioattivo**, un nucleo instabile si trasforma emettendo energia, collegata alla differenza di massa tra stato iniziale e finale.
+Quantità di moto del fotone:
 
-Nella **fissione nucleare**, un nucleo pesante colpito da un neutrone si divide in nuclei più leggeri, altri neutroni ed energia. Anche qui la massa non "sparisce": viene convertita in energia secondo \(E=mc^2\).
+$$
+p=\frac{E}{c}
+$$
+
+Lavoro di estrazione:
+
+$$
+W_0=hf_0
+$$
+
+Bilancio:
+
+$$
+hf=W_0+E_{c,\max}
+$$
+
+Quindi:
+
+$$
+E_{c,\max}=hf-hf_0
+$$
+
+Potenziale di arresto:
+
+$$
+E_{c,\max}=|q_e|\Delta V_0
+$$
+
+> [!warning] Per teoria
+> Frequenza \(f\) = energia del singolo fotone. Intensità = numero di fotoni. Se \(f<f_0\), non escono elettroni.
 
 ---
 
-## 15. Conversioni e lavoro elettrico
-
-L'elettronvolt è un'unità di energia:
+## Muoni
 
 $$
-1\ \text{eV} = 1{,}6\cdot 10^{-19}\ \text{J}
+\Delta t_0=2{,}2\cdot10^{-6}\ \text{s}
+\qquad
+v\approx0{,}995c
 $$
 
-Il megaelettronvolt vale:
+Classico:
 
 $$
-1\ \text{MeV} = 10^6\ \text{eV}
+d=v\Delta t_0\approx657\ \text{m}
 $$
 
-quindi:
+Relativistico:
 
 $$
-1\ \text{MeV} = 1{,}6\cdot 10^{-13}\ \text{J}
+d=v\gamma\Delta t_0\approx6570\ \text{m}
 $$
 
-Per elettroni accelerati da una differenza di potenziale, si usa:
-
-$$
-L = \Delta E_c
-$$
-
-e per la forza elettrica:
-
-$$
-L = -q\Delta V
-$$
-
-Negli esercizi spesso basta il valore assoluto:
-
-$$
-\Delta E_c = |q|\,|\Delta V|
-$$
-
-quindi:
-
-$$
-|\Delta V| = \frac{\Delta E_c}{|q|}
-$$
+Arrivano al suolo perché per la Terra il loro tempo di vita è dilatato.
 
 ---
 
-## 16. Campo magnetico e raggio della traiettoria
-
-Se una particella entra in un campo magnetico con \(\vec v \perp \vec B\), subisce la forza di Lorentz magnetica:
+## Gemelli
 
 $$
-F_L = |q|vB
+\Delta t=\gamma\Delta t_0
 $$
 
-Questa forza è perpendicolare alla velocità e fa da forza centripeta. In relatività:
+Esempio:
 
 $$
-F_c = \gamma m\frac{v^2}{r}
+v=0{,}98c,\quad \gamma\approx5,\quad \Delta t_0=10\ \text{anni}
 $$
 
-Uguagliando:
-
 $$
-|q|vB = \gamma m\frac{v^2}{r}
+\Delta t\approx50\ \text{anni}
 $$
 
-si ricava:
-
-$$
-r = \frac{\gamma mv}{|q|B}
-$$
-
-Poiché \(p=\gamma mv\), si può anche scrivere:
-
-$$
-r = \frac{p}{|q|B}
-$$
+Non è simmetrico perché il gemello sull'astronave accelera e cambia sistema di riferimento.
 
 ---
 
-## 17. Effetto fotoelettrico
+## Esperimenti da ricordare
 
-L'effetto fotoelettrico consiste nell'emissione di elettroni da una lastra metallica colpita da radiazione elettromagnetica. La fisica classica lo interpreta come assorbimento continuo di energia da parte degli elettroni, ma gli esperimenti mostrano due problemi.
+**Michelson-Morley:** cercava il moto della Terra rispetto all'etere. Risultato nullo: nessuna variazione significativa. Importanza: crisi dell'etere e strada verso \(c\) costante.
 
-Il primo problema riguarda l'intensità. Aumentando l'intensità della radiazione, la corrente può aumentare perché vengono emessi più elettroni, ma il potenziale di arresto non cambia. Quindi l'energia massima degli elettroni non dipende dall'intensità.
+**Muoni:** evidenza della dilatazione dei tempi.
 
-Il secondo problema riguarda la frequenza. Gli elettroni escono solo se:
+**Bertozzi:** elettroni accelerati con energia crescente si avvicinano a \(c\), ma non la raggiungono. Conferma \(c\) come limite per particelle con massa.
 
-$$
-f \geq f_0
-$$
-
-Se:
-
-$$
-f<f_0
-$$
-
-non escono elettroni, anche aspettando molto tempo. Questo contraddice l'idea classica secondo cui l'energia potrebbe accumularsi gradualmente.
-
-Einstein risolve il problema con il modello dei fotoni. La luce è composta da pacchetti di energia:
-
-$$
-E = hf
-$$
-
-Ogni fotone interagisce con un solo elettrone. L'energia del fotone serve prima a estrarre l'elettrone dal metallo e il resto diventa energia cinetica:
-
-$$
-hf = W_0 + E_{c,\max}
-$$
-
-Il lavoro di estrazione è:
-
-$$
-W_0 = hf_0
-$$
-
-quindi:
-
-$$
-E_{c,\max} = hf - hf_0
-$$
-
-Il potenziale di arresto è collegato all'energia cinetica massima:
-
-$$
-E_{c,\max} = |q_e|\Delta V_0
-$$
-
-> [!warning] Per la verifica
-> La prof ha detto che il fotoelettrico è richiesto a livello teorico, non come esercizi applicativi. Queste formule servono soprattutto per capire il ragionamento: frequenza significa energia del singolo fotone, intensità significa numero di fotoni.
+**Fotoelettrico:** mostra che la luce scambia energia in fotoni; spiega frequenza soglia e ruolo dell'intensità.
 
 ---
 
-## 18. Dualismo onda-corpuscolo
+## Mini teoria flash
 
-L'effetto fotoelettrico mostra che la luce, che in interferenza e diffrazione si comporta come onda, in certi fenomeni microscopici si comporta come un insieme di corpuscoli: i fotoni.
+**Postulati RR:** leggi fisiche uguali in tutti i SRI; \(c\) uguale in tutti i SRI.
 
-Il dualismo onda-corpuscolo significa che la radiazione e la materia possono mostrare aspetti ondulatori o corpuscolari a seconda dell'esperimento. Non significa che la luce cambi natura in modo casuale, ma che i modelli classici "solo onda" e "solo particella" non bastano più da soli.
+**Tempo proprio:** chi vede i due eventi nello stesso punto.
 
-$$
-\text{onda} \leftrightarrow \text{corpuscolo}
-$$
+**Lunghezza propria:** chi vede l'oggetto fermo.
 
----
+**Limite \(c\):** per \(v\to c\), \(\gamma\to\infty\).
 
-## 19. Domande teoriche da saper dire a voce
+**Massa-energia:** un corpo possiede energia anche da fermo: \(E_0=mc^2\).
 
-1. Perché elettromagnetismo e relatività galileiana entrano in conflitto?
-2. Qual era lo scopo dell'esperimento di Michelson-Morley?
-3. Perché il risultato nullo di Michelson-Morley è importante?
-4. Quali sono i due postulati di Einstein?
-5. Che cosa significa sistema di riferimento inerziale?
-6. Che cos'è \(\gamma\) e perché cresce vicino a \(c\)?
-7. Che cosa sono tempo proprio e lunghezza propria?
-8. Perché i muoni arrivano al suolo?
-9. Perché il paradosso dei gemelli non è simmetrico?
-10. Perché \(c\) è una velocità limite per corpi con massa?
-11. Cosa cambia tra quantità di moto classica e relativistica?
-12. Che significato fisico ha \(E_0=mc^2\)?
-13. Quali fenomeni mostrano l'equivalenza massa-energia?
-14. Perché l'effetto fotoelettrico mette in crisi la fisica classica?
-15. Come il modello dei fotoni spiega frequenza soglia e intensità?
-16. Che cosa significa dualismo onda-corpuscolo?
+**Fotoelettrico:** intensità aumenta quanti elettroni escono; frequenza aumenta l'energia massima.
+
+**Dualismo:** luce e materia possono mostrare comportamento ondulatorio o corpuscolare.
 

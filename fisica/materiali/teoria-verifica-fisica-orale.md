@@ -192,6 +192,16 @@ si capisce che servirebbe una forza infinita o un tempo infinito. Per questo \(c
 
 L'esperimento di Bertozzi conferma questa idea: accelerando elettroni con energia crescente, la loro velocità si avvicina a \(c\) ma non la supera.
 
+### Esperimento di Bertozzi
+
+L'esperimento di Bertozzi, realizzato nel 1964, è importante perché dà una conferma sperimentale diretta del fatto che la velocità della luce è un limite per particelle con massa diversa da zero.
+
+L'idea dell'esperimento è accelerare elettroni, inizialmente fermi o comunque molto lenti, tramite un campo elettrico. Aumentando la differenza di potenziale, si aumenta l'energia fornita agli elettroni. Secondo una visione classica ingenua, fornendo sempre più energia si dovrebbe poter aumentare indefinitamente la velocità, fino anche a superare \(c\).
+
+Il risultato osservato è diverso: la velocità degli elettroni cresce, ma cresce sempre meno man mano che si avvicina a \(c\). L'energia fornita continua ad aumentare, però non produce un superamento della velocità della luce. Si traduce invece in aumento dell'energia relativistica e della quantità di moto.
+
+Questo conferma la previsione della relatività ristretta: per una particella con massa, raggiungere \(c\) richiederebbe energia/quantità di moto infinita. Bertozzi è quindi da ricordare come evidenza sperimentale del limite \(c\), non come semplice esercizio di calcolo.
+
 ---
 
 ## 11. Dinamica relativistica
@@ -394,4 +404,3 @@ Per la verifica, la frase essenziale è: il dualismo onda-corpuscolo indica che 
 
 > [!question] Che differenza c’è tra \(E_0\), \(E\), \(E_c\)?
 > \(E_0=mc^2\) è l'energia a riposo, \(E=\gamma mc^2\) è l'energia totale, \(E_c=(\gamma-1)mc^2\) è l'energia cinetica relativistica.
-

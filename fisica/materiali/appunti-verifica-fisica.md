@@ -9,13 +9,33 @@
 
 ## Il problema iniziale: elettromagnetismo contro relativita galileiana
 
-Il percorso parte da una crisi: la fisica classica funziona benissimo per moltissimi fenomeni, ma entra in difficolta quando incontra l'elettromagnetismo di Maxwell. La relativita galileiana dice che, passando da un sistema inerziale a un altro, le leggi della dinamica restano le stesse e le velocita si sommano semplicemente. Se un sistema \(S'\) si muove rispetto a \(S\) con velocita \(u\), allora, in forma elementare:
+Il percorso parte da una crisi: la fisica classica funziona benissimo per moltissimi fenomeni, ma entra in difficolta quando incontra l'elettromagnetismo di Maxwell. Da una parte c'e' l'elettromagnetismo, teoria piu recente, fondata sui lavori di Maxwell e Hertz, capace di descrivere in modo molto efficace i fenomeni elettrici, magnetici ed elettromagnetici. Dall'altra c'e' la relativita galileiana, molto piu antica e consolidata, che descrive il passaggio tra sistemi di riferimento inerziali e su cui poggia la meccanica classica.
+
+La relativita galileiana si porta dietro alcune idee fortissime: il tempo e' assoluto, le lunghezze sono assolute, la simultaneita e' assoluta, e l'accelerazione e' la stessa in sistemi inerziali in moto relativo rettilineo uniforme. In simboli:
+
+$$
+\vec a' = \vec a
+$$
+
+e quindi, se la massa e' la stessa:
+
+$$
+\vec R' = \vec R
+$$
+
+Inoltre, passando da un sistema inerziale a un altro, le velocita si sommano semplicemente. Se un sistema \(S'\) si muove rispetto a \(S\) con velocita \(u\), allora, in forma elementare:
 
 $$
 \vec v = \vec v' + \vec u
 $$
 
-Questa idea pero crea un problema con la luce. Dalle equazioni di Maxwell si ricava una velocita della luce nel vuoto:
+Questa idea pero crea il primo grande problema con la luce. Per Galileo la velocita della luce dovrebbe dipendere dal sistema di riferimento secondo la composizione delle velocita:
+
+$$
+\vec c = \vec c' + \vec v
+$$
+
+dove \(\vec c\) e' la velocita della luce misurata in \(S\), \(\vec c'\) quella misurata in \(S'\), e \(\vec v\) la velocita di \(S'\) rispetto a \(S\). Dalle equazioni di Maxwell, invece, si ricava una velocita della luce nel vuoto:
 
 $$
 c = \frac{1}{\sqrt{\varepsilon_0 \mu_0}}
@@ -23,7 +43,37 @@ $$
 
 Il punto delicato e' che questa velocita sembra essere una costante fissata dalle proprieta del vuoto, non qualcosa che cambia a seconda dell'osservatore. Se pero si applica la composizione galileiana, un osservatore in moto rispetto alla sorgente dovrebbe misurare una velocita della luce diversa: \(c+u\), \(c-u\), o comunque un valore dipendente dal moto relativo. Qui nasce il conflitto.
 
-La prof ha introdotto anche il problema attraverso la forza di Lorentz: due cariche positive in moto possono essere descritte in due sistemi diversi. Nel sistema della Terra si vedono sia forza elettrica sia forza magnetica; nel sistema solidale con una delle cariche, invece, l'altra carica puo risultare ferma e si vede solo la forza elettrica. Se si usasse la relativita galileiana in modo ingenuo, si otterrebbero accelerazioni diverse nei due sistemi, cosa inaccettabile per una teoria fisica coerente.
+La prof ha introdotto anche un secondo conflitto attraverso l'origine della forza di Lorentz. Prendiamo due cariche positive che si muovono con la stessa velocita. Nel sistema della Terra si vedono sia la forza elettrica sia la forza magnetica:
+
+$$
+\vec R = \vec F_E + \vec F_L
+$$
+
+e quindi:
+
+$$
+\vec a = \frac{\vec F_E + \vec F_L}{m}
+$$
+
+Nel sistema solidale con una delle due particelle, invece, le particelle si vedono reciprocamente ferme. Se sono ferme, la parte magnetica della forza di Lorentz si annulla:
+
+$$
+F_L = qvB = 0
+$$
+
+Percio in quel sistema resta solo:
+
+$$
+\vec R' = \vec F_E
+$$
+
+e:
+
+$$
+\vec a' = \frac{\vec F_E}{m}
+$$
+
+La relativita galileiana vorrebbe \(\vec a'=\vec a\), ma l'elettromagnetismo porta a risultanti diverse. Anche qui si vede che le due teorie non possono essere entrambe mantenute nella forma classica.
 
 > [!important] Punto da saper spiegare in verifica
 > Non basta dire "la velocita della luce e' un problema". Bisogna spiegare **perche**: la relativita galileiana prevede la somma ordinaria delle velocita, mentre l'elettromagnetismo porta a una velocita della luce fissata e indipendente dal sistema di riferimento. La relativita ristretta nasce per risolvere questa incompatibilita.
@@ -64,6 +114,9 @@ Il primo postulato afferma che **le leggi fisiche sono le stesse in tutti i sist
 Il secondo postulato afferma che **la velocita della luce nel vuoto e' la stessa in tutti i sistemi di riferimento inerziali**, indipendentemente dal moto della sorgente o dell'osservatore.
 
 Questi due postulati obbligano a cambiare idee che nella fisica galileiana sembravano ovvie: simultaneita, tempo, lunghezza, quantita di moto, energia.
+
+> [!tip] Come scriverli in verifica
+> Negli appunti della classe compare l'indicazione "scrivi per intero": conviene quindi non ridurre i postulati a due parole chiave. Scrivi che le leggi fisiche, compreso l'elettromagnetismo, sono le stesse in ogni sistema di riferimento inerziale, e che la velocita della luce e' la stessa in ogni sistema inerziale indipendentemente dal moto della sorgente o dell'osservatore.
 
 > [!note] Campo di validita
 > La relativita ristretta vale per **sistemi di riferimento inerziali**. Se entrano in gioco sistemi accelerati, il quadro corretto e' la relativita generale. Questo e' importante anche per il paradosso dei gemelli.
@@ -212,6 +265,26 @@ Il paradosso dei gemelli non consiste semplicemente nel fatto che due gemelli po
 La risoluzione sta nel fatto che il viaggio della navicella non e' tutto in un unico sistema inerziale. La navicella accelera, decelera, cambia direzione. Chi e' sulla navicella puo accorgersi dell'accelerazione attraverso forze apparenti. Quindi la situazione non e' simmetrica come sembrerebbe.
 
 Per gli esercizi semplificati si usa spesso la formula della dilatazione dei tempi, ma la prof ricorda che una trattazione esatta del paradosso richiederebbe la relativita generale o comunque sistemi accelerati.
+
+Un esempio numerico utile e' questo: un gemello parte su un'astronave a velocita \(u=0{,}98c\) e misura un tempo proprio di viaggio:
+
+$$
+\Delta t_0 = 10\ \text{anni}
+$$
+
+Per il gemello rimasto sulla Terra passa:
+
+$$
+\Delta t = \frac{\Delta t_0}{\sqrt{1-\frac{u^2}{c^2}}}
+$$
+
+Con \(u=0{,}98c\), \(\gamma\) e' circa 5, quindi:
+
+$$
+\Delta t \approx 50\ \text{anni}
+$$
+
+Al ritorno, il gemello che ha viaggiato ha vissuto 10 anni, mentre quello rimasto sulla Terra ne ha vissuti circa 50: la differenza e' di circa 40 anni. Il punto teorico pero resta quello detto sopra: non e' solo "uno invecchia meno", ma il fatto che la simmetria apparente viene rotta dalle accelerazioni dell'astronave.
 
 Fonte: [`08-04-26/transcription.txt`](./trascrizione-lezioni/08-04-26/transcription.txt).
 
@@ -405,6 +478,20 @@ $$
 v_x = \frac{v_x' + u}{1+\frac{uv_x'}{c^2}}
 $$
 
+Per le componenti perpendicolari alla direzione del moto la forma e' diversa. Se il moto relativo tra i sistemi e' lungo \(x\), allora:
+
+$$
+v_y' = \frac{v_y}{\gamma\left(1-\frac{uv_x}{c^2}\right)}
+$$
+
+e analogamente:
+
+$$
+v_z' = \frac{v_z}{\gamma\left(1-\frac{uv_x}{c^2}\right)}
+$$
+
+Questo dettaglio serve per capire che la direzione \(x\), cioe quella del moto relativo tra i sistemi, e' speciale: lungo \(x\) compare il termine \(v_x-u\), mentre nelle direzioni trasversali compare comunque il denominatore relativistico e anche \(v_x\), perche il tempo stesso cambia tra i due sistemi.
+
 Questa formula risolve il problema della luce. Se in \(S'\) un raggio luminoso ha velocita \(c\), in \(S\) si ottiene:
 
 $$
@@ -552,6 +639,19 @@ Fonte: [`trascrizione-app-giulia.md`](./trascrizione-app-giulia.md), [`09-05-26/
 
 ---
 
+## L'esperimento di Bertozzi
+
+Un'evidenza laboratoriale della velocita della luce come limite e' l'esperimento di Bertozzi del 1964, citato dalla prof nelle indicazioni di ripasso. L'idea e' accelerare elettroni, cioe particelle con massa diversa da zero, tramite campi elettrici via via piu intensi e misurare la velocita finale raggiunta.
+
+Secondo una visione classica ingenua, aumentando sempre l'energia fornita agli elettroni si dovrebbe riuscire ad aumentare indefinitamente la loro velocita. La relativita ristretta prevede invece che, all'aumentare dell'energia, la velocita cresca sempre meno e tenda asintoticamente a \(c\), senza raggiungerla.
+
+Questo e' esattamente il senso dell'esperimento: gli elettroni vengono accelerati sempre di piu, ma la loro velocita si avvicina a \(c\) senza superarla. L'energia continua ad aumentare, ma non si traduce in un superamento della velocita della luce; si traduce invece nell'aumento della quantita di moto e dell'energia relativistica.
+
+> [!note] Perche puo servire in verifica
+> La prof ha detto che Bertozzi e' l'evidenza laboratoriale del fatto che \(c\) e' una velocita limite per corpi con massa diversa da zero. Se chiede "quali prove danno senso alla RR", questo e' un esempio piu sperimentale rispetto ai soli ragionamenti matematici.
+
+---
+
 ## Secondo e terzo principio in relativita
 
 Il primo principio rimane sostanzialmente lo stesso: in assenza di forze risultanti, un corpo mantiene il suo stato di quiete o moto rettilineo uniforme.
@@ -576,7 +676,27 @@ $$
 
 Il risultato non e' semplicemente \(m\vec a\), perche \(\gamma\) dipende dalla velocita. A forza finita, mentre \(v\) si avvicina a \(c\), l'accelerazione deve diminuire: il corpo accelera sempre meno.
 
+Negli appunti compare anche una forma piu operativa, utile quando si distinguono i casi geometrici della forza. Se forza, accelerazione e velocita sono parallele, cioe si sta cercando di aumentare direttamente il modulo della velocita lungo la direzione del moto, allora:
+
+$$
+F = ma\gamma^3
+$$
+
+Se invece l'accelerazione e' perpendicolare alla velocita, come nel caso di una forza centripeta che curva la traiettoria senza aumentare direttamente il modulo della velocita, allora:
+
+$$
+F = ma\gamma
+$$
+
+Questa distinzione spiega perche negli esercizi con campo magnetico perpendicolare alla velocita compare la massa "relativistica" attraverso \(\gamma m\) nella forza centripeta.
+
 Il terzo principio crea un problema concettuale: azione e reazione richiederebbero simultaneita. Ma la simultaneita non e' assoluta. Per questo, in relativita ristretta, il terzo principio non puo essere mantenuto nella stessa forma ingenua della meccanica classica.
+
+In forma piu sicura, in relativita si conserva la quantita di moto totale di un sistema isolato. Per questo, invece di appoggiarsi sempre alla frase classica "azione e reazione", conviene ragionare con:
+
+$$
+\vec p_{\text{tot}} = \text{costante}
+$$
 
 > [!note] Indicazione della prof
 > Ha detto che i principi della dinamica sono da sapere, non per forza come domanda diretta isolata, ma per capire cosa cambia nella dinamica relativistica.
@@ -631,6 +751,14 @@ Fonte: [`29-04-26/transcription.txt`](./trascrizione-lezioni/29-04-26/transcript
 La prof ha richiamato le applicazioni dell'equivalenza massa-energia, soprattutto per collegamenti teorici e storici. Ha citato le reazioni nucleari, il decadimento radioattivo e le bombe atomiche di Hiroshima e Nagasaki come esempi in cui una variazione di massa corrisponde a una grande quantita di energia.
 
 Il punto non e' conoscere nei dettagli tutte le reazioni, ma sapere che \(E=mc^2\) non e' solo una formula famosa: descrive fenomeni reali in cui massa ed energia si trasformano l'una nell'altra.
+
+Gli appunti della classe organizzano questi fenomeni in tre gruppi particolarmente utili da ricordare.
+
+Il primo e' il **difetto di massa** con l'**energia di legame**. Quando piu nucleoni si aggregano per formare un nucleo, la massa del nucleo formato non e' semplicemente uguale alla somma delle masse dei nucleoni separati. Una parte della massa corrisponde all'energia di legame che tiene insieme il nucleo.
+
+Il secondo e' il **decadimento spontaneo di nuclei instabili**. Un nucleo instabile puo trasformarsi emettendo particelle o radiazione; l'energia emessa e' collegata alla variazione di massa tra stato iniziale e stato finale.
+
+Il terzo e' la **fissione nucleare**. Un neutrone puo colpire un nucleo radioattivo e produrre nuclei piu leggeri, altri neutroni ed energia sotto forma di radiazione e energia cinetica dei frammenti. Anche qui il bilancio energetico e' spiegato dal fatto che una piccola differenza di massa corrisponde a molta energia, perche viene moltiplicata per \(c^2\).
 
 > [!quote] Indicazione
 > Nelle slide/schede di Classroom sull'energia, la prof dice che c'erano esempi di fenomeni fisici che danno credito all'equivalenza massa-energia. Non sono state indicate pagine del libro nelle trascrizioni.
@@ -1160,4 +1288,3 @@ Un buon modo per ripassare e' provare a rispondere a voce a queste domande:
 11. Cosa significa dualismo onda-corpuscolo?
 
 Se sai rispondere a queste domande con frasi complete e sai fare gli esercizi base con \(\gamma\), energia, quantita di moto e potenziale, sei allineato con quello che la prof ha detto di voler verificare.
-

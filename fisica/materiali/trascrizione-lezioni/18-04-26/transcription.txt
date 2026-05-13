@@ -1,0 +1,269 @@
+Allora, esempio di composizione relativistica delle velocità. Alla base stellare [nome proprio: Faraway Point], che è qui... facciamo finta... vediamo un po' chi ha già l'asta, il pennarello nero che va... ti aspetto. Questo butta... controlla che sia pesante, che sia certo di pieno, perché se no ti rifilano le schifezze che hanno già usato. Intanto magari per l'altro ci siamo portati avanti, così sistemo la rete. Sicura? Sì.
+
+Ritorniamo ai dati. Alla base [nome proprio: Faraway Point], che è questa, ci sono due astronauti che si avvicinano provenendo dalla stessa direzione. Quindi il disegno me li deve piazzare di qua... la direzione è questa. La Forge viaggia con una velocità di 0,906c... questa è la Forge... $u$ di Forge è uguale a 0,906c e viaggia in direzione della base, mentre la Picard con una velocità di 0,806c... $u$ della Picard 0,806c.
+
+Domanda, domande:
+- **calcola la velocità della Forge rispetto alla Picard**
+- **calcola la velocità della Forge rispetto alla Picard se la Forge viaggia in direzione opposta**
+
+Allora, adesso aspetto invece, ancora gente che scrive. Qui siamo in un classico... in un classico no, comunque diciamo nella classica tipologia di problema nella composizione relativistica delle velocità. Relativistica lo capiamo perché le due navicelle coinvolte sono ad alte velocità, **paragonabili a quella della luce**. Ok? Quindi il problema non lo specificherà mai che la composizione deve essere relativistica, sapete voi che a osservare le velocità intuite che non potete basarvi esclusivamente sull'approssimazione galileiana.
+
+Una volta che avete fatto questo, cioè insomma che vi siete resi conto di essere in questo tipo di problema e indicativamente avete fatto una pseudo rappresentazione di chi si avvicina a cosa, perché adesso qui il problema mi diceva chiaramente che qua abbiamo la... la base e poi ci sono 'ste due navi in avvicinamento alla base. In avvicinamento alla base significa lungo la stessa direzione, quindi mi diceva chiaramente che dovevano essere allineate, mi diceva che dovevano avvicinarsi. Poi, se si avvicinano di qua o di là o su o giù è irrilevante, cioè se non ve lo specifica è perché potete mettere il movimento come vi pare. L'importante è che una volta che avete scelto come disegnarle, cioè come disegnare questo avvicinamento, scegliete adeguatamente il sistema di riferimento, nel senso: io ad esempio vedo che le ho allineate in questo modo, quindi sicuramente la direzione è questa, i miei vettori velocità sono tutti e due orientati in questo verso, per cui il mio asse x io lo metterei orientato in questo verso, e così sarà orientato anche l'asse x' del sistema S' che sceglierò come tale. Ok?
+
+L'importante quindi è scegliere un sistema di riferimento adeguato, adeguato per voi. Nel senso: io potevo anche metterlo tranquillamente dall'altra parte, poi però devo fare ben attenzione ai segni che hanno queste due velocità qui rispetto al mio sistema di riferimento. Ok? Così facendo io sto dicendo... quindi mettendo così la x... io sto dicendo che la $u_F$ e la $u_P$ sono due velocità positive, perché sono dirette nella stessa direzione dell'asse x che ho scelto. Se avessi scelto la parte opposta, quando vado a fare i calcoli di tutto quello che devo fare, queste due velocità dovevano essere -0,906 e -0,806 perché rispetto al sistema che ho scelto andavano nel verso opposto.
+
+[ESEMPIO:] Quindi, è chiaro ad esempio che se ho due navi che si muovono nello stesso verso, io sceglierei il verso del movimento delle mie navi come positivo, ok? Semplicemente per non avere dei meno di mezzo che sia possibile. Però se una si avvicina di qua e l'altra si avvicina dall'altra parte, c'è un problema, è chiaro che devo scegliere uno dei due versi, quello che mi piace di più, l'altro per forza deve essere negativo. Quindi, comunque sia non è che riesco a fare sempre e solo versi positivi, sempre e solo versi negativi. **L'importante è che scegliate e che rappresentiate quest'asse x perché così per voi è facile identificare il segno della velocità**.
+
+Certamente. Di seguito la trascrizione fedele della lezione di fisica sulla composizione relativistica delle velocità.
+
+**Questo è fondamentale** per me quando vado a correggere le verifiche: è facile capire perché avete messo un meno o un più davanti a una velocità, perché altrimenti faccio fatica io a capire se state facendo... mettiamo che la velocità venga diversa da quella che deve venire, al limite deve venire diversa solo nel segno, perché uno ha scelto il verso opposto dell'asse X rispetto al mio. Ma non può venire diversa a livello di numero. Quindi, se viene diversa a livello di numero è perché avete sbagliato voi a interpretare il segno nel vostro sistema di riferimento, magari correggeremo, cioè comunque in ogni caso c'è un problema più profondo che, diciamo, l'inversione dell'asse.
+
+Allora, io faccio così, quindi questo diventa... adesso magari scrivo anche qua: $U_p$ diventa $+0,806c$ e $V_{forge}$ [nome proprio: La Forge] diventa $+0,906c$. Poi, quando ho fatto questo, vado a identificare il sistema SR e SR'. Queste sono due velocità che sono osservate dalla... dalla base, quindi queste qui sono, diciamo, osservate da SR, che quindi, per esempio, posso identificare come il mio sistema di riferimento fermo in assoluto, quindi il mio SR.
+
+Perché? Perché quando vado a vedere le domande, viene richiesta la velocità di una delle due rispetto all'altra. Quindi in automatico, almeno a me spontaneamente verrebbe da dire: perfetto, se voglio la velocità di [nome proprio: La Forge] rispetto a [nome proprio: Picard], significa che [nome proprio: Picard] deve essere l'SR' in moto e [nome proprio: La Forge] l'oggetto che si muove indipendentemente da questi due sistemi. Ok? Posso invertire le cose? Certo che sì. Chiaramente se inverto le cose, poi dopo devo stare attento a usare adeguatamente la relazione. Cioè, nel senso, per me questo è SR e [nome proprio: Picard], cioè questa, è SR' che quindi si muove nella stessa direzione qua, e quindi l'asse $X'$ sarà questo.
+
+Pertanto, quando io vado a scrivere la **composizione relativistica delle velocità**, e noi sappiamo che era $V' = \frac{V - U}{1 - \frac{VU}{c^2}}$, adesso devo qui identificare adeguatamente cosa sono queste velocità, cioè identificarle con i dati che mi vengono forniti. Quindi, ricordiamoci che questa esprime la velocità in SR', questa la esprime in SR e questa invece è quella di SR'. Per cui, vediamo a che cosa corrispondono i dati che ci vengono forniti. Questa è la velocità di [nome proprio: Picard], cioè la velocità del mio sistema SR' misurata ovviamente rispetto a SR, perché è l'unico sistema su cui posso fare la misurazione di SR'. Quindi questa qui diventa in automatico la $U$ che sto inserendo dentro questa espressione. La [nome proprio: La Forge] che mi viene data sempre rispetto a SR, in questa relazione è rappresentata dalla $V$. Ok? Pertanto sto cercando esattamente questa.
+
+D'accordo? Quindi, ripeto, posso anche scambiare i sistemi di riferimento? Sì, l'importante è che se scambiate i sistemi di riferimento poi dopo state attenti ad associare correttamente $V$, $V'$ e $U$, perché dopo cambia: questa qui non sarebbe più la $V$, diventerebbe la $V'$, quindi dopo dovete trovare quella che voi avete chiamato la $V$. Va bene, però ecco, bisogna stare attenti. Quindi: dopo aver fissato gli assi, sistemate i sistemi di riferimento SR, SR' e poi andate a, diciamo, guardare i dati che vi sono dati e a contestualizzarli in questa espressione. Può essere necessario eventualmente ricavare l'inversa perché se vi chiedono la $V$ è chiaro che bisogna fare l'inversa, però ecco, spesso quello su cui ci si sbaglia è l'identificazione tra questi dati e questa espressione qua. Ok?
+
+Poi, **questo segno meno**, così come questo, viene direttamente dalla relazione, dalle **trasformazioni di Lorentz** che avevamo visto l'altra volta. Non è un segno che dipende dal verso di questa velocità qui. Ok? Quello è teorico. Quindi, qui ci mettiamo la $U$ con il segno con cui l'abbiamo contestualizzata nei dati. Ora, per me la $U$ era positiva perché ho scelto l'asse $X$ così, ma se l'avessi scelto dall'altra parte avrei dovuto mettere meno parentesi $-0,806$. Quindi, non confondete il segno con il verso della velocità. Questo qui è teoria e poi, ripeto, solo una volta che siete riusciti... che avete identificato il verso positivo dell'asse $X$ potete mettere adeguatamente il segno qua. Tanta roba. Quindi, comunque sono tutti passaggi da fare se non volete fare errori nell'utilizzo di questa espressione. Che poi erano le stesse cose che bisognava fare con Galileo, solo che con Galileo magari non ci si è insistito tanto e poi era un problema un pochino più, forse anche più intuitivo. Qui c'è anche $1$ meno sotto che complica le cose.
+
+Comunque, andiamo a vedere quindi rispetto a [nome proprio: Picard] cosa succede per la [nome proprio: La Forge]. Quindi: la $V'$ di [nome proprio: La Forge] è uguale alla $V$ di [nome proprio: La Forge] meno la $U$, che è [nome proprio: Picard], fratto $1$ meno $V$ di [nome proprio: La Forge] per $U$ fratto $c^2$. Allora: $V$ della [nome proprio: La Forge] è $+0,906c$ meno... io adesso qui lo faccio, poi... però è per insistere sul fatto che questo meno ci va comunque e il segno lo metto qui dentro la $U$, quindi $+0,806c$. Diviso $1$ meno... vedete che qui ho $V_{forge}$ per $U$ fratto $c^2$? In pratica sto facendo $\frac{V_{forge}}{c} \cdot \frac{U}{c}$. Questi sono due fattori beta: il beta della [nome proprio: La Forge] e il beta, diciamo, della [nome proprio: Picard]. Ok? Quindi $1$ meno beta della [nome proprio: La Forge] che è $0,906$ per $0,806$ del beta. Caso mai questa qui fosse stata negativa, nel beta ci metto $-0,806$. Ok?
+
+Allora, questa diventa... io di solito il $c$ lo metto solo alla fine come moltiplicativo perché tanto queste velocità sono tutte relativistiche, quindi non andrò mai qui a scrivere $0,906 \cdot 3 \cdot 10^8$ meno $0,806 \cdot 3 \cdot 10^8$. Parliamo sempre di $0,906 - 0,806$ fratto $1 - 0,906 \cdot 0,806$ tutto per $c$. Darebbe... $0,1$ sopra, giusto? Sotto invece qualcuno mi fa il conto che viene $1 - 0,906 \cdot 0,806$?
+[DOMANDA STUDENTE: $0,269$]
+$0,269...$ quindi $0,1$ diviso $0,269...$ $0,371$?
+[DOMANDA STUDENTE: $0,371$]
+Allora, come vedete è un numero positivo, quindi $+0,371c$. Ok? Che ci sta dicendo che **[nome proprio: Picard] vede la [nome proprio: La Forge] muoversi nel verso positivo dell'asse $X'$**. Ok? Questo è l'asse $X'$. Quindi [nome proprio: Picard] vede la [nome proprio: La Forge] allontanarsi da lei. Diciamo, era intuibile.
+
+Ecco la trascrizione della lezione:
+
+...nel senso, questa rispetto alla [inaudibile] terra si muove con una velocità inferiore rispetto a [inaudibile], quindi mi aspetterei che sulla Picard la veda poggiare [inaudibile] più lentamente di come si muove rispetto a terra perché la Picard la insegue. Però, ecco, è per sottolinearvi che se qua viene **negativo** è perché dal **punto di vista di questo sistema di riferimento** la nave si sta... cioè sta proseguendo nel verso opposto rispetto alla X. Non vuol dire necessariamente che si avvicini, perché se la Forge era davanti si avvicinava, se la Forge era di qua si allontanava. 
+
+Comunque state attenti perché può venire ovviamente una velocità negativa ed è da interpretare correttamente nel sistema di riferimento in cui l'avete calcolata. Quindi non trascu... cioè non dite: "Oddio c’è un meno, ma tanto per molto spesso i risultati... mettiamo un valore assoluto". Ma che testa è? Il valore assoluto non c'entra più. **Il segno meno davanti a una velocità ha un significato**, quindi non è che lo trascuriamo così perché consideriamo valori assoluti di qualcosa. Okay?
+
+[DOMANDA STUDENTE: Il secondo passaggio riguarda sempre la velocità che abbiamo definito prima?]
+Sì.
+
+Ora, nell'ultima richiesta mi chiede la velocità della Forge rispetto a Picard se la Forge viaggia in direzione opposta. Quindi posso sempre lasciare la mia dicitura di sistemi di riferimento come $S_r$ e $S_r'$ perché comunque la velocità che mi viene richiesta è sempre rispetto alla Picard, quindi non cambio. Però bisogna considerare che la Forge viaggi in senso opposto. [ESEMPIO: significa che la $u$ che è quella della Picard rimane $+0,806c$, però la $u$ della Forge diventa $-0,906c$.] Perché se viaggia in verso opposto, la $u$ Forge è di qua, quindi rispetto al mio asse X è meno.
+
+Ora applichiamo l'espressione, quindi: $u' = (u_{Forge} - v_{Picard}) / (1 - uv/c^2)$. Quindi $-0,906c - (+0,806c)$ fratto $1 - (-0,906) \cdot 0,806$. [NOTA: Il fattore beta della Forge questa volta compare col segno meno.] Certo, il fattore beta non identifica solo un valore assoluto, identifica un segno anche, mi dice positivo o negativo rispetto al mio asse. Quindi non è da trascurare quello che dicevo prima: **non mettere un meno significa fare un errore**. 
+
+Quindi: $-0,906 - 0,806$ fratto $1 + (0,906 \cdot 0,806) c$. Dai, fatemi il conto di quanto viene.
+
+[DOMANDA STUDENTE: -0,889 oppure 0,89?]
+Sì, $-0,889$ circa. 
+
+Allora, in questo caso la Picard vede la Forge muoversi in direzione opposta rispetto all'asse $X'$, quindi significa che lei vede che la Forge si sta avvicinando con una velocità ovviamente superiore a quella che aveva qua perché ovviamente le stanno andando incontro. Però, come vedete, rimane sempre un fattore moltiplicativo di $c$, ovviamente inferiore in valore assoluto a 1. **Un oggetto che ha una massa diversa da zero — quindi tutto tranne che la radiazione — si muove sempre con una velocità inferiore a quella di $c$.** Per cui, se fate i calcoli qui e vi viene roba $1,$ virgola qualcosa, c'è qualcosa di sbagliato e molto probabilmente è proprio il fatto che avete messo magari un segno sbagliato qua o qui. Spesso i risultati impossibili dipendono dal fatto che avete interpretato male il segno, ma non avete fatto un errore autoconsistente. Va bene, domande su questo? Questo è il caso.
+
+Ve ne propongo un altro che è meno classico, però effettivamente c'è anche questo. È sempre sulla composizione delle velocità. Avvicinandosi a un lontano pianeta con una velocità di $0,445c$ — adesso la scrivo, non so che cos'è, vediamo dopo eventualmente i sistemi — un'astronave lancia una sonda verso di esso. Questa è l'astronave, qui c'è la sonda che è stata lanciata e qua c'è il pianeta. L'astronave si sta avvicinando al pianeta. Questa è la velocità dell'astronave, quindi questi sono $0,445c$. La sonda viene lanciata verso il pianeta, quindi sarà così.
+
+La lunghezza propria della sonda non è puntiforme, quindi la sonda ha una lunghezza. Mi dice: **la lunghezza propria della sonda è di 10 metri**. Lunghezza propria della sonda: subito simbolo, lo zero all'apice. [ESEMPIO: $L_0$ sonda $= 10$ m]. Mentre la sua lunghezza misurata da un osservatore sulla nave spaziale è $7,5$ metri. Quindi quella che ci stanno dando è la $L = 7,5$ metri vista dall'astronave.
+
+Qual è la lunghezza della sonda misurata da un osservatore sul pianeta? Mi aspetto che quella lunghezza sia superiore, inferiore o uguale a $L_0$? Cioè, vista da quassù, vede una lunghezza maggiore, minore o uguale a $L_0$? 
+
+**Ricordatevi che per rispondere a queste domande dovete prima di tutto capire cosa significa misurare $L_0$.** $L_0$ lo misura un osservatore che vede il segmento — quindi in questo caso la lunghezza della sonda — **fermo**. Chi può vedere la lunghezza della sonda ferma? L'unico è un osservatore in quiete rispetto alla sonda, quindi deve essere un osservatore che sta esattamente sulla sonda. **Chiunque veda questo segmento in movimento lo vedrà con una lunghezza inferiore a $L_0$.** Non c'è possibilità per un osservatore di vedere qualcosa di superiore a $L_0$, perché l'effetto è di **contrazione delle lunghezze**. Quindi non lo vede 10 metri, non lo vede probabilmente neanche 7 metri per via della velocità, ma comunque lo vede inferiore a 10 metri. Okay? 
+
+Questa $L$ qui è vista dall'astronave...
+
+Ecco la trascrizione fedele della lezione di fisica:
+
+...diciamo quindi $L_A$. Io voglio sapere la **lunghezza** vista dal pianeta, che sarà comunque **contratta**.
+
+Ok. Allora, intanto sappiamo che anche questi sono due moti diciamo diretti lungo la stessa direzione, quindi possiamo scegliere il verso dell'asse $x$ concorde con essi.
+
+Poi. Io qui adesso so qual è la velocità dell'astronave rispetto al pianeta. So la **lunghezza propria** della sonda e la lunghezza che vede l'astronave, diciamo quando la sonda si allontana. Ok? Quindi da questa informazione qua posso ricavare il **fattore gamma** relativo al moto della sonda. Ma relativo al moto della sonda rispetto a che cosa? Questa $L_A$ la misura chi sta qui.
+
+Ok? Quindi il **fattore gamma**, che sappiamo dipende dalla velocità dell'oggetto, dipende dalla velocità di quell'oggetto rispetto all'astronave. Ok? Quindi dipende da quella che vogliamo chiamare $v$ o $v'$ di questo oggetto. D'accordo? 
+
+Ora, abbiamo fatto questo, io suggerirei: pianeta SR, sonda oggetto in movimento e l'astronave SR'. Per cui questi dati in realtà diventano: $u$ la velocità dell'astronave che sarà positiva, quindi $+0,045$... Adesso io modifico qui, però è chiaro, voi verificate; i dati che vi ho dato sono quelli. Adesso lo faccio, scrivete qua sotto e dopo usate quelli della formula. O se no scrivete la formula con i dati dentro e siamo a posto.
+
+Da qui e da qua posso scrivere che $L$ è uguale a $L_0$ fratto il **gamma** della sonda. E il gamma della sonda è uguale a $1$ fratto radice di $1$ meno **beta** quadro della sonda, quindi beta della sonda rispetto all'astronave. Ok? Quindi SR'. 
+
+Quindi ricaviamoci il fattore gamma sonda: $L_0$ fratto $L$. Dateci un occhio, quello che dovete fare... $1,1807$... No, questo è sulla velocità... Devo fare $L_0$ fratto $L_A$. $1,3587$... 
+
+Quindi adesso invertiamo questa espressione per ricavare il beta. Quindi: beta uguale... aspettate che lo faccio un passaggio alla volta... radice di $1$ meno beta quadro uguale a $1$ fratto gamma; $1$ meno beta quadro uguale a $1$ su gamma quadro; beta quadro uguale a $1$ meno $1$ su gamma quadro; da cui beta uguale più o meno radice di $1$ meno $1$ su gamma quadro. Fammi un secondo il conto di quanto viene questo beta. 
+
+[DOMANDA STUDENTE: Più o meno 0,67639...]
+
+Ok, quindi ho ricavato il beta. Il beta ovviamente è ricavato da una radice quadrata, quindi comunque ho l'opportunità di più o meno soluzione. Perché questo più o meno significa che la sonda poteva andare nel verso positivo dell'asse $x'$... ok? Nel verso positivo se fosse stato "più" oppure anche negativo. Cioè, lo stesso effetto di **contrazione della lunghezza** di $7,5$ metri io l'avrei avuto anche se la sonda si muoveva nel verso opposto, perché dipende esclusivamente dalla velocità, non dal verso con cui si muove. 
+
+Ora, noi qui sappiamo che la sonda è orientata lungo la stessa direzione del verso positivo del mio asse $x$, quindi è chiaro che per me beta è $+0,676$. Ok? Quindi la velocità della sonda rispetto all'astronave è esprimibile come $+0,639c$. 
+
+Chiaro quello che sto facendo? Vi vedo troppo lessi. Ok, concentratevi. Un po' scotti, andati... della serie "copio poi magari a casa qualcosa provo". Questa è l'impressione che mi date, spero di sbagliarmi. Avete barrato cos'è, il sessantunesimo giorno? O è il sessantadue? Il sessantadue.
+
+[NOTA: Il docente scherza sulla stanchezza degli studenti.]
+
+Detto questo, allora... questa sonda rispetto all'astronave si muove con questa velocità. Ok? L'astronave si muove con questa velocità rispetto alla Terra. Per poter ricavare qual è la lunghezza che vedo a Terra (il pianeta), ho bisogno di sapere qual è la **velocità** con cui questa sonda si muove rispetto a Terra. Ok? Perché il **fattore gamma**, che dipende dalla velocità, va calcolato rispetto al **sistema di riferimento** che mi interessa. Ok? 
+
+Quindi a questo punto devo trovare la velocità della sonda rispetto a Terra/pianeta. Quindi devo trovare la $v$ o la $v'$? Devo trovare la $v$, perché la $v'$ era quella rispetto al mio SR', ovvero l'astronave. Quindi... io so che $v'$ è uguale a $v$ meno $u$ fratto $1$ meno $v$ per $u$ su $c$ quadro. Da questa espressione devo ricavare l'inversa. Quindi devo ricavare la $v$ in funzione di $v'$. 
+
+Andiamo a sistemarla. Quindi moltiplico $v'$ per il denominatore... così... poi distribuisco... porto da una parte tutti i termini che hanno la $v$ e lascio dall'altra i termini che hanno la $v'$. Qui ce n'è uno che c'ha entrambi, però io voglio isolare la $v$ quindi lo porterò insieme a quello che ha la $v$. Quindi... questa.
+
+0,639 più la u 0,445 tutto C fratto 1 più 0,639 per 0,445. Calcolo tutto questo, questa frazione. 
+
+[inaudibile] 0,844. Vediamo se per caso ho sbagliato... perché la u' per me era 0,661 non 0,639, vabbè. No, magari ho sbagliato io il conto. Magari ho usato dei dati diversi. Prova a rifare questo... 10 fratto 7,5... Ah no, quello è il gamma. Sì, c'hai ragione, 10 fratto 7,5. Sì, allora prova a rifare l'altro, magari ho arrotondato qualcosa di troppo. In realtà io non avevo calcolato la u' ma direttamente la beta. No, vabbè. 
+
+In ogni caso, quella è la velocità con cui vedo la sonda muoversi rispetto al pianeta. È con quella velocità lì che calcolo il **fattore gamma** e poi lo sfrutto nella relazione per ricavare la **lunghezza contratta** vista dal pianeta. 
+
+Quindi: la **lunghezza contratta** vista dal pianeta sarà data da L0 diviso gamma rispetto al pianeta, che è questo. Ok? [NOTA: Il docente scrive la formula alla lavagna mentre mormora i passaggi]. 
+
+[DOMANDA STUDENTE: inaudibile]
+
+Eh sì, infatti... 0,810... 0,789. A questo punto non so più cosa dire. A me veniva 0,662, però come ho detto, il fatto è che avevamo un po' di dati diversi. All'inizio avevo usato un altro gamma, quindi era radice di 1 meno beta alla seconda. 1,864... questo qui sopra... no, no, era quello sopra il calcolo finale di questa lunghezza. Ok, questo. 10 metri diviso... 5,364. 
+
+Viene 5,19. Il problema sta nel fatto che a me è venuto 0,662, però l'abbiamo fatto in due modi un po' diversi. Aspettate un attimo. 10 fratto 7,5... Sì, 1,3 periodico. 
+
+Benissimo, allora abbiamo capito che questo qui, in realtà era 661. Perché **arrotondando un numero periodico a poche cifre questo gamma viene un po' sballato** e quindi ovviamente anche il beta viene un po' sballato. Se andate a sostituire il gamma come effettivamente 10 fratto 7,5 e poi fate il quadrato, vi viene 0,661 come dovrebbe essere. Quindi è stato solo un errore di approssimazione. 
+
+Ricordate che la procedura però è questa: quando devo ricavare la **lunghezza contratta** ho bisogno del **gamma** visto nel sistema di riferimento considerato che sta misurando la lunghezza propria. Quindi fate attenzione a valutare le velocità ed eventualmente le componenti con i segni giusti. Per ora, per oggi direi che basta, ci abbiamo messo un'ora e ho fatto solo due esercizi. Mi dispiace. Ci vediamo.
+
+Sinceramente neanch'io, cioè io non sono mai riuscito a sapere [inaudibile] da una docente. Bisognerebbe sapere... però io praticamente, scuola interna e molto spesso, nel senso di matematica e fisica, vanno molto meglio magari in delle materie che poi... no, s'è sfasciato tutto il sistema [inaudibile].
+
+Non mi carica l'immagine della cosa, non so perché. Io ci provo. [DOMANDA STUDENTE: Qual è la differenza allora di dire... se studi?] Certo, c'è una certa tolleranza solo per... [inaudibile]. In ogni caso mi chiedo veramente quanto di questo possa avere influito in una decisione del genere, perché pensavo che un ragazzo rispondesse del fatto che nella sua vita avesse dato più di quanto...
+
+Sì, vabbè, a scuola è una gran parte della vita e va bene. E se va bene il nostro stare a scuola, va bene, perché è una gran parte della nostra vita che va bene. Perché comunque ci stiamo sei ore al giorno, per sei giorni su sette per noi... è metà della mia giornata.
+
+No, sembra andare. [NOTA: il docente o lo studente sta cercando di far funzionare una presentazione o un software]. Guarda, qua è caricato, vado qui... cioè, lo so, però me ne faccio un po' un pregio. Magari non gli va, non si sa mai. Oh, la tua capacità sta cedendo! No, no... oh, ma dai! Oh, va' a cagare! [NOTA: commenti informali durante il tentativo tecnico]. Ma mi sta rejibaitando (termine gergale/incerto) 'sta merda.
+
+Ognuno ha le sue priorità. Cioè, guarda, qua è caricato, vado qui... me ne faccio un po' un pregio. Ora, questa teoria io... la tua capacità sta cedendo. No! Lasciatemi dire che io non l'ho... cioè l'hanno scritto... [inaudibile]. Chiaro? C'è chi ha aiutato qualcuno quando non hai... cioè questo discorso magari arriva...
+
+[DOMANDA STUDENTE: Ma tu cosa... cosa pensi di essere, un **MPI** che funziona in modo che... fisicamente ti faccia fare meno fatica?] No, fanno uno... cioè appena c'è un errore... poi cioè è un algoritmo in un certo modo. Quindi tu ambisci ad essere un **MPI** che funziona in modo che fisicamente ti faccia fare molta più fatica... va bene, allora... prima di salutare... quel ragazzo... l'ho trovato... [inaudibile].
+
+Possiamo vedere il tecnico che sta leggendo per la prima volta la sua parte? Ha messo l'immagine della... ma non si carica nella presentazione. Questa è la prima volta che vede questa roba! Oh, s'è caricata! A posto. Ora... [inaudibile]. Stoppa. Arrivederci prof! Arrivederci! [NOTA: rumore di sedie e banchi che vengono spostati, fine della lezione].
+
+Ecco la trascrizione fedele della lezione di Storia dell'Arte focalizzata sull'Espressionismo tedesco e il gruppo Die Brücke.
+
+***
+
+[Rumori di fondo, chiacchiericcio degli studenti, discussioni tecniche su computer e reti LAN]
+
+Silenzio! Ognuno al suo posto. Io ascolto, e chi vuole può ascoltare, altrimenti lavorate, ma [inaudibile].
+
+In questa argomentazione andrò a trattare vari argomenti, tra cui l'opera in generale, lo stile, l'autore e in generale il gruppo della **Die Brücke**, quello che l'ha costituita. Il nome "Marcella" si riferisce al dipinto che fa vedere appunto l'**Espressionismo** [termine incerto: marcato] di Ernst Ludwig Kirchner. Questo quadro, realizzato tra il 1909 e il 1910, rappresenta una ragazza che è stata appunto ripresa da Kirchner in questo arco temporale. È una tela di dimensioni 96 per 91 centimetri, non è eccessivamente grande, ma è comunque molto espressiva. È una tela che oggi è conservata a Stoccolma ed è considerata una delle immagini più rappresentative dell'**Espressionismo tedesco** in particolare, ed è anche una delle opere più emblematiche del gruppo della **Die Brücke**.
+
+Si tratta di una ragazza, una dei tanti modelli che Kirchner e il gruppo della Die Brücke solevano ritrarre insieme alla sorella, ed era raffigurata in modo naturale ma con una postura rigida. Nonostante fosse seduta, vediamo comunque un taglio di sbieco, non è in modo naturale o armonioso. In qualche modo naturale, possiamo definire la parte del corpo che abbiamo appena analizzato, ma possiamo vedere anche altre opere di Kirchner. Dal punto di vista compositivo è di sbieco ed è una **prospettiva deformata**, che elimina la profondità della scena, tant’è che sembra che la figura sia schiacciata verso l’osservatore, il che appunto è stato realizzato proprio per far convergere verso la superficie della tela. 
+
+L'opera è stata realizzata con colori brillanti, molto emblematici tra i verdi e i gialli, e in particolare vediamo l'intensità del corpo, in particolare vediamo questo rosso che contrasta con la pelle chiara e gli occhi molto scuri della ragazza. [ESEMPIO:] Un altro dettaglio particolare sono i contorni, che vediamo spessi e non contornati di nero, ma di un verde scuro, un verde acido, uno dei colori caratteristici di Kirchner e delle sue opere. Infatti, caratteristici sono i colori acidi, molto particolari come vediamo il rosa, il rosso, l'arancione, il verde acido.
+
+In quest'opera si vuole rappresentare la **pubertà**, che è un momento di frattura tra la giovinezza e quella che sarà poi l'età adulta, quindi il passaggio tra la bambina che poi dovrà diventare una donna fatta. Le figure sono delineate con contorni molto spezzati e irregolari che accentuano le forme e conferiscono un aspetto di rigidità alla ragazza, tant'è che vediamo appunto che le mani sono appoggiate sulle gambe in uno stile molto particolare. Sicuramente è uno stile molto lontano da quello **accademico**, molto più rappresentativo di quella che è una visione triste, non di gioia. 
+
+[NOTA: Il docente o la studentessa approfondisce il contesto del gruppo]
+
+Qui abbiamo la **Die Brücke** e alcune delle sue principali opere. È un gruppo di pittori e scultori tedeschi, esponenti appunto dell'**Espressionismo**, e uno dei principali esponenti era Kirchner. Il termine "Die Brücke" significa proprio "**Il Ponte**", e non per scelta irreale, ma proprio perché mirava a unire il passato e il futuro attraverso la visione interiore dell'artista. Infatti, tra gli argomenti principali di quest'opera abbiamo le caratteristiche principali come l'uso di **colori violenti**, come abbiamo visto nel quadro di Marcella, e temi urbani e sociali. È una comunità di artisti, come abbiamo visto, ma che possiamo vedere anche in altre opere. 
+
+[ESEMPIO:] Un'altra opera principale di Kirchner è "Cinque donne per strada", del 1913. Si tratta di un tratto distintivo della Die Brücke, che avevano tutti quasi lo stesso stile, tant'è che era molto difficile riuscire a capire quale opera fosse di quale autore, perché avevano uno stile molto comune. È un linguaggio che si voleva spingere verso l'avanguardia e Kirchner ritraeva spesso la vita quotidiana, scene di vita urbana, immagini di strada con uomini e donne della vita quotidiana interpretati attraverso una visione intimamente deformata. 
+
+[Rumori di sedie che si muovono]
+
+Chi è che viene adesso? Dai!
+
+Ecco la trascrizione accurata della lezione basata sull'audio fornito:
+
+[DOMANDA STUDENTE: Henri Matisse è nato a Le Cateau-Cambrésis il 31 dicembre 1869 e morì a Nizza nel 1954. All'inizio della sua carriera, dopo essere stato costretto a stare a letto a causa di una malattia, scoprì la sua passione per il disegno e decise di iniziare a studiare l'arte. Nel 1890 iniziò la sua azione artistica e successivamente si trasferì a Parigi, dove riuscì anche a esporre le proprie opere presso il **Salon d’Automne** del 1905, partecipando come parte del gruppo dei **Fauves**, ovvero le "belve".]
+
+[NOTA: Mi stai facendo venire un attimo di confusione mentale. Oh ragazzi, mi sta parlando in un modo meraviglioso! Guardatelo, è più giovane dopo cinque anni, caro mio. Fammi sentire.]
+
+Durante la sua carriera artistica, il suo stile è stato basato principalmente sull’**equilibrio**, sulla **serenità** e sulla semplicità. Matisse cercava di rappresentare la sua vita e le sue condizioni di vita, che purtroppo non erano delle migliori a causa della sua salute, in un modo sereno e armonioso. Lui cercava di sintetizzare tutto in un unico sistema di immagini essenziali e lineari, cercando di assemblare sulle sue opere dei colori che siano comunque vividi e accesi. [ESEMPIO: Tra le sue opere più celebri ricordiamo **La Danza**, realizzata tra il 1909 e il 1910.]
+
+**La Danza** è stata realizzata su due tele: la prima è del 1909 ed è conservata al MoMA di New York, mentre la seconda, che è quella più celebre, è del 1910 e si trova al Museo dell’Ermitage di San Pietroburgo. L’opera presenta una composizione molto dinamica, con un gruppo di cinque figure umane che si prendono per mano e danzano in un cerchio ideale e armonico. La figura umana, come ho detto prima, viene vista come uno **strumento**, uno strumento che riusciva a trasmettere dinamismo e movimento a tutta l'opera. 
+
+[DOMANDA STUDENTE: Si parla spesso dell'utilizzo della figura femminile in quest'opera. Perché utilizzare proprio la figura femminile per dare un senso di armonia e di idea utopica?] 
+
+Sì, possiamo dare un significato maggiore a questa scelta stilistica. Al di là del dinamismo, l'artista voleva proporre un'idea **utopica**. Utopico significa un sogno che non si realizza, un'utopia. Rappresenta qualcosa di bello ma irrealizzabile. L'**armonia** che si vede in quest'opera è essenziale. Il modo in cui le figure sono composte, i colori utilizzati, tutto serve per dare l’idea di un mondo armonico.
+
+In quest'opera si nota come Matisse utilizzi tre colori principali che non sono i soliti colori primari. Abbiamo il **blu** per il cielo, il **verde** per la terra e questo **rosso-arancio** per i corpi umani. Questi tre colori creano un forte contrasto tra di loro. Matisse cerca di avvicinarsi alla **semplicità**, eliminando tutti i dettagli che potrebbero distrarre l'osservatore, per concentrarsi sull'essenziale del movimento e dell'emozione trasmessa dalla danza.
+
+Ecco la trascrizione fedele dell'audio:
+
+[Rumori di sottofondo: spostamento di banchi e sedie, chiacchiericcio degli studenti che si preparano per la lezione]
+
+Scusate, fate riferimento... sotto un altro... va bene così, capito? Sotto un altro. No, no, non sono arrabbiata... No, no, sono **strabiliata**, non arrabbiata! 
+
+[NOTA: Il docente sta organizzando la disposizione della classe e dei materiali per la presentazione]
+
+Puoi iniziare a lavorare sul... [inaudibile] l'orientamento... [termine incerto: capogiro]... pratica... per quanto riguarda lo spostato... anzi avevamo deciso... vedremo di parlare di **Matisse** e poi vedremo di parlare di **Egon Schiele** con lei. Si può ovviamente iniziare dai [termine incerto: prefattori] non ero presente cioè... comunque in un certo senso... un po' in disaccordo, però va bene. 
+
+[DOMANDA STUDENTE: Ma Matisse comprende la prospettiva del passato?]
+Sì, Matisse comprende la prospettiva del passato, ma unisce a una modalità di **bidimensionalità** sia la distorsione del paesaggio sia l'uso del colore. [ESEMPIO:] Pensiamo a un piano che si rivolge in modo tridimensionale, ma che noi lo vediamo invece come un'opportunità per quanto riguarda lo spostato.
+
+Invece per quanto riguarda Schiele, la situazione è interna. **Questo è importante**: la normalità era rassicurante, la regolarità delle forme, però andiamo invece... non possiamo sapere se la nostra idea... se noi andassimo oltre... [inaudibile].
+
+[DOMANDA STUDENTE: Quindi l'anormalità può essere vista come un modo per evidenziare la bellezza?]
+Sì, si può dire... l'anormalità invece è rassicurante perché nel caso di Egon Schiele andiamo proprio a evidenziare la **bellezza dell'anormalità**, assicurando la bellezza della carne e di tutto quello che non possiamo sapere. Se noi andassimo oltre... [inaudibile]... ma dopo torniamo all'inizio. 
+
+[Rumori di sedie e preparazione dei materiali per la proiezione]
+
+Preferisci che vada io? No, io posso guardare questo... questo qui. Ah okay, va bene. No, io sono scombinata stasera, non ho letto il tuo nome... allora, allora a questo punto dobbiamo fare un'introduzione su chi è, sul mondo di Schiele. 
+
+**Egon Schiele** è un pittore e un disegnatore austriaco, nato a Tulln nel 1890 e morto a Vienna nel 1918 a causa della febbre spagnola. **Ricordate che** Schiele nel 1906 entra nell'Accademia di Belle Arti di Vienna, tuttavia cerca un gusto più moderno ed entra in contatto con molti artisti di questo tempo. Uno dei punti di riferimento più importanti che abbiamo all'inizio della sua carriera è sicuramente **Gustav Klimt**, ed è proprio da lui che Schiele trae questo tipo di lavoro con i modelli.
+
+[ESEMPIO:] Spesso lo stile di Schiele si basa sul nudo, sulla rappresentazione del corpo umano in modo quasi **distorto**, quasi a voler mostrare una tensione interna. La linea di contorno diventa un elemento fondamentale. 
+
+[Rumori di spostamento mobili e chiusura della sessione]
+
+Ecco la trascrizione accurata della lezione basata sull'audio fornito.
+
+***
+
+Schiele è un artista che si è fatto conoscere in qualche modo [inaudibile] ad avvicinare molti artisti. Uno degli aspetti fondamentali, che copre circa il 90% della sua produzione, è l’**ossessione per l’omosessualità maschile**. Di fatto, l’omosessualità viene vissuta come un’ossessione erotica che si riflette anche nella sua quotidianità e che si estende a gran parte della produzione artistica di Schiele.
+
+Con questi temi, tuttavia, egli andava un po' a scontrarsi con quella che era la società del tempo. Infatti, egli visse un rapporto molto forte, quasi di [inaudibile] proprio con la propria famiglia. È vero che, tuttavia, grazie all’incontro con Klimt, egli riuscì a trovare un suo spazio e un suo stato di necessità, principalmente proprio negli ultimi anni della sua vita.
+
+[NOTA:] Schiele muore molto giovane, nel 1918, a causa dell'**influenza spagnola**. Questa morte così prematura alimentò ulteriormente l’ossessione per il tema della morte, che nelle sue opere viene spesso accompagnata dalla ricerca dell’espressione di un profondo senso di colpa e, come dicevamo, dalla stessa omosessualità maschile. 
+
+**Ricordate che** Schiele è un artista estremamente sensibile ma anche molto complesso. Egli guarderà con molta attenzione e si ispirerà profondamente a Van Gogh e alla sua maturità artistica, ma anche a Gauguin. 
+
+[DOMANDA STUDENTE: Ma quindi il suo stile è simile a quello di Van Gogh o è diverso?] 
+
+Diciamo che dal punto di vista artistico Schiele rimane uno dei più importanti esponenti dell'**espressionismo**. La sua produzione è influenzata da questi maestri, ma Schiele esprime nelle sue opere quella che possiamo definire la **nuda realtà umana**, spesso presentata in modo crudo. [ESEMPIO:] Pensate alla resa dei corpi, che è caratterizzata da un segno grafico molto inciso, quasi **tagliente**, e da una visione decisamente drammatica ed espressiva. 
+
+Questa **realtà traumatica**, come viene spesso definita dalla critica, è alimentata da un segno grafico ossessivo. Se vi dovesse capitare di analizzare una sua opera, noterete come il contorno delle figure non sia mai armonioso, ma sempre spezzato, proprio per comunicare quel senso di inquietudine interiore che è tipico di tutta la sua produzione. 
+
+[NOTA:] In questo periodo, oltre a Schiele, dobbiamo ricordare anche altri esponenti che lavorano su linee simili, cercando di portare l'arte verso una dimensione più interiore e meno legata alla bellezza estetica tradizionale. 
+
+Tutto questo discorso sulla fisicità e sulla sofferenza è **fondamentale** per capire l'evoluzione dell'arte del Novecento. Schiele non vuole compiacere l'osservatore, vuole scuoterlo, mostrandogli il lato più fragile e, a tratti, morboso dell'esistenza umana. Questo approccio è ciò che lo rende, ancora oggi, uno degli artisti più studiati e ammirati per la sua capacità di aver anticipato temi psicologici profondi.
+
+[inaudibile] ...dieci, dieci, dieci, dieci, regalo di fine anno. Ma non è un regalo regalato così, no, no, ve lo siete guadagnato perché voi avete questa caratteristica, però ve lo devo dire: io tutte le volte che ho programmato è andato tutto liscio. Sempre tutti pronti, tutti... eh, riduzioni pochissime, pochissime succederà, ma voi siete molto affidabili. Poche storie, siete un punto fisso e io questo lo apprezzo.
+
+Quindi venerdì prossimo, idem come oggi. Portatevi la vostra roba per andare avanti con l'orientamento, poi io faccio la chiacchierata con voi e tutto va bene. Nel giro di tre lezioni siamo a posto.
+
+[termine incerto: Uno fratto] ... radice di ... [inaudibile] ... pi greco ... alfa ... elevato alla seconda.
+
+Il venticinque aprile non ci vediamo, il ventiquattro sì, va bene. Primo maggio no, sabato tre maggio sì. Noi abbiamo il ponte del primo maggio, l'uno e il due, e questo è quello che conta. 
+
+[NOTA:] Il docente prosegue analizzando alcuni passaggi o formule sulla lavagna/registri.
+Uno meno ottanta... alfa alla seconda. È molto, molto bello questo. 
+
+Ok, gli ultimi voti e poi facciamo delle **simulazioni per il colloquio** che avrete davanti. Quindi non fate solo matematica, abbiate lo spirito dei ricercatori. [inaudibile] ... [inaudibile] ... bisogna prepararsi bene per la parte orale. 
+
+[termine incerto: Uno fratto] ... tre ... alfa alla seconda. 
+
+Ricordate che è **fondamentale** arrivare puntuali. Poi per il resto, sì, sì... voglio fare un bel lavoro con voi. [inaudibile] ... abbiate lo spirito giusto. [inaudibile]
+
+[inaudibile - I primi minuti dell'audio presentano esclusivamente rumori di fondo, spostamenti di banchi, fruscio di carta e un chiacchiericcio indistinto di studenti in sottofondo]
+
+[DOMANDA STUDENTE: Cosa facciamo oggi?]
+
+Esercizi. La verifica, sì, lunedì con voi, vero? Avete fatto la verifica che vi avevo messo ieri? 
+
+Quindi sono... un disastro? Ah, non avevo capito cosa aveste detto. **Disastro**... a livello tecnico? C'è il 110 [termine incerto: 110]? C'è questo? 
+
+Qual è... quali sono gli esercizi che vi sono sembrati più difficili? Però certo, non vorrete dare torto agli altri che si sono... non li ho più visti, quindi non hanno avuto l'occasione di lamentarsi. Adesso dopo il 20 si lamenteranno, quindi anche voi... cioè, vi sareste lamentati. 
+
+[NOTA: Il docente si riferisce a una prova d'esame degli anni precedenti]
+E vabbè, però questa qui è una verifica che io avevo dato secondo me nel **2021**. Me la ricordo particolarmente bene. Il discorso è questo: la **maturità** è sempre più...
+
+Ecco la trascrizione fedele della lezione:
+
+...così difficile uguale. Tutti gli anni gli studenti sono sempre in difficoltà, cioè... mi spiace dirlo, però la voglia di far fatica dello studente medio e le conoscenze dello studente medio sono una funzione che ha la **derivata negativa**, strettamente decrescente, e questo non va bene. 
+
+Perché dobbiamo abbassare il livello del Liceo Scientifico [nome proprio: Oriani] di Ravenna? Dovete cercare di velocizzarvi e di **studiare di più** e di **allenarvi di più** perché dovete essere al passo con queste verifiche che sono le verifiche che preparano per la **maturità** da sempre. 
+
+Non è che sono diventata più cattiva negli anni, sono diventata più buona. Però il livello della difficoltà della **maturità in matematica** è sempre molto alto. Quindi se io vi do delle verifiche corte e delle verifiche facili non sarete in grado di fare la maturità. 
+
+Il primo era un quesito di maturità, [ESEMPIO: il primo esercizio]. Poi vabbè ci sono degli **integrali** e anche il secondo e il terzo sono quesiti di maturità perché sono delle aree. Quindi esercizi normalissimi. Anche quello dell'area delimitata da due curve, sono due curve polinomiali che uno deve rappresentare con facilità. 
+
+Io avevo spiegato con voi anche un po' di **geometria analitica dello spazio**. Cosa devo fare adesso? Avete bisogno di fare esercizi sugli integrali o posso andare avanti con la geometria analitica dello spazio? Vogliamo fare un po' e un po'?
+
+[DOMANDA STUDENTE: Magari la simulazione dove ci sono i risultati?]

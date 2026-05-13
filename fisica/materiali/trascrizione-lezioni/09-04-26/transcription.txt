@@ -1,0 +1,152 @@
+Ecco la trascrizione fedele della lezione di fisica:
+
+Allora, problema? Sì. Due gemelli di 19 anni, [nome proprio: Anna] e [nome proprio: Bruno], lasciano la Terra e viaggiano verso un pianeta distante 12 **anni luce**. Assumi che la Terra e il pianeta siano stazionari l'uno rispetto all'altro. I gemelli partono nello stesso momento su due astronavi diverse: Anna viaggia alla velocità di 0,9 c, mentre Bruno viaggia a 0,5 c. Quale differenza di età avranno i due gemelli quando si incontreranno? E poi: quale dei due gemelli sarà più anziano?
+
+Allora, intanto calcoliamo la... calcoliamo il tempo misurato da entrambi i gemelli. Noi sappiamo che tra le due navicelle viaggiano a questa velocità qui e percorrono entrambi questo tragitto, per cui ci calcoliamo il tempo $\Delta t$ visto da Terra. Cioè per me che sono qua, ovviamente io non sono nessuno dei due gemelli, sono indipendente da loro, però il tempo che io misuro è quello **dilatato**, d’accordo? Perché gli eventi, l’evento 1 è la partenza da Terra e l’evento 2 è l’arrivo a destinazione. Quindi, io sono sulla Terra, li vedo con i tempi dilatati, loro sull’astronave misurano dei **tempi propri**.
+
+Allora, dunque vediamo un po'... $\Delta s$ è 12 anni luce, cioè 12 volte il tempo che la luce percorre in un anno. Quindi se voglio farlo in metri, non lo so... come l’hai calcolato tu? 
+
+[DOMANDA STUDENTE: 9,46 per 10 alla quindicesima.] 
+
+Esattamente, la luce moltiplicato per 9,46 per 10 alla quindicesima. Ah, vabbè, 12 per... 365 giorni per 24 per 3600 secondi per 3 per 10 alla ottava metri al secondo. Se no lo lascio indicato come 12 volte c, nel senso... in un anno, questo è un anno, quindi dopo diventerebbero 12 volte anno che moltiplica c. Posso anche lasciarlo così volendo, dipende da come lo volete misurare più rapidamente.
+
+Quindi, il $\Delta t_1$ dilatato è dato da questo $\Delta s$ fratto 0,9 c, ovvero per 3 per 10 alla ottava metri al secondo, quindi ho 12 per c fratto 0,9 c. La c se ne va e... l'hai calcolato? 
+
+[DOMANDA STUDENTE: A me viene o 4,2 per 10 alla ottava secondi, trasformato in anni 13,3.] 
+
+Calcolato in anni, va bene, 13,3 anni.
+
+$\Delta t_2$ uguale $\Delta s$ fratto 0,5 c. Quindi viene 12 per, diciamo, un anno fratto 0,5 c. La c se ne va... 24? 23,9? Sì. 
+
+[DOMANDA STUDENTE: Perché 23,9? A me viene 23,9 con questo... No, io ho cercato conversione anni luce in metri e mi veniva che devo moltiplicare il valore per 9,46 per 10 alla quindicesima, poi ho usato c uguale a 2,99... vabbè. Comunque, siamo 24, 23, 24 anni, ecco.]
+
+E quindi adesso bisogna vedere... no, aspetta. Questo è il tempo che vedo io. Loro che tempo misurano? Loro misurano il **tempo proprio**. Io da questo tempo qui mi devo ricavare il $\Delta t_0$ che loro vivono nella loro astronave. 
+
+Quindi, da qui devo ricavare il $\Delta t_{01}$ per il gemello 1, che è dato dal $\Delta t_1$ fratto la **gamma** di 1. **Ricordate che** la gamma è uguale a 1 sulla radice di 1 meno beta quadro. Quindi gamma 1 è uguale a 1 sulla radice di 1 meno 0,9 al quadrato. La gamma 2 invece uno meno 0,5 al quadrato.
+
+Allora, se tu fai questo... la gamma sicuro che l'hai messa come uno su radice? 
+
+[DOMANDA STUDENTE: Sì, perché io ho fatto delta t uno per la radice.] 
+
+Benissimo, quanto ti viene questo? 
+
+[DOMANDA STUDENTE: 5,79 anni.] 
+
+5,79 anni. Ok, perfetto. Infatti è molto meno. 
+
+Questo qua, $\Delta t_{02}$, con gamma 2... quanto viene? 
+
+[DOMANDA STUDENTE: A me viene 20,78 anni.] 
+
+20,8 anni.
+
+Allora, se vogliamo vedere la differenza d'età... beh... allora, fatemi un attimo vedere. Cosa succede qui? Succede che il gemello 1 ha una velocità più grande del 2, conseguentemente il viaggio mette, diciamo, 13,3 anni per me o comunque 5,79 anni per arrivare sul pianeta. Quindi quando lui arriva sul pianeta, il 2 è ancora qua, ok? 
+
+Per incontrarsi manca ancora un $\Delta t$. E quindi devo sommare quel $\Delta t$ all'età del gemello 1. Ma aspetta, dobbiamo calcolare il $\Delta t$ che passa diversamente per lui... cioè... allora. Lui ci mette 13,3 anni, lui ce ne mette 24. Quindi significa che qui c'è una differenza di tempo di 10,7 anni. Però lui lo percepisce come tempo dilatato, perché lui adesso è fermo. Cioè è fermo nel senso che è in quiete rispetto alla partenza e all'arrivo del gemello 2, alla partenza da qui e all'arrivo qui del gemello 2. Quindi adesso bisogna calcolare il tempo dilatato per il gemello 1, ok? Quindi non è solo quella differenza lì, bisogna calcolare anche quello che resta.
+
+Allora, vediamo un po'. [inaudibile]
+
+Quindi, gemello 2 ci mette 24 anni, il gemello 1 ci mette quello... 13,3... 10,7 anni di differenza. Direi che potrei farlo anche in due modi, però forse quello più intuitivo mi veniva da pensare fosse questo. Io so che il gemello 1 ci mette 13 anni rispetto alla Terra per fare il viaggio...
+
+Ecco la trascrizione accurata della lezione di fisica, focalizzata sulla risoluzione di un esercizio relativo alla teoria della relatività (paradosso dei gemelli).
+
+***
+
+Quindi, vediamo dov’è il **gemello 2** dopo 13 anni rispetto... diciamo qui. In pratica calcoliamo questa distanza. Proviamo a fare questo calcolo. 
+
+[NOTA: Il docente scrive alla lavagna mentre esegue i calcoli a voce bassa]
+
+Tredici... 13,3... meno... quindi quanto gli resta? No, questo... Aspetta. Tredici virgola tre meno... anni, perfetto. 
+
+Allora, calcoliamo... sì... non per 0,5... 0,5... per 0,5... allora, lasciamo anni luce così faccio 12 meno quello. 13,3 per 0,5 fa **6,65 anni luce**. Dopodiché, quindi, quanto gli resta da fare? 12,0 meno 6,65 fa **5,35 anni luce**. 
+
+[ESEMPIO:] Ok, il tempo si fa a 0,5... a 0,5 c. Quindi, 5,35... **10,7 anni**. Quindi lui ci mette 10,7 anni; questo è rispetto alla **Terra**. Delta t zero due, quindi... [inaudibile] per 2... 9,27. 
+
+Allora, il **gemello 1**, quindi, ha 19 più quello che lui ha fatto: 5,9... 0,7... 9,27. Il **gemello 2** ha 19 più 20,7... giusto? 39,7 anni. La differenza è di 5 anni? Quant'è? 5,5... cioè 4,4... sì, 4,4... 4,3. Forse questo l'ho fatto male io, questo qua... vabbè, comunque... 4... questo è proprio 20,6 preciso? Ah, forse... vabbè. Qua a me dà 5,7 come differenza, non 4,5. Quindi c'è qualcosa che forse ho sbagliato... 1,04... 
+
+Allora, vediamo. 12 diviso 0,9... 13,3. 1,04 per 0,5... 0,52. No, aspetta. 13,3 per 0,52... 6,9. 
+
+[NOTA: Il docente sta ricalcolando le distanze e i tempi sulla lavagna]
+
+Vediamo questa distanza. Aspetta, questa è la distanza percorsa complessivamente, sì, ok. 5,35, d’accordo. Quindi 12 meno... per 0,5... 10,7. 9,27... ok. Vediamo per l’altro... allora, vediamo cosa ha spezzato... ha spezzato... aspetta, aspetta. Sino a... aspetta, aspetta. No, questo ci sta, questo è giusto. 
+
+Ah, ecco l'errore! Lui parte con 19, si fa più di 20 anni. Vediamo... lui si fa 19 più... allora... aspetta, ho sommato un tempo qui che non c'entra un tubo, perché questo è il **gemello 1** e io ho sommato il tempo del **gemello 2**. Invece devo sommare 10,7... sì. Lui è a Terra, da una posizione fissa, diciamo in un **SR** (Sistema di Riferimento), vedi 10,7. Sì, ho spezzato quello e alla fine mi veniva 19 più 13,3 più 10,7... 35... 43... la differenza di 4,1. No, però... 
+
+[DOMANDA STUDENTE: 10,7 non l'aveva calcolato facendo Delta t diviso la velocità?] 
+
+Delta t diviso la velocità due. Perché... cioè, io sono qui e vedo che si sta avvicinando il gemello sulla navicella 2, e quello si avvicina a 0,5 c. Ok? Quindi devo calcolare il tempo che ci mette lui per... cioè, visto da me, quindi con la sua velocità. Diciamo che comunque, indicativamente, il problema principale, se ho capito bene, stava non tanto nel calcolare il **tempo proprio**, ma stava nel considerare che il gemello 1 stava prima... 
+
+[DOMANDA STUDENTE: Sì, cioè io ero arrivata a 5 e a 20...] 
+
+Certo. No, no, infatti, il trucco è lì.
+
+La difficoltà di questo esercizio era proprio quello, cioè il fatto che entrambi i gemelli partivano con velocità diverse. Non che uno rimaneva fisso. Se uno fosse rimasto fisso non avevo bisogno di fare tutto 'sto ragionamento qua.
+
+[NOTA: Il docente si riferisce a un esercizio precedente sul paradosso dei gemelli prima di passare al nuovo argomento. Segue una pausa per l'organizzazione dei materiali e rumori d'aula.]
+
+[DOMANDA STUDENTE: Un'astronave viaggia a velocità costante dalla Terra a una stella, [inaudibile] intorno a una stella. Di orbita? Intorno a una stella. Di questo pianeta? Sì. Il viaggio dura 9,9 anni per un osservatore terrestre e 8,6 anni per l'equipaggio dell'astronave. Calcola la distanza della stella misurata a terra.]
+
+Allora, vogliamo andare sul pianeta attorno alla stella. Mi dici quant'è il raggio del pianeta attorno alla stella, velocità di [inaudibile]? Suppongo che sia cosa trascurabile rispetto alla distanza Terra-stella, se no il raggio è diciamo molto minore del segmento che esce.
+
+In pratica io non ho la $u$. Prima devo trovare la $u$. Gli eventi da considerare sono sempre la partenza da terra e l'arrivo sulla stella. E questi eventi, al solito, sono localizzati in coordinate diverse solo per chi è rispetto a chi sta fisso a terra. 
+
+Il **tempo proprio** lo misura l'astronave, che vede il tempo di d'andata. Quindi questo è dilatato [indica il tempo terrestre] e questo è proprio [indica il tempo dell'astronave]. Effettivamente, $\Delta t$ terrestre è uguale a $\Delta t$ astronave per $\gamma$ dell'astronave. Ricaviamo il $\gamma$ dell'astronave. Abbiamo 9,9 diviso 8,6 che fa 1,15. E questo è 1 sulla radice di 1 meno $\beta$ quadro. 
+
+Calcoliamo la radice di 1 meno $\beta$ quadro, che è 1 fratto 1,15. Quindi facciamo 1 meno $\beta$ quadro uguale 1 su 1,15 al quadrato. $\beta$ quadro è uguale a 1 meno 1 su 1,15 al quadrato. $\beta$ è uguale a più o meno la radice di questa roba. Vediamo quanto viene fuori questo meno questo al quadrato... 1 meno 1 diviso 1,15 al quadrato... più o meno 0,495... più o meno 0,5.
+
+Più o meno perché significa che in realtà, per avere questi due tempi qui, la navicella potrebbe spostarsi sia in direzione concorde con il mio asse x, sia in direzione opposta. Poi chiaramente, se ho fissato qui la stella, la mia $u$ sarà positiva. Quindi, per dovere di cronaca devo scrivere più o meno, però nella mia rappresentazione la $u$ è più 0,5 $c$.
+
+Ora, sembra praticamente inutile fare più o meno, però ricordate che poi faremo la composizione delle velocità e la composizione delle velocità dopo, se uno va da una parte o dall'altra, cambia. Per cui, occhio. 
+
+Allora, se adesso questa qui è la velocità della navicella, per cui se io voglio calcolare la distanza tra Terra e stella, prendo la velocità e la moltiplico per il tempo. Ovviamente, **tempo misurato rispetto alla terra**, perché questa distanza qui la sto guardando dal punto di vista dell'osservatore che è seduto per terra. 
+
+Quindi, distanza TS è uguale a $u$ per 9,9 anni. [ESEMPIO: il calcolo numerico] 0,5 per 3 per 10 alla ottava metri al secondo per 9,9 per 365 per 24 per 3600. Vediamo... a me qua viene 4,7 per 10 alla 15. A me 10 alla 16. 10 alla 16? Ho sbagliato... Ah, perché non ho messo il 9,9. 4,68 per 10 alla 16. Giusto? Sì, 4,64 per 10 alla 16, ma non ha nessuna dimensione.
+
+**Questo è importante:** se voglio trovare la distanza tra un punto e un altro, devo usare... cioè devo stare attento in quale sistema di riferimento sono. Se sono dentro la nave, dentro la nave vedo qualcosa che si muove con una velocità. Se sono sulla terra, la velocità potrebbe essere diversa, ma sicuramente il tempo di percorrenza è diverso. 
+
+**Ricordate che tutto deve essere nello stesso sistema.** Se io trovo una distanza come velocità per tempo, la velocità deve essere misurata in quel sistema di riferimento e il tempo nello stesso sistema di riferimento. Non posso moltiplicare una velocità $u$ che è 0,5 $c$ misurata rispetto a terra e moltiplicarla per un tempo $t$ che invece è misurato sulla nave. Chiaro? La questione è questa: mi metto in un sistema e utilizzo i dati rispetto a quel sistema, non un pezzo di qua e un pezzo di là. Ecco perché moltiplico per questo [indica il tempo terrestre].
+
+[DOMANDA STUDENTE: Una particella possiede una vita breve, dopo la quale si decade in altre particelle. Supponi che la particella si muova alla velocità di 0,99c e che un osservatore nel laboratorio misuri per la particella una vita di 3,5 per 10 alla meno 8 secondi. In un riferimento a essa solidale, calcola la durata della vita della particella e la distanza percorsa dal laboratorio tra gli istanti di produzione e di decadimento della particella.]
+
+Io sono il laboratorio, che fisso come un sistema di riferimento quiete, e non lo so, la particella percorre questa distanza di... e però me lo chiede rispetto alla particella, quindi questa la chiamo $d_L$, la distanza percorsa in vita dalla particella. La particella nasce qui, quindi l'evento 1 è la nascita della particella e l'evento 2 è la morte, cioè il decadimento in un'altra roba. La particella si muove con una velocità di 0,99c. 
+
+Allora, in laboratorio lui misura che questo tratto nascita-morte lo fa in tot secondi. In laboratorio però la nascita e la morte avvengono in due coordinate spaziali diverse, ok? Quindi il laboratorio **non misura il tempo proprio**, misura il **tempo dilatato**. Quindi questo è il dilatato. Ora posso calcolare il $\Delta t$ di vita su, diciamo, sulla particella, cioè se l'osservatore è seduto sulla particella, [ESEMPIO:] la nascita e la morte avvengono nella stessa posizione perché avvengono esattamente sotto il suo sedere, d'accordo? Quindi lui effettivamente misura il **tempo proprio** di vita di questa particella. Quello che mi viene richiesto qui è il $\Delta t_0$.
+
+Quindi $\Delta t = \Delta t_0 \cdot \gamma$, di conseguenza $\Delta t_0 = \frac{\Delta t}{\gamma}$. E **gamma**, mi raccomando, è 1 sulla radice, non fate l'errore di mettere solo la radice perché poi nelle verifiche vedo che si scazza così. **Ricordate che il gamma deve essere sempre maggiore di 1**. Se vi viene un gamma minore di 1 c'è un problema a monte, avete scazzato il calcolo di gamma in qualche modo. Vediamo quanto viene questo gamma: allora, $1 - 0,99^2$ elevato alla 0,5 elevato alla -1... 7,09 circa. Quindi questo viene 4,9 nanosecondi, 4,94 per cento alla meno nove, sì, esatto. Confermo questo. 
+
+Ora, come calcoliamo la distanza percorsa dalla particella misurata dalla particella? Quindi sono nel sistema di riferimento della particella. Nel sistema di riferimento della particella è passato questo tempo, ok? E lei si è mossa da qui a qui, quindi ha visto, non so, la parete del laboratorio scorrere verso l'alto con una velocità uguale o opposta a questa qua perché rispetto al laboratorio la parete è ferma. Quindi per misurare questa distanza, la particella misura la distanza che la parete ha fatto spostandosi verso l'alto alla velocità di 0,99c. Quindi questo tempo, $\Delta t_0$, perché è quello misurato dalla particella, per 0,99c. 
+
+[DOMANDA STUDENTE: Sì, ma infatti mi veniva, però non mi è chiaro perché usiamo la velocità della particella.] 
+
+Perché la parete è ferma e quindi la particella vede scorrere... Quando, allora, adesso noi non abbiamo fatto ancora la composizione relativistica delle velocità, quindi vedremo che non sarà più la composizione galileiana velocità uguale $v'$ più la velocità di $S'$ perché l'espressione è più complessa. Però quando uno dei due oggetti è fermo, le cose si riducono comunque a essere così, cioè se uno si muove con V l'altro si muove con -V e tornerà, vedrai, anche con la composizione relativistica delle velocità. 
+
+Altro da chiedermi? Siete sicuri nient'altro? Neanche per sabato?
+
+[NOTA: Il docente commenta informalmente la difficoltà dei quesiti di fisica della maturità.]
+Mi ha fatto venire in mente che era messo bene quel compito, però era difficile, sì, cioè c'erano dei commenti. Non erano banalissimi, diciamo, ecco. Però effettivamente se ci fosse stata la problematica della maturità allo scritto, è tutto un altro scritto. Okay, ma difficile. Il problema è che nei quesiti maturità c'è anche della roba del genere a volte. Quindi se fosse stata una roba simile a quella io avrei insistito ancora su quello, però adesso non ci si stupisce più, neanche all'orale presumo. Quindi nessun altro deve chiedermi niente? 
+
+Allora, visto che mancano dieci minuti... dopo c'è la verifica giusto? Interrogazione dopo? Dopo? Sì, pensavo fisica. Iniziamo a parlare un pochetto dell'effetto della **relatività delle lunghezze**. Terzo: **relatività delle lunghezze**. 
+
+Anche questo è un punto di distacco rispetto alla relatività galileiana. La relatività galileiana affermava che se io devo misurare la lunghezza di un segmento, questo ha lunghezza di, non so, 15 centimetri sia che io lo veda in quiete, sia che io lo veda [ESEMPIO:] se mi muovessi in bicicletta che in pratica il segmento rispetto a me si sta muovendo. Quindi anche la lunghezza di un segmento per la relatività galileiana aveva un **valore assoluto**. Questa volta non è più così. 
+
+Vedremo perché, intanto cominciamo a orientarci così magari non esageriamo. [ESEMPIO:] Prendiamo il solito trenaccio e l'osservatore sulla banchina. Sulla banchina mettiamo due paletti...
+
+Certamente. Ecco la trascrizione fedele della lezione di fisica riguardante la relatività e la misura delle distanze tra sistemi di riferimento.
+
+***
+
+...S primo e questo è S. **O primo**, ovviamente, davanti alla finestra del treno. E vogliamo misurare la **distanza** tra questi due pali vista da O e da O primo. 
+
+Naturalmente, se io avessi un metro... [ESEMPIO: se io, per esempio, sono O e ho un metro, che faccio? Misuro. D'accordo?] Però io qui non ce l'ho il metro, altrimenti sarebbe tutto molto semplice. In realtà, dobbiamo trovare un modo per legare la distanza che misuro io alla distanza che misura O primo, così come abbiamo fatto per il tempo. Quindi, io posso sfruttare il "mio metro", perché io sfrutto il mio metro che è solidale con me, lui ha il suo solidale con lui, e quindi non troviamo una relazione, troviamo due misure che chissà come sono legate. 
+
+Però, sicuramente ho la cognizione del fatto che c'è una relazione tra i tempi misurati da S primo e da S. D'accordo? Ora, sappiamo che il **tempo dilatato** è uguale al **tempo proprio** per il **fattore gamma**. Che misura... intanto sappiamo che il nostro problema è misurare la distanza tra P1 e P2. Quindi, quali sono i due eventi che mi determinano questo lasso di tempo delta t o delta t zero? Sono il passaggio del treno dal palo P1 e il passaggio del treno attraverso il palo P2. D'accordo? Il treno passa qui e poi passa qua. 
+
+Perché dico che sono questi due eventi? Perché questa distanza qui io la posso misurare sapendo il tempo che il treno ci mette per muoversi da P1 a P2 e la **velocità** del treno stesso. Siamo d'accordo? O no? Gabriele, ci sei? No, mi pare di no, perché di solito ti metti le mani così... 
+
+Ok. Allora, tutto dipende perché... è inutile stare qua davanti se... non ho il metro per misurare questa distanza, né io né S primo. L'unica mia condizione è questa. Però io dico: va bene, non ho il metro per misurare questa distanza, però non è necessario avere il metro, perché se io ho un **cronometro** e misuro il tempo t, **v per t** mi dà una distanza. D'accordo? Quindi, posso calcolare questa distanza sfruttando la relazione v per t, ovviamente perché la velocità è costante, lo sappiamo. 
+
+Però chi è che fa questo percorso? Io devo essere solidale, sono fermo rispetto a questi due pali, quello che si muove è il treno. Ok? Il treno arriva qui: nel momento in cui arriva qui, faccio scattare il mio orologio; so che lui si muove con una velocità nota **u**; misuro il tempo t che ci mette per fare questo tratto; stacco l'orologio quando il treno — diciamo la parte frontale del treno — passa in P2, perché l'ho fatto partire quando la parte frontale era in P1. E quindi dico: ci ha messo cinque secondi, benissimo, **5 per u** mi dà la distanza che io misuro tra P1 e P2. D'accordo? Mi sembra ragionevole, no? Non ho il metro, faccio così. 
+
+S primo che farà mai? Fa la stessa cosa. Lui vede, di fronte al suo finestrino, il primo palo che passa, P1. Bene, fa partire il suo cronometro. Dopodiché, il secondo palo che passa, che è P2, fa fermare il cronometro. Noi sappiamo che il tempo che lui misura e il tempo che misuro io, dati i due eventi che per uno sono nello stesso punto e per l'altro no, è diverso. D'accordo? Quindi, sicuramente anche la **distanza** vista da O primo sarà diversa dalla distanza che vedo io. 
+
+[NOTA: Però adesso mi fermo perché siete... cioè, siete proprio su un altro pianeta in questo momento. Per cui evito di continuare. Ci vediamo la prossima volta.]

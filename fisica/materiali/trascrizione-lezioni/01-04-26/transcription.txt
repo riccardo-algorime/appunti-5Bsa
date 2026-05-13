@@ -1,0 +1,144 @@
+Ecco la trascrizione fedele della lezione:
+
+Diciamo che tutto è partito perché era stato introdotto il fatto che la **velocità della luce** dovesse essere, insomma in base alle leggi dell'elettromagnetismo, dovesse essere **costante** in qualunque sistema di riferimento scelto inerziale. E ovviamente, secondo la relatività galileiana, questo non era possibile. Pertanto, questo fu uno degli esperimenti con cui si cercò di verificare chi delle due, quale delle due teorie avesse ragione. 
+
+Supponendo che ci fosse un moto relativo della Terra rispetto all'**etere**, che doveva appunto essere il sistema di riferimento secondo il quale Maxwell aveva ricavato la velocità della luce (c), si pensava che il tipo di esperimento migliore per poter verificare un'eventuale composizione tra la velocità della luce e la velocità del sistema di riferimento (cioè $u$), fosse un esperimento di **interferometria**. 
+
+In pratica, che succede in questo esperimento? Io qui ho una sorgente luminosa che invia un fascio di luce; questo fascio di luce viene in parte riflesso da questo specchio [termine tecnico: **specchio semiriflettente**] fino a un altro specchio, diciamo totalmente riflettente. La luce prima arriva allo specchio e poi torna indietro. Allo stesso modo, una parte della luce, quella che riesce a penetrare da questo specchio semiriflettente, arriva a un altro specchio totalmente riflettente, in andata e di ritorno. Il raggio, diciamo, che è stato deviato perpendicolarmente poi ritorna indietro, quindi ripassa attraverso questo specchio semiriflettente per arrivare allo schermo; e allo stesso modo questo raggio che era andato dritto ritorna indietro e va sullo schermo a interferire con quell'altro. La figura quindi che si ottiene sullo schermo è una **figura di interferenza** della luce, con zone di buio e zone di luce.
+
+[NOTA: Il docente interrompe la spiegazione perché la porta dell'aula non rimane chiusa] Non si fissa... va bene, bisogna bussare, siamo in una classe e la porta non si chiude. Cioè, non ho capito, questa è una succursale nuova e ha già problemi di questo tipo. Vabbè, detto questo...
+
+Allora, che succede? Succede in pratica questa cosa qua: io ho due raggi e sto verificando il percorso che la luce fa partendo, diciamo, da qui fino a qua e ritorno, e da qua fino a qua e ritorno. La velocità della luce che misuro io sulla Terra è la velocità che chiamo $c'$, perché è la velocità che misurerei in un sistema di riferimento in moto rispetto all'etere, che dovrebbe essere il sistema in cui vale $c$. Quindi io qui ho una $c'$ orientata verso destra, una $c'$ orientata verso sinistra al ritorno. E la $c$ è data vettorialmente da $c' + u$. Se la guardo in questo percorso qui: all'andata, se questa è la $c'$, la $u$ la vado a comporre così, la $c$ sarà questo vettore. Ma al ritorno la $c'$ è orientata così, la $u$ è orientata così, e questa sarebbe la $c$. È cambiato il verso di $c'$, però il modulo di $c$ è lo stesso, ok? E $c$, appunto, è la velocità che misurerebbe l'etere.
+
+Ora, in base a questa $c'$ che ricavarei conoscendo $c$ e ovviamente assumendo che la $u$ sia diversa da zero, io ho che il mio raggio in andata e in ritorno ci mette un certo tempo per fare la distanza. Quindi la fase con cui arriva qui (andata e ritorno), la fase di massimo o di minimo con cui arriva qui, è determinata dal $\Delta t$ che ci mette per fare questo tipo di percorso. E questo $\Delta t$ è determinato da questa $c'$. Ok?
+
+Qua ho una composizione diversa, perché la $c'$ qui va verso il basso e qua va verso l'alto, e la $u$ si combina, diciamo, linearmente con entrambe queste velocità. Nel senso: qui la $u$ la vado a sommare, qua la $u$ la vado a sottrarre. Quindi non ottengo lo stesso valore per $c$ e lo stesso tempo di ritardo misurato tra qua e qua, in andata e in ritorno è diverso. Ok? Ci siamo? Perché la $c$ è sempre lei. Per ottenere una $c'$ orientata in questo modo e orientata in quest'altro modo, vuol dire che sto utilizzando due vettori $c'$ diversi. D'accordo? Perché la $c$ è sempre lei. Vale questo se sono vettori orientati lungo la stessa direzione: la $c'$ ha un valore diverso in andata e in ritorno perché la $u$ si sottrae oppure si aggiunge nei due casi andata e ritorno. 
+
+Però, a ogni modo, posso comunque calcolare il tempo che ci mette per fare andata e ritorno. Saranno due tempi diversi all'andata e al ritorno, ma li posso sommare e troverò il tempo che ci mette per partire e ritornare. L'unica differenza sta nel fatto che questi due tempi sono diversi, questi due tempi di andata e ritorno sono esattamente identici. In ogni caso, la differenza di tempo con cui questi due raggi ci mettono per fare questo percorso e questo determina le fasi con cui arrivano qua questi due raggi (una fase di massimo o una fase di minimo) e che poi sarà la stessa differenza con cui arrivano qua, perché questo è lo stesso percorso che fanno tutte e due le onde. Ok? Quindi, se qui si forma un minimo o un massimo dipende esattamente dalle fasi con cui sono partite dallo specchio semiriflettente, perché dopo non c'è più alcuna modifica. 
+
+Visto che i due percorsi mi danno $\Delta t$ diversi, mi aspetto che cosa? Che se io adesso cambiassi il percorso di questa coppia di raggi qui, dovrebbe cambiarmi anche la figura di interferenza. Proviamo a pensarci un attimo: se io adesso **ruoto** questo oggetto così, metto questo qui un po' inclinato, questo qua un po' inclinato, questo qui quassù... i percorsi che fanno questi due raggi di nuovo impiegano un tempo $\Delta t$ diverso, perché la $u$ si combina ancora diversamente rispetto a come si combinava prima con la $c'$. Quindi altri ritardi, cioè altra consistenza del ritardo. Altra consistenza del ritardo significa altre fasi con cui partono da qui e quindi altro tipo di interferenza, magari stavolta una costruttiva al posto di una distruttiva. 
+
+D'accordo? Però, ruotando il mio dispositivo, io dovrei essere in grado di vedere che effettivamente c'è una variazione della figura di interferenza. Michelson e Morley questa variazione l'hanno vista, il problema è che è talmente piccola che non può essere associata **senza ombra di dubbio** a una velocità della Terra rispetto all'etere. Potrebbe anche essere dovuta a errori sistematici o comunque a qualcosa di indipendente dal motivo per cui abbiamo fatto questo esperimento. Ok?
+
+[Il docente scrive sulla lavagna]
+Diciamo che, se non ricordo male, sul libro c'è una scheda su sta roba qui. Io adesso sinceramente di rifarvi lo schema matematico è totalmente inutile.
+
+**Esperimento di Michelson e Morley**
+Si proponeva di verificare che $u$ fosse diversa da zero attraverso l'osservazione della figura di interferenza della luce raccolta su uno schermo.
+Non furono però osservate variazioni tanto significative da poter essere... [inaudibile]
+
+Quindi le questioni possono essere aperte nel senso: la terra è un sistema privilegiato? Cioè l’etere in realtà non è altro che la velocità della luce è C misurata in un sistema di riferimento in cui l'etere è in quiete. Magari la terra effettivamente è quel sistema di riferimento. Da un punto di vista religioso potrebbe essere così.
+
+Oppure, effettivamente la velocità della luce è costante in qualunque sistema di riferimento. Oppure hanno sbagliato l’esperimento; magari hanno pensato che una figura di interferometria potesse effettivamente darmi un'evidenza tangibile e invece non era l'esperimento giusto. Quindi il fatto di non ottenere quello che vogliamo non significa che abbiamo ottenuto la negazione di quello che volevamo. Cioè, effettivamente potrebbe essere ancora che la terra sia effettivamente un sistema privilegiato. Cioè, non ottenere nulla da questo tipo di esperimento ci dà adito di muoverci almeno su queste due ipotesi. Io posso ancora parteggiare per il fatto che la terra sia, religiosamente, un sistema di riferimento fantastico, divino. Oppure posso scegliere di schierarmi dalla parte di Maxwell e dire: no, aveva ragione Maxwell e la velocità della luce non cambia. Punto. Fine.
+
+L’esperimento inadeguato può anche essere, però in realtà **Michelson e Morley hanno condotto questo tipo di esperimento per anni**. Cioè non è che l'hanno fatto un giorno e "no vabbè, è capitato così, pace". Sapevano che sarebbero andati a verificare qualcosa di estremamente importante. Quindi loro per anni hanno condotto l'esperimento in diverse condizioni: d'inverno, con la pioggia, d'estate, con diversi tipi di condizioni anche atmosferiche per poter dire: "ok, abbiamo provato tutto il possibile e non abbiamo visto assolutamente niente di niente". L'unica cosa certa è che per loro fu un grave fallimento, perché loro erano convinti del fatto che la terra dovesse avere un moto rispetto all'etere e conseguentemente che la velocità della luce non fosse costante. Non ottenere questo per loro fu, diciamo, un fallimento; non ottenere una certezza per loro fu un fallimento.
+
+Per Einstein invece fu una delle basi per poter partire con un pensiero diverso. Naturalmente Einstein scelse, da scienziato, di appoggiare il fatto che la velocità della luce potesse essere costante perché non c'era ragione alcuna, una ragione scientifica, per poter credere che la terra sia veramente un sistema divino. Per cui questa fu una delle tante prove che sostenne Einstein nel rivedere l’intero paradigma della relatività, costruendo la **relatività ristretta**.
+
+Passò quindi a una nuova teoria della relatività esclusivamente su due postulati:
+
+**Postulati fondamentali della relatività ristretta**
+
+[DOMANDA STUDENTE: (inaudibile)]
+[NOTA: Il docente risponde a uno studente riguardo alla grafia sulla lavagna] C’è qualcosa che non capite ragazzi? Ditemi se non riuscite a leggere giù in fondo... RR è la relatività ristretta. D'ora in avanti RR, RG (relatività generale), R galileiana, E-M elettromagnetismo, Michelson-Morley.
+
+Il **Postulato della relatività ristretta** afferma che le leggi fisiche — le leggi, quindi significa compreso l’elettromagnetismo — sono le stesse in qualunque sistema di riferimento inerziale. 
+
+**Ricordate che stiamo parlando di sistemi di riferimento inerziali**; la relatività ristretta si occupa esclusivamente di sistemi di riferimento inerziali. Se vogliamo occuparci di sistemi accelerati dobbiamo utilizzare la relatività generale. Questo è un postulato, cioè Einstein afferma che l’elettromagnetismo ha ragione, punto. Ha ragione nel fare le sue previsioni. **Non importa qual è il sistema di riferimento in cui lo vado ad applicare, quelle sono le leggi**. 
+
+Ed è importante perché? Perché con questo postulato noi eleviamo l'elettromagnetismo a teoria universale come tutte quelle che finora erano le leggi della fisica. Ma le leggi della fisica finora individuate erano praticamente le figlie della dinamica di Newton. Se ricordate quando avete fatto la relatività galileiana, vigeva il principio di relatività galileiana: le leggi della dinamica sono le stesse in qualunque sistema di riferimento inerziale. Ricordate questo? Bene, con la relatività ristretta non solo quelle della dinamica, anche l’elettromagnetismo.
+
+**Secondo postulato: il postulato dell'invarianza della velocità della luce.** 
+
+La velocità della luce è la stessa in qualunque sistema di riferimento inerziale, indipendentemente dal fatto che il sistema sia in moto o la sorgente sia in moto. E nel vuoto C è il valore che ha trovato Maxwell.
+
+Quindi, Einstein assume che la velocità della luce effettivamente sia costante. Punto. Quella costante per ogni sistema di riferimento inerziale. In base a questi due postulati, lui costruisce tutto un nuovo paradigma di relatività. Non è l’unico, nel senso che vedremo, adesso non oggi, però vedremo che alcune di queste, diciamo, delle leggi previste dalla relatività ristretta fanno capo anche a studiosi come **Lorentz**, che comunque si posero già il problema della relatività precedentemente, diciamo, ad Einstein. Quindi Einstein non ha, sostanzialmente, lavorato da solo; cioè, sì, però si è comunque rifatto a quanto era comunque stato detto dai suoi predecessori.
+
+Ora, ci siamo? Adesso la relatività la vediamo per capi fondamentali, partendo dalla prima delle conseguenze relative alla **simultaneità**.
+
+[NOTA: Il docente scrive alla lavagna per alcuni minuti]
+
+Simultaneità degli eventi. Adesso aspetto che ci siate, perché da qui in poi bisogna stare, insomma, abbastanza sul pezzo, perché non esistono delle... cioè, esistono anche leggi matematiche che mi fanno ottenere tutti questi risultati, ma secondo me usarle è più difficile che capirli concettualmente. O perlomeno a me, alla vostra età, hanno tentato matematicamente e io ho fallito miseramente, poi concettualmente ce l’ho fatta.
+
+[NOTA: Pausa per permettere agli studenti di copiare dalla lavagna]
+
+Prima cosa da dire: cosa prevede la relatività galileiana per due eventi simultanei? Noi in realtà sappiamo che cosa? Il tempo nella relatività galileiana ha **valenza assoluta**, ossia: [ESEMPIO:] io adesso sono fermo in classe, misuro un intervallo di tempo di 5 secondi; se qualcuno passa con la bicicletta davanti alla mia classe, sempre ovviamente con moto costante perché stiamo parlando di sistemi inerziali, nel tempo in cui io misuro 5 secondi, anche il tizio in bicicletta nel suo orologio misura 5 secondi, ok?
+
+Per cui, se io adesso qui vedo cadere due fulmini e li vedo cadere contemporaneamente, cioè sono simultanei, il tizio in bicicletta li vedrà simultanei anche lui; no? Cadono insieme per terra. Quindi: data la **valenza assoluta del tempo**, due eventi simultanei in SR (sistema di riferimento) lo sono anche in SR' (sistema di riferimento in movimento) in moto con V costante rispetto a SR. Questo è quello che afferma la relatività galileiana.
+
+[NOTA: Il docente scrive alla lavagna i concetti appena espressi]
+
+Ora, per farci un'idea sulla simultaneità però in relatività ristretta, non possiamo non tener conto del fatto che **la velocità della luce non è infinita**. Pensiamoci un attimo. [ESEMPIO:] Io sono qui e laggiù cade un fulmine. Misuro, guardo l'orario quand'è caduto il fulmine e vedo che, boh, sono le 7:05 minuti, perfetto. In relatività galileiana, giustamente dicevo: "Beh, il fulmine è caduto alle 7:05 minuti", ok.
+
+Però era come se io fossi sostanzialmente nello stesso punto in cui il fulmine è caduto. Noi sappiamo — Galileo questo non lo sapeva — noi invece lo sappiamo: la luce si propaga con una velocità che non è infinita, è **$3 \times 10^8$ m/s**. Quindi, se io sono qua e il fulmine è caduto là, la luce ci ha messo un po' di tempo per arrivare fino da me. Quanto vuoi che ci abbia messo? Un soffio, però intanto non sono le 7:05 il momento in cui il fulmine è caduto, sono le 7:04 e molto, molto, molto più vicino alle 7:05, ok? Devo tener conto del fatto che c'è la velocità della luce che non è infinita. Cosa che Galileo invece non sapeva, d’accordo? Bene.
+
+Ora, come faccio quindi io a definire due eventi simultanei? Perché, visto che la velocità della luce è finita e che questi eventi possono verificarsi a distanza molto ampia da me, per poter dire che questi due eventi sono simultanei io dovrei poter calcolare il tempo a cui questi due eventi si verificano. Ok? Non mi basta quello in cui lo misuro, dovrei sapere il tempo in cui effettivamente i due fulmini cadono laggiù. Ok? Se sapessi quello, posso dire che sono simultanei. Il problema è che adesso c'è il problema che la luce ci mette un po' di tempo per propagarsi.
+
+Ora, quindi, devo definire un nuovo concetto di simultaneità in base, appunto, alla distanza che c'è tra me e gli eventi. Definiamo quindi **due eventi simultanei** se:
+1. L'osservatore è in quiete rispetto a $E_1$ ed $E_2$ (quindi non vede in moto questi eventi);
+2. L'osservatore è equidistante da $E_1$ ed $E_2$;
+3. L'osservatore riceve il segnale da $E_1$ ed $E_2$ allo stesso istante T.
+
+Devono valere queste tre condizioni. Sostanzialmente la situazione è questa: io osservatore mi metto qui, qui cadono i due fulmini, ok? Io ho due orologi perfettamente sincronizzati che faccio partire all'istante quando mi pare. Nel momento in cui ricevo la luce da questi fulmini, fermo gli orologi. La luce arriva, vedete? Parte, arriva. Nel momento in cui ricevo l'informazione luminosa da questi fulmini stacco gli orologi e vedo che misurano lo stesso tempo. Allora mi dico: "Beh, la luce si muove con $3 \times 10^8$ m/s, hanno percorso la stessa distanza questi segnali perché io ero equidistante da questi fulmini, quindi posso dire che entrambi i fulmini sono partiti $distanza / V$ secondi prima di quando li ho ricevuti".
+
+Ripeto? Sì. Faccio partire... cioè, io so, lo so però questo, io so che sono qui e i due fulmini sono caduti equidistanti da me. Ok? Bene.
+
+Ecco la trascrizione fedele della lezione di fisica sulla simultaneità e l'esperimento mentale di Einstein.
+
+***
+
+A un certo tempo T0, che mi pare... beh faccio partire due orologi che sono sincronizzati, quindi partono contemporaneamente. Uno si fermerà quando riceve la luce dal primo fulmine e l'altro si ferma con la luce del secondo. Arrivano le luci contemporaneamente, li fermo, vedo lo stesso tempo, ok, e dico: "Vabbè, a me sono arrivati contemporaneamente". 
+
+Mi basta per dire che i fulmini sono stati **simultanei**? Ricordatevi che la luce si propaga con una velocità che **non è infinita**, quindi quel tempo che tu misuri non è il tempo a cui sono caduti, è il tempo dopo che sono caduti che ci hanno messo anche per arrivare da te in quel tempo lì. 
+
+Bene, allora quanto tempo ci ha messo sta luce per arrivare a me? Distanza fratto velocità della luce, $3 \cdot 10^8$ metri al secondo. Quindi vuol dire che se erano le sette e un minuto quando ho fermato l'orologio, erano le sette quando è partito l'uno ed erano le sette anche quando è partito il due. Sì, perché io ero **equidistante** dai due fulmini. Posso dire quindi che gli eventi sono simultanei? Sì. Cioè, non perché ho misurato il tempo di caduta, perché effettivamente ho fatto il calcolo sapendo che ero equidistante e la velocità della luce è finita, cioè è un valore ben preciso. 
+
+[ESEMPIO:] E se invece dovessi misurare il fatto... cioè, supponiamo che io sia qui. Non so nulla dei miei eventi, non posso dire... non so neanche se sono equidistante. Mi arrivano due segnali e non mi arrivano contemporaneamente. Posso dire che questi due eventi erano simultanei? Boh. Boh, perché magari non erano equidistanti. Se fossero stati equidistanti e io ricevo il segnale in tempi diversi, eh no: vuol dire che uno è accaduto prima e l'altro dopo, perché il tempo che ci ha messo la luce è sempre lo stesso. Però magari invece uno era più vicino e l'altro no, e quindi magari erano effettivamente simultanei. 
+
+Quindi, non posso prescindere da queste tre condizioni. Io le devo poter verificare tutte e tre per poter dire con certezza che ho due eventi simultanei. E questo è a causa del fatto che **la velocità della luce non è infinita**, perché se la velocità della luce fosse stata infinita, il tempo che io misuro nell'orologio è lo stesso tempo in cui effettivamente i fulmini sono caduti, perché la trasmissione è stata istantanea. 
+
+Bene, ora sono contenta di questo, però torniamo al nostro problema fondamentale. Se adesso io qui verifico che i due fulmini sono caduti contemporaneamente, la mia mamma in bicicletta li vede cadere contemporaneamente? Vediamo. Parliamo di quello che... questo è uno dei tanti **esperimenti mentali** che faceva Einstein. Poi capiremo perché mentali, però intanto ve lo illustro. Come fa Einstein a capire se la **simultaneità** ha un carattere assoluto, cioè ciò che è simultaneo in $S$ lo è anche in $S'$? 
+
+[ESEMPIO:] Supponiamo di essere in stazione. Io sono l'osservatore $O$, seduto sulla banchina. Davanti a me c'è un vagone con l'osservatore $O'$ dentro, che si trova esattamente a metà del vagone. Al tempo $T = 0$ la situazione è questa: il mio treno è il sistema di riferimento in moto con una velocità $V$ costante. Io mi ritrovo esattamente anch'io equidistante dai bordi del treno. All'istante zero cadono i due fulmini ai bordi del mio vagone. Cadono ai bordi significa che ovviamente mi lasciano il buco sulla terra, però scalfiscono anche il bordo del treno. Vedo le tracce della caduta del fulmine anche sul bordo del treno. 
+
+Cosa vede $O$? Quindi l'evento è la caduta del fulmine, fulmine 1 oppure 2. Ovviamente abbiamo tutti e due, sia $O$ sia $O'$, abbiamo due orologi perché dobbiamo ricevere il segnale da entrambi i fulmini. Vediamo che cosa riceverà mai $O$. $O$ si trova in quiete rispetto al punto di caduta dei due fulmini. Non è che $O$ ha visto i due fulmini cadere mentre era in movimento, lui è in quiete rispetto alla verticale dei due fulmini. Era equidistante rispetto ai due fulmini, la velocità della luce è costante ed è $3 \cdot 10^8$ metri al secondo. L'osservatore riceve i segnali nello stesso istante, ok? Però era equidistante e quindi sappiamo che i due fulmini sono caduti tot secondi prima tutti e due. Ci siamo? Domande? Ripeto? 
+
+[DOMANDA STUDENTE: Cosa c'è scritto sotto "sistema di riferimento"?]
+[NOTA: Il docente scrive alla lavagna]
+È il sistema di riferimento che è la banchina, cioè la terra. Allora, dicevo: l'osservatore si trova alla stessa distanza dal punto di caduta dei fulmini, la velocità $c$ della luce è la stessa sia in questa direzione sia in quest'altra. Di conseguenza, a qualunque istante lui riceve il segnale, questi sono partiti tutti e due Delta T primo... prima, scusate, dell'arrivo del segnale. 
+
+$O$ è equidistante da $E_1$ ed $E_2$ (eventi), in quiete rispetto ad essi, e $c$ è la stessa. Quindi per $O$ sono simultanei. [NOTA: Il docente sottolinea il concetto di simultaneità per l'osservatore fermo]. 
+
+[DOMANDA STUDENTE: Non riesco a leggere... equidistante?]
+Sì, equidistante. Qui c'è da appoggiarsi, c'è tanto posto, ci sono i tavolini, mettetevi lì... [NOTA: Digressione logistica sulla sistemazione degli studenti in aula]. 
+
+Ora, cosa vede $O'$? $O'$ è in moto rispetto ad $O$. Si sta muovendo in qua [NOTA: Indica una direzione]. Quindi lui sta andando incontro a questo fronte d'onda qui e sta scappando da quest'altro...
+
+Ecco la trascrizione fedele della lezione:
+
+...quando da quest'altro fronte d'onda. Quindi, lui blocca prima l'orologio relativo al fronte d'onda di E2. Riceve prima questo segnale piuttosto che questo perché gli sta andando incontro. 
+
+Quindi riceve i segnali in due istanti diversi. E dice: "Vabbè, magari sono eventi che erano a distanze diverse e quindi effettivamente potrebbe essere che la luce ci ha messo più tempo ad arrivare".
+
+Allora dice, ripeto: magari erano fulmini che sono caduti a distanze diverse e quindi effettivamente potevano essere contemporanei però hanno percorso un tratto diverso. Quindi cosa fa? Va a vedere il punto in cui sono caduti i fulmini. Dove lo va a vedere? A terra? No, perché lui è sul vagone. Lui va sul vagone e si accorge che i due fulmini sono caduti esattamente nel bordo del vagone e che quindi lui è equidistante dai due eventi. 
+
+Quindi che cosa può pensare? L'unica cosa che può pensare è che questi non erano eventi simultanei, perché **la luce si muove sempre a $3 \cdot 10^8$ metri al secondo** e la distanza che percorre è sempre la lunghezza mezzi del vagone. Quindi se mi sono arrivati in due istanti diversi vuol dire che sono partiti in due istanti diversi e quindi i fulmini non erano simultanei. Okay? Però la sua distanza da E1 ed E2 è la stessa. Quindi per O1 — per O primo — i due eventi non sono simultanei.
+
+Perciò la **simultaneità degli eventi non è più un qualcosa che ha una valenza assoluta ma diventa relativa al sistema di riferimento**. È crollato uno dei capisaldi della relatività galileiana. 
+
+[DOMANDA STUDENTE: I due eventi?]
+
+[NOTA: Il docente risponde a una studentessa in modo scherzoso] 
+No, se questo è il tuo problema sono a cavallo. Io pensavo che non ti convincesse, ma adesso ti convincerò ancora di più. Ti bullizzerò ancora di più. Perché così sentirai la nostalgia di Monaco e ripartirai in tandem da sola stavolta. Okay, niente. Adesso, poi c'è anche quello, c'è un po' di maltrattamento di animali proprio pochissimo. 
+
+Dicevo, quindi la relatività galileiana la dobbiamo buttare nel water? Ha funzionato per duecent'anni e adesso abbiamo scoperto che stavamo scherzando? D'altronde oggi è il primo di aprile, potrebbe anche essere, no? In realtà no. 
+
+[ESEMPIO:] Ora, pensate un attimo alla povera zia Clotilde sul treno che sta andando a che ne so, da sua sorella. Quale mai velocità potrà fare 'sto treno? A quale velocità supersonica potrà mai muoversi un treno? Diciamo che se raggiunge credo i 200 chilometri orari si ha già una grossa velocità anche per un treno, ma non solo delle ferrovie italiane, ma anche proprio di quelle giapponesi, direi. Una velocità che confrontata ai $3 \cdot 10^8$ metri al secondo con cui questo fronte si sta avvicinando è una cazzata. Okay? 
+
+Quindi io effettivamente una non simultaneità degli eventi la potrei vedere se il treno avesse una velocità almeno paragonabile a quella della luce. Potrò mai muovermi così? No, non mi muovo con quella velocità lì. Quindi è per questo che la relatività galileiana non poteva prevedere una **relatività della simultaneità**. Non poteva averne esperienza di qualcosa che si muove alla velocità della luce. Ma neanche Einstein, è per questo che sono tutti **esperimenti mentali**, perché io mi pongo nell'idea di fare un esperimento e poi cerco di capire cosa succede quando V è paragonabile a C. 
+
+Quindi la RG [relatività galileiana] è ancora valida, ma solo quando la velocità del sistema di riferimento S primo è molto minore di C. Se V è paragonabile a C occorre usare la **relatività ristretta**, che non è che butta via la povera relatività galileiana, solo che descrive i fenomeni in ambito diverso. Sostanzialmente la RG è un caso particolare della relatività ristretta. La relatività ristretta può descrivere tutti i casi, la RG solo quelli in cui è molto minore di C questa velocità. 
+
+Però c'è un problema: **il tempo non è più assoluto**. Ragazzi, dai. **Il tempo non è più assoluto**. Per cui adesso per descrivere un evento non mi basta soltanto lo spazio da cui poi ricavo la velocità, l'accelerazione, ho bisogno anche del tempo. Quindi quattro coordinate. 
+
+Sono quattro coordinate spaziali, però una è legata al tempo. Sono **$C \cdot T$, X, Y e Z**. Le tre spaziali di sempre più una spaziale che tiene conto, diciamo, della velocità della luce, ma sostanzialmente rappresenta la mia coordinata temporale. Quindi adesso ho bisogno di un **sistema di riferimento a quattro dimensioni** per poter descrivere adeguatamente un evento. Okay, ora chiaramente basta così per oggi. Però la prossima volta continuiamo. Buone vacanze.

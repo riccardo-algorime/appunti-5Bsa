@@ -38,7 +38,8 @@ Raccolta di appunti e materiali scolastici.
 ├── CONTRIBUTING.md
 ├── fisica/
 │   └── materiali/
-│       └── trascrizione-app-giulia.md
+│       ├── trascrizione-app-giulia.md
+│       └── trascrizione-lezioni/
 ├── italiano/
 │   ├── dannunzio/
 │   │   ├── mega-schema.md

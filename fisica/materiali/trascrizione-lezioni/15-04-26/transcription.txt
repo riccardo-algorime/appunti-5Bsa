@@ -1,0 +1,164 @@
+Ecco la trascrizione fedele della lezione:
+
+[NOTA: Il docente fornisce inizialmente istruzioni organizzative riguardo a un'iniziativa con uno psicologo che prevede l'uso di uno "scrigno" per raccogliere bigliettini anonimi della classe.]
+
+Se volete partecipare a questa iniziativa dello psicologo, dovete far passare questo scrigno. Dopo me lo porto a casa, perché sennò succede che uno dell'altra classe entra, lo vede, lo apre e legge. È il vostro scrigno, io non ci faccio niente. Mi raccomando, se scrivete il bigliettino non mettete nome e cognome. Scrivete in stampatello così è più difficile riconoscere la persona. Se volete che li legga io, mettete una "L" sopra il bigliettino piegato, altrimenti non li leggo. 
+
+Bene. Detto questo, torniamo in **regime relativistico**. 
+
+Dicevamo l'altra volta... no, non dicevamo niente l'altra volta, comunque, l'altra volta vi ho accennato a quelle che erano le **trasformazioni di Lorentz**, parlando del fatto che il fattore di Lorentz era stato chiamato così perché, effettivamente, il primo ad averlo proposto era appunto Lorentz. Adesso le introduciamo queste trasformazioni di Lorentz perché, in ogni caso, Einstein ha ricavato le stesse trasformazioni partendo esclusivamente dai suoi **due postulati della relatività ristretta**. 
+
+Quindi, comunque, sono trasformazioni che fanno parte della relatività ristretta, per quanto Lorentz le avesse proposte prima della formalizzazione di questa teoria ed esclusivamente come mezzo matematico per poter conciliare l'elettromagnetismo con la relatività galileiana. Ok.
+
+[NOTA: Il docente scrive alla lavagna mentre la classe chiacchiera in sottofondo.]
+
+Dicevo, sono trasformazioni introdotte da Lorentz prima del 1905, che è l'anno della formalizzazione della relatività ristretta, per conciliare **elettromagnetismo** con la **relatività galileiana**. **Einstein le ricava in maniera autonoma** partendo dai due postulati della relatività ristretta. 
+
+Allora, le introduciamo per un sistema di riferimento $S(x, y, z)$ — adesso faccio solo $x, y$, $z$ sarebbe qua in fuori — questa è l'origine. E l' $S'$ (S primo) è in moto con velocità $u$ paragonabile a $c$ lungo la direzione positiva dell'asse $x$. Questa è l'origine $O'$. 
+
+Le trasformazioni che do sono trasformazioni che valgono assumendo di partire da queste condizioni iniziali: intanto il tempo zero iniziale in $S$ è uguale al tempo zero primo in $S'$ ed è uguale a zero ($t = t' = 0$). Al tempo zero, l'origine $O'$ coincide con l'origine $O$, quindi le due origini coincidono e ovviamente coincidono anche gli assi. 
+
+Il moto di $S'$ avviene solo lungo l'asse $x$, quindi abbiamo queste condizioni qui: in questo caso sto facendo un moto con la velocità diretta, quindi il vettore $u$ è diretto nel verso positivo dell'asse $x$. La forma delle equazioni è riferita a queste condizioni. Non perché non sia possibile averne altre, semplicemente sono quelle standard che vengono date. È possibile ovviamente anche maneggiare queste, però bisogna rivedere le equazioni e non lo voglio fare. 
+
+[DOMANDA STUDENTE: (inaudibile) - Il docente risponde a un commento su uno studente assente o arrivato in ritardo]
+
+Allora, ci siamo? Le trasformazioni di Lorentz mettono in relazione le coordinate $x, y, z$ e il tempo $t$ che misuro in $S$ con quelle che misuro in $S'$. 
+
+La coordinata $x'$ è data da: **$\gamma$ (gamma) che moltiplica $(x - u \cdot t)$**.
+
+$\Delta x$ non è più uguale alla coordinata $x'$, non è più uguale alla coordinata $x$, perché il moto sta avvenendo lungo l'asse $x$. Invece la coordinata $y$ e anche quella $z$, che non ho disegnato qua, rimangono le stesse perché di fatto il moto avviene solo sull'asse $x$, quindi $y' = y$ e $z' = z$.
+
+Il tempo invece abbiamo capito che è diverso. In particolare, il **tempo misurato in SR'** è dato da $\gamma$ per il tempo misurato in $SR$ meno $\beta$ su $c$ per $x$. Vedete che intanto il $\beta$ sappiamo che è uguale a $u/c$, il $\gamma$ è $1/\sqrt{1 - \beta^2}$.
+
+Però, come vedete, nella misura del tempo entra anche la **coordinata spaziale**, quindi diciamo le cose non sono più tanto semplici. Queste sono le **trasformazioni di Lorentz**. E chiaramente, se avessi un movimento anche lungo l'asse $z$ o lungo l'asse $y$, dovrei modificare nella stessa maniera queste due coordinate. Ovviamente qui dovrei metterci la componente $u_x$ della mia, insomma, del moto della velocità $u$ con cui si muove $SR'$, $u_y$ o $u_z$.
+
+[NOTA: Allora queste coordinate, cioè uno dice: "Lorentz si è svegliato e ha pensato a una roba del genere". Tanto di cappello, eh, cioè io neanche penso, di fronte alla più magnifica delle colazioni che potrei fare, potrei mai pensare a una roba del genere. Però lui le ha trovate, chiaramente le ha trovate prima di Einstein, quindi sono sue, punto. E per lui erano puramente un **artificio matematico** per mettere d'accordo 'ste due teorie che non andavano d'accordo. Dopodiché, ovviamente, Einstein gli ha dato, diciamo, un fondamento fisico nella sua teoria.]
+
+Vedete che introducono, a parte diciamo il parametro $\beta$, introducono il **fattore $\gamma$**, il fattore di Lorentz, ok? E sembrano molto diverse, a causa di questo sembrano molto diverse da quelle che abbiamo visto per **Galileo**, perché anche Galileo nella sua relatività galileiana aveva previsto le trasformazioni di Galileo che trasformavano, diciamo per descrivere i cambiamenti di coordinate, da un sistema $SR'$ a $SR$. 
+
+Quindi in particolare questa diciamo è la **relatività ristretta**. La relatività galileiana diceva:
+- $x' = x - u \cdot t$
+- $y' = y$
+- $z' = z$ (perché il moto non c'è, diciamo)
+- $t' = t$
+
+Ovviamente perché il **tempo per Galileo era assoluto**, quindi il tempo misurato in $SR$ e in $SR'$ coincidono.
+
+Apparentemente molto diverse, però non dimentichiamoci del fatto che la relatività ristretta si occupa di descrivere i fenomeni diciamo sicuramente in ambito relativistico, ma comunque, data la genericità del parametro $\beta$, io potrei utilizzare la relatività ristretta anche in ambito non relativistico. 
+
+È facile utilizzare la relatività ristretta in ambito non relativistico? Non è banale. Perché? Perché essendo $\beta$ molto piccolo, quindi praticamente circa uguale a zero, andare a misurare delle correzioni tra $x'$ e $x$ o, ancora peggio, tra $t'$ e $t$ in base a un $\gamma$ che è $1,000000000$ chissà dopo quanto tempo, dopo quanti zeri arriva a $1$, non è facile. Cioè un orologio, a meno che non sia un **orologio atomico**, non avrà mai una precisione che mi permetta di stabilire il tempo $t'$ e il tempo $t$ esattamente diversi. Sicuramente non l'orologio che portiamo noi al polso.
+
+Ok, però che succede se io mi metto in questa condizione in regimi molto minori, diciamo non relativistici, cioè con **$u$ molto minore di $c$**? Se mi metto in questo regime, il **$\gamma$ diventa praticamente $1$** e il $\beta$ è sostanzialmente zero. Ok? Quindi che accade a queste trasformazioni? 
+- $x'$ diventa $1$ circa, $1 \cdot (x - u \cdot t)$. 
+- $y'$ e $z'$ sono quelli.
+- E il tempo $t'$ diventa circa $1 \cdot (t - 0)$, cioè $t$.
+
+Quindi, di fatto, le trasformazioni che erano state trovate da Galileo non sono altro che un **caso particolare** dell'ambito della relatività ristretta. Cioè la relatività ristretta le prevede. Ancora una volta, diciamo, la relatività galileiana non è sbagliata, è semplicemente una teoria che può descrivere i fenomeni esclusivamente in un ambito limitato di ipotesi, quindi quando la velocità $u$ non è relativistica. 
+
+Quindi a quel punto, se devo andare a misurare coordinate o tempi in situazioni in cui la velocità non è relativistica, faccia la rima sua la relatività ristretta, usiamo quella galileiana, no? Perché tanto più o meno non faremo degli errori apprezzabili, d'accordo? 
+
+Poi, se mi ostino e invece dico "voglio continuare anche in questo ambito a utilizzare questa relatività qui", padronissimo, però bisogna fare delle approssimazioni per il fattore di Lorentz. Perché per $\gamma$ e per $\beta$ che tende a zero, il fattore di Lorentz si può esprimere matematicamente (non so se le avete fatte e non credo perché di solito non si fanno) con una **serie di Taylor**. Esprimendo la funzione $\gamma$ con una serie, cioè con una somma di diciamo diversi addendi non a caso (ovviamente c'è un'espressione, Taylor ha costruito l'espressione ovviamente), posso esprimere quel $\gamma$ del $\beta$ che tende a zero con una somma di tanti termini che posso poi approssimare, quindi troncare, al grado che più mi pare (al primo termine, al secondo termine, al terzo termine eccetera eccetera), cioè fino al grado di cui voglio apprezzare la correzione dovuta al fattore $\gamma$.
+
+Diciamo che il libro alcune volte questi esercizi li propone. Io sinceramente, se fossimo stati in maturità con uno scritto, avrei potuto anche guardarli. Adesso non mi interessa. Quindi, se noi siamo in una condizione di non relativismo, utilizziamo la relatività galileiana che comunque va bene così. Non voglio andare ad apprezzare quel millesimo di differenza che avrei per il $\gamma$. 
+
+Quindi la relatività galileiana non è sbagliata. In più, dalle trasformazioni di Lorentz posso ricavare anche tutte quelle relazioni che avevo ricavato per descrivere la **dilatazione dei tempi** e la **contrazione delle lunghezze**. [DOMANDA STUDENTE: inaudibile]. 
+
+Quindi dalle trasformazioni di Lorentz posso ricavare la relazione fra tempo dilatato e tempo proprio e distanza contratta e distanza propria. Noi la contrazione l'avevamo fatta, vero? La contrazione delle lunghezze. [DOMANDA STUDENTE: inaudibile]. 
+
+Come si fa non lo faccio più, nel senso è un approfondimento che basta, abbiamo già visto come son fatte. Semplicemente bisogna utilizzare adeguatamente queste espressioni qui per ricavarla. Si fa, si può, e di solito quando ero io al posto vostro l'insegnante, invece di spiegarvelo come ve l'ho spiegato io a voi, mi sciorinava questo e poi mi diceva: "adesso ricaviamo la contrazione delle lunghezze e la dilatazione dei tempi". Secondo me era meno banale... già non è banale per niente, diciamo è ancora meno banale secondo me perché bisogna essere convinti matematicamente di quello che si sta facendo. Non perché sia chissà cosa, guarda quant'è innocente...
+
+Sì, il problema è capire il punto esatto, cioè i parametri esatti con cui partire. Io su quelle, diciamo, all’epoca non ero tanto convinta. Poi l'ho abbandonata e ho preferito l'approccio che ho dato a voi, perché per me era più intuitivo e più comprensibile, secondo me, a vari livelli.
+
+Ora, da queste trasformazioni di Lorentz in realtà ricaveremo un sacco di altre cose. Sicuramente sono tutte cose tanto interessanti perché parlano della cinematica della relatività ristretta: parlano dell'intervallo di tipo tempo, tipo spazio, tipo luce eccetera. Io sinceramente però di perdere del tempo così, no. **Preferisco focalizzarmi solo sulle cose fondamentali**.
+
+La conseguenza che ci tengo a ricavare da queste è la **legge di composizione delle velocità relativistica**.
+
+[Il docente scrive alla lavagna]
+Dalle trasformazioni di Lorentz si ricava la **legge di composizione delle velocità relativistica**. E questa invece la usiamo.
+
+È reale quell’ora? [riferendosi all'orologio in aula]
+
+Allora, intanto ricordiamoci — o ripassiamo sicuramente — questo: prendiamo in questa situazione... quindi ho un sistema di riferimento S, un sistema di riferimento S' e ho un corpo che si muove con la sua velocità V. Questo è un corpo di massa m che si muove con una velocità V, okay? Che può essere scomposta con $V_x$ e $V_y$. [Il docente disegna alla lavagna]. Lo faccio un po' più grande.
+
+Vedete che ho segnato U? Per questo non chiamo mai la velocità del sistema di riferimento con V, perché a un certo punto arriva la velocità del corpo e quindi dobbiamo usare V. Quindi identifichiamo:
+- **V: la velocità del corpo nel sistema di riferimento S**
+- **V': la velocità del corpo nel sistema di riferimento S'**
+- **U: ovviamente è la velocità di S' rispetto a S**
+
+Noi sapevamo dalla **relatività galileiana** che queste tre velocità sono in relazione grazie alla **legge di composizione delle velocità di Galileo**. Questa è roba di terza. Sapevamo, in teoria dovrebbe esserci noto, che la V in S è uguale alla somma vettoriale tra la V' e la U. Okay?
+
+Noto, sperando questo sia chiaro, e aspettandovi perché vedo che anche i più veloci sono in difficoltà... [pausa mentre gli studenti scrivono].
+
+[NOTA: Digressione del docente]
+Di solito giro per quei negozietti per vedere se c'è qualche cosina di cancelleria che hanno di particolare. Mi ha piazzato degli evidenziatori profumati! Pensa, dopo però temo che mia figlia... e quindi devo fare l'acquisto nel momento adeguato.
+
+Dicevo, definiamo quindi queste velocità. La V... ovviamente, aspettate, facciamo la componente... la V è orientata così. Sappiamo che la V è data da ($V_x, V_y$), poi avrà la sua $V_z$, okay? La V' avrà ($V'_x, V'_y, V'_z$). E la U invece ha solo $U_x$ e poi zero e zero, non ha altre componenti.
+
+Cominciamo con il ricavare una relazione fra la $V_x$ e la $V'_x$.
+Intanto io so per definizione che la velocità è data da $\Delta s / \Delta t$. Quindi, se io adesso vado nel sistema S, io avrò che:
+**$V_x = \Delta x / \Delta t$**
+
+Nel sistema S' avrò:
+**$V'_x = \Delta x' / \Delta t'$**
+
+$\Delta x$ e $\Delta t$ sono tutte espressioni che io posso ricavare sfruttando le **trasformazioni di Lorentz**, ovviamente non quelle galileiane. Perché se $x'$ è uguale a questa roba qua, $\Delta x'$ sarà, ad esempio, uguale a $x'_2 - x'_1$.
+
+Avete delle difficoltà su questo? Perché allora bisogna che diminuisca il grado di complessità... vedo che vi fa un po' di fatica. Questa qui è la coordinata $x'$ in S' misurata al tempo $t'_1$, che io chiamo per esempio $x'_1$. Dopo un tot di tempo il mio corpo (che è sparito da qua), il mio corpo sarà in un'altra coordinata $x'_2$ al tempo $t'_2$, ovviamente. Quanta $\Delta x'$ si è fatto in questo sistema di riferimento? Questa. Okay? Bene. Quindi se io adesso andassi a sostituire al tempo $t'_2$, $x'_2$ eccetera, riuscirei a verificare... [l'audio si interrompe].
+
+...che questo delta x primo non sarebbe altro uguale che **gamma** che moltiplica delta x meno u per delta t.
+
+Per le altre due coordinate spaziali, io ho che delta y primo è uguale a delta y, perché la y non è cambiata. E delta z idem. 
+
+Quindi il delta t primo analogamente sarà dato da t due primo meno t uno primo, cioè t due meno beta su c fratto x due meno t uno più beta su c su... cioè alla fine **gamma** che moltiplica delta t meno beta fratto c per delta x.
+
+Ah, scusate, qui ho dimenticato di mettere delta t primo, scusate eh, v primo delta t primo, scusate, me ne sono accorto adesso. Delta t primo perché ovviamente il tempo è misurato diversamente in S primo, ok? Ricordate che... mi raccomando mettetelo. 
+
+Allora andiamo a scriverci v primo vx primo. Quindi delta x primo vuol dire **gamma** per delta x meno u per delta t fratto delta t primo cioè **gamma** per delta t meno beta fratto c per delta x. Allora, un **gamma** si semplifica, il delta x lo posso scrivere diversamente.
+
+Ok. Adesso, ci siete? Adesso raccolgo sia da numeratore sia da denominatore il fattore delta t. Quindi diventa delta t che moltiplica delta x fratto delta t meno u, tutto fratto delta t che moltiplica uno meno u fratto c quadro per delta x su delta t. 
+
+Semplifico questi due delta t e poi guardo che cosa ho ottenuto. Quando io faccio delta x su delta t, ho ottenuto esattamente la vx che io misuro nel sistema di riferimento SR. Quindi al posto di questo rapporto scrivo vx, poi c'è meno u fratto e qui sotto mi è rimasto uno meno u fratto c quadro per sempre la velocità vx. 
+
+Ok. E questa mi sta dicendo come si trasforma la velocità da SR a SR primo lungo l'asse in cui sta avvenendo il moto, che adesso io qui l'ho cancellato, però in realtà SR primo si stava muovendo rispetto a SR lungo l'asse x. Ok.
+
+Vado a fare la stessa cosa per ricavare se non altro la velocità lungo l'asse y, perché tanto mi aspetto che sia lo stesso risultato anche per z, ok? Visto che non c'è cambiamento delle due coordinate. Quindi se vado a scrivere la vy, io dovrei scrivere delta y fratto delta t e la v primo y sarebbe delta y primo fratto delta t primo. 
+
+Da qui quindi faccio delta y primo fratto delta t primo, il delta y primo non è altro che il delta y, quindi lo vado a sostituire direttamente col delta y, e poi lo divido per il solito delta t primo cioè **gamma** per delta t meno beta fratto c per delta x. 
+
+Ora porto fuori il delta t da questa parentesi e quindi dentro la parentesi rimane uno meno beta su c per delta x su delta t. E qui ovviamente non posso semplificare niente, però so che questo rapporto qui è dato dalla vy. Quindi mi viene vy fratto **gamma** che moltiplica uno meno u fratto c quadro per la vx.
+
+Quindi questa è una relazione ancora più diversa da quella di prima perché in quest'asse mi è comunque coinvolta la velocità che ho lungo l'asse x. E la stessa cosa otterrei se invece di fare la v primo y avessi fatto la v primo z. Al posto della vy avrei ottenuto la vz, però comunque sia il fattore sotto conterrebbe ancora la vx. 
+
+Quindi vedete che sono due relazioni diverse. Dove c'è moto la composizione diciamo in sé contribuisce ad avere questo meno u. Dove non c'è non abbiamo alcuna composizione con la velocità u e in più c'è un fattore **gamma**, quindi bisogna stare attenti qual è la direzione su cui operiamo. 
+
+Diciamo che **almeno questa bisogna saperla**, questa qua un po' di meno, ogni tanto la tiro fuori, ve l'ho data. Guardiamo un attimo però. Noi siamo passati da una relazione così a una relazione così, dove questa tra l'altro è la x e questa è la y e vabbè. Anche qui in realtà potrei scomporlo lungo x, y e z e quindi potrei fare vx, dovrei sommare le componenti delle tre velocità lungo i tre assi. Noi in questo caso avevamo soltanto la ux, quindi in realtà la ux va bene, qui avevamo zero e zero, quindi ok. Però, quello che volevo farvi vedere è che queste due leggi sembrano sostanzialmente diverse.
+
+Certamente. Ecco la trascrizione fedele della lezione di fisica.
+
+***
+
+Ma proviamo ad andare in **regime non relativistico**. Quindi, se il sistema di riferimento ancora si muove in regime non relativistico, diciamo, questa $u/c^2$ è sostanzialmente zero. Quindi questo fattore qua, $1$ meno roba, diventa praticamente $1$. E quindi siamo di nuovo tornati alla legge di composizione delle velocità di **Galileo**. Ok?
+
+Allo stesso modo, anche questa diventa così, perché se $u$ è trascurabile rispetto a $c$, questo fattore quindi è circa zero, quindi tutto questo è circa $1$; il gamma per regimi non relativistici è ancora $1$. Quindi la velocità $v_y'$ è esattamente la velocità $v_y$, come previsto da questo, perché dovrei fare $v_y = v_y' + 0$ e effettivamente viene così. Ok?
+
+Quindi le trasformazioni di **Lorentz** mi riportano comunque alla trasformazione di **Galileo**, anche per quanto riguarda la composizione relativistica delle velocità. Però hanno un vantaggio. 
+
+[ESEMPIO:] Proviamo a prendere un oggetto, un corpo, che si muove lungo l'asse $x$ con una $v_x'$ esattamente uguale a $c$. Ok? Per la **relatività galileiana**, io avrei che se la $v_x'$ è uguale a $c$, la $v_x$ è uguale a $c$ più quella $u$ (che adesso per me era solo $u$). Quindi questa $v$ è maggiore di $c$. È quello che obiettavano i sostenitori della relatività galileiana quando nacque l'elettromagnetismo, no? Non funziona più la legge di composizione delle velocità perché noi prevediamo che la velocità in $SR$ [sistema di riferimento] sia diversa dalla velocità in $SR'$. 
+
+Vediamo che cosa prevede la **relatività ristretta** se vale questo, cioè stiamo parlando di un corpo che si muove con velocità $c$. Allora: 
+$c = (v_x - u) / (1 - (u/c^2) \cdot v_x)$
+Vediamo di ricavare la $v_x$. Allora, prendo il denominatore e lo porto di sopra: 
+$c \cdot (1 - (u/c^2) \cdot v_x) = v_x - u$
+Moltiplichiamo un po' di roba:
+$c - (u/c) \cdot v_x = v_x - u$
+Mi porto tutti i termini con $v_x$ da una parte...
+
+Sono andata troppo veloce? Sì. [nome proprio: Fabbri]... la Fabbri ha già finito da un pezzo, ha finito prima di me. Ok. 
+
+Allora, che cosa ho fatto? Da questa relazione mi sono ricavata la $v_x$. Denominatore comune, distribuzione del fattore $c$, ho portato tutto dalla stessa parte (in particolare di qua i termini che avevano la $v_x$) e quindi mi è venuto $v_x$ che moltiplica $1$ più questo [inaudibile] uguale a $c + u$. E poi ho ricavato la $v_x$ dividendo tutto e cercando di sistemare questo denominatore così. Quindi ho fatto anche qui il denominatore comune e quindi mi è venuto $(c + u) / c$ e il fratto $c$ l'ho portato di nuovo su. 
+
+Ok? Quindi quello che ho ottenuto è che chi si muove con $c$ in $SR'$ si muove con $c$ anche in $SR$. Cioè la **velocità della luce è una costante** in qualunque sistema di riferimento, in accordo con uno dei due postulati di **Einstein**. D'accordo? Quindi abbiamo il vantaggio di rispettare una delle conseguenze principali dell'**elettromagnetismo**. 
+
+Ora vi lascio, anche perché fra un po' suona, e ci vediamo sabato.
+
+[NOTA: fine della lezione, rumore di sedie e studenti che escono]

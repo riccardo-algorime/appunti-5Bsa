@@ -1,0 +1,138 @@
+Ecco la trascrizione fedele della lezione:
+
+[Suoni di sedie e banchi che vengono spostati, chiacchiericcio di sottofondo degli studenti]
+
+Come state? Tutto bene? Anche io, stanchissima. Cairiti [nome proprio: Cairiti] non ce n'è più o Cairiti però ne ho ancora? Una via di mezzo. Non avete l'ansia per la tesina, spero? Pensate che se io cedessi qualche ora di matematica potrebbe esservi utile? No? [inaudibile] Intendevo dopo che abbiamo fatto la verifica, perché la verifica matematica ne abbiamo bisogno per forza. 
+
+[NOTA: La docente si rivolge a singoli studenti per questioni di recupero e voti]
+Cairiti, io aspettavo una tua mail che non è mai arrivata. Come mai? Anche Tonini [nome proprio: Tonini], se volesse unirsi a te in questa [inaudibile] per cercare di recuperare, di alzare o almeno puntare alla media... quanto hai? Un quattro? Oh, è migliorato! L'ultima è migliorata. Ma a parte quello, è per cercare di tamponare un po', cercare di presentarsi con qualcosa di un po' meglio di quello che c'è attualmente. Io lo dico per voi. 
+
+Allora, Cairiti doveva scrivermi, Tonini è disperso nel mare del Mar Baltico, adesso trovo un messaggio di... Io lo farei dopo il 15 che siamo un po' più rilassati. Però bisogna che me lo dite perché io non posso dire: "Il 15 vengo a scuola" e poi "Oggi volevo essere interrogato in questo", perché io invece avevo intenzione di grattarmi le palle. Sì, dopo il 15 possiamo vedere di fare tutto quello che si può. Tutto quello che si può, però bisogna che mi diciate, perché anche io sono stracciata. Quest'anno sono molto più stracciata degli anni scorsi. 
+
+La prossima verifica è un'ora sola, domani. Quindi cercate di andare bene, che non debba fare delle interrogazioni di recupero su quello. No, ma io posso anche metter facili, ma se uno le cose non le sa, non le sa. Partiamo dai casi semplici. 
+
+[DOMANDA STUDENTE: Prof, dopo mi lascia un po' il computer per caricare il telefono?]
+Sì, un quarto d'ora di tempo. Basta sviscerare [inaudibile].
+
+Allora, vorrei terminare la **relatività** oggi e poi correggiamo domani tutti gli esercizi che volete, facciamo gli esercizi che volete perché la verifica, in realtà, credo sia martedì. Per terminare il programma bisogna arrivare almeno all'**effetto fotoelettrico**, almeno quello. Lo faccio ovviamente prima di [inaudibile] poi vediamo. Le altre quinte sono andate più avanti. Francamente è un problema che mi tange zero, anche perché dipende come ci sono andate. Perché io posso mettermi qui adesso e fare una revisione in mezz'ora degli ultimi duecento anni di fisica. Poi quello che vi rimane non lo so. 
+
+Quindi ecco, sappiate che se andrete dai vostri colleghi "Oh come siete indietro", dite pure che "Non me ne frega niente". L'unica cosa mi dispiace se, per caso, dovesse esserci qualche test di ammissione in cui vi facciano proprio la domanda che [inaudibile]. L'anno scorso è stato chiesto di fare del **problem solving di fisica** però con stampo matematico. Quindi devo inventarmi qualche esercizio che implichi molto di più la matematica che la fisica. Chiaramente però dovete venire voi a farla, altrimenti io adesso sento la [nome proprio: Foschi], se ha appunto necessità di ore gliele lascio. A meno che ovviamente non debba recuperare qualcuno, perché sennò non mollo quello. Altrimenti chiedo se la Foschi ha bisogno che io vi faccia fare qualche allenamento di gruppo, ma io la mia consulenza la do soltanto forse così, perché matematica ormai è finita, per cui non è che non la sai perché già si sa, ma proprio... quindi se io ti dico una cosa e la Foschi te la dice in un altro modo, poi andate in cortocircuito.
+
+Allora, l'ultima parte di **relatività ristretta**. Faccio l'**equivalenza massa-energia**. La faccio molto alla carlona, quindi senza complicazioni matematiche o, perlomeno, non troppo tecnicismo, più che altro concettuale. Però è una relazione che è nota, quindi secondo me vale la pena comunque almeno illustrarla. Dopodiché magari uno dice "Io voglio fare psicologia", poi effettivamente magari non ti aiuterà tantissimo. O magari un giorno qualcuno ti regalerà la maglietta con la faccia di Einstein e la scritta **E=mc²**, tanto per quello che serve, non perché ha vinto il premio Nobel per l'effetto fotoelettrico. 
+
+Vabbè, detto questo, l'**equivalenza massa-energia** è una relazione che un po' tutti conoscete sotto forma di **E = mc²**, anche se non è propriamente la relazione corretta perché quella riguarda un certo tipo di energia. Però come introduciamo questa relazione? [inaudibile]
+
+Certamente. Ecco la trascrizione fedele della lezione, organizzata secondo le tue direttive.
+
+***
+
+Intanto la prima cosa che vi devo dire è che **Einstein**... oh, basta! [NOTA: il docente interrompe la spiegazione per richiamare l'attenzione della classe a causa del rumore] Io non ce la faccio più, come ogni volta, quarta ora, qua dentro c'è il mercato. Mi deconcentro io, si deconcentrano loro e quindi cosa faccio? Esco. 
+
+Allora, dicevo. **Einstein** non si è occupato solo di **relatività ristretta** durante la sua lunga o corta vita — non mi ricordo quando è morto — ma contemporaneamente ha portato avanti anche gli studi che poi gli hanno, come ho detto prima, permesso di vincere il **premio Nobel sull'effetto fotoelettrico**. L'**effetto fotoelettrico** vedremo che riguarda, cioè, è uno degli esperimenti, questo è proprio **sperimentale**, quindi non è un esperimento mentale come fa lui; cioè è proprio una cosa che si può verificare in laboratorio. Certo non qui, credo... forse avevamo un tubo, però vabbè. 
+
+Detto questo, dicevo, in questo esperimento però, diciamo, ha trattato tutt'altro tipo di tema perché si è, diciamo, prodigato per cercare di capire come l'energia si comportava a livello, diciamo, microscopico e quindi in pratica poi ha dato il via a quella che è stata la **quantizzazione dell'energia** che poi ha determinato lo sviluppo della **meccanica quantistica** e così via. Quindi tutt'altro tipo di studio. Però i due studi sono proceduti parallelamente. Quindi quello che voi vedrete in parte richiama quegli studi lì. In parte, dico, non tantissimo. 
+
+Però senza quegli studi lì, il ragionamento che sta per farvi, chiaramente non riuscireste a capirlo. Quindi dovete dare per assodata una cosa che vi dirò e il resto invece dovrebbe essere abbastanza comprensibile. Ora, l'esperimento mentale, però, che ha dato, diciamo, origine alla **relazione di equivalenza** consiste nell'assumere, diciamo, di prendere un oggetto, una **massa M**, in moto con una velocità iniziale V e due sorgenti di radiazione S1 ed S2. 
+
+[ESEMPIO: il docente inizia a disegnare e descrivere l'esperimento alla lavagna] Le sorgenti di radiazione inviano un impulso luminoso. Ora, grazie agli studi sull'**effetto fotoelettrico**, noi siamo in grado di capire che la radiazione si comporta anche... la radiazione luminosa, o comunque radiazione elettromagnetica, si comporta anche come se fosse un **corpuscolo**. Quindi, tramite tutto quello che è successo — Huygens, Fresnel, Young hanno lavorato mezzo secolo per smontare la teoria corpuscolare di Newton — in realtà poi Einstein l'ha raccattata, ma non è la stessa teoria corpuscolare di Newton, è cambiata la concezione. 
+
+In ogni caso, qui stiamo trattando la radiazione come un **impulso luminoso**. Quindi come se queste sorgenti, questa e questa, inviassero una pallina verso la massa M. Adesso io mi sistemo sulla massa M, quindi sono, diciamo, solidale con essa, con quello che chiamiamo osservatore primo (O'). L'osservatore primo, solidale con M, vede M, S1 ed S2... ho dimenticato di dirvi una cosa fondamentale, che dovete ricordarvi, insomma, mi sono impegnata lì sopra: così come si muove la massa M, si muovono anche S1 ed S2. 
+
+Bene, quindi l'osservatore primo vede M, S1 ed S2 reciprocamente fermi, perché tutti e tre si muovono con la stessa velocità. Quindi li vede sempre diretti lungo una sola verticale. Queste due sorgenti inviano un impulso luminoso, quindi in pratica una pallina. Questa è la radiazione che viene inviata dalle sorgenti. 
+
+Allora, cosa succede? Le sorgenti inviano un impulso luminoso verso la massa. Chiaramente, quindi, è un impulso che l'osservatore primo vede "dritto per dritto", ok? Quindi ne vede uno che gli arriva incontro e l'altro che gli arriva incontro dall'altra parte. Come **Einstein** determinerà con gli studi sull'effetto fotoelettrico, si può mettere in relazione l'impulso trasportato da un'onda elettromagnetica con la sua energia. 
+
+Pertanto, se la radiazione che inviano S1 ed S2 è identica — quindi per esempio la stessa, boh, una radiazione ultravioletta, quindi la stessa frequenza — l'impulso che queste due sorgenti stanno inviando è identico, ok? Verso M. Gli impulsi sono identici. Quindi che succede? Abbiamo che di qua arriva — voi sapete **impulso** significa **variazione della quantità di moto** — di qua arriva una variazione della quantità di moto diretta verso il basso, di qua sulla massa M arriva quello che determinerebbe una variazione di quantità di moto diretta verso l'alto. 
+
+Gli impulsi, quindi queste due variazioni di quantità di moto, sono identiche, pertanto si annullano reciprocamente, ok? All'impulso corrisponde una $\Delta q$, variazione di quantità di moto per la massa M. Siccome sono due impulsi uguali e contrari, la **quantità di moto** della massa M non cambia, quindi M rimane ferma. Ok? Per l'osservatore primo la massa rimane ferma. 
+
+Adesso vediamo cosa vede un osservatore invece di tipo... posizionato in origine qua, quindi solidale con l'asse delle Y. Rifaccio il disegno. Aspettate che lo rifacciamo. [NOTA: rumore di gesso sulla lavagna mentre il docente ridisegna lo schema]. Allora, l'osservatore O vede tutto... vede S1 su... rifacciamo...
+
+Allora, O che cosa vede? Vede l'impulso che parte da qui, ok? Naturalmente la luce, la radiazione, ci mette un po' di tempo prima di compiere tutta questa distanza, ok? Quindi, prima di arrivare lì è passato un determinato tempo. Ma durante un po' questa massa si è spostata. O vede la massa spostarsi grazie alla sua velocità. Quindi, O vede l'impulso partire qui e raggiungere la massa dopo un certo tempo. Ma la massa dov'è? Quale posizione... Quindi l'impulso di partenza, la partenza dell'impulso è qui, ma l'arrivo di questo impulso è qua. Ok? Quindi questa forza, l'impulso visto da O è **obliquo**. O vede un impulso **obliquo**, quindi con le sue componenti $q_y$ e $q_x$.
+
+Adesso vi faccio una... [ESEMPIO:] questa, per esempio, è una $q_y$. Questa è la $q_x$. Ho disegnato tutto questo vettorone perché volevo disegnare i vettori più piccoli a partire da qua, però è lo stesso. Allo stesso modo questo qua, dove adesso si vedono bene... Quindi, la radiazione su entrambi i lati. Le componenti $q_y$ sono ancora uguali e opposte, quindi queste due si annulleranno comunque, ma le $q_x$ si sommano. Quindi, la massa M subisce una **variazione di quantità di moto** lungo l'asse x.
+
+Se subisce una variazione di quantità di moto, mi aspetto che la sua velocità cambi da quella che era quella iniziale, $v$, a qualcosa di diverso alla fine. Quindi O, diciamo così, O si aspetta che $v$ cambi. Quindi, come la scriviamo questa, diciamo, questa nuova quantità di moto? Noi sappiamo che la $Q$ si esprime come **gamma per la massa per la velocità**. Quindi, lungo l'asse x, scriverò... lungo l'asse x scriverò: il gamma per $m$ per $v$ finale (il gamma che sarà un gamma finale, perché il gamma dipende dalla velocità, quindi se cambia la velocità cambia anche il gamma, ok?) sarà uguale a gamma iniziale per la massa per la velocità iniziale, scusate, per la massa per la velocità iniziale, più due volte la quantità di moto $q_x$ di queste radiazioni, di questa radiazione.
+
+Ora, la velocità iniziale noi sappiamo che era quella $v$. La quantità di moto x della radiazione, ripeto, si può ricavare grazie allo studio dell'**effetto fotoelettrico**, comunque è diversa da zero, quindi mi aspetto una velocità finale diversa da questa. Però c'è un problema, perché quando io ero seduta sulla massa, e quindi ero solidale con essa, vedevo la massa inizialmente ferma e, alla fine, la massa era ancora ferma. Ok? 
+
+Quindi, facendo la **composizione relativistica delle velocità** e andando quindi a capire qual è la velocità che vede la O per la massa... La massa M per O si muove con velocità $v$ all'inizio, ma si muove anche con velocità $v$ alla fine, perché alla fine in SR' [sistema di riferimento primo] la velocità $v'$ era zero e la velocità del sistema SR' era $v$. Ok quello che sto dicendo? Siete convinti? Perché siete lessi. Quindi, oltre a essere lessi, siete convinti? Ok. 
+
+Quindi, da quell'equazione lì io dovrei avere una velocità finale diversa da $v$, ma per la composizione relativistica delle velocità, dopo l'urto, la massa in SR' è ferma, quindi in SR mi aspetto abbia velocità $v$. Quindi: **velocità finale uguale a velocità iniziale**. Qui c'è un problema: la composizione delle velocità comporta un risultato che non è previsto dalla dinamica, cioè dall'equazione dell'impulso. Perché questa non è altro che dire... cioè la conservazione dell'impulso: impulso uguale quantità di moto finale meno quantità di moto iniziale. 
+
+Come risolviamo questo problema? Cioè, questo è sicuramente diverso da zero perché, dallo studio dell'effetto fotoelettrico, quella quantità è relativa all'**energia della radiazione** stessa. Cioè, la $Q$ per la radiazione è data dall'energia della radiazione fratto $c$, la velocità della luce. La radiazione possiede energia? Sì, è un'onda, quindi la possiede. Pertanto questa è diversa da zero, quindi questa velocità finale non dovrebbe essere uguale a quella iniziale, e chiaramente questa non può essere zero. 
+
+Ora, dove potrà mai andare a finire quella benedetta quantità di moto che non si riesce a schiaffare dentro le velocità? La dobbiamo schiaffare dentro la **massa**. Ok? Quindi significa che questa quantità di moto qui non va ad aumentare la $v$, va a far variare sta massa. Per risolvere l'incongruenza si deve assumere che $q_x$ vada a... [il docente si interrompe mentre scrive alla lavagna]
+
+E quindi, dal momento che Q è legato all’energia e Q aumenta la massa, posso esprimere una relazione tra energia e massa, cioè: tanta energia mi porta la radiazione, tanta massa aumenta nell’oggetto. Ok?
+
+Sapendo questo, e ora vi risparmio tutti i passaggi matematici, si può verificare che l’aumento **ΔM** di massa dovuto all’incremento **ΔE** di energia è dato da:
+ΔE = γ · Δm · c² 
+
+Da cui ΔE, cioè energia finale meno energia iniziale, è uguale a ΔM per gamma per c quadro. Cioè massa finale meno massa iniziale per gamma per c quadro. Ma questo significa che l'energia è uguale massa per gamma per c quadro. È la relazione che conoscevate? No. Voi conoscevate **E = mc²**. Adesso ci arrivo, due secondi e poi ho chiuso.
+
+Che energia è questa? Come vedete io sto parlando di un corpo in movimento. Questa energia qui è solo energia cinetica più energia dovuta alla massa, cioè **un corpo anche se è fermo possiede energia in quanto possiede massa**. L'energia dovuta alla massa si chiama **energia a riposo**, cioè quando il corpo è fermo. 
+
+Quindi se il corpo è fermo, v = 0, il gamma è uguale a 1 e quindi l'energia a riposo è esclusivamente uguale a **mc²**. Ecco la relazione che conoscete. Ok? Pertanto l'energia cinetica, che sarà data dall'energia totale meno l'energia a riposo, che generalmente viene indicata con E₀, si scrive come (γ - 1)mc².
+
+C'è un esperimento che magari ve lo faccio vedere domani perché adesso voglio fare... correggere o scusate, fare esercizi e parlarne. [NOTA:] Ora, se vado a velocità non relativistiche, uno dice: beh allora gamma è circa 1. Sì, gamma è circa 1 però esprimendo matematicamente gamma in funzione della velocità per regimi non relativistici, io otterrei esattamente l'energia cinetica che ho sempre conosciuto, **1/2 mv²**. Ok? Quindi anche questa è compatibile comunque con la relatività newtoniana, diciamo. 
+
+E domani, se ci riesco, vi faccio vedere come questo ragionamento non era campato per aria con [nome proprio: l'esperimento di Bertozzi] di cui vi parlavo, ok? 
+
+Quindi, altra cosa: dove è finita qui l'energia potenziale? Qui non c'è l'energia potenziale. Questo è solo moto più massa. Perché? Perché qui dentro non so qual è la forza che fa lavoro, no? Se è un'energia potenziale gravitazionale, se è elettrica, se è quel che è. Quindi, se io dovessi fare un bilancio energetico per il corpo, diciamo dal punto A al punto B, avrei l'energia di massa più l'energia cinetica, ok? Dopodiché avrei eventualmente la somma dell'energia potenziale che dipende dal campo, ok? Quindi lì non è contemplata l'energia potenziale, d'accordo? 
+
+Ora, a quel punto uno mi dice: ma perché non ci hanno mai detto che la massa equivaleva a energia e quindi tutte le volte in realtà quando facevamo problemi di conservazione dell'energia dovevo metterci dentro anche l'energia della massa? Perché l'energia della massa per i problemi di fisica classica quella rimaneva all'inizio e alla fine, quindi era aggiungere all'inizio e alla fine un qualcosa che **rimaneva costante**. E quindi sostanzialmente non entrava nelle [inaudibile].
+
+Bene, quindi... detto questo, correggo e poi facciamo esercizi se avete da chiedere qualcosa. Niente? Niente niente? Vabbè, lo vado a fare io. 
+
+Facciamo questo: abbiamo un elettrone. [ESEMPIO:] facciamo esempio generico questo eh. Abbiamo un elettrone, quindi l'elettrone noto... e vi chiede di calcolare, diciamo ci sono diverse domande. Prima cosa: calcolare l'**energia a riposo** e l'energia in moto quando è in moto con velocità 0,85c, diciamo rivolta nel verso positivo dell'asse x. Proviamo, questo direi che non dovrebbe essere un punto che vi dà problemi, spero. 
+
+Come facciamo a calcolare l'energia a riposo? E₀ = mc². Allora la massa dell'elettrone è 9,1 · 10⁻³¹ kg e la c è 3 · 10⁸ m/s al quadrato. Calcoliamo, mi date il valore in Joule? Qualcuno fa il conto per capire se va bene sta roba?
+
+Su, una calcolatrice. 8 per 10 alla diciannove? 10 alla meno 27...
+
+[DOMANDA STUDENTE: È alla meno 14?] 
+
+Sì, alla meno 14. Quanto misura... no, è 3 per 10 alla 8. Ah, no, avevo visto un due. Vabbè, la velocità della luce. Quanto misura, dai ragazzi, energia! No... 
+
+Energia quando è in moto. Sto chiedendo l'energia cinetica o l'energia totale?
+
+**L'energia totale**. Se è cinetica deve essere specificata cinetica. Come la scriviamo questa? $E$ cinetica più $E$ zero. Ok, quindi formula finale: **$\gamma$** (gamma) per $m$ $c$ al quadrato. Calcoliamo il gamma: com'è il gamma? 1 fratto radice di 1 meno $u$ quadro su $c$ quadro.
+
+$u$ quadro ragazzi... in questo caso $v$ fratto $c$ tutto al quadrato. Quindi **gamma** è 1 fratto radice di 1 meno 0,8 al quadrato. Quindi quanto viene gamma? Dai, ce le avete le calcolatrici davanti, ragazzi. 1,6 periodico? 1,67.
+
+Quindi l'energia, come facciamo a calcolarla? Prendo quella di prima e la moltiplico per gamma. Quanto fa 8,2 per 10 alla meno 14 per 1,6 periodico? 1,365 per 10 alla meno 13. [NOTA: il docente conferma il calcolo degli studenti] Joule. Sì.
+
+Adesso vi dico: calcoliamo la **quantità di moto** di questo elettrone. Come facciamo a calcolare la quantità di moto? Quantità di moto: **$\gamma m v$**. Bene. 1,67 per la massa per la velocità. Quanto vi viene?
+
+[inaudibile] Nessuno lo fa, ragazzi? Su! 3,64 per 10 alla meno 22. Unità di misura della quantità di moto? Chilogrammi per metri al secondo. È una massa per una velocità.
+
+Adesso prendiamo un sistema $S'$ (S primo) che si muove con velocità di $0,7c$ in verso opposto al primo. Chiedo di calcolare l'energia totale e la quantità di moto visti da $S'$.
+
+Perché vi ho fatto questa domanda? Perché, come vedete, energia (ovviamente non a riposo) e quantità di moto dipendono dalla velocità. Quindi la velocità io la misuro a seconda del **sistema di riferimento** in cui sto guardando l'elettrone. Quindi cosa dovrò fare per prima cosa? Calcolare che cosa, ragazzi? Ragazzi? Ragazzi? Cosa devo fare? 
+
+Ripetere $v$ uno...? Ok, quindi calcoliamo la velocità vista da $S'$. Qual è l'espressione? $u'$ uguale...
+
+Ragazzi, basta. Allora io smetto, è inutile che faccio. Non faccio più niente. Lo risolverete a casa da soli. Perché se siete così addormentati, che senso ha? Non ha senso. 
+
+[NOTA: Il docente interrompe la spiegazione a causa della mancata partecipazione della classe. Segue un lungo periodo di silenzio e rumori ambientali di sedie e fogli fino alla fine della registrazione].
+
+Ecco la trascrizione accurata della lezione di fisica:
+
+Sì, bene... 0,56... allora...
+
+Allora ragazzi, silenzio per favore. Riprendiamo il discorso dell'altra volta partendo proprio dai dati che abbiamo raccolto in laboratorio. Se guardate i risultati che abbiamo inserito nella tabella, noterete che l'accelerazione media che abbiamo calcolato si aggira proprio intorno a quel valore che leggete sulla lavagna. **Questo è un punto fondamentale** perché ci permette di verificare sperimentalmente la **seconda legge di Newton**.
+
+Abbiamo stabilito che esiste una relazione precisa: la forza è direttamente proporzionale all'accelerazione. Ricordate che, in fisica, la forza è definita come quella grandezza che causa la variazione dello stato di moto di un corpo.
+
+[ESEMPIO:] Immaginate di spingere un carrello della spesa: se applicate una forza doppia, otterrete un'accelerazione doppia, a patto che la massa del carrello non cambi.
+
+[DOMANDA STUDENTE: Professore, ma se il carrello è pieno la velocità cambia?]
+
+Certamente. Se aumentiamo la massa, a parità di forza applicata, l'accelerazione sarà minore. C'è quindi una proporzionalità inversa tra massa e accelerazione. **Ricordate bene questa formula: F = m · a**. L'unità di misura della forza è il **Newton**, che si definisce come la forza necessaria per imprimere a una massa di 1 kg un'accelerazione di 1 metro al secondo quadrato.
+
+Prestate attenzione a questo passaggio perché **all'esame potrebbero chiedere** proprio come si passa dalle osservazioni grafiche alla formulazione della legge matematica. 
+
+[NOTA:] Per il momento stiamo ignorando l'attrito dell'aria e della superficie, considerando quello che chiamiamo un "piano ideale". Più avanti vedremo come le forze dissipative cambiano le equazioni del moto.
+
+[termine incerto: dinamometro]... usate sempre lo strumento tarato per misurare la forza peso dei carichi. Se non ci sono altre domande su questo valore di 0,56, procediamo con l'analisi del grafico spazio-tempo.

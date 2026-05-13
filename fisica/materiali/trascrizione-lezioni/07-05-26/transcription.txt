@@ -1,0 +1,163 @@
+L'energia totale di un protone... No, niente... Sì. **L’energia totale di un protone**. Io adesso però voglio correggere e fare qualcosa di proficuo, perché ieri vi ho lasciato anche dieci minuti e ho visto [inaudibile] boom! Avete programmato così la vostra ricreazione facendo il boom? Pensavo a qualcosa di un pochettino più difficile. No? Boom. Vabbè, andiamo.
+
+L’energia totale di un protone – che vi dà la massa del protone, che è [termine incerto: massa del protone carica nota], sì okay – è due volte la sua energia a riposo. Calcola la velocità con cui si sta muovendo il protone e la sua energia cinetica in **Megaelettronvolt**, MeV. Milli o Mega? M grande o piccola? È grande, è Mega.
+
+[NOTA: Il docente inizia a scrivere i passaggi sulla lavagna]
+
+$\gamma mc^2 = 2mc^2$, quindi $\gamma = 2$. Quindi $\gamma = \frac{1}{\sqrt{1-\beta^2}}$. Ah, sì, la velocità mi viene... vabbè, allora basta, questo quanto ti veniva? $0,87c$, più o meno, perché hai fatto la radice. Però, no, vabbè, comunque, in ogni caso, adesso per determinare questo è irrilevante, però magari metti che poi dopo c'è un sistema di riferimento S ed S' [S primo] in moto rispetto a questa particella, bisogna stare attenti poi dopo ai segni delle velocità relative delle particelle. Ve lo dico semplicemente per... per guardia, non perché adesso sia importante.
+
+Allora, questa è un problema? No. Sì, l'energia cinetica è $(\gamma - 1)mc^2$, quindi essendo $\gamma = 2$... l'energia cinetica è sempre $(\gamma - 1)mc^2$. In relatività, quando le velocità sono relativistiche, sì. Quindi viene direttamente $mc^2$, per cui qui ci metti la massa del protone, ti verrà in Joule, e poi dobbiamo trasformare in Megaelettronvolt. Quindi $1,67 \times 10^{-27}$ kg per $c^2$, e vedi te. 
+
+Dopodiché, tu sai che un elettronvolt... questa è una conversione che dovete sapere. Quindi te la darei eventualmente io, però è un elettro... la carica dell'elettrone per un Volt, quindi $1,6 \times 10^{-19}$ Joule. Sì, quello l'ho trovato. Quindi dopo, da qui che ti viene il risultato in Joule, fai la conversione inversa: $1 \text{ Joule} = \frac{1}{1,6 \times 10^{-19}} \text{ eV}$. E dopo da qui ti ricavi gli elettronvolt. Per fare i Megaelettronvolt bisogna dividere per $10^6$.
+
+[DOMANDA STUDENTE: Non ho capito questo passaggio...]
+
+No, è che io ho messo solo $\gamma$, non $\gamma - 1$. Ah no, $\gamma$ è questa, è l'energia totale. Cinetica più riposo. E infatti mi veniva il doppio. Eh, per l'appunto. E la **quantità di moto** $\gamma mv$? Sì. Quindi quando devi fare $q$ – adesso metto il simbolo vettore anche se faccio solo il modulo per distinguerlo dalla carica – fai $\gamma$ che è 2, la massa del protone che è nota, poi fai per la velocità. La velocità l'avevi espressa in termini di $\beta$, quindi puoi fare $\gamma m \beta c$. Okay. E l'elettronvolt però è solo una misura di energia, quindi non è che poi dopo riesci a fare il cambio qua. La quantità di moto è comunque kg per metri al secondo, quindi questa non si converte. Eh no, avrebbe senso sperabile, ma non sarebbe neanche il procedimento giusto. 
+
+Comunque, adesso, l'**energia totale** significa l'energia tutta la massa, quindi a riposo – cioè la massa significa prendo solo la massa del corpo, vuol dire che il corpo è fermo – e l'energia cinetica. L'energia cinetica quindi la ricavi facendo l'energia totale, che è $\gamma mc^2$, meno l'energia a riposo, quindi $\gamma mc^2 - mc^2 = (\gamma - 1)mc^2$. Okay? Sì, okay.
+
+Va bene, questo era facile dai, ve la siete cavata abbastanza. Non ho fatto tutti i conti però è sperabile che venga. E invece qual era l'altro? L'altro era il 63, sì, perché c'è la **differenza di potenziale**. Mi ha un po' disorientato una differenza di potenziale. Sono disperato. Non l'avevo mai vista in relatività. Cioè, io sono riuscito a farlo perché l'ho cercato... dove? Su ChatGPT. Oh cazzo! Mi hanno rovinato! Vabbè, vabbè, sì, sono stanchissimo, ah ecco. 
+
+No, perché anch'io ogni tanto ci litigo eh. L'altro giorno due ore ci ho litigato dicendo: "Prendi 'sto cazzo di riferimento dell'energia potenziale gravitazionale del peso qui!" e lei continuava a prenderlo lassù. Io: "Vacca miseria, t'ho detto di prenderlo lì!". Vabbè, ciao. E lei stessa ha ammesso che abbiamo litigato. Quindi c'è del vero in tutto questo, capito? Perché non mi tornava, cioè lei mi dava un risul... c'era questo risultato, non so cosa avesse capito, adesso proverò a sentire, a chiedere il parere di queste cose. Comunque state attenti a non... [inaudibile].
+
+Dimmi allora, qual è? Allora, un elettrone con massa dell'elettrone e carica noti, viene accelerato da $v_1 = 0,80c$ a $v_2 = 0,81c$. Calcola la variazione dell'energia cinetica, quindi $\Delta E_c$, e la differenza di potenziale elettrico necessaria per accelerare l'elettrone. 
+
+Allora, la **variazione dell'energia cinetica** significa energia cinetica finale meno energia cinetica iniziale, che significa $\gamma_{\text{finale}} - \gamma_{\text{iniziale}}$. Esatto. $(\gamma_2 - 1)mc^2$ – adesso la faccio per bene – questa è l'energia cinetica alla fine, meno $(\gamma_1 - 1)mc^2$. Significa quindi $mc^2$ che moltiplica $(\gamma_2 - 1 - \gamma_1 + 1)$. Gli 1 se ne vanno e quindi rimane $(\gamma_2 - \gamma_1)mc^2$. Okay.
+
+Ora, la variazione di energia cinetica però, per il **teorema delle forze vive**, è anche uguale al lavoro della forza, della risultante delle forze che agisce sul corpo. Quindi lavoro della forza, diciamo, risultante. In questo caso ti sta dicendo che questo elettrone è sottoposto a un campo elettrico, per cui l'unica... l'unica risultante di cui ti sta dicendo di tener conto è la forza elettrica. In questo caso quindi il lavoro è della forza elettrica. 
+
+La forza elettrica è una **forza conservativa**, quindi questo lo posso scrivere come energia potenziale iniziale meno energia potenziale finale. E quindi, ti sta dicendo che... insomma, vi ricordate all'inizio dell'anno dicevamo che questa energia in realtà la esprimiamo attraverso il potenziale elettrico e quindi il lavoro della forza elettrica è dato da $q \cdot \Delta V$. In realtà sarebbe $U_{\text{iniziale}} - U_{\text{finale}}$, quindi sarebbe $V_{\text{iniziale}} - V_{\text{finale}}$. Questo non è esattamente $\Delta V$, questo è $-\Delta V$, però poi c'è questo meno qui che si assorbe il meno...
+
+Certamente. Di seguito la trascrizione fedele della lezione di fisica, organizzata secondo le tue linee guida.
+
+---
+
+Bisogna vedere come interpretare quel $\Delta V$ a seconda della carica della particella che lo subisce, perché se la carica è negativa si sposta da potenziali più bassi a potenziali più alti e viceversa se è positiva. Quindi c'è tutto un discorso, però alla fine ti verrà sempre, sostanzialmente, che il **delta energia cinetica** è dato comunque da un valore assoluto di questo prodotto qua ($q \cdot \Delta V$).
+
+E ciò mi agita tantissimo. Non c'avevo pensato a questa questione. Quindi, questo qui è quello che abbiamo fatto a settembre. E da lì poi i calcoli degli esercizi. Sì, insomma, dai, io ti darei quasi il diploma su tutti i cinque anni, capisci? Non solo per matematica. Ecco, il diploma a validità quinquennale, per cui... Ma la cosa che mi stupisce è che se dovete ricordarvi le tabelline... beh, vabbè, comunque sì, lo ammettete che in quinta superiore bisogna ricordarsi le tabelline? Però ammettete che bisogna ricordarsi la roba di settembre. È stato un lapsus. Vabbè, un "lapsus", certo, sì, sì. Va bene.
+
+No, allora, **questo è importante ricordarlo**. Oltre a questo, l'altra cosa che è **importante ricordare** è il... è il terzo principio... più che terzo principio, il **secondo**, che mi afferma che la **variazione della quantità di moto** è data dalla forza per delta t ($\Delta p = F \cdot \Delta t$). Cioè, le considerazioni di dinamica si basano a livello energetico più che altro su questo. Poi vabbè, posso fare tutte le mie considerazioni sul trovare l'energia cinetica data dall'energia totale eccetera, però se devo ricordarmi dei teoremi da portarmi dietro sono questi e ovviamente l'espressione dell'energia potenziale e questi: **impulso** e **conservazione dell'energia**. Questi sono i capisaldi che bisogna usare.
+
+Poi qualcos'altro da correggere? Nient'altro? Sto pensando se c'è qualcos'altro da correggere da questa piccola... il **lavoro**, eventualmente, è un'altra cosa da portarsi dietro: il lavoro come prodotto scalare tra forza e spostamento. 
+
+[ESEMPIO:] Perché se ti chiedono: "quanti metri ha percorso questo elettrone intanto che era accelerato da qui a qua?", non è che puoi usare un altro approccio.
+
+Ah sì, ma quelle basi me le ricordo, impulso, quantità di moto... me le ricordo. Però quelle erano pure le basi, energia... Sì, tra' è roba di... adesso non lo dico. No, non lo dico. Non lo dico, ho troppa stima. Non mi faccia l'ansia.
+
+Allora, altro da correggere? Se no finisco l'effetto fotoelettrico, poi vi do degli esercizi da fare qui perché chiaramente mentre siamo qua... Prof? Sì?
+
+[DOMANDA STUDENTE: Io più che altro ieri mi sono perso l'ultimo pezzo. Non so se può riprendere un attimo... io sono arrivato a scrivere che l'energia cinetica di 1 era minore dell'energia cinetica di 2 per uscire dal... cioè, in relazione alla vicinanza al nucleo.]
+
+Sì, ok. No, l'energia cinetica... cioè l'energia che ti era rimasta come cinetica dopo che sei uscito, cioè dopo che sei riuscito. Mi mancava un pezzettino, non lo so... Allora. Questo pezzettino qua... non ti eri scritta il discorso dell'energia che se l'energia di intensità aumenta... No, no, quello ce l'ho. Ok. Allora, il problema era questo. Diciamo, l'energia della radiazione viene data come: **lavoro per uscire** (per separarsi dal nucleo) più **energia cinetica** che mi rimane dopo.
+
+Sì, sì, questo ce l'ho. Il discorso è questo: se io mando una radiazione che ha un'intensità $I$, noi sappiamo che l'intensità $I$ è proporzionale alla potenza del fascio di radiazione, che è $P$; quindi la $I$ è proporzionale alla potenza e quindi è proporzionale all'energia. Quindi, questo... stiamo parlando di **fisica classica**, cioè quella che abbiamo visto fino adesso.
+
+Allora a questo punto uno dice: beh, se io aumento l'intensità, aumenta l'energia che arriva con questa radiazione, quindi aumenta quella che gli elettroni hanno a disposizione per muoversi, perché questo rimane lo stesso. Cioè, l'energia che io devo impiegare per separarmi dal nucleo dipende effettivamente dal legame elettrico che c'è tra carica positiva e carica negativa. Quindi questo qui è costante comunque. Però, se qui ne ho ottanta, se questo è aumentato, ovviamente aumenta anche questo. Quindi: **se l'intensità aumenta, aumenta l'energia cinetica**.
+
+Aumenta l'energia cinetica di tutti gli elettroni, cioè non solo quelli più interni, anche quelli più esterni; quindi quelli che alla fine, quando escono, sono più energetici, sono quelli che hanno impiegato meno energia per separarsi dal nucleo. Ok, quindi, se io adesso voglio impedire il loro moto e quindi devo trovare il $\Delta V$ adeguato per... bisogna che io aumenti il mio $\Delta V$ rispetto all'intensità che avevo prima, perché questi sono più energetici e ho bisogno che la forza elettrica faccia più lavoro. Quindi: **aumenta il delta V di arresto**.
+
+Il problema è che le osservazioni invece fanno vedere che il **delta V di arresto rimane lo stesso**, anche se l'intensità è aumentata. E quindi questa era la **prima osservazione problematica**. Il primo problema: la fisica classica questo non lo descrive. E fin qua la contraddizione sta qua: cioè questa teoria classica non riesce a spiegare questo. 
+
+La **seconda problematica** invece è diversa, perché riguarda il fatto che se illumino... allora, gli elettroni escono solo se la **frequenza della radiazione** incidente, ovviamente, è maggiore o uguale a una certa $f_0$ chiamata **frequenza di soglia**. 
+
+Cioè, a livello grafico questo come viene rappresentato? Adesso aspetto un attimo che lui scriva. In pratica che succede? Io posso graficare l'andamento, in base alla frequenza, del mio potenziale di arresto. Se grafico l'andamento del potenziale di arresto, semplicemente sto ottenendo...
+
+È stata graficata l'andamento dell'**energia cinetica massima** che hanno all'uscita questi elettroni, di fatto. Perché? Perché io so che l'energia cinetica massima, visto che è uguale al lavoro della forza elettrica, sarà data dalla carica dell'elettrone per il $V_0$, no? Come prima. Vedete, l'energia cinetica, questi elettroni vengono accelerati da zero a energia cinetica massima e quindi posso dire che l'energia cinetica massima a zero, scusate, l'energia cinetica massima a zero perché li devo frenare, quindi se li freno arrivano a un'energia finale nulla, quindi l'energia cinetica massima è uguale al lavoro fatto dalla forza elettrica. Chiaramente qui ci vogliono i valori assoluti. Quindi graficare questo significa graficare indirettamente l'energia massima che hanno questi elettroni.
+
+Quello che vedete è che, per esempio, adesso parto da qui, ho la lastra di un metallo determinato, non mi interessa, io vedo che soltanto dopo questa frequenza l'energia cinetica massima di questi elettroni comincia a essere diversa da zero ed è **lineare**. Quindi, se io do una radiazione con una frequenza maggiore o uguale di questa $f_0$, effettivamente degli elettroni che escono li trovo. Prima non c'è nessuna fuoriuscita di elettroni, ok? Se $f$ è minore di $f_0$, non fuoriescono elettroni.
+
+Questo succede anche se continuo a colpire la lastra per tempi infiniti. Diciamo, la radiazione colpisce per un $\Delta t$ infinito la lastra. Quindi io posso anche lasciarla sottoposta, boh, che ne so, a della luce visibile per l'eternità, ma se quella luce non ha la frequenza giusta, io gli elettroni non li vedrò mai uscire. **Mai**.
+
+Invece, se do la frequenza giusta, gli elettroni escono sostanzialmente istantaneamente. E questo, ovviamente, non è possibile con la **fisica classica**. Cioè, la fisica classica che cosa direbbe? La fisica classica dice: ho un elettrone, viene colpito dalla radiazione, l'elettrone immagazzina questa energia, la tiene con sé, la immagazzina, dopodiché, quando è il momento che riesce a liberarsi dal nucleo, se ne va. Quindi, dopo un certo $\Delta t$, questo elettrone dovrebbe andarsene comunque, anche se la frequenza non è quella giusta. Dovrei vedere degli elettroni anche se $f$ è minore di quella di soglia. La fisica classica, con le sue assunzioni, dedurrebbe che l'elettrone deve comunque andarsene anche dopo, anche prima di $f_0$. Dopo quanto tempo non lo so, però comunque se ne andrà. Invece non se ne va. Quindi questo qui è, diciamo, l'ulteriore problematica, diciamo. Perché le osservazioni ci dicono che se $f$ è minore di $f_0$, l'elettrone non si libera. Quindi di nuovo c'è un problema.
+
+Ora, in che modo si possono spiegare le osservazioni dell'effetto fotoelettrico? Chiaramente dobbiamo abbandonare l'idea della fisica classica, l'idea che la fisica classica ha relativamente all'energia. In particolare, l'elettrone immagazzina energia con **continuità**. Non può essere così, ok? Cioè, alla base di tutto questo c'è il fatto che l'elettrone può immagazzinare questa energia senza problemi, qualunque tipo di energia, su qualunque tempo, ok? Non può funzionare.
+
+Allora **Einstein** si ricorda che, precedentemente a lui, erano stati fatti degli altri studi, in particolare da [nome proprio: Planck] sull'emissione del **corpo nero**. E uno dice: "Ma cosa c'entra questo?". Sono tutti studi che concorrono a determinare il modello onda-corpuscolo che poi dirò alla fine di questo. In che modo? Cioè, se vi ricordate, il corpo nero è un corpo particolare: assorbe tutta la radiazione che è in grado di emettere, oppure, vabbè, viene definito diversamente a seconda dei testi, questa è quella che di solito dico io. Ed ha una curva di emissione molto particolare, ok? 
+
+Questa curva di emissione — adesso, ripeto, io non la faccio perché avevo detto che finisco l'effetto fotoelettrico e dopodiché concludo le ultime cosine e fine, perché se questo è, questo devo fare — gli altri sicuramente l'avranno fatta, comunque, detto questo, la curva del corpo nero, dell'intensità, è una roba che fa così. E uno dice: "Beh, non sembra neanche tanto brutta". Il problema è che la fisica classica, da sé, non riesce a descrivere questo regime, cioè a frequenze molto basse, e questo regime a frequenze molto alte. Cioè, se riesco a costruire un modello che vada bene per questo regime qui, questo qui non riesco a descriverlo. Quindi quel modello è adeguato qui, ma non è adeguato per le frequenze alte. Viceversa, se adotto un modello fisico che mi descrive bene questa tendenza qua, questa qui non riesco a descriverla adeguatamente. 
+
+Quindi finora non si era riusciti a trovare qualcosa che mettesse d'accordo questi due andamenti. **Planck**, invece, l'aveva trovato. Aveva trovato matematicamente una descrizione di questa curva facendo un'assunzione di **quantizzazione dell'energia**. Cioè, sostanzialmente diceva: facciamo, diciamo che questa curva potrebbe essere descritta se assumessimo che gli atomi del corpo nero assorbissero energia in maniera quantizzata. Cioè, o prendi tutto un pacchetto di energia subito, oppure ciao. Non è che io ti do un mini-pacco, con un altro mini-pacco, con un altro mini-pacco e tu te lo assorbi e poi fai quello che devi fare. O lo prendi, o niente, diciamo.
+
+Però Planck aveva introdotto tutto questo semplicemente come artificio matematico per far tornare l'andamento di quella curva. Quindi, "oh ragazzi, matematicamente così funzionerebbe". Fisicamente era scettico sul fatto che veramente la materia si comportasse così, ok? Einstein riprende questa idea di quantizzazione dell'energia e vede e osserva che effettivamente è in grado di spiegare le osservazioni dell'effetto fotoelettrico. 
+
+Quindi quello che Planck, diciamo, aveva dato per "magari non è possibile", invece è così. Cioè, a livello microscopico, l'energia perde la sua continuità. Noi qui adesso possiamo, noi non siamo microscopici, no? Siamo corpi che hanno delle dimensioni tutt'altro che microscopiche. Noi riusciamo ad immagazzinare energia con continuità. Io posso immagazzinare energia a qualunque frequenza, la immagazzino dal sole che mi manda qualunque frequenza, per dirne una, in qualunque $\Delta t$, posso immagazzinare, ok? A livello microscopico questo non funziona più. Quindi l'energia si comporta diversamente macroscopicamente o microscopicamente parlando. Lui quindi, Einstein, riprende questi studi, l'ipotesi di Planck, e costruisce un modello nuovamente **corpuscolare** per la radiazione.
+
+...per la radiazione e quindi anche per la luce, perché la luce è solo una parte della radiazione elettromagnetica.
+
+Che cosa afferma questo modello, il modello a fotoni? 
+
+Il modello che assu- che, diciamo, che dice che la luce, la luce, la radiazione è composta (non so se un fascio, vabbè lo stesso), composta da questi corpuscoli chiamati **fotoni**. Quindi in pratica dentro un fascio di luce, come può essere questo a livello macroscopico, ci sono tanti fotoncini, eccetera. Composta da fotoni, quindi sono dei corpuscoli che si comportano come corpuscoli che hanno **massa nulla**. 
+
+Quindi non sono i corpuscoli di Newton. Newton credeva che la luce, perché ovviamente Newton non era ancora in grado di parlare di radiazione elettromagnetica in generale, quindi parliamo di luce, ma Newton era convinto che la luce fosse costituita sì da corpuscoli ma con massa non nulla, per quanto possa essere piccola, però c'era ed era diversa da zero. 
+
+Con massa nulla qui, velocità uguale a c, sono sempre diciamo in moto con **v = c**. Non esistono fotoni fermi, ok? 
+
+[NOTA:] Io non posso sedermi - io che ho una massa diversa da zero - non posso sedermi su un fotone e assumere un sistema di riferimento inerziale che si muova alla velocità della luce, d'accordo? Io ho massa diversa da zero e abbiamo visto dalla relatività stretta che un corpo con massa diversa da zero non può raggiungere la velocità della luce. Quindi non posso, diciamo, identificare fisicamente un sistema SR [Sistema di Riferimento] che sia, come si dice, solidale con un fotone, ok?
+
+Quindi, sono sempre in moto con velocità uguale a c, trasportano una **quantità di moto** e fotoni... trasportano quantità di moto ed energia che sono relazionate come **q = E / c**, che è quello che vi avevo già detto quando abbiamo parlato dell'equivalenza massa-energia. 
+
+Ognuno di questi fotoni, ognuno di essi possiede **energia uguale a h per la frequenza**, dove h è la **costante di Planck**. 
+
+E ogni elettrone interagisce con un solo fotone.
+
+Allora, in questo modo si riesce a descrivere tutta l'osservazione- tutte le osservazioni relative all'effetto fotoelettrico. 
+
+La prima delle problematiche riguardava il fatto che il potenziale d'arresto sarebbe dovuto cambiare e invece non cambiava. Ora, noi sapevamo che l'energia che arriva dalla radiazione è uguale a quella per uscire, al lavoro per uscire, più l'energia cinetica degli elettroni, ok? 
+
+Ora, se voglio vedere l'uscita dell'elettrone e come dicevo prima vedo, diciamo, con una frequenza inadeguata non vedo niente, con una frequenza f maggiore uguale a f0 vedo qualcosa, ok. Supponiamo di prendere f = f0. Secondo voi, quali sono gli elettroni che vedo quando colpisco la lampada con- la lastra con una lampada che ha frequenza f = f0? Quelli più vicini al nucleo o quelli più lontani dal nucleo? 
+
+Riflettiamoci un attimo. [ESEMPIO:] Questo è il nucleo, qui ho l'elettrone più interno e qua ho quello più esterno... mettiamone tre. Colpisco con f0. Ovviamente colpisco lui come colpisco lui. Arriva uno di questi pacchetti, questi fotoni e zac, riescono a colpire questo elettrone. Chi è che può- chi ha speranza di uscire, cioè che esce? Lui o lui? 
+
+[DOMANDA STUDENTE: E due?]
+
+E due. Perché? Perché lui è quello che fa meno lavoro per togliersi dalle palle il nucleo, ok? Quindi, se a f0 comincio a vedere degli elettroni è perché stanno uscendo quelli più esterni. Ok? Poi aumento la frequenza, aumento l'energia e c'è speranza che riescano a uscire anche quelli più interni. Ok? 
+
+Ragazzi? Bene. Quindi, a f0 escono solo gli e- [elettroni] più esterni. Ok? **Ricordate che ad f0 l'energia cinetica era uguale a zero**, quindi significa che questi elettroni (dal grafico, ricordate il grafico che ho cancellato, era fatto così)... quindi significa che questi elettroni escono però rimangono davanti alla lastra perché sono sostanzialmente fermi, ok? Quindi questi e- hanno... cioè... sono fermi davanti alla lastra. 
+
+Ok? Perciò significa che tutta l'energia che loro hanno ricevuto l'hanno impiegata per togliersi il nucleo di mezzo. Quindi, l'energia data da **h * f0 è il lavoro di estrazione**, ok? 
+
+Attenzione perché uno dice "ma qui ci sono più lavori di estrazione", giusto? Perché hf0, ma hf1 maggiore di f0. Con **lavoro di estrazione** si intende l'energia minima che devo dare a sta lastra...
+
+Grazie. Per... per vedere fuori qualche elettrone, okay? Quindi il **lavoro di estrazione** è solo questo. Questo qui, cioè è chiaro? Il lavoro che a lui serve per togliersi dalle scatole il nucleo non si chiama lavoro di estrazione, non si chiama e basta. Quando si parla di lavoro di estrazione si parla solo degli **elettroni esterni**.
+
+Perché sono quelli... alla fine io voglio vedere gli elettroni fuori dalla sbarra. Che me ne frega a me se sono e1 o e2? Basta che siano fuori. Beh, prima ne escono due, va bene, bravi. Però il lavoro di estrazione è l'**energia minima** che io devo dare, ed è questa, okay? 
+
+Ora vediamo cosa succede qua. Agli elettroni e2 arriva della radiazione. hf è uguale a quella che a loro serve per andarsene più l'energia cinetica, giusto? E abbiamo detto che questa sarà la maggiore di tutte per questi elettroni esterni, d'accordo? Perché abbiamo detto che meno di così non ne possiamo impiegare per fare questo lavoro di estrazione. 
+
+Quindi l'energia cinetica, che è uguale a $hf - hf_0$, è uguale, ricordo, al lavoro della forza elettrica, okay? Alla carica dell'elettrone per il $\Delta V$ di arresto ($\Delta V_0$). Ora, se io aumento l'intensità ($I$), cosa succede al $\Delta V_0$? Cambia questa energia cinetica se aumento l'intensità della radiazione? **No**, perché l'energia non dipende più dall'intensità, **dipende solo dalla frequenza**. Io posso anche aumentare l'intensità ma se mantengo la frequenza costante l'energia cinetica con cui questi elettroni escono è sempre quella e quindi il potenziale di arresto sarà sempre lo stesso. 
+
+Ripeto? Sì. Allora, a questi elettroni arriva questo fotone, okay? Bene. Se lo "cuccano", in parte lo spendono per andarsene; poi se il fotone ha solo questa energia, l'energia cinetica è zero ed escono... vabbè, va bene. Se invece questo fotone ha una frequenza $f$ maggiore di $f_0$, ce lo "cucciamo", ci liberiamo e un po' di energia cinetica fuori ce l'abbiamo, okay? Consapevoli del fatto che noi ne avremo sempre più di quelli più interni. 
+
+Perché se sono riusciti a liberarsi quelli, comunque hanno fatto più lavoro per liberarsi. Okay. Quindi noi siamo comunque gli elettroni più energetici della combriccola. Quindi è su di noi che si basa la valutazione del potenziale di arresto, perché finché non fermi noi che siamo quelli più energetici la corrente continua a passare. Okay? 
+
+Quindi per questi e2 che succede? Ho preso questa energia, in parte l'ho dovuta usare per liberarmi del nucleo, in parte mi è rimasta. Benissimo. Quella che mi è rimasta, cioè $hf - hf_0$, sarà la mia energia cinetica. Se vuoi fermarmi devi fare un lavoro pari alla mia energia cinetica, visto che sono il più energetico. Okay? Bene. 
+
+Ora aumentiamo l'intensità della radiazione. Ma se aumenta l'intensità della radiazione significa che io mando più fotoni. La radiazione più intensa mi dà **più fotoni**, non una frequenza diversa. [ESEMPIO:] Io ti mando una radiazione ultravioletta, quella rimane ultravioletta ma te la mando più forte, cioè ti do più fotoni. Bene, magari escono più elettroni, ma escono tutti comunque con quell'energia cinetica massima lì. Perché l'energia cinetica è questa ed è determinata **solo dalla frequenza** e non più dall'intensità. Allora a questo punto, anche se aumento l'intensità, il $\Delta V_0$ non può cambiare. Okay? 
+
+È vero, ma insomma... allora: l'energia non dipende più da $I$ ma solo da $f$, quindi l'energia cinetica rimane la stessa, quindi $\Delta V_0$ non cambia. Okay? L'intensità è proporzionale al **numero di fotoni**, non alla loro frequenza. Okay? Quindi l'energia dipende esclusivamente dalla frequenza. Punto. Stiamo parlando di microcosmo però, eh. 
+
+Ora, significa quindi che questo elettrone non potrà mai uscire? No, può anche uscire, però... allora è chiaro che se arriva un fotone sufficientemente energetico per fargli fare questa differenza qui di energia, lui riesce a uscire. Può uscire per step successivi? Cioè: vabbè, adesso poveretto non esce, però con questo fotone magari arriva a un altro livello energetico. Può fare questo salto qui? 
+[DOMANDA STUDENTE: inaudibile] 
+La risposta è sì, lo può fare, ma quando è qui deve immediatamente ricevere un altro fotone con la stessa frequenza giusta per fare un altro salto energetico. Cioè non è ammesso il fatto che l'elettrone prenda un fotone e poi arrivi [ESEMPIO:] per esempio qui. No. 
+
+O prendo il pacchetto che mi permette di fare il salto da un livello di energia all'altro ben fatto, oppure non ce la faccio. E tra l'altro, quando arrivo qui, questa è una situazione instabile, altamente instabile. Quindi significa che praticamente quasi istantaneamente questo tenderebbe a tornare nel suo stato fondamentale. Quindi se lui quando è qui non riceve subito un altro fotone adeguato per fare questo salto qui, e quando è qui non ne riceve un altro adeguato... rassegniamoci. 
+
+Quello lì non riuscirà a uscire. Quindi la speranza più probabile è che gli arrivi un fotone che abbia già tutto il pacchetto di energia che gli serve per andarsene definitivamente. Questo è fattibile però è molto, molto difficile. Ma è quello che determina, per esempio, le **linee di emissione e assorbimento** degli spettri stellari o anche di gas in laboratorio. Non so se ve li hanno mai fatti vedere gli spettri stellari, l'emissione delle stelle. Vabbè, magari l'anno prossimo. 
+
+Comunque, di fatto l'emissione a righe di alcuni gas si vede; le emissioni a righe o gli spettri di assorbimento a righe sono dovuti al fatto che arriva il pacchetto, riesce a fare questo salto perché era il pacchetto giusto e quindi assorbe quell'energia corrispondente a quella frequenza che non vedo nello spettro, ma poi ritorna indietro perché ovviamente non può fare altro e quindi dopo riemette quello che ha assorbito. Vabbè, dopo magari successivamente eccetera. 
+
+[NOTA: commento scherzoso sull'orario] Finiamo perché sono le sei. Sono le sei... di cazzo, magari fossero le sei! 
+
+Dicevo, l'altra osservazione è questa, okay? Diciamo che si commenta da sola. Cioè: se io non ho la frequenza giusta, se io non ho la frequenza $f_0$, non riesco io... cioè se io elettrone e2 non ho la frequenza $f_0$ che mi faccia sto lavoro per togliermi di mezzo il nucleo, non vedrò mai uscire alcun elettrone. Quindi il fatto che qui non veda energia cinetica per $f < f_0$ sta proprio nel fatto che a quell'$f_0$ corrisponderebbe quel lavoro minimo, il lavoro di estrazione che devono fare gli elettroni per poter scappare e quindi effettivamente verificarsi la presenza. Okay? Quindi questo modello descrive tutto. 
+
+Chiudo dicendo questo. Però c'è un problema di nuovo. Eh no, il problema di nuovo...
+
+Siamo partiti da Newton con una concezione corpuscolare della luce. L'abbiamo smontata nel 1800, cioè chi ci ha rimesso la faccia, [nome proprio: Young], [nome proprio: Huygens], [nome proprio: Fresnel], tutti, l'hanno rimessa e le hanno fatte [termine incerto: unte] per costruire un modello ondulatorio della luce. E adesso arriva Einstein dopo neanche cinquant'anni: avete sbagliato tutto, di nuovo modello **corpuscolare**. **Corpuscolare**, ripeto, diverso da quello di Newton.
+
+Può sembrare un paradosso, ma in realtà la cosa è proprio questa. Se vi chiedessero: "che natura ha la luce? Che natura ha la radiazione elettromagnetica?", la risposta è che ha una natura di **onda-corpuscolo**, cioè un **dualismo** per la radiazione **onda-corpuscolo**. 
+
+Questo accade perché in alcune situazioni il modello ondulatorio riuscirà a descrivere adeguatamente quello che succede, situazioni macroscopiche; ma a livello microscopico bisogna preferire gli effetti del corpuscolo fotonico, diciamo così, quindi dell'interpretazione corpuscolare per poterne descrivere gli effetti. Non esiste un regime che dice "da qui in poi solo corpuscolo, da qui in poi solo onda". Gli effetti sono presenti sempre, solo che saranno trascurabili o meno a seconda dell'esperienza che stiamo facendo. 
+
+[ESEMPIO:] Se vado a analizzare un effetto fotoelettrico, lasciamo perdere la teoria ondulatoria. [ESEMPIO:] Se vado a analizzare come la radiazione si sparge su una sfera lontano di tot dal sole, riprendiamo la natura ondulatoria e chi se ne frega del fatto che dentro questo fascio di luce ci siano n fotoni. 
+
+Quindi il **dualismo onda-corpuscolo** per la radiazione diventa una realtà, ok? Prossima volta chiudiamo [inaudibile]. Adesso va...

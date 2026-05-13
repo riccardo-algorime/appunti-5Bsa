@@ -1,0 +1,139 @@
+Energia a riposo... viene accelerata nella direzione del moto in modo che la sua energia cinetica finale sia un multiplo di quella iniziale. L'energia finale è un sottomultiplo... no, un multiplo, raddoppiata, triplicata... raddoppiata diventa 6 E0.
+
+[DOMANDA STUDENTE: Di quanto è aumentata la quantità di moto della particella?]
+
+Allora, di quanto è aumentata, quindi in pratica io devo fare il **delta gamma m V**. La massa rimane la stessa: m per gamma finale per V finale meno gamma iniziale per V iniziale. Allora, intanto da queste due informazioni qui cerco di ricavare il **gamma** per entrambe le situazioni finale e iniziale, e poi dal gamma riesco a ricavarmi la velocità.
+
+Dall'energia cinetica zero io so che l'energia cinetica è data da gamma meno uno, quindi gamma zero meno uno per mc quadro, ed mc quadro non è altro che l'E0. Quindi l'mc quadro se ne va da entrambe le parti e da qui ricavo che **gamma zero è uguale a 3**. Da qua ricavo che gamma finale meno uno, diciamo E0, è uguale a 6 E0, e quindi **gamma finale è uguale a 7**.
+
+Adesso da questi due gamma cerco di ricavarmi il beta. Questo è il beta zero. Il beta finale è analogo.
+
+Allora, adesso la massa la ricavo dall'energia di riposo, diciamo questa qui, me la traduco in Joule e poi la divido per c quadro. Quindi 1,6 per 10 alla sesta electronvolt è uguale a 1,6 per 10 alla meno 19 Joule, quindi questa sarebbe l'energia di massa, l'energia a riposo in Joule. E la massa sarà data da questa E0 fratto c quadro. E poi qui sostituisco tutti questi valori: 7 per 4 radice di 3 fratto 7 per c, meno 3 per 2 radice di 2 fratto 3 per c.
+
+[DOMANDA STUDENTE: Più che altro, io ho provato a fare in un modo che era senza questi passaggi, nel senso... l'energia totale finale deve essere uguale alla E0 più l'energia cinetica finale, però a me non veniva perché forse era sbagliato. Però dopo al posto dell'energia totale cosa hai messo, se hai fatto la somma di queste e queste? Ho fatto le parti separate, dopo ho fatto la Q per l'iniziale C è uguale alla radice quadrata di E iniziale al quadrato meno...]
+
+Ah, hai già usato la relazione che io non ho presentato. No, esatto, perché se no dovevo mettermi a cercare le varie formule, ero bloccatissima. Però adesso cioè, la so, quindi non c'è bisogno di quella relazione. Una volta che dall'energia riesci a ricavare il gamma, dal gamma poi il beta, poi la velocità, la quantità di moto la trovi subito. Il passaggio inverso potrebbe essere un filo più rognoso perché bisognerebbe dalla quantità di moto ricavare il beta, e poi dal beta ricavare il gamma e poi l'energia. Quindi comunque si riesce a fare anche senza ricordare quella relazione lì. Ma poi io non so come tu l'abbia usata. Io non l'ho presentata perché: uno, ho ristretto la teoria ai minimi termini e due, perché io per esempio non me la ricordo neanche. Certe volte io me la ricavo piuttosto, ma perché devo ricordare una formula in più quando basta fare una radice quadrata? È solo questione di matematica. Poi dopo ognuno sceglie, cioè se me la scrivete in verifica ed è usata correttamente ed è giusta, va bene, eh, non posso mica dirvi che è falso.
+
+Allora, un c se ne va con questo, quindi ho E0 fratto c, e poi dopo devo fare... il 7 se ne va col 7, il 3 se ne va col 3... dopo devo fare 4 radice di 3 meno 2 radice di 2. Spero che venga, ecco. **L'E0 va in Joule** perché la quantità di moto non si misura in electronvolt. L'electronvolt è un'energia, quindi bisogna fare quello e poi dividere per 3 per 10 alla ottava e poi dopo... sì, cioè fratto c.
+
+[NOTA: il docente conclude i calcoli alla lavagna mentre discute con gli studenti l'opportunità di imparare a memoria formule sintetiche rispetto al ricavarsele dai principi fondamentali.]
+
+Io vi dico l'altra espressione anche forse aiuta, però non ho mai neanche voluto impararla a memoria. In realtà in alcuni esercizi usare quella semplifica notevolmente la lunghezza dell'esercizio. In alcuni casi effettivamente può aiutare a sintetizzare. Ed effettivamente sì, in qualche esercizio avevo visto che usare quella, piuttosto che mettersi a ricavare tutto, era più veloce. Però ecco, il valore aggiunto è solo sulla tempistica, non tanto sul contenuto. Provate a vedere se riuscite a finire questo e poi passiamo ad altro.
+
+[DOMANDA STUDENTE: Per la prova del 20 sulle trasformazioni di Lorentz, ci sarà anche la parte teorica? Perché noi abbiamo fatto...]
+
+No, non l'ho messo. So che avete ricavato le leggi di composizione da quelle, però non perderò del tempo a ricavare le leggi di composizione dalla relatività.
+
+[DOMANDA STUDENTE: E la parte che lei ha scritto sulla simultaneità, lei intende il paragrafo 20?]
+
+Quella lì no, cioè ormai sappiamo che la **simultaneità è relativa**. Punto e basta. Sì, però ecco, non è che mai vi dirò: "adesso prendi il treno, supponiamo ci siano due fulmini, e descrivi perché questo evento non è simultaneo in questo sistema". Ci metterei quattro pagine di foglio protocollo, anche no.
+
+C'è nient'altro? Niente? Non c'è nient'altro, venite a fare qualche esercizio? Altrimenti ci guardiamo nelle palle degli occhi fino alla fine.
+
+[DOMANDA STUDENTE: Potrebbe rifare un breve ripasso della teoria, giusto per capire cosa mettere in verifica?]
+
+Va bene. Iniziamo un po' col ripassare le cose che sono importanti. Allora, le cose che sono **importanti** che non si possono non sapere sono: intanto le basi della relatività ristretta, quindi i postulati, su quale sistema di riferimento sono applicabili, i punti di rottura con la fisica classica. Ovviamente i punti di rottura vanno discussi per bene. Nel senso: non basta dire "ah, la velocità della luce è un problema", punto. No, se io vi dico di illustrarlo, mi dovete illustrare perché lo è un problema, la velocità della luce, tra elettromagnetismo e relatività galileiana.
+
+L'esperimento di Michelson e Morley: semplicemente i fattori matematici noi non li abbiamo neanche fatti e quindi non sono da sapere, però lo scopo per cui è fatto l'esperimento sì, e le conseguenze dell'esperimento sì. Quindi almeno ricordarsi perché è importante. 
+
+Poi il confronto con la relatività galileiana è importante, quindi quelle che sono le deduzioni della relatività ristretta, [ESEMPIO:] sulla relatività della velocità, sulla relatività del tempo, delle lunghezze eccetera, poi dopo vi può essere richiesto un confronto con quanto diceva la relatività galileiana.
+
+Vi ho messo delle schede su Classroom relativamente a... sicuramente mi ricordo i gemelli, i muoni, e poi mi sa che vi ho messo anche una serie sull'energia. Sull'energia la scheda era molto dettagliata, però non è importante sapere tutti i passaggi matematici. Però, ecco, se può aiutarvi, magari durante la verifica può aiutarvi, **ricordate che l'equivalenza massa-energia descrive quelle che sono, per esempio, le reazioni nucleari** e quindi quello che è stato alla base delle bombe atomiche di Hiroshima e Nagasaki. [NOTA: Non so a che punto siate di storia, se siete ancora all'inizio del fascismo o no. Per fortuna, perché mi era preso un colpo l'anno scorso o l'altra quinta, erano ancora ai primi anni del fascismo, minchia, quindi ero un po' preoccupato]. Detto questo, questo può aiutarvi, quindi magari sapere quali sono le applicazioni di questa equivalenza $E=mc^2$ senza andare nel dettaglio, però sono descritte in quella slide ultima di quella presentazione che vi ho messo. E lì ci sono le reazioni nucleari, il decadimento radioattivo, non mi ricordo cos'altro avevo messo, però ecco, questo magari può essere richiesto: quali sono i fenomeni fisici che effettivamente danno credito alla teoria $E=mc^2$, o comunque all'equivalenza massa-energia. Ovviamente non sono gli unici, eh, però erano quelli che avevo messo perché all'epoca c'erano i collegamenti da fare e quindi li avevo messi.
+
+Per quanto riguarda invece l'altra parte di dinamica, i concetti **fondamentali** sono il fatto che dalle trasformazioni di Lorentz derivi una diversa espressione della quantità di moto e quindi, dalla quantità di moto, derivi il concetto di velocità della luce come **velocità limite** per un corpo che ha massa diversa da zero. Massa a riposo, chiaramente; a riposo si intende fermo, quindi la massa a riposo. Da lì poi è importante ricordare... vi si può chiedere una descrizione grafica, quindi sapere il fattore gamma come evolve, come si rappresenta in funzione della velocità, e anche la quantità di moto.
+
+I principi della dinamica sono da sapere. Ai principi della dinamica ci tengo, non perché li debba mettere in verifica, però è inutile che facciamo la relatività se non sappiamo poi cosa cambia nella dinamica secondo la relatività ristretta. Anche qui c'è il concetto di simultaneità con il terzo principio. Tutti questi aspetti teorici di rottura con la relatività galileiana secondo me sono importanti. È il motivo per cui si fa la relatività ristretta, di fatto: rompere con la relatività galileiana. Quindi il concetto di velocità limite visto attraverso la forza, quindi secondo principio, il discorso dell'azione-reazione che non può più essere definito perché dovrebbero essere simultanei in tutti i sistemi di riferimento, invece così non è. E dopo c'è la relazione dell'energia di cui ho già parlato.
+
+Abbiamo accennato all'esperimento di [termine incerto: Bertozzi], però non mi ricordo se c'era sul libro. Devo andare a vedere.
+
+Nelle schede di Classroom dell'energia avevo messo l'ultima slide... se ci guardi nella penultima slide c'è... questa qui sì, perché è l'evidenza, diciamo, del fatto che effettivamente, cioè è l'evidenza diciamo più... è l'evidenza laboratoriale, capito? Perché finora abbiamo visto **c** come limite eccetera, ma dal punto di vista matematico; dopodiché laboratoralmente come si è verificato? In questo modo: prendendo le particelle più leggere che conosci, che sono gli elettroni, e cercando di accelerarli con campi elettrici via via crescenti e misurandone la velocità, non riesci mai, diciamo, ad andare oltre a quella della luce. Quindi quella è proprio, diciamo, l'evidenza della **velocità limite** e che quindi tutto il paradigma della relatività ristretta ha effettivamente un senso, capito?
+
+Poi per il resto dopo c'è l'effetto fotoelettrico, che io l'ho messo solo a livello teorico.
+
+[NOTA: il docente si interrompe per un odore insolito in aula]
+Dicevo, che è successo? C'è puzza? No, che vi state annusando, cioè cosa sarà? [DOMANDA STUDENTE: Senti un odore strano?] Abbiamo... abbiamo spruzzato noi. Avete usato anche l'eau de toilette qua davanti... esatto.
+
+Allora, per l'**effetto fotoelettrico** è importante ricordare intanto in cosa consiste: quindi l'estrazione di elettroni da una lastra eccetera, eccetera, eccetera. Poi, i due grafici che vi ho fatto vedere sono, diciamo, i grafici miliari di questo effetto. Ok, i grafici, quindi il perché non va d'accordo con la fisica classica, in particolare quindi l'elettromagnetismo, il modello fotonico di Einstein.
+
+Ecco, poi se... poi ecco, una cosa su cui io gli altri anni insistevo parecchio, però adesso ovviamente mi hanno legato le mani quindi... che è quello che vi ho dichiarato come **dualismo onda-corpuscolo**. Il dualismo onda-corpuscolo è un fenomeno molto particolare perché grazie all'effetto fotoelettrico si verifica che ciò che è onda, cioè la radiazione, in alcune situazioni si comporta come corpuscolo. Ma poi successivamente si è visto anche che ciò che è corpuscolo può comportarsi come onda. E questo si è visto, se non ricordo male, erano gli anni '60 o boh vabbè comunque recentemente parlando, si è visto perché se voi lanciate contro un reticolo cristallino (ovviamente parliamo di reticoli cristallini perché ci devono essere delle distanze intermolecolari sufficientemente piccole per poter vedere questo effetto di cui sto per parlare), se voi contro questo reticolo cristallino lanciate un fascio di elettroni, quindi di particelle di fatto, quel reticolo cristallino si comporta esattamente come se fosse un reticolo di diffrazione o comunque una fenditura volendo, con una separazione tra le due fenditure o comunque una larghezza di fenditura sufficientemente piccola, comparabile diciamo con la lunghezza d'onda associata agli elettroni. 
+
+Adesso ve lo racconto molto così: se voi fate questo tipo di esperimento e vedete ovviamente gli elettroni poi dopo su uno schermo, vi accorgete che gli elettroni fanno una figura di diffrazione come quella della luce. Cioè voi in pratica vedete... l'elettrone è un corpuscolo. Supponete di far passare... quando facciamo passare della radiazione attraverso delle fenditure, ok, qua sullo schermo vedevamo tante alternanze di luce e buio. Ok, e questo quindi ha detto: la luce ha una proprietà ondulatoria. Se voi fate la stessa cosa con degli elettroni, voi vedete qui [ESEMPIO:] che gli elettroni tendono ad accumularsi in zone ben definite. Tipo qui, qui, qui, qui magari ce n'è uno, qui. Quindi creano una figura a righe come se fossero un'onda.
+
+E questo quindi significa che anche ciò che credevamo fosse particella, in realtà in alcune situazioni si comporta come fosse un'onda. E da lì, diciamo, questa evidenza sperimentale che è considerata, diciamo, l'esperimento più bello della fisica, se non mi ricordo male, vedere la figura di diffrazione degli elettroni, ha un'impostazione ovviamente teorica alla base che non è facile da spiegare adesso in cinque minuti. Però sostanzialmente è stata ricavata prima teoricamente e poi si è vista l'evidenza sperimentale con questo tipo di esperienza laboratoriale. 
+
+Però, diciamo, il problema nasceva già da questo perché: voi avete un atomo, avete un elettrone che gli gira intorno, quindi una carica accelerata, e voi sapete che una carica accelerata deve emettere una radiazione elettromagnetica no? Perché crea un campo elettrico variabile e conseguentemente una radiazione elettromagnetica. Perché allora l'elettrone non cade sul nucleo? Perché la materia non collassa? 
+
+E l'unico modo per descrivere il fatto che la materia non collassa è assumere una natura ondulatoria dell'elettrone e un'**energia quantizzata**. Assumendo, diciamo, un'energia quantizzata per gli stati energetici dell'elettrone e assumendo che l'elettrone sia sostanzialmente una specie di onda stazionaria attorno al nucleo e quindi associandone una lunghezza d'onda, si può diciamo descrivere anche il fenomeno della diffrazione degli elettroni. Però c'è tutta una serie di fisica moderna che io adesso non posso fare perché ci è stato detto, ci è stato consigliato di evitare di fare oltre il 15 di maggio. Quindi io non è che posso adesso farvi la dose di fisica moderna e iniettarvela in vena. 
+
+Quindi direi che... però ecco ci sarebbe molto di più e ovviamente è roba complessa, però questo poi ha dato il via alla meccanica quantistica e insomma quindi al **principio di indeterminazione di Heisenberg** e compagnia bella. Però ecco, il **dualismo onda-corpuscolo** non volevo semplicemente dirvi che non si limita al fatto di dire che un'onda si può comportare come corpuscolo nelle situazioni ad hoc, ma anche i corpuscoli, quelli che noi riteniamo corpuscoli, si possono comportare come onde in situazioni ben precise. Quindi il dualismo è reciproco, cioè è un dualismo perché è reciproco: l'uno si comporta come l'altro ma anche l'altro si comporta come l'uno. 
+
+In pratica era questo. Quindi io direi che a livello teorico ce n'è di roba quindi secondo me siete abbastanza pieni. Siete sicuri di non voler fare dell'altro esercizio? Volete eh, non che io voglia, cioè nel senso se lo facciamo è perché venite voi alla lavagna a fare l'esercizio. Perché sono solo le 10:38 eh, volevo dirvelo giusto per farvi rendere conto di dove siamo. Se non lo volete fare io scrivo sul registro che i ragazzi hanno scelto di fare altro, dopo se uno va male alla verifica e mi dice "eh però non abbiamo fatto sufficienti esercizi", io l'ho detto. Se volete fare però venite voi.
+
+Abbiamo ancora venti minuti. Facciamo una decisione in venti minuti, o almeno nei prossimi cinque minuti, perché dopo diventa abbastanza inutile fare qualsiasi cosa. Io vorrei fare esercizi a prescindere da chi va alla lavagna. 
+
+[NOTA: Il docente cerca un volontario per scrivere alla lavagna mentre la classe si organizza]. 
+
+Allora, facciamo una cosa: mi serve solo uno scrivano. Va bene? Se chiedo uno scrivano... 
+
+[DOMANDA STUDENTE: Un cosa?] 
+
+Scrivano. Uno che scriva al posto mio. Mentre io chiedo a tutti, lui scrive. Chi? Ecco, [nome proprio: Zambi], va bene, vieni. No, no, non è per quello. Per dire: quando si propone uno scrivano, [nome proprio: Zambi] viene, quando si propone un risolutore, guarda dall'altra parte.
+
+Un **elettrone**, quindi elettrone di massa $m_e$ (massa che eventualmente, se ci serve, te la do), possiede un'**energia cinetica** di 1,50 MeV. Avrai già capito cosa sono i MeV, giusto? M grande Mega, **elettronvolt**, E e V. E V grande. Perché sono elettronvolt, quindi E, però la vesta volta maiuscola. [NOTA: Spiegazione dell'unità di misura Megaelettronvolt]. 
+
+Determinare la sua **energia totale** e la sua **velocità**. Ora, non è che ci chiediamo esattamente il valore di questa, però almeno impostiamo il risultato. Mentre lui scrive, intanto cerchiamo tutti insieme di aiutarlo. Quindi, intanto sappiamo che un elettronvolt, volendo, se lo vogliamo scrivere:
+[ESEMPIO:] $1 \text{ eV} = 1,6 \cdot 10^{-19} \text{ J}$. 
+
+Poi, l'energia cinetica. Questa informazione riguarda l'energia cinetica, ok? E ci viene chiesta l'energia totale. **Ci ricordiamo come si esprime l'energia totale?** $E = mc^2 \cdot \gamma$ [m c quadro per gamma]. Intanto scriviamo questo. 
+
+[DOMANDA STUDENTE: Io non parlo con lui, so scrivere...] 
+
+Bene, l'energia totale è uguale all'**energia cinetica più l'energia di massa**. Bene, questo ci aiuta: cinetica più di massa. E a cosa è uguale? Dobbiamo trovare quella di massa. E come la scriviamo? Se te la ricordi bene, se no andiamo a vedere. $mc^2$. No, hai mescolato una forza con un'energia. 
+
+Quindi l'**energia a riposo**, quella che noi chiamiamo energia della massa, è data esclusivamente da **$mc^2$**. Ti ricordi come... vabbè, diamo per giusto adesso. Quindi la massa dell'elettrone l'abbiamo, $c^2$ ovviamente si calcola. E l'energia cinetica la lasciamo in MeV oppure è meglio metterla in Joule? 
+
+[DOMANDA STUDENTE: È meglio mettere in Joule]. 
+
+Ok, quindi o trasformiamo l'energia di massa in elettronvolt oppure trasformiamo l'energia cinetica in Joule. Perché se io faccio massa per $c^2$ ottengo dei Joule ($kg \cdot m^2/s^2$ fa Joule). Quindi io farei, visto che adesso lui non mi chiede se va fatta in MeV o meno, io la lascerei in Joule. Cambierei in Joule l'energia cinetica e poi dopo farei la somma con $mc^2$. Va bene. 
+
+Adesso ci dobbiamo calcolare la **velocità**. Sappiamo l'energia cinetica. L'energia cinetica è $\frac{1}{2}mv^2$? No, quella è la formula **classica**. Siamo in regime ovviamente relativistico, quindi l'energia cinetica, **ricordate che questa è la cosa più importante da ricordare**, è data da: **$(\gamma - 1) \cdot mc^2$**. 
+
+Quindi, da questa energia riusciamo a calcolare la velocità? Io direi di sì, perché **velocità implica $\beta$, $\beta$ implica $\gamma$**. Punto. Quindi da quello cercherei di ricavarmi il fattore gamma. Ovviamente dopo aver cambiato l'energia cinetica, come ho fatto prima, in Joule, perché sennò c'è un problema con l' $mc^2$. 
+
+Esprimiamo... no, no, da quell'espressione lì esprimiamo il gamma. Attenzione perché è $+1$. Ok. Poi dal gamma ricaviamoci il $\beta$. Quindi io so che gamma è uguale a... **ricordate che il fattore di Lorentz** è $1 / \sqrt{1 - \beta^2}$. Spesso i ragazzi sbagliano perché credono che sia solo la radice. È $1$ fratto radice di $1 - \beta^2$. 
+
+Andiamo a metterlo al posto del gamma e poi... ok, adesso ricaviamo il $\beta$. Porterei al numeratore la radice. Allora, la radice portala su a destra, quindi hai $E_c/mc^2 + 1$ che moltiplica tutta la radice. Non fare l'inversione perché l'inversione di una somma... bisogna prima fare il denominatore comune. Quindi radice di $1 - \beta^2$ che moltiplica $(E_c/mc^2 + 1)$. No, no, [nome proprio: Zambi], non fare così, fai proprio... fai questo che moltiplica...
+
+Ecco la trascrizione fedele della lezione di fisica, organizzata secondo le tue linee guida.
+
+...togliamo la radice facendo al secondo tutto quanto... uguale a uno, poi ricaviamo il beta quadro. Io consiglio, farei così: io toglierei questo qui e dividerei tutto per questo.
+
+Uno meno quello... ricordi che c'è però dopo è diventato meno beta quadro, eh? Se fai uno meno... ah, okay, hai fatto così, okay va bene, sì. Dentro di me avevo visualizzato uno meno, capito, vabbè, scusa. Okay, quindi sarebbe più o meno radice di... però vabbè, insomma, adesso qui non è importante il verso della velocità. E quindi da qui dobbiamo ricavare un beta che deve essere **minore di uno**, d'accordo? Cioè, non può essere uguale a uno perché un corpo con massa m diversa da zero non può avvenire che abbia velocità c. Una volta ricavato il beta sappiamo anche la velocità perché la moltiplichiamo per c. 
+
+Allora, adesso ti chiedo, supponi... procediamo per ripassare tutto. Supponi che l'elettrone sia partito da fermo, okay? E calcoliamo la differenza di potenziale che serve per accelerarlo fino alla velocità che hai ricavato. Okay, quindi ricordiamoci che se c'è una differenza di potenziale sicuramente c'è una forza elettrica; ma la forza elettrica, se anche è costante, **non genera un'accelerazione costante in regimi relativistici**. Quindi, le uniche espressioni su cui potete fare affidamento sono il lavoro della forza come differenza di energia cinetica. Scrivi: il lavoro della forza, lavoro di F, è uguale al delta dell'energia cinetica. 
+
+Questo sempre, di qualunque forza stiamo parlando. La forza elettrica è una forza conservativa, quindi il lavoro della forza elettrica lo posso scrivere anche come: $-q \cdot \Delta V$, perché è conservativa. Poi, l'altra espressione su cui si deve fare affidamento è il teorema dell'impulso: quindi sappiamo che forza per delta T (forza media quindi costante per delta T tempo, ovviamente) è uguale alla variazione della quantità di moto, $\Delta p$ [termine incerto: p o Q]. Mettici il vettore sopra il p che sembra una carica se no... vabbè, sarebbe anche su F, ma è lo stesso. Okay, quindi queste sono le tre espressioni su cui si può agire. **Ricordate che non possiamo più usare le leggi del moto uniformemente accelerato**, d'accordo? 
+
+Allora, noi sappiamo che l'elettrone parte da fermo e arriva con un'energia cinetica data da quei 1,5 MeV, che sono tot Joule. Quindi, viene accelerato da una differenza di potenziale $\Delta V$; vogliamo trovare l'espressione... insomma, comunque il valore della $\Delta V$. Cos'è che si può fare? Intanto sappiamo che il delta dell'energia cinetica è noto, perché: delta energia cinetica è uguale a energia cinetica finale meno iniziale. E poi è questo, esatto. Intanto qui scriviamo un po' i passaggi. 
+
+Okay, quindi sostituiamo al lavoro della forza la differenza di energia cinetica. Energia cinetica iniziale zero, quindi la possiamo eliminare. La q dell'elettrone è negativa, $-1,6 \cdot 10^{-19}$ [inaudibile], quindi quel meno serve poi per eliderlo, quindi viene una differenza $\Delta V$ di potenziale positiva. Va bene così. Se fosse stato un protone, apparentemente viene una $\Delta V$ negativa, però in realtà sappiate che il protone ha una carica positiva, si muove da potenziali più alti a potenziali più bassi, quindi il $\Delta V$ sarebbe in realtà, appunto, negativo. Quindi, alla fine quello che vi viene richiesto è semplicemente il valore assoluto di questa $\Delta V$, non vi viene richiesto di sapere che effettivamente doveva essere più basso di qui, il finale più basso o l'iniziale più alto. 
+
+Naturalmente l'energia cinetica va messa in Joule, perché ovviamente dopo... no, anzi, ce l'ho già in elettronvolt in realtà, quindi potrei lasciarla anche in elettronvolt, dividerla per la carica dell'elettrone... però no, forse vi confondo le idee. Esprimetela meglio, meglio lavorare in Joule per non confondervi. Esprimetela in Joule e dividetela per la carica dell'elettrone e vedrete poi che arriverà un risultato interessante, perché ovviamente l'elettronvolt è fatto apposta per avere una carica dell'elettrone uguale a uno. 
+
+Poi ti dico: qual è la quantità di moto di questo elettrone dopo che è stato accelerato? Esprimiamo la quantità di moto. Non il delta p, ma proprio il p, il p finale. Il tempo non lo sappiamo? No, mi serve solo il p finale, non il delta p. Quindi, tu già hai calcolato la velocità e già avevi il fattore gamma. La quantità di moto relativistica si esprime come **$\gamma \cdot m \cdot v$**, okay? Attenzione a non confondervi $\gamma \cdot m \cdot c$, a volte capita. Quindi, tu in realtà il gamma l'avevi già calcolato dall'energia cinetica. La velocità la puoi esprimere perché era uguale a $\beta \cdot c$. Quindi, quel beta che avevi trovato prima... io già lo conosco. 
+
+Altra domanda che all'esame potrebbero chiedere: dopo che questa particella è stata accelerata, entra in una regione dove c'è un campo magnetico perpendicolare alla velocità. Campo magnetico di 12 Tesla, toh. Esprimiamo il raggio della traiettoria circolare. Vi ricordo che quando il campo magnetico e la velocità sono perpendicolari, la **traiettoria è circolare**, okay? Quindi, la forza di Lorentz è una forza di tipo centripeto. Forza di Lorentz: come la scriviamo? Ve la ricordate la forza di Lorentz agente su una particella? $q \cdot v \cdot B$. $q \cdot v \cdot B$, perché la forza di Lorentz non è relativistica, la forza di Lorentz è l'espressione $q \cdot v \cdot B$. Quindi...
+
+Intanto scriviamo, la **forza di Lorentz** come qvB, sarebbe per il seno di theta. Theta è l'angolo tra... cos'era? Velocità e...
+
+[DOMANDA STUDENTE: [inaudibile]]
+
+Non ho capito?
+
+[DOMANDA STUDENTE: Tra v e il campo B?]
+
+...e il **campo magnetico**. 
+
+Uguale a espressione della **forza centripeta relativistica**, quindi massa per gamma per l'**accelerazione centripeta**, cioè v quadro fratto r. E da lì si può ricavare l'espressione del raggio.
+
+Adesso basta per oggi, finiamo pure. Però queste sono tutte cose che si possono fare.

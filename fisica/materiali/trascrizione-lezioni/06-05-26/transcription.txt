@@ -1,0 +1,111 @@
+Ecco la trascrizione accurata della lezione:
+
+Dovete programmare qualcosa? Vi lascio l'ultimo quarto d'ora, se volete. Com'è andata la prova? Meno peggio? Quale avete fatto? Quella sul... era più facile?
+
+[DOMANDA STUDENTE: Non era più complicata, solo che si poteva sbagliare... forse meno rappresentativa... io volevo fare l'integrale sotto la curva per risolvere quel testo... mi sa che mi basterà per...]
+
+Allora, c'è qualcosa che devo correggere? Sì, cioè no, in realtà no. Se lo devo correggere lo faccio perché dopo vorrei evitare [inaudibile]. Allora domani... domani parliamo. 
+
+Questo è l'inizio dell'ultimo argomento che in realtà non finirò, andrò avanti con questo, un altro pezzetto e poco altro, solo per chiudere. Parla della **fisica moderna** sostanzialmente, che "moderna" cosa significa? Non certo quella recente, cioè dal dopoguerra in poi, ma siamo ancora all'inizio del '900. 
+
+[NOTA: Il problema, in realtà, è che è una fisica che va oltre perché dà origine a quella che è la **meccanica quantistica** e quindi, in un certo senso, è moderna perché tutto si basa su queste... su quello che vi dirò.]
+
+Però è un lavoro, il lavoro che vi dicevo parallelamente portato avanti da Einstein e riguarda appunto quello che avevamo già detto: l'**effetto fotoelettrico**. Quindi, adesso introduciamo... io lo introduco solo e basta, perché o impiego altri giorni oppure... 
+
+Allora, diciamo che parallelamente agli studi della relatività ristretta, Einstein porta avanti anche altri determinati tipi di studio. In particolare, studi che riguardano, se vogliamo dire, l'infinitamente piccolo; no? Prima abbiamo parlato di infinitamente grande con distanze percorribili con velocità relativistiche, eccetera. Adesso parliamo dell'infinitamente piccolo. In particolare, ci sono delle osservazioni fisiche che hanno posto alcuni dubbi su quello che ormai si pensava fosse del tutto accertato, cioè la bontà dell'elettromagnetismo.
+
+Quello che vi dirò io è sostanzialmente questo: l'**effetto fotoelettrico**. L'**effetto fotoelettrico** è stato analizzato all'inizio del '900, alla fine dell'800 e l'inizio del '900, inizialmente diciamo da [nome proprio: Lenard]. Ma chiaramente poi, insomma, a questo studio si è aggregato anche Einstein per cercare, appunto, di spiegarne... di darne la descrizione fisica. 
+
+[DEFINIZIONE:] L'**effetto fotoelettrico** consiste nell'emissione di elettroni da parte di una lastra conduttrice sottoposta, insomma colpita, da **radiazione elettromagnetica**. 
+
+Ora, chiaramente l'effetto fotoelettrico si verifica, lo andremo a vedere, in alcune condizioni. [nome proprio: Lenard] in laboratorio ha costruito, al meglio possibile, queste condizioni. [ESEMPIO:] In pratica abbiamo una lastra conduttrice all'interno di un tubo a vuoto; c'è praticamente dentro non c'è aria, niente, in questo tubo. Questo tubo qui ha un'apertura, vabbè, diciamo particolare, che permette l'ingresso della radiazione elettromagnetica che colpisce la lastra conduttrice. Questa lastra, diciamo che io ho posizionato a sinistra, è contrapposta qua invece, diciamo, a una lastra ricevente. Questa è la lastra e qua abbiamo una lastra ricevente. 
+
+Queste due estremità sono collegate a una batteria, a una differenza di potenziale $V$, e qui dentro, nel circuito, abbiamo un amperometro per misurare la corrente che circola all'interno di questo filo. Allora, quello che [nome proprio: Lenard] aveva osservato era che eventualmente — quindi non sempre — se colpiamo la lastra con una radiazione, da questa lastra escono degli elettroni in direzione totalmente casuale.
+
+Ora, tra queste due piastre si instaura un **campo elettrico** dato da questa batteria, che è orientato in questa direzione perché fa il giro partendo dal polo positivo. Su questi elettroni, quindi, agisce una **forza elettrica**, $F = q \cdot E$. Essendo la carica $q$ negativa, la forza elettrica è opposta al campo elettrico. Quindi ognuno di questi elettroni sente una forza elettrica orientata in questa direzione. 
+
+Quindi, che fanno questi elettroni? Chiaramente adesso io ho disegnato in realtà... esce, diciamo, una rosa di elettroni; qualcuno andrà per i cavoli suoi, qualcun altro la forza elettrica riesce a deviarli accuratamente per riuscire a mandarli qua. Allora, la radiazione estrae elettroni dal metallo che vengono convogliati verso la piastra a potenziale positivo tramite la forza elettrica. Questi elettroni entrano in circolo nel circuito e prima o poi passano attraverso l'amperometro che quindi misura il numero di elettroni che passano attraverso il filo, quindi la **corrente elettrica**.
+
+...creano corrente elettrica misurata dall'amperometro. Questa è la radiazione, diciamo radiazione, e questo è quello che succede. Ora, di per sé il fenomeno... aspettate un attimo che ve lo do molto più sintetico, però leggibile.
+
+Dicevo, di per sé il fenomeno non è strano perché, nel senso, la radiazione per l'elettromagnetismo, come l'elettromagnetismo insegna, trasporta energia. L'energia viene assorbita da questi elettroni; se l'energia è tanta, questi elettroni riescono a vincere i legami con il nucleo e possono separarsi dal nucleo stesso, quindi partire fuori dalla lastra, no? 
+
+In effetti la radiazione cede energia all'elettrone che, se è sufficiente, o meno, può liberarsi dal legame col nucleo e uscire dalla piastra. Poi il campo elettrico fa il resto. Il campo elettrico ordina questi elettroni in un moto, diciamo ordinato, verso il rilevatore che è la piastra positiva, in modo da riuscire a far passare questi elettroni qui per poter essere rilevati. Perché se io guardo 'sta roba qui, vedo l'elettrone? No, non sono capace, cioè l'elettrone è piccolo quindi non è che vedo l'elettrone che esce. Quindi, l'amperometro mi serve per vedere questo, per vedere effettivamente l'uscita di questi elettroni che sono passati, insomma usciti da qua. 
+
+Ora, come dicevo, il moto è disordinato, quindi qualcuno ce la fa ad andare qua, qualcun altro magari non ce la fa perché la forza elettrica non riesce a piegarlo sufficientemente, magari va a sbattere qui; comunque in ogni caso, bene o male, vediamo che c'è un arrivo di elettroni all'amperometro. E ora tutto questo, ripeto, non è strano perché la radiazione trasferisce energia agli elettroni, quindi questi possono uscire se effettivamente riescono a rompere il legame con il nucleo. 
+
+Le cose che danno problemi invece, cioè le osservazioni che danno problemi per l'elettromagnetismo sono queste due. **Prima osservazione problematica**, ovviamente problematica per la fisica classica. Adesso vi faccio un attimo qui uno schema: qua c'era la lastra, qua c'era la piastra positiva, qua usciva l'elettrone, arrivava qui e, diciamo, qua si creava il campo elettrico. 
+
+Allora dicevo, la prima osservazione problematica è questa: proviamo a fornire della radiazione con una certa frequenza fissata e una certa intensità. E vediamo come cambia la corrente che si crea in tutto questo circuito. Quindi: come varia la corrente in funzione del campo elettrico. Questa qui è la corrente misurata, qua ci metto il campo elettrico che io do. Cerco di disegnare ancora più compatto. Mandiamo una radiazione con una determinata frequenza specifica, specifica significa non esattamente quella che mi pare, perché dopo vedremo, però comunque di fatto una ad hoc. 
+
+Intanto pensiamoci un attimo: la radiazione che mi arriva ha una determinata intensità. **Intensità** quindi significa **energia**, una determinata energia. Qui mi arriva quindi un quantitativo di energia ben specifico, trasportato dalla radiazione. Gli elettroni escono. Che succede se, per esempio, io qui non metto alcun campo elettrico? [ESEMPIO:] Se non metto alcun campo elettrico significa porre questa differenza di potenziale qui uguale a zero, non c'è la batteria. Rilevo lo stesso il passaggio di elettroni? La risposta è sì, perché gli elettroni escono un po' dappertutto, ripeto, casualmente. Quindi, in tutti quelli che usciranno, qualcuno effettivamente ce la fa ad arrivare fino a qua; due però ce ne arriveranno. Quindi, anche senza campo elettrico qualche elettrone riesce ad arrivare alla piastra positiva e a entrare in circolo nel rilevatore. 
+
+Quindi, come cambia la corrente in funzione della differenza di potenziale che do? Se il delta V fosse zero, sì, un po' di corrente potrei misurarla. Aumentiamo il delta V: quindi cominciamo a creare un campo elettrico rivolto in questa direzione. Adesso questo campo elettrico, quindi la forza elettrica, è in grado di catturare, diciamo così, verso questa piastra anche quegli elettroni che magari prima erano andati in altre direzioni. Mi aspetto quindi che aumenti il numero di elettroni che arriva sulla piastra; pertanto, all'aumentare di delta V mi aspetto che la corrente misurata cresca. 
+
+Ricapitolando: a delta V uguale zero solo alcuni riescono ad andare sulla piastra perché il loro moto casuale è "fortunato". Se delta V aumenta, la forza elettrica riesce a convogliare molti più elettroni verso la piastra, quindi la corrente aumenta. Quello che si è visto è che io posso aumentare il delta V quanto mi pare, però a un certo punto... [inaudibile]
+
+Oltre un certo limite di **corrente** non riesco ad andare, perché? Perché di fatto gli elettroni che riesco a estrarre più o meno saranno quelli, toh, 500. Mettiamo che riesco a estrarre 500 elettroni grazie alla mia intensità. La **forza elettrica** può essere forte da riuscire a inglobarli tutti e 500, ma poi, cioè oltre a quelli non vado, cioè non ci sono più elettroni da convogliare. Quindi, se anche aumento il **delta V**, alla fine io gli elettroni li avevo già catturati tutti, non c'era bisogno di aumentare ulteriormente.
+
+Quindi **I aumenta fino a un valore limite**, chiamiamolo $I_1$. [ESEMPIO:] Per esempio questo qua. In che modo aumenta? In maniera, diciamo, sembra quasi logaritmica ma non è un logaritmo. Comunque non lineare, diciamo, è un asintoto.
+
+Ora però arriva, diciamo, da zero il **potenziale** lo voglio invertire. Quindi il **campo elettrico** non va più così, fa così. Sono nella situazione in cui questo è zero, da qui in poi sto invertendo il campo elettrico. Quindi in questa direzione il campo elettrico non è invertito e di qua invece il campo $E$ è invertito. 
+
+E che succede? Allora, se inverto il campo elettrico, vabbè avevamo detto che a zero ne arrivava qualcuno. Se inverto il campo elettrico, la forza elettrica su questi elettroni stavolta va in questa direzione. Quindi questo campo elettrico spinge gli elettroni a stare vicino alla piastra, non ad arrivare alla piastra positiva. E quindi delta V, gli $e^-$ raggiungono la piastra positiva con più fatica, con più difficoltà. 
+
+Perché? Perché gli elettroni che saranno molto energetici, quindi hanno **tanta energia cinetica**, ancora riescono a scampare al fatto che la forza elettrica li spingerebbe verso la piastra da cui son partiti. Ma quelli più deboli, quelli che sono usciti con poca energia cinetica, quelli, pace, il lavoro della forza elettrica annienta completamente l'energia cinetica che avevano all'inizio. 
+
+Quindi gli $e^-$ raggiungono la piastra perché gli $e^-$ con più energia cinetica riescono a raggiungere comunque la piastra, ma il lavoro della forza elettrica riesce a contrastare completamente l'energia cinetica di quelli meno energetici. 
+
+[NOTA: Il docente si interrompe per commenti personali sulla gestione dell'orario e sull'umore, definendosi "felice, faticosa e serena".]
+
+Di fatto, noi sappiamo questo. Voi sapete com'è fatto più o meno un **atomo**: ha un **nucleo** con i **livelli energetici** attorno per gli elettroni. Diciamo il primo magari è questo, questo è il nucleo, primo livello, poi a grande distanza magari c'è il secondo livello e via via i livelli diventano sempre più vicini, d'accordo? 
+
+Ora, qui c'è un elettrone, oh qua c'è un altro elettrone, vengono colpiti tutti e due da questa **radiazione**, inglobano una certa quantità di energia. Quindi, come la impiegano questi elettroni sta energia? Arriva della roba dall'esterno, gli elettroni la prima cosa che fanno è: impieghiamola per fare del lavoro e **liberarci dall'attrazione del nucleo**. Poi, se ne resta ancora un po', rimarrà a me elettrone come **energia cinetica** in uscita dalla piastra. Se non è sufficiente questa energia per liberarmi dall'attrazione del nucleo, che faccio? Vabbè, io me l'accumulo, no? Poi pian piano arriverà un'altra onda e colmerà quello che mi serve per uscire dall'attrazione del nucleo e poi eventualmente con l'energia cinetica, perché io potrei uscire dalla piastra e stare fermo lì, l'energia cinetica non ne ho più di fatto, ok?
+
+Quindi l'energia che arriva, quella quindi della radiazione, viene impiegata... diciamo serve energia per liberarsi dal nucleo, poi ci rimarrà quello che resta, se ce ne rimane, come energia cinetica. Ora, chi è dei due che fa più sforzo per liberarsi dal nucleo? Questo o questo qua? Sarà l'$E_1$, perché l'$E_1$ è molto vicino al nucleo. Questo qua praticamente vede il nucleo col binocolo, lontano dagli occhi lontano dal cuore, quindi di fatto funziona anche lì così, la fisica non è una [parolaccia]. 
+
+L'elettrone 2 è molto più lontano dal nucleo, la forza di attrazione tra cariche positive e negative è veramente bassa, quindi devo far poca fatica per liberarmi di sta forza di attrazione. L'$E_1$ invece è molto più vicino, quindi **ci vuole più energia per l'$E_1$**. Quindi a parità di radiazione che arriva, l'$E_1$ può uscire, potrebbe, però di energia cinetica ne ha meno rispetto all'$E_2$, ok? L'$E_1$ è meno energetico all'uscita, mentre l'$E_2$ è più energetico. 
+
+[DOMANDA STUDENTE: Non riuscite a seguire?] 
+
+Dicevo, quindi quando questi escono da qui hanno ognuno la propria energia.
+
+Ecco la trascrizione accurata della lezione di fisica:
+
+...**energia cinetica**. I primi a essere fermati sono questi qua, quelli che hanno dato tanto per liberarsi. Gli ultimi a essere fermati sono questi qua, quindi per fermare questi io devo dare un **campo elettrico molto più grande**. Ok? Devo fermare, quindi in realtà devo andare di qua.
+
+Però a un certo punto, li fermo. Cioè non è che qua ce ne sono infiniti di elettroni. Una volta che ho fermato questi, che sono quelli più estremi, fine. Ok? Non passa più niente. Perciò esiste un **delta V di arresto**. Cioè sotto quello io posso ancora diminuire il delta V, però gli elettroni sono già tutti bloccati, non c'è più nulla che devo bloccare. 
+
+Questo delta V di arresto di solito viene indicato con **delta V zero ($\Delta V_0$)**. Quindi, quando anche i meno energetici non riescono ad allontanarsi dalla piastra conduttrice — ok, quindi non c'è più energia... no, non c'è più corrente — raggiungo il **potenziale delta V zero di arresto**. Ok? Oltre quello, a maggior ragione non si muove più niente, non c'è più corrente. 
+
+Adesso ditemi, e poi dopo chiudo perché così fate quello che dovete fare, però voglio chiudere questo perché è inutile che tronchi a cinque sesti della lezione. Ok, allora. Però abbiamo detto, questa energia in arrivo dipende dall'**intensità** della radiazione, no? Perché sappiamo che l'intensità è uguale a potenza fratto superficie ($I = P/S$), potenza uguale energia fratto delta T ($P = E/\Delta t$), no? 
+
+Quindi, se arriva una radiazione uguale a quella di prima, cioè con la stessa **frequenza**, però più intensa, che cosa mi aspetto per questi elettroni? Ci saranno sempre quelli meno energetici all'uscita e quelli più energetici. D'accordo? L'energia di quelli più energetici sarà maggiore o minore rispetto all'intensità precedente? 
+
+Ripeto. Questa qui io l'ho ottenuta con l'intensità $I_1$, ok? Adesso aumentiamo l'intensità $I_2$. [ESEMPIO:] Facciamo che $I_2$ sia uguale, per esempio, a due volte questa qui. Cosa mi aspetto in questa equazione? Che l'energia in arrivo sia la stessa, aumentata o diminuita?
+
+[DOMANDA STUDENTE: Aumentata.]
+
+Aumentata la $I$. È cambiato il **lavoro** che devo fare per liberarmi dal nucleo? 
+
+[DOMANDA STUDENTE: No.]
+
+No, dipende dalla mia posizione e basta. Quindi cambia l'**energia cinetica**? 
+
+[DOMANDA STUDENTE: Sì.]
+
+Ok. Aumenta o diminuisce rispetto a quella di prima? 
+
+[DOMANDA STUDENTE: Aumenta.]
+
+Aumenta. Quindi ci saranno sempre elettroni meno energetici e più energetici, ma questi qui sono più energetici di prima o no? 
+
+[DOMANDA STUDENTE: Sì.]
+
+Sì. Quindi mi aspetto che il potenziale di arresto sia sempre più basso. **E invece no.** Quando abbiamo una $I$, diciamo un'intensità diversa, maggiore rispetto alla precedente, l'andamento della corrente più o meno sarà lo stesso, ma **il problema è che il potenziale di arresto non cambia. Rimane sempre quello.**
+
+Quindi questo è il **problema** dell'elettromagnetismo, poi vedremo. Se aumenta $I$, aumenta l'energia della radiazione, quindi aumenta l'energia cinetica, quindi mi aspetto delta V zero ancora più basso. Ma le osservazioni ci contraddicono: mostrano che **delta V zero rimane costante**. E quindi questo è un problema.
+
+[NOTA: Il docente conclude la spiegazione per lasciare spazio alle attività degli studenti.]
+
+Bene, adesso fate quello che dovete fare.

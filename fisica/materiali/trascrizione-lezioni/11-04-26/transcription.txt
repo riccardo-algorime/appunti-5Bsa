@@ -1,0 +1,153 @@
+[DOMANDA STUDENTE: Una navicella viaggia alla velocità v uguale 0,95c rispetto alla terra. Supponi che la terra e Alfa Centauri siano ferme l'una rispetto all'altra e quindi chiede di calcolare la durata del viaggio nel riferimento terrestre e dell'astronauta. Quella del terrestre mi viene, però non mi viene quella dell'astronauta.]
+
+Allora, quello terrestre mi viene... nel senso, diciamo $\Delta t$ terrestre, lo chiamo così, poi dopo vediamo se è quello proprio o meno. Il $\Delta t$ terrestre è dato, visto che la velocità è costante, dalla distanza che è misurata nel sistema di riferimento in cui questi due oggetti sono fermi, quindi diciamo relativamente alla terra, quindi 4,3 anni luce fratto la velocità dell'astronave. Posso lasciare scritto, questo significa in inglese *light year* perché si legge come unità di misura anni luce. 4,3 diciamo anni, se lo volessi esprimere, per c, fratto 0,95 c, che è la velocità. [DOMANDA STUDENTE: Lo so, cioè lo sapevo, era per richiamare a me perché stavi guardando tutt'altro, capito? Quindi...] Ah, stavo guardando quello che avevi fatto. Quindi c se ne va con c e rimane 4,3 fratto 0,95 per trovare il tempo t del viaggio rispetto alla terra. Mi dici quanto viene questo? [DOMANDA STUDENTE: Quello rispetto alla terra deve venire 4,5. A me veniva 4,3, però non so...] Può essere 4,32, adesso si prova. Perché avevo fatto... sì, viene 4,5.
+
+Viene 4,5. Allora, questa è la distanza percorsa dalla luce, cioè scusate, la distanza misurata Terra-Alfa Centauri: 4,3 anni, quindi un tempo, per la velocità della luce, che è c. Sotto lo divido per la velocità espressa in funzione della velocità della luce. Quello che mi rimane sono gli anni, giustamente, quindi 4,3 diviso 0,95. Allora, questo qui è un **tempo proprio** oppure no? Io ho due sistemi di riferimento: la navicella e la terra. L’osservatore che è sulla terra vede la partenza da terra in una coordinata - l'osservatore è qui nell’origine del suo sistema di riferimento xy - vede la partenza da terra nell'origine e l'arrivo su [termine incerto: Antares] in una coordinata x che è data da 4,3 anni luce. Quindi lui **non vede un tempo proprio**, perché i due punti partenza e arrivo sono in due coordinate diverse.
+
+La navicella, invece, ha un sistema di riferimento x’ y’ solidale con lei, per cui al tempo t0 della partenza la terra è nell'origine dove c'è l’osservatore, e quando arriva su [termine incerto: Antares], l’osservatore che è sempre sull’origine vede [termine incerto: Antares] arrivare sull’origine. Quindi nel sistema SR’ [termine incerto: Antares] e la terra si trovano esattamente nella stessa coordinata x’ che è l’origine. Quindi l’osservatore nella navicella misura il $\Delta t_0$. Questo qui deve essere il $\Delta t$ dilatato. [DOMANDA STUDENTE: Quindi quello visto dalla Terra?] Sì.
+
+Il **$\Delta t$ dilatato** è uguale a $\Delta t_0$, quindi quello della nave, per il **fattore gamma**, dove gamma è 1 sulla radice di 1 meno beta quadro, e beta è il coefficiente moltiplicativo della velocità della nave, che è 0,95. Quindi questa roba deve venire roba maggiore di 1, per cui se devo trovare il $\Delta t_0$ faccio $\Delta t$ misurato da terra fratto gamma. Vediamo quanto viene questo gamma. A me il gamma viene 3,2. Allora, 4,5 diviso questo fa 1,4 anni. No, mi chiedeva il tempo di viaggio per l'astronauta, è lui. Però lui dice che viene 1,4... ah no, allora ok, dimmi qual era la domanda. [DOMANDA STUDENTE: Calcola la durata del viaggio nel riferimento terrestre e nel riferimento dell'astronauta.] E viene 1,4. Allora, avevo sbagliato a calcolare il gamma. Sì, viene 1,4. Ok, grazie.
+
+[DOMANDA STUDENTE: Ma d'altronde cosa avevo sbagliato? Io avevo fatto... mi ero prima ricavato il $\Delta t$ però l’avevo ricavato usando $\Delta t_0$ fratto radice di 1 meno v quadro fratto c quadro, e mi veniva il tempo sulla Terra che era 1,35 che avevo approssimato a 1,4 perché mi sembravano numeri uguali...] Questo qui l’hai calcolato? [DOMANDA STUDENTE: Sì, l’ho calcolato dopo che ho ricavato 1,35 perché avevo fatto l’inversa in cui $\Delta t$ era uguale a $\Delta t_0$ fratto perché il $\Delta t$ terrestre era 4,3 anni...] No, 4,3 anni è il tempo che ci mette la luce, non la nave. Hai capito? Tu stai parlando del tempo che ci mette la nave, che viaggia a una velocità inferiore. I 4,3 anni sono quelli che ci mette la luce per arrivare dalla Terra ad Alfa. Quindi non puoi usare il tempo della luce, devi usare un tempo relativo alla nave in uno dei due sistemi di riferimento. 
+
+**Ricordate che** non potete usare il 4,3 anni per inserirlo nell'espressione del $\Delta t$ dilatato uguale $\Delta t_0$ per gamma. Perché quell'espressione lì vale soltanto, e lo vedremo più avanti, vale soltanto quando un corpo si muove con una velocità che si avvicina a c, ma non che arriva a c. 4,3 anni invece è un corpo... è la luce che si muove proprio con c, quindi quell'espressione per un oggetto che si muove con c non vale proprio.
+
+Altro da chiedermi? Niente? Allora procedo con la **relatività delle lunghezze** che avevo già impostato almeno dal punto di vista dei sistemi di riferimento. 
+
+[ESEMPIO:] Andiamo a disegnare il solito treno con la banchina. Chiamiamo SR...
+
+Ecco la trascrizione accurata della lezione di fisica:
+
+L'ultima volta mi ero fermato all'osservatore O e avevo accennato al palo 1 e al palo 2 a una distanza *d*, con il treno che si muove con una **velocità relativistica** nel mio sistema di riferimento S' e l'osservatore O'. Allora, l'ultima volta mi ero fermato qui. 
+
+Devo misurare, come dicevo l'altra volta, voglio misurare la distanza dei due pali vista dal sistema di riferimento SR o SR'. O meglio, voglio mettere in relazione quella che misuro in SR con quella che misuro in SR'. Ovviamente non ho il metro, ma se avessi il metro cosa farei? Misurerei, qui troverei 10 metri, qua troverei chissà che cosa e quindi qual è la relazione tra queste due? Dovrei fare più misurazioni e dovrei fare un [termine incerto: fit] di tutti i dati eccetera, no? [NOTA: il docente riflette sulla metodologia di misurazione pratica prima di passare alla teoria]. Quindi è meglio ragionare in un altro modo. 
+
+Io so che c'è una relazione — non so ancora la relazione fra le distanze — però so che c'è una relazione fra i tempi misurati in questo sistema di riferimento. Io so che il **delta t dilatato ($\Delta t$)** è uguale al **delta t proprio ($\Delta t_0$)** per il fattore **gamma ($\gamma$)**. Questa volta, come facciamo quindi per misurare questa distanza? Abbiamo detto: conosco la velocità *u*, ho due cronometri, uno solidale con O' e l'altro solidale con O, sincronizzati. Misuro il tempo che ci mette il treno a passare da P1 a P2, lo moltiplico per la velocità e trovo la lunghezza che il treno ha percorso, e questa lunghezza è la distanza tra i due pali. 
+
+Quindi, l'evento 1 in questo caso qui è il passaggio del treno da P1, e l'evento 2 — che mi determina il $\Delta t$ o il $\Delta t_0$ — è il passaggio da P2. Ok, allora: dal punto di vista, intanto al solito, stiamo parlando di tempi, dobbiamo chiederci chi è che misura il **tempo proprio** tra i due osservatori. Cioè, chi dei due osservatori vede questi due passaggi sempre nella stessa coordinata spaziale? 
+
+Abbiamo capito che, prendiamo per esempio O solidale nel sistema di riferimento suo $x, y$ con l'origine, e O' idem con la sua origine. Quello che posso dire è che O vede il treno passare in P1 in questa coordinata qui; quando lo vede passare in P2, lo vede passare in questa coordinata qui. Quindi sono due coordinate diverse e quindi O **non misura il tempo proprio**, O misura il dilatato ($\Delta t$). 
+
+Quello che misura ovviamente il tempo proprio in questi due casi non può essere altro che O', perché abbiamo solo due osservatori, però è anche evidente perché: quando O' passa da P1, il passaggio da P1 avviene qui, quindi quando O' si trova qui, P1 passa nell'origine di $x'$. Il treno trasla e quando arriva qui, P2 arriva passando sempre nell'origine del sistema $x', y'$. 
+
+[ESEMPIO: È come dire che l'osservatore O' è davanti alla finestra del vagone, vede il paletto 1 passare davanti alla finestra del vagone, cioè nell'origine, e poi vede P2 passare sempre davanti alla finestra del vagone, quindi nell'origine]. Quindi O' misura il **delta t zero ($\Delta t_0$)**. 
+
+Quindi, dal punto di vista di O, la distanza *d* che misuro tra P1 e P2 la posso scrivere come la velocità del treno per il delta t dilatato: 
+$d = u \cdot \Delta t$
+
+Mentre dal punto di vista di O', la distanza *d'* misurata in SR' la potrò scrivere come la velocità dei due paletti per il tempo $\Delta t_0$. I due paletti sono, vedete, fermi a terra, fissi a terra, cioè significa solidali con O. Cioè il segmento P1-P2 è fermo rispetto all'osservatore O. Quindi, se questo è fermo rispetto a O, O' vedrà questo segmento P1-P2 andare in verso opposto esattamente con la velocità del treno. Quindi la distanza *d'* sarà data dalla velocità di questo segmento, che è sempre *u*, per il $\Delta t_0$:
+$d' = u \cdot \Delta t_0$
+
+Allora, adesso confrontiamo queste due espressioni. Sappiamo che per esempio che il $\Delta t$ è uguale al $\Delta t_0$ per $\gamma$. Possiamo andare a fare una sostituzione o in qualche modo dobbiamo cercare di mettere in relazione queste due grandezze. Posso anche fare, visto che c'è sempre la *u* di mezzo, posso fare che questo fratto questo è uguale a questo fratto questo: 
+$d / d' = \Delta t / \Delta t_0$
+
+$\Delta t / \Delta t_0$ lo ricavo da qua [indica la formula della dilatazione temporale] ed è uguale a **gamma ($\gamma$)**, e quindi questo è gamma. Per cui posso dire che **d è uguale a d' per gamma ($d = d' \cdot \gamma$)**. 
+
+Ma anche qui la notazione *d, d'*, quindi SR, SR', ha veramente poco significato, perché se io avessi invertito il nome dei sistemi di riferimento avrei detto: "beh, allora adesso qual è quella che devo associare a *d* o a *d'*?". Otterrei una misura diversa dalla precedente. Anche qui, quindi, dobbiamo introdurre il concetto di "proprio", quindi definire una **lunghezza propria**. 
+
+**Ricordate che la lunghezza propria ($L_0$) è la lunghezza misurata dall'osservatore che vede il segmento fermo.** Chi è che lo vede in questo caso? L'osservatore O, abbiamo detto no? Che era questo. Quindi in questo caso è O. Sarà sempre O? Dipende dov'è che è posizionato questo segmento che sto misurando.
+
+[ESEMPIO:] Ad esempio: chi è che vede la **lunghezza propria** del treno? O primo. La **lunghezza propria** del treno è determinata, diciamo, dalla distanza tra testa e coda. Quindi il segmento di cui stiamo parlando è questo segmento qui.
+
+Rispetto a quale osservatore questo segmento è in quiete? Non certo rispetto a O, perché si muove, ma rispetto a O primo sì. Quindi sarà O primo che misura la **lunghezza propria** del treno. Per cui, anche in questo caso, fate attenzione ad associare correttamente qual è l'osservatore che misura il proprio, la **lunghezza propria**. 
+
+Quindi questa relazione la riscriviamo parlando di $L_0 = L \cdot \gamma$. $L_0$ è la propria, $L$ è quella vista dal sistema che non vede la lunghezza propria, $\gamma$ lo sappiamo. Per cui $L$ è uguale a $L_0$ fratto $\gamma$. Quindi, sapendo che $\gamma$ è maggiore o al più uguale a 1, io posso dire che la lunghezza per questo segmento che vede un osservatore che non misura la **lunghezza propria** sarà una lunghezza inferiore rispetto a quella propria. 
+
+Quindi, se io sono un osservatore solidale con questo segmento misuro la **lunghezza propria**. Se sono un qualsiasi altro osservatore non solidale con questo segmento, io vedrò una lunghezza inferiore rispetto alla propria. Si chiama questo effetto, quindi, **contrazione delle lunghezze**. Siccome $\gamma$ è, diciamo, maggiore o uguale a 1 — maggiore, diciamo, per effetti relativistici — $L$ minore di $L_0$: **contrazione delle lunghezze**.
+
+Naturalmente, quando siamo in regime galileiano, quindi $\gamma$ circa 1, la lunghezza che misuro in un sistema, diciamo, solidale col segmento oppure no, più o meno è la stessa. Questo è, diciamo, compatibile con quello che diceva la relatività galileiana quando affermava che la lunghezza di un segmento era un invariante rispetto ai sistemi di riferimento.
+
+**Nota bene**, però: l'effetto della **contrazione delle lunghezze** si applica solo a quelle lunghezze che sono dirette nella direzione del moto. Cioè, pensateci un attimo: il treno qui (adesso lo disegno un attimo)... il treno qua si sta muovendo lungo la direzione orizzontale, okay? Ma il treno non è un segmento, cioè il treno è caratterizzato da una lunghezza e da un'altezza. Quindi, in realtà, io avrei anche la sua altezza $H$ per descrivere adeguatamente... poi ci sarebbe una profondità, ma lasciamo stare... però per descrivere adeguatamente il treno io dovrei parlare di altezza e di larghezza, insomma lunghezza. 
+
+Il treno si muove in questa direzione qui e noi abbiamo detto che l'osservatore vedrà questa lunghezza contratta perché è O primo che misura la **lunghezza propria** del treno. Che succede a questa dimensione qua? Questa dimensione qua è perpendicolare alla direzione del moto. Quindi questa non subisce la **contrazione delle lunghezze**. Cioè, l'osservatore O la distanza $H$ la misura $H$ come la misurerebbe chi è sul treno, quindi come O primo. Perché? Perché non è una direzione che è parallela allo spostamento del treno. Quindi l'effetto si verifica solo per le direzioni parallele al moto. Quindi $H$ non è contratta per O.
+
+Allo stesso modo, quindi, sostanzialmente, [ESEMPIO:] facciamo un esempio: questo treno è un rettangolo. Che aspetto mi aspetto di vedere se fossi O? Se sono O primo, vedo il treno con altezza $H$ e base $L_0$. O, invece, vedrà un treno con altezza $H$ e base $L$ contratta, quindi un treno più stretto. Se il treno fosse stato, quindi, un quadrato, O come l'avrebbe visto? Ancora quadrato? Un rettangolo. Se fosse stata una circonferenza, come l'avrebbe vista O? Un ovale, quindi un'ellisse, e così via. Quindi la forma degli oggetti può cambiare da un sistema di riferimento a un altro.
+
+Ma se a muoversi fosse stato un segmento inclinato? L'osservatore O primo è seduto sul segmento e l'osservatore O è qui. Sarebbe cambiata la lunghezza del segmento? Sì, perché questo segmento nel sistema $XY$ si scompone in componente parallela e componente perpendicolare. La componente perpendicolare non risente della contrazione, la componente parallela sì. Quindi io vedrò... cioè lui vedrà un segmento che ha stessa componente perpendicolare ma una componente parallela più contratta. 
+
+Quindi questa lunghezza non sarà la $L_0$ misurata di qua e, soprattutto, questo angolo qui non sarà questo angolo qua. Perché è vero, sarà perpendicolare a queste due, però questo è più piccolo di questo, quindi cambia anche la tangente dell'angolo con l'asse $X$. Quindi tutte le componenti orientate lungo la direzione di moto subiscono quella **contrazione delle lunghezze**, ma solo quelle. Domande?
+
+Adesso aspetto che abbiate finito di scrivere e poi... [ESEMPIO:] un esempio di quello che... diciamo dei dati a favore...
+
+Ssh. Va bene. Allora, Einstein, ma non solo, si è fatto, si è fatto tutti questi viaggi. Perché dico non solo? Perché quel cacchio di gamma si chiama fattore di Lorentz. No? Non è che, oh, ero tanto affezionato a Lorentz, gli do il nome di un fattore, ciccio. Mi terrei il mio gamma, cioè, se l'avessi inventato io il gamma, no, lo chiamerei fattore Piccialli. E così Einstein, l'avrebbe, no, chiamato fattore di Einstein. Invece l'ha chiamato fattore di Lorentz, cioè si chiama fattore di Lorentz.
+
+[NOTA: Adesso apro parentesi e chiudo perché non è quello che devo spiegare adesso, lo spiegherò più avanti probabilmente. Però sostanzialmente perché si chiama fattore di Lorentz?] Perché il fattore gamma viene introdotto prima della formalizzazione della relatività ristretta. La relatività ristretta viene formalizzata nel 1905. Il fattore di Lorentz viene introdotto ancora prima del 1904. Okay, quindi, insomma, si parla di fattore di Lorentz ancora prima del 1904.
+
+Perché? Perché noi tutti già sappiamo che l'elettromagnetismo con la relatività galileiana non andavano tanto d'accordo, okay? In particolare avevamo capito che se valeva la relatività galileiana l'elettromagnetismo aveva dei problemi e non poteva essere considerata una teoria universale, cioè la applico così com'è in SR o in SR primo. Avrei dovuto modificarne le leggi in termini di quella relatività tra SR ed SR primo, cioè se SR primo è in moto dovrei modificare le leggi dell'elettromagnetismo, okay?
+
+Il problema era quello, da cui poi discendevano tutti gli altri problemi: la costanza della velocità della luce, la forza di Lorentz, tutto il resto, okay? Però andando al succo, diciamo, il problema da cui discendeva tutto era quello lì: le leggi dell'elettromagnetismo sarebbero cambiate in funzione del sistema di riferimento. Che scienza, che teoria è una teoria che devo riadattare in ogni sistema di riferimento? Buttala via, se ogni volta che cambio sistema mi devo ricavare le leggi dell'elettromagnetismo, ciao o né, okay?
+
+Va bene. Allora Lorentz cosa ha detto? "Vabbè, vediamo come dovrebbero cambiare le leggi della relatività, cioè le trasformazioni di Galileo, se volessimo che l'elettromagnetismo fosse una teoria universale, cioè non dovesse cambiare le leggi in funzione del sistema di riferimento, okay?". Quindi lui sostanzialmente ha introdotto per primo delle nuove leggi matematiche che mi descrivessero la relatività del moto tra SR ed SR primo.
+
+E in quelle leggi lì, che si chiamano **trasformazioni di Lorentz**, non più le trasformazioni di Galileo, viene introdotto per la prima volta il **fattore gamma**. Okay? Per questo, quindi, quelle leggi sono state introdotte come puramente artificio matematico per cercare di incastrare magnetismo e relatività galileiana. Einstein, quando ha formalizzato quella teoria, si è accorto, e l'ha fatto, che dai suoi due postulati quelle leggi che Lorentz aveva ricavato, quelle trasformazioni che Lorentz aveva ricavato, venivano naturalmente. Cioè il paradigma che Einstein aveva costruito era compatibile con quelle trasformazioni.
+
+Quindi di fatto le trasformazioni che Lorentz aveva pensato un paio, due, tre, quattro anni prima erano compatibili con la relatività ristretta di Einstein. Quindi Einstein giustamente ha detto "non è merito mio, cioè nel senso, io ho semplicemente dimostrato che quelle trasformazioni lì sono compatibili con questa nuova visione, però effettivamente il primo che l'ha pensato è stato Lorentz e il primo quindi che ha introdotto il fattore gamma è stato Lorentz". Ecco perché **fattore di Lorentz** e non di Einstein.
+
+Quindi, per dirvi che quando si formalizza una teoria, giustamente non è che uno parte da solo, bah, arriva la [nome proprio: Foggiali] che mi suggerisce... "Ma prof, qui c'è un errore!". "No, cosa vuoi?". No, la [nome proprio: Foggiali] arriva giustamente e dice "Ma io, guarda, avrei pensato questo, magari t'aiuto". No, anzi sì, prendo e poi dopo, se è giusto, le do il merito che... un francobollo, una costante fisica, oppure un fattore di [nome proprio: Foggiali], okay? Quindi funziona così. [nome proprio: Casati] era distratta per questo, la [nome proprio: Foggiali] era un'ottava e lei è una contribuente, lei ha contribuito... [ESEMPIO:] Alla relatività ha contribuito non soltanto Einstein, Lorentz per esempio è uno che ha contribuito, ma poi altri ulteriori.
+
+Ora, però uno dice: "Oh vabbè, Einstein lavorava mi sembra, se lo ricordo male, all'ufficio anagrafe di Berlino". Quindi puramente una pubblica amministrazione di quelli tanto amati oggi. Diciamo, "cosa vuoi che ne sappia lui?". Lui tornava a casa, la moglie l'aveva eh, quindi poteva anche passarsi le serate diversamente, per quanto non sia un esempio di buon marito, narrano le cronache, diciamo così. Anzi, proprio di no, cioè...
+
+[DOMANDA STUDENTE: Einstein?]
+Einstein. Diciamo che nei confronti della moglie teneva uno di quei comportamenti che oggi darebbero adito a metterti un braccialetto elettronico, okay? Però all'epoca, all'epoca la donna serviva esclusivamente alla riproduzione, poco più di una giumenta, diciamo, no? Per cui figurati, no? Se sì... Vabbè, insomma dopo ci sono tante altre cose, lasciamo stare. Detto questo, si raccontano le cronache che lui andasse a lavorare in bicicletta, e nel momento in cui vedete usate la bicicletta, nel momento in cui andava a lavorare in bicicletta formulava i suoi esperimenti mentali, le sue teorie, quindi fa bene pedalate che fa bene ad anima, a corpo e mente.
+
+Detto questo ancora, io però sono lo spettatore e dico "Vabbè, ascolta, Einstein tornava a casa, la moglie si chiudeva in bagno e fine. Non c'era la televisione, i libri li avrà letti tutti perché era comunque un appassionato. In bicicletta, cosa vuoi?". Vabbè, si faceva i suoi viaggi mentali, l'abbiamo visto, si è partorito una teoria che quali applicazioni vuoi che abbia? Secondo me è stata tutta fuffa mentale. E in effetti uno poi dire: "Vabbè oh ascolta, tu hai partorito sta roba qui, ma se poi alla fine non c'è nessuna evidenza ambientale che mi dia effettivamente adito al fatto che tu abbia detto qualcosa che può avere un senso, io dico vabbè è stato tutto un tuo parto, il parto di un pazzo che effettivamente magari la moglie poteva stare un po' più attenta a prenderselo". Invece non è così.
+
+Una delle evidenze della correttezza della relatività ristretta è proprio questa qui: è il **tempo di vita dei muoni**. 
+
+[DOMANDA STUDENTE: Tutti sapete cosa sono i muoni?]
+No, okay, nel senso... non sono un chimico, non posso dire... So che sono una dell'ennesime particelle che vengono prodotte nell'alta atmosfera grazie all'interazione dei raggi cosmici con l'atmosfera stessa. Perché stiamo parlando di muoni? Perché evidenzia... perché dopo vi dirò, però insomma non è che sono una particella speciale rispetto alle altre, sono una delle tante, tutto giusto. 
+
+I muoni, che vengono identificati col simbolo $\mu$, sono particelle che si producono nelle alte sfere dell'atmosfera. Praticamente, se ricordo male sono 5.000 chilometri, se non mi sbaglio... [termine incerto: 5.000 chilometri o no, 5 chilometri...] Fammi ricordare... no, 5.000 chilometri... vabbè... Vabbè, qui mi dà questo dato... e che si muovono a velocità relativistica, indicativamente 0,9955 [termine incerto: c], quindi molto vicini alla velocità della luce. Quindi loro partono da qua... parte la Terra... e qua ci sono i 5 chilometri di distanza dalla nascita.
+
+[DOMANDA STUDENTE: Particelle che si producono dopo lo scontro... nelle alte sfere dell'atmosfera?]
+
+Ok. Ora, però, i **muoni**... adesso questo è un esperimento che è stato fatto, però ovviamente in tempi più recenti di quando è stata partorita, diciamo, la relatività ristretta; parliamo già degli anni '60 del 1900, quindi siamo già un po' in avanti, no? 
+
+Però diciamo che è l'esperimento secondo me più chiaro per dare adito alla credibilità di questa **relatività ristretta**, perché è difficile dargli credibilità quando non ti puoi muovere a velocità relativistiche. Muoni, muoni... ok, fate l'esercizio con la "u", muoni, aiuta anche per le rughe. [NOTA: commento scherzoso del docente sull'esercizio facciale]. 
+
+Dicevo, i muoni nascono qua, ne nascono un tot $N_0$ elementi, insomma ce ne sono ovviamente... dipende da quanti ne produce lo scontro con i raggi cosmici e comunque io, che sono a terra qua, riesco a vederne qualcuno. Quindi questi muoni a terra ci arrivano, magari non ci arrivano tutti. Sono particelle instabili in realtà, quindi nascono e poi a un certo punto decadono in altra roba. Ok, però qualcuno riesce ad arrivare fino a terra, quindi sulla terra riesco a ricevere i muoni. Non tutti, ma qualcuno sì. 
+
+Ora, quando io sono in laboratorio e quindi invece vedo il muone fermo, posso misurare il suo **tempo di vita**. Ok? Il tempo di vita del muone fermo, il $\Delta t$ di vita, è uguale... adesso fatemi prendere i numeri giusti... è circa $2,2 \times 10^{-6}$ secondi. 
+
+[ESEMPIO:] Ora, è un tempo di vita medio, cioè non è che tutti i muoni esattamente scadano dopo $2,2 \times 10^{-6}$ secondi, però sostanzialmente un tempo di vita medio è questo. Ok? Ci siamo. Quindi uno dice: questo cacchio di muone campa praticamente niente. D'accordo? Però in questo tempo qui lui deve riuscire a farmi 'sta distanza, altrimenti come faccio io a vederlo a terra? Ok? 
+
+Allora vediamo quanta distanza percorre con questa velocità in questo tempo. Quindi, distanza percorsa: $0,995c \times 2,2 \times 10^{-6}$ secondi... e quanta roba viene? Viene 657 metri. Cioè, in pratica quello che mi stanno dicendo è: il muone nasce qui e il muone muore qui. Come faccio io a vederlo a terra? Non ce la fa. Questi sono da 2 km in su, a seconda dell'intensità, insomma si producono a diverse intensità. Ok? Come faccio a vederli a terra se si producono a 5000 km? 
+
+**Ed è qui che viene fuori il concetto di tempo proprio** perché quando io vedo a muone fermo il tempo di vita, io sto misurando il $\Delta t$ che intercorre fra due eventi: la nascita e la morte del muone, quando il muone è fermo. Quindi significa che è il tempo misurato da un osservatore seduto sul muone. Ok? E non è l'osservatore che è a terra. L'osservatore che è a terra vede la nascita e la morte in due coordinate diverse. Quindi questo vede il **$\Delta t$ dilatato**. 
+
+Lui, che è seduto sul muone, vede il $\Delta t_0$ a muone fermo, quindi questo è $\Delta t_0$. 
+
+[DOMANDA STUDENTE: inaudibile]
+
+Ti sei perso un po' in là? [STUDENTE: Eh sì, riguardo poi...] Tesoro... ti sei perso ancora prima? Sì? E allora lasciamo stare, lo rifaccio un'altra volta. 
+
+Ok, quindi per misurare correttamente la distanza di questi muoni visti da lui [osservatore a terra], io devo calcolare il tempo $\Delta t$ che lui misura, che sarebbe $\Delta t_0 \times \gamma$, dove $\gamma$ è dato da:
+$$\frac{1}{\sqrt{1 - 0,995^2}}$$
+Vediamo quanto fa questo $\gamma$. Viene 10, virgola qualcosa. 
+
+Quindi, la distanza $d$ percorsa veramente nel sistema di riferimento terra sarà data da $0,995c \times \Delta t$ (che è $\Delta t_0 \times \gamma$). Quindi questa distanza per 10, che sono circa 6000 metri. 
+
+E da qui, quindi, effettivamente riesco a spiegarmi il fatto che posso vedere il muone anche a terra. Poi non li vedo tutti perché ovviamente poi lì c'è un'altra questione del tempo di vita, del tempo di dimezzamento, quindi le cose statisticamente sono un po' più complesse. Non è che io vedo il muone singolo... vedo un gruppo di muoni che arriva sulla terra progressivamente diminuito di tot. E quindi prima mi devo ricavare la legge esponenziale che mi dice come diminuisce il numero di muoni, quindi mi devo trovare il tempo di vita medio, il tempo di emivita... insomma, fare questo tipo di esperimento non è "quattro più quattro otto" come ho fatto io, però sicuramente una volta che sono riuscita a capire qual è più o meno il tempo di vita di un muone, una stima me la posso fare. 
+
+Quindi questo secondo me è **l'esempio più lampante del fatto che la relatività ristretta ha il suo perché**. Ok? Altri per me adesso non ne vale la pena parlarne. Fate l'esempio dei gemelli, però è un esempio mentale, nel senso che poi comunque non è valido in relatività ristretta. Per oggi ho finito e basta. Grazie, buon weekend. 
+
+[NOTA: Digressione finale] Porto allora il boccettino dove mettere il bigliettino per abbandonare tutte le vostre ansie prima della lezione? Lo porto? Sicuro? Bene, adesso vado da Action a vedere se trovo un salvadanaio a due euro e mezzo. Esattamente, dove infilare i bigliettini... perché uno mette il bigliettino e poi l'altro non lo legge. Eh, comunque state tranquilli che prima o poi sarò costretta a doverne fare un'altra di boccetta, accumulo qualsiasi cosa, è un'accumulatrice seriale... quando sono lì dico "ma questa? Dai, questa è il vasetto dello yogurt, dove lo vogliamo mettere? No, perché ci posso fare questa cosa qua!". Quindi devo aspettare dei giorni perché altrimenti... [inaudibile].
+
+Buongiorno.
+
+Allora... Dunque gli approfondimenti nelle nostre ore quando l'avevamo calendarizzati? Quando si inizia?
+
+[DOMANDA STUDENTE: Settimana prossima.]
+
+Non ho capito.
+
+[DOMANDA STUDENTE: Dall'otto di maggio.]
+
+Siete sicuri?
+
+[DOMANDA STUDENTE: Dall'otto.]
+
+Dopo verifico, eh.
+
+[NOTA: Il docente si sposta verso la postazione multimediale] 
+Allora, siamo qui alla **LIM**... [inaudibile]... Allora intanto fatemi vedere un quaderno che ci serve per queste domande. Adesso vi dico.

@@ -1,0 +1,168 @@
+Adesso facciamo silenzio e iniziamo.
+
+La seconda delle n previsioni della relatività ristretta che andiamo a guardare qui riguarda la **relatività del tempo**.
+
+Noi sappiamo già che insomma, quello che abbiamo detto la volta scorsa, anche il tempo non è più un valore assoluto. Il tempo misurato in un sistema di riferimento è diverso da quello misurato in S' e pertanto bisognava descrivere la relatività ristretta in base non solo alle coordinate spaziali, ma anche a quella temporale. In particolare, ho detto che la coordinata spaziale X, Y e Z rimane la stessa, poi la coordinata temporale viene introdotta, diciamo, con la lunghezza CT, dove C è la velocità della luce. 
+
+Ora vediamo in che modo cambia il tempo e quindi cerchiamo di descrivere matematicamente come facciamo a esprimere la relatività del tempo. Per fare questo, facciamo l'ennesimo **esperimento mentale**. Ricordate, sono tutti esperimenti che possiamo condurre solo a livello mentale, dato che non potremo mai avere un treno che si muove ad una velocità paragonabile a quella della luce. [ESEMPIO:] Però se potessimo essere seduti, per esempio, su un muone che si produce nell'alta atmosfera e arriva alla bassa, effettivamente ci muoveremmo con una velocità paragonabile a quella della luce. Un po' stretto il muone, però magari ci si sta, ok? 
+
+Detto questo, prendiamo il solito treno con la banchina che è il mio sistema di riferimento S. Io sono... qui c'è l'osservatore O sulla banchina, e il treno che si muove con una **velocità relativistica**. Abbiamo capito che questi effetti si vedono soltanto in queste condizioni. Ovviamente la velocità U è costante. Questo qui è il mio sistema di riferimento in moto S' [NOTA: il docente scrive sulla lavagna], quindi qui ci sarà l'osservatore O'. E dentro al treno piazziamo un **orologio a luce**. 
+
+Cos'è un orologio a luce? È un dispositivo che praticamente invia impulsi luminosi ogni tot. Per costruire un orologio a luce molto, molto, diciamo, asciutto, abbiamo qui una sorgente di luce che manda un segnale, qua sul treno abbiamo uno specchio nel soffitto. Il treno ha un'altezza che chiamiamo D. Questa sorgente invia un impulso luminoso verso lo specchio e lo specchio lo riflette verso la sorgente. 
+
+La situazione è molto banalmente che... senza doverlo chiamare per forza orologio a luce. [ESEMPIO:] Tu qui hai una sorgente di luce, invii un raggio... invia che ne so, un secondo "tic" e poi basta, dopodiché si spegne. La luce, diciamo molto collimata, quindi parliamo di un laser, non qualcosa che manda una lampadina, un laser che va direttamente in una direzione precisa. L'impulso arriva quassù, trova lo specchio e poi torna indietro. Lo specchio, cioè la sorgente laser ha mandato un impulso una volta sola e basta.
+
+Allora, il mio scopo è misurare il tempo che ci mette la luce nel fare il viaggio da sorgente a specchio e da specchio a sorgente. U è la velocità del treno, U è circa C, ossia **relativistica**, ma non è C, il treno si muove a una velocità prossima a quella della luce. Il laser invia un impulso luminoso verso lo specchio, lo specchio lo riflette verso la sorgente. Quindi calcoliamo il Delta T di andata e ritorno dell'impulso luminoso. Questo è quello che voglio fare. Conosco la grandezza, l'altezza del treno D e so che la velocità della luce è C.
+
+Mettiamoci nei panni di O'. O' vede... si muove con il treno, quindi che cosa vede? Lui è messo così, vede sto laser, manda l'impulso luminoso e sto specchio lo riflette esattamente ai suoi piedi. Quindi lo spazio che questo impulso deve percorrere in andata e ritorno è: andata D e ritorno D di nuovo. Quindi il **Delta T primo**, misurato da O', sarà dato dal Delta S andata e ritorno fratto la velocità, cioè la velocità della luce, ovvero **2D fratto C**. 
+
+È come se fossimo noi adesso sul treno: noi non ci accorgiamo che il treno si muove, no? Per me il mio laser rispetto a me è fermo, io vedo il laser che manda l'impulso e torna indietro. Delta T primo è uguale a Delta S andata e ritorno diviso C. E qui credo che non ci siano dubbi per nessuno.
+
+Adesso vediamo quello che vede O. All'inizio, quando la sorgente manda l'impulso luminoso, il treno è qui. Quando l'impulso raggiunge lo specchio, il treno è ancora qui? No, si è mosso. Supponiamo che sia qui.
+
+Certamente. Ecco la trascrizione fedele della lezione di fisica sulla dilatazione dei tempi nella relatività ristretta.
+
+***
+
+Quando l’impulso ritorna alla sorgente, il treno si è mosso ancora. La velocità è rimasta costante, quindi questo tratto qui è esattamente il tratto di qua. [Il docente disegna alla lavagna] Ora lo faccio un po’ più grande, così... più o meno.
+
+Questo è quello che vede O, dove c'è il treno che si muove con la velocità u. Quindi, che percorso vede O? Non vede un percorso verticale per la luce, ne vede uno obliquo, così.
+
+Obliquo, non solo: questo qui è un **triangolo isoscele**, siamo d’accordo? Perché? Perché lo spazio che il treno percorre all'andata è u per delta t di andata, e lo spazio che percorre al ritorno è u per delta t di ritorno. Delta t di andata e delta t di ritorno sono identici, giusto? Il treno si sta muovendo alla stessa velocità costante, intanto che, diciamo, la luce ritorna verso il basso, questo delta t e questo delta t qua sono identici. Siamo d’accordo? Quindi sostanzialmente questo è, in realtà, u per delta t di andata.
+
+Ora, la u la conosco; questa distanza qui, che è la distanza percorsa dalla luce in andata e in ritorno, non la conosco. In realtà io la potrei calcolare, no? Perché questo è un triangolo rettangolo: cateto quadro più cateto quadro, **teorema di Pitagora** e ricavo l’ipotenusa. Siamo d’accordo? Però, allo stesso tempo, questo percorso qui che mi ha fatto la luce io lo posso scrivere come c per delta t di andata.
+
+Siamo? È vero o no? Cioè, è questa l’idea. Allo stesso modo di qua: c per delta t di andata. Ci siamo tutti o no? No? Anzi, spero di sì, se no ho fatto tutto per niente... per ammazzarvi. Vabbè, va bene, sono contenta. Devi solo dirlo se non è così, perché ti dirò che non hai ragione. 
+
+Bene, allora, per fare andata e ritorno devo fare due volte delta t di andata, siamo d'accordo? Quindi il delta t che sto cercando è due volte il delta t di andata. Delta t di andata non lo conosco, però posso utilizzare il **teorema di Pitagora** per descrivere lo spazio percorso dalla luce attraverso la somma dei cateti al quadrato. Quindi, so che vale questo e so che (c per delta t di andata) al quadrato è uguale a (u per delta t di andata) al quadrato più d al quadrato.
+
+Dalla seconda relazione io posso esprimere il delta t di andata in funzione dei parametri che conosco. Quindi: c quadro delta t andata quadro uguale u quadro delta t andata quadro più d quadro. Delta t di andata lo raccolgo e lo porto di qua. [Il docente esegue i passaggi algebrici alla lavagna]
+
+Quindi, delta t di andata quadro è uguale a d quadro fratto c quadro meno u quadro. Delta t di andata è uguale a d fratto la radice di c quadro meno u quadro. Per cui, il delta t che sto cercando è uguale a due volte questa roba qui.
+
+[DOMANDA STUDENTE: Ma non significa che se il treno si avvicina alla velocità della luce diventa un delta t infinito?]
+Esatto, esattamente. 
+
+Ora, a me non piace lasciar scritta così questa roba, anche perché non è il formalismo corretto. Però, raccolgo un c quadro dentro la radice. E quel c quadro lo porto fuori. Con c intendo ovviamente il valore assoluto della **velocità della luce**, sottintesa come positiva, c da sola.
+
+E, miracolosamente, quello che ottengo è che questo è il tempo delta t misurato da chi stava sul treno. 
+
+Quindi, il tempo delta t tra due eventi, cioè partenza del flash e ritorno del flash, **non è lo stesso** misurato in due sistemi di riferimento. 
+
+In particolare, se guardate bene, c’è una relazione che uno dice "Vabbè, però io a questo punto non so più come interpretarla sta relazione", perché se io avessi chiamato questo sistema S' e questo S, allora avrei avuto invertiti i due delta t. Giusto? 
+
+Quello che caratterizza il delta t che abbiamo chiamato delta t primo qui, è il fatto che i due eventi di cui stiamo parlando — cioè partenza dell'impulso luminoso e ritorno dell'impulso luminoso alla sorgente — avvengono nella **stessa posizione spaziale**. 
+
+Qui, O' vede che la partenza della luce da qui, nel sistema S', avviene nella stessa posizione spaziale del ritorno della luce alla sorgente. Cioè: io adesso sono in S', non mi accorgo che mi sto muovendo, sono qui. Qui parte la luce, vedo che rimbalza e torna qui. Partenza e arrivo, per me osservatore, accadono nella **stessa coordinata spaziale**. 
+
+Per lui [osservatore a terra] no. La partenza accadeva qui, magari dove la x era uguale a zero, e poi l'arrivo ritorna nella x uguale a due per u per delta t. Non accadono nella stessa posizione spaziale. Questa relazione mi mette in relazione un tempo delta t con un tempo delta t primo.
+
+...ma questo tempo qui è quello misurato dall'osservatore che vede i due eventi accadere nella stessa posizione spaziale. Okay? Questo tempo si chiama **tempo proprio**. 
+
+Infatti, non viene mai data così la relazione con $\Delta t$ e $\Delta t'$. La relazione corretta si definisce così:
+
+[IL DOCENTE SCRIVE ALLA LAVAGNA]
+
+Questo simbolo qui, $\Delta t_0$, mi rappresenta il **tempo proprio**. Si chiama così, proprio, il tempo $\Delta t$ misurato dall'osservatore che vede i due eventi (che sono partenza della luce e arrivo della luce alla sorgente) che accadono nella stessa posizione. 
+
+Questa è la relazione corretta. E in realtà si scrive ancora diversamente perché, adesso finisco di introdurvi tutti i parametri, generalmente $v/c$ si indica con la lettera $\beta$, parametro di velocità. Mi dice sostanzialmente quanto questa velocità è relativistica. E il rapporto $1/\sqrt{1 - v^2/c^2}$, cioè $1/\sqrt{1 - \beta^2}$, si chiama $\gamma$ ed è il **fattore di Lorentz**. 
+
+Perché Lorentz? Perché Lorentz lo introdusse per primo nelle, diciamo, leggi che mi permettono di trasformare una coordinata spaziale e temporale da un sistema S a un sistema S' che poi vengono utilizzate anche nella relatività ristretta. Quindi alla fine, in realtà, la relazione finale è questa: 
+
+$\Delta t = \Delta t_0 \cdot \gamma$
+
+Ora voi siete bravi e quindi cerchiamo di capire come varia $\gamma$ in funzione della velocità $v$. Giusto una pseudo... uno pseudo studio di funzione, proprio per non voler fare dei conti. Proviamoci. Come facciamo a rappresentarci indicativamente $\gamma$ con un grafico? Prima cosa si fa il... 
+
+[STUDENTI: Il dominio]
+
+Dominio. Il dominio qui è? 
+
+[STUDENTI: $1 - u^2/c^2 > 0$]
+
+Benissimo, da cui ottengo... 
+
+[STUDENTI: $u^2/c^2 < 1 \dots u$ deve essere minore di $c$]
+
+$u^2 < c^2$, quindi $-c < u < c$. Matematicamente la $u$ negativa ha un senso, nel senso che possiamo muoverci nel verso opposto rispetto al nostro asse $x$, anche se fisicamente... 
+
+Cosa posso dire del segno di questa funzione? È sempre positivo. Dov'è che interseca gli assi? L'asse $u$ lo interseca? $\gamma$ potrà mai essere uguale a zero? No. Quindi non c'è intersezione. Con l'asse $y$, diciamo, abbiamo l'intersezione? 
+
+[STUDENTI: In 1]
+
+In 1. Okay. Poi, facciamo un po' di limiti e poi basta, perché la concavità con la derivata seconda anche no, e poi ci sarebbe anche ovviamente la derivata prima, ma lasciamo stare. Allora, dicevamo, proviamo a fare un po' di limiti. Quali limiti andreste a calcolare voi? $c$ e $-c$. Cosa ci aspettiamo che venga qua con $c$ e $-c$? 
+
+[STUDENTI: Infinito... più infinito]
+
+**Più infinito**, siamo d'accordo? Perché se questo tende a $c$, questo va a zero, la radice quadrata è sempre positiva, quindi viene più infinito dappertutto. Indicativamente, quindi, la mia funzione fa così. 
+
+Perciò mi aspetto che cosa? Che dato il $\Delta t_0$, se io lo vado a moltiplicare per $\gamma$, questo $\Delta t$ sarà maggiore di $\Delta t_0$. Sì. Quindi siccome $\gamma \ge 1$, il $\Delta t$ sarà maggiore o uguale a $\Delta t_0$. Quand'è che è uguale a 1 il $\gamma$? Quando l'oggetto è fermo. L'oggetto... il sistema di riferimento S' è fermo. 
+
+Se si muove con delle velocità molto minori di $c$, se non è 1, poco ci manca. Sarà $1,0000\dots$ qualcosa. Okay? Ma in un orologio una differenza così piccola, uno $0,0000\dots$ qualcosa, non riesco ad apprezzarla. Sono quindi qui, in questa zona qui, indicativamente ancora in **regime galileiano**. Sono ancora in una velocità che non è paragonabile a quella della luce. 
+
+Quando comincio ad arrivare alla velocità della luce, $\gamma$ comincia a essere significativamente diverso da 1. E allora sì che apprezzo la differenza di tempi. Domande? 
+
+[DOMANDA STUDENTE: Io non ho capito... da dove... allora ho capito che lì c'è il sistema di riferimento galileiano, quindi in quell'intervallo, però il pezzo dopo...]
+
+Allora, quando siamo in queste, diciamo, queste velocità qui, che sono percentuali della velocità della luce molto basse [ESEMPIO:] per esempio ordini di grandezza $10^{-3}, 10^{-4}, 10^{-5}$ velocità della luce. Quando siamo in questa regione qua, la curva qui è ancora schiacciata, vedete? È ancora molto schiacciata. Quindi in realtà il coefficiente $\gamma$ differisce poco da 1. Se $\gamma \approx 1$, il $\Delta t$ che io misuro come osservatore che misura il proprio è uguale al $\Delta t$ che misurerà l'altro. 
+
+Ma quando incomincio a essere a **regimi relativistici**, cioè quindi in queste zone molto vicine a $c$, il $\gamma$ è significativamente diverso da 1. Quindi, effettivamente, il tempo che misuro io non è quello misurato dall'altro. Okay? In quei regimi lì non posso non fare a meno di considerare una variazione del tempo. Si dice quindi che, essendo il $\Delta t$ sempre maggiore o uguale a $\Delta t_0$, che **il tempo si dilata** rispetto a quello proprio.
+
+Ecco la trascrizione fedele della lezione:
+
+Cioè, il tempo che abbiamo calcolato... Adesso spiego meglio. Siccome mancano quattro minuti, intanto do due cose. 
+
+Prima cosa: non pensate, ecco l’errore che fate di solito quando si deve stimare il tempo misurato da una parte e dall’altra è questo: "Oh, chi è che si sta muovendo? Qual è il sistema di riferimento che si sta muovendo? Cioè l’SR primo... sistema di? Benissimo, allora è lui che misura il tempo proprio". **Falso**. 
+
+Ricordate che il **tempo proprio** è misurato dall'osservatore che vede due eventi accadere nella stessa posizione. 
+
+[ESEMPIO:] Se quel laser fosse stato sulla banchina, era l’osservatore O che vedeva l’andata e il ritorno della luce nello stesso punto. Era lui che misurava il tempo proprio ed era l’osservatore in SR primo che misurava il tempo delta t dilatato. 
+
+Quindi, la prima cosa che dovete fare quando affrontate questi problemi è capire quale dei due osservatori sta veramente vedendo i due eventi che segnano l’inizio e la fine di un intervallo di tempo, li sta vedendo accadere nella **stessa posizione**. Perché non è sempre detto che sia quello in SR primo. 
+
+Seconda cosa: quello che viene denominato come **paradosso dei gemelli**. Abbiamo i gemelli, no? Ne abbiamo anche due, uno è dall’altra parte fortunatamente in questo momento, però supponiamo che [nome proprio: i Forestieri] decidano di andare in gita. Anzi, uno rimane qui e l’altro va in gita, vuole andare su Antares. Ne abbiamo già parlato. Ho detto "vabbè, chi se ne frega", vuole andare su Antares sulla navicella, ovviamente relativistica, perché se ci vai in bicicletta crepi durante il tragitto. 
+
+Andiamo con la navicella relativistica. Tutti voi saprete sicuramente, no, di solito è la favoletta che si racconta: "Che carino! Quando torna il gemello sulla Terra ha un’età diversa rispetto all’altro". Vero? Chi non l’ha mai sentita questa cosa? È giusto questo? Beh, insomma, sì. La navicella si stava muovendo a una velocità relativistica. 
+
+Ora, qual è il delta t di cui sto parlando? Delta t di viaggio, cioè: partenza dalla Terra (primo evento), secondo evento arrivo su Antares. E poi ritorno, ovviamente ci sarebbe ovviamente anche il ritorno, d’accordo? Ora, chi è dei due osservatori — lui o suo fratello sulla navicella — che misura il tempo proprio? Il tempo proprio è misurato dall’osservatore che vede la partenza dalla Terra e l’arrivo su Antares **nella stessa coordinata spaziale**. 
+
+La stessa coordinata spaziale la vede solo chi è sulla navicella, perché quello sulla navicella si mette davanti alla finestra così: vede la Terra ("Ciao!") e non la vede più, arriva ad Antares ("Ohibò!"). Ma è rimasto lì. L’arrivo di Antares è accaduto esattamente dove era accaduta la Terra. Quindi il tempo proprio l’ha misurato il fratello sulla navicella. Siete d’accordo? 
+
+Per cui, lui che è rimasto qui ha misurato un tempo dilatato. Quando torna suo fratello da Antares, lui è più vecchio e l’altro è più giovane. Però a questo punto io vi dico: beh, poteva anche essere, a quel punto, che tenevo ferma la navicella e muovevo la Terra. E allora, a quel punto lì, chi era sulla Terra doveva essere più giovane e sulla navicella doveva essere più vecchio. 
+
+**Questo è il paradosso.** Il paradosso non è il fatto che i gemelli hanno età diverse (quello è perfettamente spiegabile); il paradosso è la **relatività del moto**. Se si muove la navicella, quello dentro la navicella rimane più giovane; se si muove la Terra, rimane più giovane quello sulla Terra. E non è possibile! Cioè, deve esserci solo una conseguenza della teoria. 
+
+Perché quindi diventa un paradosso? Per questo motivo: cioè se lo spiego, se lo descrivo tenendo ferma la Terra e la nave, ottengo un risultato che va in contraddizione con la relatività del moto che è accettata in relatività. 
+
+Come lo risolviamo sto parlando? Dobbiamo pensare che la navicella è un **sistema accelerato**. La navicella prima accelera per arrivare alla velocità di crociera, poi decelera per tornare indietro. Quindi, chi è sulla navicella è perfettamente in grado di capire che è lui che si sta muovendo. Perché? Perché vede l’effetto delle **forze apparenti** sugli oggetti della navicella. Se io sono qui adesso, non c’è niente qui, e questo si mette a scivolare così, è perché la mia classe sta accelerando in questa direzione. 
+
+Quindi chi è sulla navicella è in grado di rendersi conto che effettivamente è lui che si muove, e quindi siamo in grado di associare esattamente il fatto che il gemello più giovane deve essere quello sulla navicella. 
+
+[NOTA:] Poi, non possiamo descrivere così il tempo perché, essendo la navicella un sistema accelerato per lo meno in una parte del viaggio, devo utilizzare la **relatività generale**. Quindi comunque la stima del delta t con quella formula lì è comunque una stima approssimativa, non è esatta. 
+
+Però, mi raccomando, non pensate al paradosso dei gemelli come il fatto che due gemelli che prima avevano la stessa età si ritrovano e hanno età diverse, perché non è quello il paradosso. **Il paradosso è lo switch**: se io muovo la Terra dovrei ottenere la condizione contraria, e non è possibile. 
+
+[DOMANDA STUDENTE: Stavo provando a mettere la formula nella calcolatrice grafica e qui la crescita è bassissima finché non si arriva a grandi percentuali della velocità della luce.]
+
+Docente: Infatti deve essere dell'ordine di $10^8$, se no gli effetti sono pochi. 
+
+[DOMANDA STUDENTE: Già a un solo 66% della velocità della luce l'aumento è del 30% del delta t... il tempo nostro è il 30% più grande di quello proprio.]
+
+Docente: Considera che in alcuni esercizi che ho fatto, una distanza che mi sembrava una distanza solare... terra-sole, mi sembrava un aumento di trent'anni. Cioè comunque sono cifre, non è che torni un gemello che ha sessant'anni e l'altro che ne ha... cioè, sei morto nel frattempo. 
+
+[NOTA:] Questa qui si applica soltanto quando stiamo parlando di corpi massivi... Ciao! Arrivederci!
+
+Non so neanche perché li stia sorteggiando, ma ha una lista di persone. Ma li chiami, così perdi dieci minuti almeno.
+
+Vabbè, studierò per la patente.
+
+Io mi sento una matta allora, fatemi stare in pace. 
+
+Scarsità assoluta. Eh? No, non sei scarso, no. 
+
+Ero io, ero io. Ah, una maglia a righe. No, non ero io. Era di tutti con le maglie a righe. Ah, ok, ero io. 
+
+Partendo dal fatto che ha preso il [termine incerto: meno], sì, sì. Appunto, e quindi lui sta a posto. 
+
+[inaudibile - rumori ambientali prolungati di sedie, zaini e brusio di fondo]
+
+Chi è la quarta persona?

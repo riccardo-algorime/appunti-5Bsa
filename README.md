@@ -39,7 +39,9 @@ Raccolta di appunti e materiali scolastici.
 ├── fisica/
 │   └── materiali/
 │       ├── appunti-bea.md
+│       ├── appunti-verifica-fisica-compatto.md
 │       ├── appunti-verifica-fisica.md
+│       ├── teoria-verifica-fisica-orale.md
 │       ├── trascrizione-app-giulia.md
 │       └── trascrizione-lezioni/
 ├── italiano/

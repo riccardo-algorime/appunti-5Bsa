@@ -36,6 +36,13 @@ Raccolta di appunti e materiali scolastici.
 │   │   ├── B4-ripasso.md
 │   │   └── B4-studio.md
 │   └── interrogazione-maggio/
+│       ├── appunti-b4-dna-regolazione-genica.md
+│       ├── appunti-b5-dna-ricombinante.md
+│       ├── appunti-b6-biotecnologie.md
+│       ├── appunti-cap-10-deriva-espansione-oceanica.md
+│       ├── appunti-cap-11-tettonica-placche.md
+│       ├── appunti-cap-12-dinamica-placche.md
+│       ├── appunti-cap-9-interno-terra.md
 │       ├── trascrizione-B4-Scienze.txt
 │       ├── trascrizione-B5-Scienze.txt
 │       ├── trascrizione-B6-Scienze.txt

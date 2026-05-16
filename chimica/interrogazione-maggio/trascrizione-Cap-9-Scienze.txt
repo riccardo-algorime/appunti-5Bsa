@@ -1,0 +1,690 @@
+Ecco la trascrizione completa della presentazione, pagina per pagina, con i relativi placeholder e descrizioni per le immagini.
+
+---
+
+### Pagina 1
+
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+**Capitolo 9: L’interno della Terra**
+
+Lezioni 1, 2, 3
+
+**Modello terrestre - Calore e litologia dell’interno terrestre**
+
+[IMMAGINE: Una fotografia ravvicinata di una colata di lava incandescente. Si vedono tonalità dall'arancione vivo al rosso fuoco, mescolate a zone di roccia già solidificata di colore nero e grigio scuro che formano croste rugose sulla superficie del fluido.]
+
+---
+
+### Pagina 2
+
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+**La struttura stratificata della Terra**
+
+E’ possibile raccogliere *informazioni dirette* sull’interno della Terra soltanto entro uno strato superficiale prossimo alla decina di kilometri.
+
+Caverne naturali, pozzi minerari, perforazioni per la ricerca petrolifera non superano i 6÷7 km.
+
+[IMMAGINE: Un diagramma della sezione trasversale della Terra che mostra i vari strati (nucleo, mantello, crosta). Accanto, uno "spicchio" ingrandito mostra le profondità: 6370 km per il raggio totale, 110-150 km per la parte superiore. Sulla destra sono illustrati graficamente i limiti delle perforazioni umane: perforazioni petrolifere (6-7 km), pozzo minerario (~3 km). In basso a destra una foto di un impianto di perforazione con la didascalia: 1970-1989 - Pozzo penisola della Kola: profondità 12.262 m, diametro 23 cm - primato mondiale.]
+
+---
+
+### Pagina 3
+
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+Alcune informazioni dirette ci derivano dalle rocce esposte nelle catene montuose che in origine potevano trovarsi a 40÷60 km di profondità, dalle lave eruttate da certi vulcani o presenti nei camini diamantiferi del Sudafrica.
+
+[IMMAGINE: Una panoramica di una gigantesca miniera a cielo aperto, una cavità circolare enorme con gradoni scavati nel terreno che scendono in profondità.]
+
+Ciò che ipotizziamo sulla struttura dell’interno della Terra ci proviene soprattutto da *evidenze indirette*:
+* dalle caratteristiche del campo gravitazionale terrestre
+* dall’analisi delle meteoriti
+* dallo studio della propagazione delle onde sismiche
+* dallo studio del campo magnetico terrestre
+
+---
+
+### Pagina 4
+
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+Le **discipline delle scienze della Terra** che ci forniscono dati indiretti sulla sua **struttura interna** sono:
+* la **geofisica** che studia le componenti solida, liquida e gassosa della Terra con metodi basati su indagini sismiche, elettriche, radiometriche o gravimetriche;
+* la **geochimica** che studia la composizione delle varie componenti della Terra, incluse l’idrosfera e l’atmosfera, e i processi chimico-fisici che hanno prodotto l’attuale distribuzione degli elementi in queste zone;
+* la **petrologia** che studia la composizione delle rocce e i processi che le hanno generate.
+
+Il **campo gravitazionale** terrestre è il campo di attrazione esercitato dalla Terra nei confronti degli altri corpi e si manifesta attraverso la *forza di gravità*.
+
+Se la Terra avesse una densità uniforme e simile a quella delle rocce superficiali, la forza di gravità sarebbe la metà di quella esistente. L’interno della Terra deve quindi essere costituito da materiali più densi delle rocce superficiali.
+
+Ciò è in accordo anche con la distribuzione degli elementi chimici nel sistema solare, come si deduce dall’analisi delle *meteoriti*.
+
+M = 5,9726 × 10²⁴ kg,
+V = 1,08321 × 10²¹ m³, all’equatore g = 9,7801 m/s²
+d media = 5,514 × 10³ kg/m³.
+
+[IMMAGINE: Fotografia del meteorite di Hoba in Namibia, un grande blocco di metallo scuro e rugoso adagiato in una struttura circolare di pietra per i visitatori. Didascalia: La meteorite di Hoba si trova in Namibia e detiene un bel record. Con le sue 64 tonnellate di ferro e nichel, è infatti la meteorite più pesante che conosciamo. Si trova nei pressi di Grootfontein, in Namibia, dove cadde circa 80mila anni fa e dove è rimasta proprio per via del suo enorme peso.]
+
+---
+
+### Pagina 5
+
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+Lo studio della propagazione delle **onde sismiche** consente di avanzare ipotesi sulla struttura interna della Terra.
+
+**Onde P e onde S** sono onde di volume.
+Le onde P si propagano nei solidi e nei fluidi.
+Le onde S si propagano solo nei solidi perché i fluidi non trasmettano gli sforzi di taglio.
+
+In un mezzo omogeneo le onde P (prime longitudinali) e S (seconde trasversali) viaggiano in linea retta e a velocità costante, ma passando da un mezzo a un altro subiscono una *rifrazione* e cambiano direzione e velocità di propagazione.
+
+I cambiamenti di velocità delle onde P e S segnalano variazioni di:
+* temperatura
+* pressione
+* variazioni della composizione chimica
+* variazioni dello stato di aggregazione, liquido o solido.
+
+[IMMAGINE: Quattro diagrammi che mostrano il movimento delle particelle per diversi tipi di onde sismiche.
+1. Onde P (di volume): onde di compressione e rarefazione (longitudinali).
+2. Onde S (di volume): onde di taglio con movimento perpendicolare alla direzione di propagazione (trasversali).
+3. Onde L (superficiali): onde di Love con movimento orizzontale trasversale.
+4. Onde R (superficiali): onde di Rayleigh con movimento ellittico retrogrado.]
+
+---
+
+### Pagina 6
+
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+Le variazioni della velocità di propagazione delle onde P e S al variare della profondità rivelano la presenza di:
+* una superficie di discontinuità
+* diversi strati che formano l’interno della Terra.
+
+La velocità delle onde è tanto maggiore quanto più rigido ed elastico è il mezzo che attraversano. Si muoveranno più velocemente nei materiali più densi.
+
+[IMMAGINE: Due diagrammi schematici sulla rifrazione delle onde sismiche attraverso una superficie di discontinuità tra un mezzo A e un mezzo B.
+- Sinistra: Il raggio passa da densità minore a maggiore (densità A < densità B), la velocità aumenta e il raggio si allontana dalla normale (velocità i < velocità r).
+- Destra: Il raggio passa da densità maggiore a minore (densità A > densità B), la velocità diminuisce e il raggio si avvicina alla normale (velocità i > velocità r).]
+
+---
+
+### Pagina 7
+
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+Se la Terra fosse omogenea, la velocità di propagazione delle onde sismiche sarebbe sempre costante e il fronte d’onda si propagherebbe lungo una retta.
+
+Il cambiamento graduale delle caratteristiche delle rocce con la profondità determina un andamento curvilineo dei fronti d’onda.
+
+[IMMAGINE: Due schemi terrestri a confronto. Il primo mostra un interno omogeneo con onde sismiche che viaggiano in linea retta dall'ipocentro ai sismografi. Il secondo mostra una Terra stratificata con onde che seguono traiettorie curve a causa dei cambiamenti di proprietà fisiche con la profondità.]
+
+Lo studio della propagazione delle *onde sismiche* consente quindi di avanzare ipotesi sulla struttura interna della Terra.
+
+La presenza di superfici di discontinuità tra materiali con caratteristiche reologiche diverse produce la *rifrazione* delle onde sismiche.
+
+La **reologia** è la scienza che studia gli equilibri raggiunti nella materia deformata per effetto di sollecitazioni; studia le proprietà di scorrimento dei materiali (abbiamo ad un estremo le deformazioni elastiche dei solidi, all’altro estremo il flusso di liquidi e gas).
+
+[IMMAGINE: Un ulteriore schema della Terra che mostra la rifrazione e riflessione multipla delle onde sismiche che attraversano il nucleo e il mantello, evidenziando come le traiettorie vengano deviate ai confini tra gli strati.]
+
+---
+
+### Pagina 8
+
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+Lo studio delle onde sismiche ha permesso di identificare una serie di **superfici di discontinuità** che separano zone con caratteristiche chimiche e fisiche differenti.
+
+[IMMAGINE: Un grafico complesso a doppia entrata. A sinistra, uno spaccato della Terra che mostra i componenti mineralogici (Olivina, Pirosseno, Granato nel mantello; Perovskite nel mantello inferiore; Lega di ferro nel nucleo). Al centro, una tabella indica gli strati: Crosta, Mantello superiore, Mantello inferiore (Ossidi), Strato D, Nucleo esterno (Liquido), Nucleo interno (Solido). A destra, un grafico cartesiano mostra l'andamento della Velocità delle onde sismiche (P e S), della Densità e della Pressione in funzione della Profondità (da 0 a oltre 6000 km).]
+
+---
+
+### Pagina 9
+
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+I dati gravitazionali e i dati sismologici hanno permesso di definire due diversi modelli a gusci concentrici della struttura della Terra.
+
+[IMMAGINE: Tabella comparativa tra due criteri di suddivisione interna.
+Colonna 1 (Criteri chimico-mineralogici): Crosta, Mantello superiore, Zona di transizione, Mantello inferiore, Nucleo esterno, Nucleo interno.
+Colonna 2 (Stato fisico dei materiali): Litosfera, Astenosfera, Mesosfera, Nucleo esterno, Nucleo interno.]
+
+---
+
+### Pagina 10
+
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+**Crosta, mantello e nucleo**
+
+[IMMAGINE: Un diagramma 3D dettagliato di una porzione della Terra. Mostra la crosta (oceani e continenti), la Moho, il mantello litosferico, la zona di bassa velocità, la zona di transizione e il mantello inferiore. Sulla destra, uno spicchio che arriva al centro della Terra indica la Discontinuità di Gutenberg (2900 km) e la Discontinuità di Lehmann (5200 km), distinguendo tra Nucleo esterno fluido e Nucleo interno solido.]
+
+---
+
+### Pagina 11
+
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+La **crosta** è il guscio più esterno, rigido, costituito di silicati con spessore da 3÷90 km.
+
+Il **mantello** è il guscio intermedio, costituito di silicati, con spessore di 2800÷2900 km. È diviso in **mantello superiore**, plastico, in cui si trova una *zona di bassa velocità* delle onde sismiche, **zona di transizione**, e **mantello inferiore**, rigido.
+
+Il **nucleo** è il guscio più interno, di spessore 3400÷3500 km, costituito da leghe di ferro e nichel. È diviso in **nucleo esterno**, liquido, e **nucleo interno**, solido.
+
+[IMMAGINE: Replica dell'illustrazione 3D della pagina precedente che mostra i vari strati e le profondità.]
+
+---
+
+### Pagina 12
+
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+**Litosfera, astenosfera, mesosfera**
+
+La **litosfera** è il guscio più esterno, rigido e plastico, che comprende la crosta e la parte più esterna del mantello superiore (mantello litosferico o *lid*, coperchio), fino alla zona di bassa velocità.
+
+La *litosfera* ha uno spessore di 60÷70 km sotto gli oceani e di 110÷150 km sotto i continenti, ed è suddivisa in varie placche che slittano sulla sottostante astenosfera.
+
+[IMMAGINE: Replica dello stesso diagramma 3D della Terra con focus sulla Litosfera (crosta + lid).]
+
+---
+
+### Pagina 13
+
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+L’**astenosfera** (*zona dalle basse velocità*) è il guscio sottostante la *litosfera*, compresa tra 100 e 250/300 km di profondità, e comprende la parte più interna del mantello superiore e la zona di bassa velocità; è composta di materiali parzialmente fusi, in cui le onde si propagano a bassa velocità.
+
+La **mesosfera** (si estende sino a 2900 km di profondità), è il guscio rigido e poco deformabile sottostante l’astenosfera e comprende il mantello inferiore.
+
+[IMMAGINE: Replica del diagramma 3D della Terra con focus sugli strati dell'Astenosfera e della Mesosfera.]
+
+---
+
+### Pagina 14
+
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+[IMMAGINE: Una mappa del mondo con isolinee rosse che indicano i valori del flusso di calore o lo spessore della litosfera. Si nota come le linee siano molto fitte e con valori alti in corrispondenza delle dorsali oceaniche.]
+
+In corrispondenza delle dorsali oceaniche, dove il **gradiente geotermico** è molto elevato, l’astenosfera si trova molto vicina alla superficie e, di conseguenza, la litosfera è assai sottile.
+Allontanandosi dalla dorsale, il gradiente geotermico diminuisce e la litosfera quindi si ispessisce.
+
+Si definisce gradiente geotermico l’incremento di temperatura, espresso in ºC, che si registra ogni 100 m di profondità.
+
+---
+
+### Pagina 15
+
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+**Origine del calore interno**
+
+L’energia termica del sistema Terra ha 2 componenti:
+
+1) **Energia solare**: responsabile del **calore esterno**, che attiva i principali agenti esogeni dell’atmosfera (venti) e dell’idrosfera (onde e correnti). Questi rappresentano i principali agenti dell’erosione e del modellamento della superficie terrestre;
+
+2) **Energia geotermica**: responsabile del **calore interno**, che attiva i principali meccanismi endogeni legati alla tettonica delle placche che fa muovere i continenti deformando la crosta terrestre.
+
+**calore interno**: solleva le montagne.
+**calore esterno**: demolisce le montagne.
+
+Il **calore interno** è la più importante sorgente di energia della Terra.
+
+---
+
+### Pagina 16
+
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+L’esistenza del **calore interno** è documentata da:
+
+[IMMAGINE: Sinistra - Una foto del Castle Geyser nel Parco Nazionale di Yellowstone, che mostra un potente getto di vapore e acqua che spruzza verso il cielo azzurro da una formazione rocciosa bianca. Didascalia: geyser, soffioni, sorgenti termali. Castle geyser - Parco Nazionale dello Yellowstone.]
+
+[IMMAGINE: Destra - Una foto di lava fluida di colore arancione brillante che scorre sopra roccia scura solidificata a Kilauea, Hawaii. Didascalia: lave eruttate dai vulcani a temperature di oltre 1000 ºC. Kilauea - Isole Hawaii.]
+
+---
+
+### Pagina 17
+
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+Il **calore interno** della Terra è la somma di 2 eventi:
+- residuo del calore originario o primordiale
+- calore radiogenico
+
+**a) residuo del calore originario o primordiale**, immagazzinato dal pianeta all’atto della sua formazione e originatosi per:
+- *conversione dell’energia cinetica in energia termica*, a causa della caduta dei frammenti sulla superficie terrestre.
+- *conversione dell’energia gravitazionale in energia termica*: si ritiene che quando si formò il nucleo terrestre a causa dello sprofondamento di grandi “gocce” di ferro fuso (catastrofe del ferro), con il conseguente spostamento dei silicati, più leggeri, verso il mantello e la crosta, si liberò una grande quantità di energia gravitazionale che, tramite attrito e resistenza viscosa, si trasformò in calore.
+- *riscaldamento adiabatico*: se un qualsiasi materiale viene compresso, la sua temperatura aumenta. Nella Terra primordiale, il progressivo aumento della massa dovuto alla pioggia di bolidi aumentò la pressione sulla parte interna del pianeta con conseguente aumento della temperatura (aumento di 0,15 °C ogni km, che ci permette di dire che la temperatura del nucleo terrestre, subito dopo la formazione del pianeta, poteva aver raggiunto 900÷1000 °C).
+- *radioattività degli isotopi a vita breve*, i quali si generano durante la formazione di una supernova, decadendo però rapidamente (es. alcuni isotopi radioattivi del ferro possono decadere nell’arco di alcuni minuti).
+
+**b) calore radiogenico**, derivato dalla radioattività naturale degli isotopi radioattivi a lunga vita (⁴⁰K, ²³²Th, ²³⁵U, ²³⁸U) presenti nelle rocce attuali. Questi isotopi infatti hanno tempi di dimezzamento che vanno da 700 milioni a 5 miliardi di anni. Il **tempo di dimezzamento** è il tempo che occorre affinché metà della quantità di un certo nuclide padre si trasformi in nuclide figlio. Un nuclide è un atomo caratterizzato dal numero atomico Z (numero di protoni) e dal numero di massa A (numero di neutroni e di protoni).
+
+I nuclei di alcuni atomi pesanti, ricchi di protoni e neutroni, tendono a dividersi in 2, con conseguente liberazione di energia.
+Poiché il *granito* è la roccia più ricca di minerali radioattivi che si trova solo ed esclusivamente nella crosta continentale, mentre è assente nei fondali oceanici, possiamo concludere che:
+- una grande parte del calore che proviene dall’interno della Terra si forma per dei processi di disintegrazione radioattiva nella crosta continentale, costituita in larga parte di *granito*;
+- il flusso di calore presente negli oceani, dove non esiste il granito ma abbonda di *basalto*, non è di origine crostale, ma proviene dalle parti più interne e profonde della Terra.
+
+---
+
+### Pagina 18
+
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+**Gradiente geotermico**
+
+L’incremento di temperatura, espresso in ºC, che si registra ogni 100 m di profondità è definito **gradiente geotermico**.
+
+Il gradiente geotermico è circa 2÷3 ºC ogni 100 m, ma può variare anche notevolmente da una località all’altra.
+
+Il **grado geotermico** è l’intervallo di profondità cui corrisponde l’aumento di temperatura di 1 ºC.
+Il grado geotermico corrisponde mediamente a 39 m.
+
+[IMMAGINE: Un grafico del profilo topografico del Monte Leone (3553 m) e della sottostante Galleria del Sempione (19,8 km). Sotto il profilo della montagna sono tracciate le isoterme (da 10 °C a 60 °C) che mostrano come la temperatura aumenti con la profondità sotto il massiccio montuoso.]
+Didascalia: Aumento della temperatura al di sotto del massiccio montuoso alpino attraversato dalla galleria del Sempione.(19,8 km).
+
+---
+
+### Pagina 19
+
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+Il **gradiente geotermico** non è costante, altrimenti il centro terrestre arriverebbe a 190 000 ºC e la Terra esploderebbe in una nube di gas.
+
+Si stima che la temperatura all’interno della Terra sia di circa 5000 ºC e che i materiali presenti, che in superficie fonderebbero a 1000 ºC, restino allo stato solido per effetto delle *elevate pressioni* che ne innalzano il punto di fusione.
+
+È detta **geoterma** la curva che descrive l’andamento della temperatura con la profondità, calcolata su considerazioni termodinamiche e dati sismologici.
+
+[IMMAGINE: Un grafico della geoterma. L'asse Y mostra la temperatura in °C (0-5000), l'asse X la profondità in km (0-6370). Una linea nera (geoterma) mostra l'aumento della temperatura, mentre linee colorate indicano la temperatura di fusione delle rocce del mantello (blu) e della lega ferrosa del nucleo (arancione). Si nota dove il nucleo di ferro fonde e dove solidifica.]
+
+---
+
+### Pagina 20
+
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+[IMMAGINE: Il grafico della geoterma della pagina precedente viene riproposto con approfondimenti testuali sopra le diverse zone.]
+
+Testo nel riquadro: L’incremento di temperatura diminuisce con la profondità, cioè la temperatura aumenta sempre più lentamente, fino a stabilizzarsi nelle zone più profonde.
+
+Note sopra il grafico:
+- **MANTELLO**: Il mantello è **solido**, la sua temperatura deve essere inferiore a quella di fusione. La geoterma è al di sotto della curva del punto di fusione delle rocce del mantello.
+- **NUCLEO ESTERNO**: Il nucleo esterno è **liquido**, la sua temperatura deve essere superiore a quella di fusione. La geoterma è al di sopra della curva del punto di fusione della lega ferrosa.
+- **NUCLEO INTERNO**: Il nucleo interno è **solido**, la sua temperatura deve essere inferiore a quella di fusione. La geoterma è al di sotto della curva del punto di fusione della lega ferrosa.
+
+---
+
+### Pagina 21
+
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+[IMMAGINE: Replica del grafico della geoterma con un ingrandimento sulla parte superficiale (0-1000 km).]
+
+Testo nel riquadro di dettaglio: A circa 100÷200 km la geoterma e la curva del punto di fusione corrono molto vicine. Il mantello è molto vicino al punto di fusione e si comporta in modo plastico.
+
+---
+
+### Pagina 22
+
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+**PER SAPERNE DI PIÙ**
+**L’energia geotermica in Italia**
+
+Corpi magmatici situati nei primi kilometri di profondità determinano gradienti di temperatura anomali, anche di 15 ºC ogni 100 metri, nei cosiddetti **sistemi geotermici convenzionali** o idrotermali.
+
+In Italia, l’energia geotermica viene sfruttata per:
+
+- **fini ricreativi, civili e curativi** e per la balneologia termale (il distretto termale dei Colli Euganei, nei pressi di Padova, è famoso fin dai tempi antichi per gli effetti curativi delle sue sorgenti calde);
+
+- **utilizzi civili e teleriscaldamento** (Ferrara, Vicenza); il teleriscaldamento è una forma di riscaldamento che consiste nella distribuzione attraverso reti di tubazioni coibentate (perlopiù interrate) di acqua calda, surriscaldata o vapore (detto fluido termovettore), proveniente da una grossa centrale di produzione. Con tale sistema l'acqua arriva alle abitazioni operando negli impianti di riscaldamento o raffreddamento, e successivamente ritorna alla stessa centrale a una temperatura più bassa o più alta.
+
+- **acquacoltura, floricoltura, produzione di birra** (laguna di Orbetello, Monte Amiata, Val di Cecina).
+
+---
+
+### Pagina 23
+
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+**PER SAPERNE DI PIÙ**
+
+L’energia geotermica può essere sfruttata anche per uso indiretto come la produzione di energia elettrica.
+
+[IMMAGINE: Schema di funzionamento di una centrale geotermica. Si vedono i pozzi che prelevano vapore dal sottosuolo, lo portano a una turbina collegata a un alternatore e trasformatore per la rete di distribuzione. È presente una torre di refrigerazione, uno scambiatore di calore e un sistema di reiniezione dell'acqua di condensazione nel sottosuolo tramite una pompa.]
+
+L’impianto geotermico produce energia grazie ai fluidi caldi, con temperature anche superiori a 200 ºC, che risalgono in superficie attraverso i pozzi, arrivano alle *turbine* e generano *energia meccanica* che, grazie ad *alternatori*, viene trasformata in *energia elettrica*.
+
+L’acqua di condensazione viene quindi re-immessa nel sottosuolo.
+
+---
+
+### Pagina 24
+
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+**PER SAPERNE DI PIÙ**
+**L’energia geotermica in Italia**
+
+Agli inizi del XX secolo a Larderello (Pisa) entrò in funzione la prima centrale geotermica al mondo.
+
+[IMMAGINE: Una fotografia panoramica della zona di Larderello, in Toscana, con colline verdi e le grandi torri di raffreddamento della centrale geotermica che emettono vapore bianco.]
+
+---
+
+### Pagina 25
+
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+**PER SAPERNE DI PIÙ**
+
+Nel mondo l’esplorazione geotermica si sta muovendo anche verso **sistemi non-convenzionali** che sfruttano acqua sotterranea in pressione e a bassa temperatura, non oltre le prime decine di metri di profondità.
+
+[IMMAGINE: Disegno schematico di un **Impianto geotermico domestico**. Mostra una casa con riscaldamento a pavimento radiante (35 °C) e acqua sanitaria (65 °C). Sotto terra è visibile una sonda geotermica che scende a 80-130 metri di profondità.
+Descrizioni nel grafico:
+- **Accumulatore**: Immagazzina e distribuisce l’acqua calda ai sanitari e al pavimento radiante.
+- **Pompa di calore**: Ottimizza l’energia geotermica derivante dalla sonda.
+- **Sonde geotermiche**: In inverno prelevano calore dal sottosuolo e riscaldano l’abitazione, in estate cedono calore al sottosuolo e rinfrescano l’abitazione.]
+
+---
+
+### Pagina 26
+
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+**PER SAPERNE DI PIÙ**
+
+I principali vantaggi di un impianto geotermico domestico sono:
+
+* la possibilità di realizzare un impianto anche in zone non vulcaniche;
+* il ridotto consumo di energia per scaldare o raffreddare l’acqua sotterranea che si trova naturalmente a temperature né troppo fredde né troppo calde;
+* la riduzione di emissioni di inquinanti e di CO₂ in atmosfera;
+* la climatizzazione dell’edificio con un solo impianto in sostituzione di caldaia e condizionatore.
+
+---
+
+### Pagina 27
+
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+**Il flusso di calore**
+
+Si definisce **flusso di calore** la quantità di energia termica che sfugge dalla Terra per unità di superficie e di tempo.
+
+L’unità di misura del flusso di calore è l’**HFU** (*Heat Flow Unit*), che vale 42 mW/m².
+
+La media del *flusso di calore* nei continenti è 1,5 HFU.
+
+In generale, il flusso di calore decresce con l’aumentare dell’età delle rocce:
+* < 1 HFU in zone stabili, inattive, geologicamente vecchie;
+* > 2 HFU in zone attive dal punto di vista tettonico e vulcanico.
+
+---
+
+### Pagina 28
+
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+[IMMAGINE: Mappa tematica dell'Italia che mostra le temperature sotterranee alla profondità di 2000 m. I colori vanno dal blu (T ≤ 50 °C) al rosso scuro (T > 300 °C). Le aree rosse e arancioni più calde si trovano in Toscana e nel Lazio settentrionale, e in alcune zone del Mar Tirreno.]
+
+Temperature sotterranee in Italia alla profondità di 2000 m dalla superficie.
+L’Italia è una regione giovane e instabile, attiva dal punto di vista tettonico e vulcanico, per questo è caratterizzata da valori elevati del flusso di calore (2 HFU nella parte settentrionale delle Alpi e superiore a 3 HFU nella regione vulcanica tosco-laziale).
+
+---
+
+### Pagina 29
+
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+Il flusso di calore negli oceani è > 2 HFU lungo le **dorsali**, circa 1,3 HFU nei **bacini adiacenti**, < 1 HFU in corrispondenza delle **fosse oceaniche**.
+
+[IMMAGINE: Planisfero che mostra la distribuzione globale del flusso di calore. Una scala cromatica in mW/m² indica valori bassi in blu (30-40) e valori alti in rosso/arancione (100-110). Le zone ad alto flusso seguono chiaramente l'andamento delle dorsali medio-oceaniche, specialmente nel Pacifico e nell'Atlantico.]
+
+---
+
+### Pagina 30
+
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+**Il nucleo**
+
+Il **nucleo** ha un raggio medio di 3470 km e costituisce circa il 16% del volume della Terra e il 32% della sua massa.
+
+- **nucleo esterno**: si presume che sia liquido e molto omogeneo. Si troverebbe infatti allo stato fuso (T = 3000 °C) con una viscosità non molto superiore a quella dell’acqua.
+
+- **nucleo interno**: si presume che abbia raggio di circa 1170 km e che sia solido, prossimo al punto di fusione con una temperatura intorno ai 5000 °C.
+
+[IMMAGINE: Ritratto in bianco e nero di una donna anziana con gli occhiali. Didascalia: Nucleo esterno e nucleo interno, a 5200 km di profondità, sono separati dalla discontinuità di Lehmann (Inge Lehmann, sismologa e geofisica danese, 1888-1993).]
+
+Il nucleo è composto da una lega di *ferro* e *nichel* con la presenza di altri elementi come *vanadio* e *cobalto* ed elementi leggeri come *ossigeno* e *zolfo*.
+
+---
+
+### Pagina 31
+
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+La natura liquida del nucleo esterno è confermata dalla **zona d’ombra** non raggiunta direttamente dalle onde sismiche.
+
+- Le traiettorie delle onde P sono state ricostruite anche in base all’esistenza di una fascia della superficie terrestre che non è raggiunta direttamente dalle onde P. Questa fascia, nominata **zona d’ombra delle onde P**, è situata tra 11.000 e 16.000 km dall’ipocentro e corrisponde a una distanza angolare compresa tra 103 ° e 143°.
+
+- Esiste anche una **zona d’ombra delle onde S**, più ampia dell’altra zona d’ombra, compresa tra 103° e 180°, dove le onde S non raggiungono direttamente la superficie a distanze dall’ipocentro superiori a 11.000 km. Nel 1906, il geologo inglese **Richard Dixon Oldham** spiegò questo comportamento con il fatto che le *onde S non si propagano in un mezzo liquido* come il **nucleo esterno**. Nel 1913, il geofisico tedesco, **Beno Gutenberg**, studiando la diffrazione delle onde P al confine mantello-nucleo, ipotizzò la presenza a 2900 km di una discontinuità.
+
+[IMMAGINI: Due diagrammi della Terra.
+1. Sinistra: Mostra le traiettorie delle onde P deviate dal nucleo, creando una zona d'ombra tra 103° e 143°.
+2. Destra: Mostra le onde S che vengono completamente bloccate dal nucleo esterno liquido, creando una vasta zona d'ombra oltre i 103°.
+A lato, foto in bianco e nero di Richard Dixon Oldham (sopra) e Beno Gutenberg (sotto).]
+
+---
+
+### Pagina 32
+
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+La zona d’ombra delle onde P è dovuta alla *discontinuità di Gutenberg*, che segna il passaggio dalle rocce silicatiche alle leghe ferrose, e che si trova a una profondità di 2900 km.
+
+La zona d’ombra delle onde S è dovuta allo stato di aggregazione (liquido) dei materiali che si trovano oltre tale discontinuità.
+
+La *discontinuità di Lehmann* è evidenziata da un forte aumento della velocità delle onde P, che rivela anche la natura solida del nucleo interno, poiché queste producono nuovamente anche onde S.
+
+[IMMAGINE: Replica dei diagrammi delle zone d'ombra per le onde P e S della pagina precedente.]
+
+---
+
+### Pagina 33
+
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+**Il mantello**
+
+Il **mantello** è la parte più importante della Terra sia come massa (67%), sia come volume (81%). Si estende dalla discontinuità di Moho fino al limite con il nucleo esterno (2900 km di profondità).
+
+Il mantello si presenta piuttosto omogeneo ed è costituito in prevalenza di **silicati**, quali *peridotite* (roccia magmatica formata da minerali di plagioclasio, olivina e pirosseno), *eclogite* (roccia metamorfica formata da pirosseni e granati) e *perovskite* (minerale del gruppo degli ossidi contenente calcio e titanio, CaTiO₃) la cui composizione varia all’aumentare della profondità.
+
+È diviso in:
+- **mantello superiore**, plastico, formato da silicati (*peridotite, eclogite*), è suddiviso in una parte esterna rigida con spessore variabile (da 5 a 200 km). Intorno ai 100 km (**mantello litosferico o lid**) si riscontra una velocità sismica elevata (>7,9 km/s). Il **lid**, insieme alla sovrastante **crosta**, forma la **litosfera**. La parte interna, sotto il lid, costituisce la **zona di bassa velocità** (**astenosfera**) compresa tra 100 e 300 km di profondità. Questa bassa velocità potrebbe essere causata dalla temperatura elevata e dalla variazione dei minerali, ma è più probabile che sia dovuta alla fusione parziale dei materiali (basta infatti meno dell’1% di liquido per spiegare tale bassa velocità).
+- **zona di transizione** (tra 400 e 670 km).
+- **mantello inferiore** (tra 670 e 2900 km), rigido ed omogeneo, formato da silicati (perovskite). Alla base del mantello inferiore esiste una zona, detta **strato D** (serie di rapide variazioni delle proprietà fisiche dei materiali).
+
+[IMMAGINE: Replica dell'illustrazione 3D della Terra con etichette specifiche per gli strati del mantello sopra descritti.]
+
+---
+
+### Pagina 34
+
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+Il **mantello** è delimitato superiormente dalla *discontinuità di Mohorovičić (o Moho)*, evidenziata da un brusco aumento della velocità delle onde sismiche.
+
+Oltre la Moho, la velocità cresce con regolarità nel mantello, fatta eccezione per una zona compresa fra 100 e 300 km, in cui la velocità delle onde sismiche diminuisce, detta *zona di bassa velocità*.
+
+[IMMAGINE: Un grafico della velocità delle onde S (asse X, 1-8 km/s) rispetto alla profondità (asse Y, 0-900 km). Una linea verde traccia l'andamento della velocità: aumenta bruscamente alla Moho, poi mostra una chiara flessione verso valori minori tra 100 e 250 km (etichettata come "Zona di bassa velocità"), per poi riprendere ad aumentare con la profondità.]
+
+---
+
+### Pagina 35
+
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+Per la particolare combinazione dei valori di **temperatura e pressione**, le rocce della zona di bassa velocità sono molto vicine al punto di fusione.
+
+Piccoli *aumenti della temperatura* o *piccole diminuzioni della pressione* rendono possibile la **fusione delle rocce**, con produzione di *magmi*.
+
+La composizione del mantello è dedotta dallo studio delle **ofioliti** (sezioni di crosta oceanica e del sottostante mantello che sono state sollevate o sovrapposte alla crosta continentale fino ad affiorare) e dal comportamento delle **onde sismiche**.
+
+[IMMAGINE: Sinistra - Foto di un affioramento di rocce scure e stratificate. Didascalia: Ofioliti ordoviciane - Terranova.]
+
+[IMMAGINE: Destra - Riutilizzo dei grafici di pagina 8 che mostrano la struttura interna della Terra, le velocità delle onde P ed S, la densità e la pressione.]
+
+---
+
+### Pagina 36
+
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+Il **mantello** è sede delle lenti **correnti convettive** che fungono da «motore» della *tettonica delle placche*. Per comprendere il meccanismo, l’esempio da tener presente non è quello dell’acqua, ma quello di una pentola riempita di marmellata o di polenta che, nonostante la maggiore viscosità rispetto all’acqua, raggiunta una certa temperatura, comincia a bollire, producendo bolle ascensionali. Questo è quello che succede nel mantello, che, nonostante la sua alta viscosità, testimoniata dalle ricerche sismiche e dai dati gravitazionali, possiede un trasporto convettivo di calore.
+
+[IMMAGINE: Uno schema della sezione terrestre che mostra le celle di convezione nel mantello. Il materiale caldo sale sotto le dorsali oceaniche e scende nelle zone di subduzione. Le frecce bianche indicano il movimento circolare del mantello superiore e inferiore.]
+
+La **convezione** nel *mantello superiore* sarebbe il vero motore dei movimenti delle placche litosferiche, mentre la **convezione** presente nel *nucleo esterno* fluido ha un effetto dinamo che è responsabile del campo magnetico terrestre.
+
+---
+
+### Pagina 37
+
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+**La crosta**
+
+La crosta è la parte della Terra che si trova al di sopra della discontinuità di Mohorovičić (o Moho). Questa discontinuità, spessa da 100 m (sotto gli oceani) a 1 km (sotto i continenti), si caratterizza per il brusco aumento della velocità delle onde P (da 6,6 km/s a 8 km/s). La temperatura della discontinuità è di circa 500-700 ºC (sotto i continenti) e di circa 150-200 ºC (sotto gli oceani).
+
+[IMMAGINE: Foto d'epoca in bianco e nero di un uomo con barba e baffi (Andrija Mohorovičić).]
+
+[IMMAGINE: Un diagramma della sezione della crosta che attraversa il Sudamerica, l'Oceano Atlantico, l'Africa, l'Oceano Indiano, l'Australia e l'Oceano Pacifico. Mostra chiaramente come lo spessore della crosta (giallo) sia maggiore sotto i continenti e minore sotto gli oceani, con la Moho che segue un profilo speculare alla topografia.]
+
+L’andamento della Moho è irregolare e riflette in modo quasi simmetrico quello della superficie terrestre: è più profonda sotto i continenti e più superficiale sotto gli oceani.
+
+Le parti più rilevate della crosta sono anche quelle che sprofondano maggiormente nel mantello (**equilibrio isostatico**).
+L’**isostasia**, o **equilibrio isostatico**, descrive l’ideale condizione di equilibrio gravitazionale che determina, in accordo con la densità delle rocce, le *quote* cui si ergono le varie parti di continenti e oceani.
+
+---
+
+### Pagina 38
+
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+Esistono **due** tipi di crosta:
+
+- **crosta continentale** con spessore di 30÷90 km e densità di 2,7 g/cm³, che costituisce il 79% in volume di tutta la crosta;
+
+- **crosta oceanica** con spessore di 5÷15 km e densità di 3,0 g/cm³, che costituisce il 59% della superficie totale della crosta.
+
+[IMMAGINE: Schema comparativo tra crosta oceanica e continentale. Sotto una catena montuosa, la crosta continentale (2,7 g/cm³) è molto spessa e forma una profonda "radice" nel mantello (3,3 g/cm³). Lateralmente, la crosta oceanica (3,0 g/cm³) è molto più sottile e coperta da sedimenti e acqua oceanica.]
+
+---
+
+### Pagina 39
+
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+[IMMAGINE: Due colonne stratigrafiche dettagliate che mostrano la composizione della crosta.
+- Colonna sinistra (**Crosta continentale**): rocce sedimentarie e magmatiche in superficie, basamento granitico piegato e metamorfosato, crosta granitica con elevato grado di metamorfismo, fino alla Moho e alla sottostante Peridotite del mantello (3,3 g/cm³).
+- Colonna destra (**Crosta oceanica**): oceano, sottile strato di sedimenti (2,7 g/cm³), Basalto (3,0 g/cm³), Gabbro, fino alla Moho e alla Peridotite del mantello.]
+
+La **crosta continentale** è costituita in prevalenza da uno spesso strato a composizione sialica (granito metamorfosato) che poggia su uno strato di rocce ultrafemiche (peridotite).
+
+Sotto gli **oceani**, la crosta è costituita da un sottile strato di sedimenti e rocce magmatiche a composizione femica (basalto e gabbro).
+
+---
+
+### Pagina 40
+
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+**L’isostasia**
+
+Il termine **isostasia** o **equilibrio isostatico** indica l’ideale condizione di equilibrio gravitazionale che determina, in accordo con la densità delle rocce, le quote cui si ergono le varie parti di continenti e oceani.
+
+Il galleggiamento, una vera e propria spinta verticale, è dovuto al fatto che il volume dell’oggetto che si trova sott’acqua è più leggero dell’equivalente volume di acqua spostata.
+
+I corpi galleggiano sull’acqua mantenendosi in *equilibrio idrostatico*: quanto più alta è la parte che emerge, tanto più essi affondano nell’acqua.
+
+[IMMAGINE: Due esempi analogici di isostasia.
+1. Un iceberg che galleggia in acqua: la gran parte della sua massa è sommersa.
+2. Blocchi di legno di diversa altezza che galleggiano in acqua: i blocchi più alti sporgono di più ma affondano anche più profondamente (hanno "radici" più lunghe).]
+
+---
+
+### Pagina 41
+
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+Allo stesso modo, la crosta «galleggia» sul mantello più denso in equilibrio isostatico con esso.
+
+[IMMAGINE: Due diagrammi che spiegano l'isostasia nelle catene montuose.
+1. **Formazione della catena montuosa**: le spinte tettoniche ispessiscono la crosta verso l'alto (montagna) e verso il basso (radici profonde nel mantello).
+2. **Erosione della catena montuosa**: man mano che l'erosione asporta materiale dalla cima, la crosta si alleggerisce e risale per compensazione, facendo alzare il limite inferiore delle radici.]
+
+- La nascita di una catena montuosa determina un notevole ispessimento della crosta e la formazione di radici profonde;
+- Quando la catena viene spianata dall’erosione, il limite inferiore delle radici si alza per compensazione isostatica.
+
+---
+
+### Pagina 42
+
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+[IMMAGINE: Mappa dell'Italia con curve di livello blu e rosse che indicano lo spessore della crosta terrestre in km. Si vedono valori massimi di 50-55 km sotto l'arco alpino e valori minimi di 10-15 km nel Mar Tirreno centrale.]
+
+In Italia, lo spessore della crosta è massimo in corrispondenza delle Alpi e minimo in corrispondenza della Pianura Padana e del Tirreno.
+
+---
+
+### Pagina 43
+
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+L’isostasia è documentata da un esperimento fornitoci dalla natura stessa.
+
+Durante l’ultima glaciazione, molti territori ad alte latitudini furono ricoperti da una coltre di ghiaccio e la crosta si depresse per l’enorme carico.
+
+Quando ritornò il clima caldo, il ghiaccio man mano si sciolse e la crosta cominciò a sollevarsi per ritornare in equilibrio isostatico.
+
+[IMMAGINE: Quattro schemi sequenziali.
+1. Una coltre di ghiaccio spessa preme sulla crosta.
+2. La crosta si inflette verso il basso nel mantello.
+3. Il ghiaccio fonde, lasciando una depressione (spesso colmata da un lago). La crosta inizia a risalire.
+4. La crosta è risalita quasi completamente al suo livello originale.]
+
+---
+
+### Pagina 44
+
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+[IMMAGINE: Mappa della Scandinavia con linee rosse concentriche che indicano l'entità del sollevamento post-glaciale in metri. Il centro del sollevamento massimo (circa 100 m negli ultimi 5000 anni) si trova nel Golfo di Botnia.]
+
+Fino a 10 000 anni fa la penisola scandinava era gravata da uno spessore di oltre 3000 ÷ 4000 m di ghiaccio; oggi, spinte verticali la sollevano di circa un centimetro all’anno.
+
+Didascalia nel grafico: Le linee chiuse collegano i punti nei quali si è avuto lo stesso sollevamento negli ultimi 5000 anni e i numeri indicano l’entità del sollevamento espresso in metri.
+
+---
+
+### Pagina 45
+
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+**Riassumendo:**
+
+[IMMAGINE: Tabella riassuntiva finale.]
+
+| Caratteristica | Crosta continentale | Crosta oceanica |
+| :--- | :--- | :--- |
+| **Suddivisione** | Difficilmente distinguibile in 2 parti | Chiaramente suddivisibile in 3 «strati» |
+| **Spessore** | Variabile da pochi km a 80 km, in media 30÷40 km | Abbastanza costante di 7÷8 km |
+| **Densità** | Bassa | Elevata |
+| **Composizione** | Felsica (minerali ricchi di elementi leggeri come silicio, ossigeno, alluminio, sodio e potassio); prevalentemente granitica | Mafica; prevalentemente basaltica |
+| **Età** | Elevata: fino a 4 miliardi di anni | Ridotta: mai superiore a 170÷180 milioni di anni |

@@ -1,0 +1,566 @@
+Ecco la trascrizione integrale del contenuto della presentazione, suddivisa per pagina, con i relativi segnaposti e descrizioni delle immagini.
+
+---
+
+### Pagina 1
+
+**Contenuto testuale:**
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+Lezione 1, 2, 3, 4
+La deriva dei continenti, Morfologia e struttura del fondo oceanico, L’espansione oceanica, Prove dell’espansione oceanica
+Capitolo 10 Dalla deriva dei continenti all’espansione del fondo oceanico
+
+**[Immagine 1]**
+*Descrizione: Una fotografia panoramica di un paesaggio islandese (Thingvellir), che mostra una profonda spaccatura tettonica nel terreno roccioso con un ampio lago e montagne sullo sfondo sotto un cielo nuvoloso.*
+
+---
+
+### Pagina 2
+
+**Contenuto testuale:**
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+**Dal fissismo al mobilismo**
+
+Fino all’Ottocento il **fissismo** e il **catastrofismo** erano le **due teorie** più accreditate tra gli scienziati per spiegare la storia della Terra e degli esseri viventi che la popolano.
+
+**Fissismo:** Carlo **Linneo** (1707-1778) sosteneva che i viventi sono destinati a restare sempre uguali a sé stessi; anche i geologi dell’epoca ritenevano che tra continenti e oceani esistesse una certa staticità. In particolare, questa teoria negava l’esistenza di movimenti laterali delle masse continentali, ammettendo solo movimenti verticali dovuti alla contrazione della parte esterna del pianeta che si andava raffreddando da una massa originaria fusa.
+
+**[Immagine 2]**
+*Descrizione: Ritratto di Carlo Linneo.*
+
+**[Immagine 3]**
+*Descrizione: Diagramma della struttura interna della Terra secondo i modelli dell'epoca, con strati etichettati come Sial (superficiale), Sima, Osol e Nife (nucleo). Sono indicate le profondità in km.*
+
+**Legenda dell'immagine:**
+sial = silicati di alluminio
+sima = silicati di magnesio
+osol = ossidi e solfuri
+nife = nichel e ferro
+
+Con il raffreddamento, i materiali più leggeri sarebbero migrati in superficie, formando rocce ignee e metamorfiche di tipo granitico (**sial**: silicati di alluminio, tipici delle rocce continentali), che ricoprono rocce più dense quali il basalto, il gabbro o la peridotite (**sima**: silicati di magnesio delle rocce femiche oceaniche). Il raffreddamento avrebbe portato al corrugamento della superficie terrestre con la conseguente formazione delle montagne.
+
+**Catastrofismo** (1815 - **Georges Cuvier**): teoria geologica e biologica secondo cui la storia della Terra si è caratterizzata da eventi catastrofici, improvvisi e violenti (diluvi, terremoti, eruzioni vulcaniche) che hanno causato estinzioni di massa (l’ultima è stata il diluvio universale), e cambiamenti significativi nella fauna e nella flora. Dopo ogni catastrofe le forme viventi sarebbero state sostituite da altre.
+
+**[Immagine 4]**
+*Descrizione: Ritratto di Georges Cuvier.*
+
+---
+
+### Pagina 3
+
+**Contenuto testuale:**
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+Dall’inizio dell’Ottocento iniziarono comunque a farsi strada nuove visioni del mondo come l’**evoluzionismo** e il **mobilismo** e, solo agli inizi del Novecento fu enunciata la **teoria della deriva dei continenti**.
+
+**Evoluzionismo:** i viventi mutano continuamente e lentamente tramite la trasmissione dei caratteri ereditari di generazione in generazione. Le teorie sull’evoluzionismo (**Jean-Baptiste de Lamarck** (1744-1829 - *teoria dei caratteri acquisiti* 1809 - uso e disuso degli organi) e **Charles Darwin** (1809-1882 – *teoria dell’origine delle specie per selezione naturale*, 1859), influenzarono anche i geologi.
+
+**[Immagine 5]**
+*Descrizione: Ritratti affiancati di Jean-Baptiste de Lamarck e Charles Darwin.*
+
+Il geologo **James Hutton** (1726-1797) fu tra i primi a comprendere (1785) che la superficie della Terra veniva continuamente modellata dagli agenti esogeni e a intuire che la Terra potesse essere molto più vecchia dei 6.000 anni attribuiti dal libro della Genesi (Bibbia, Antico Testamento).
+
+**[Immagine 6]**
+*Descrizione: Ritratto di James Hutton.*
+
+**Mobilismo:** teoria che sosteneva che la crosta terrestre fosse libera di muoversi rispetto al mantello sottostante e che potesse subire traslazioni orizzontali. **Osmond Fisher** (1817-1914) sosteneva (1881) che all’interno della Terra ci fossero dei moti convettivi di magma liquido in risalita negli oceani e in discesa ai loro margini.
+
+**[Immagine 7]**
+*Descrizione: Ritratto di Osmond Fisher.*
+
+---
+
+### Pagina 4
+
+**Contenuto testuale:**
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+Il geologo statunitense **Frank Bursley Taylor**, ai primi del Novecento, propose che il blocco euroasiatico scivolando lentamente da nord verso sud e trovando come barriera la *penisola indiana*, avrebbe causato, scontrandosi con essa, la formazione della *Himàlaya*, il sollevamento dell’*Altopiano del Pamir* (tra Tagikistan, Afghanistan, Cina), mentre più a est il *ripiegamento di Malesia e Indonesia* si sarebbe sviluppato senza ostacoli. Lo stesso fenomeno per Taylor si sarebbe verificato anche nella regione del Mediterraneo, a causa della barriera del blocco africano.
+
+**[Immagine 8]**
+*Descrizione: Ritratto di Frank Bursley Taylor.*
+
+**[Immagine 9]**
+*Descrizione: Mappa del mondo con frecce nere che indicano i movimenti ipotizzati da Taylor verso l'Equatore e linee rosse che evidenziano le catene montuose e gli archi insulari risultanti da tali movimenti.*
+
+---
+
+### Pagina 5
+
+**Contenuto testuale:**
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+**La teoria della deriva dei continenti**
+
+Agli inizi del Novecento (1912), ***Alfred Wegener*** (1880-1930) ordinò vari dati scientifici, in parte già noti e discussi, nella teoria della **deriva dei continenti**.
+
+Osservando la *marcata congruenza delle linee di costa* in entrambi i lati dell’Oceano Atlantico, egli intuì che i continenti avrebbero potuto muoversi lateralmente e migrare sulla superficie terrestre, allontanandosi sempre di più.
+
+**[Immagine 10]**
+*Descrizione: Ritratto di Alfred Wegener.*
+
+**[Immagine 11]**
+*Descrizione: Tre mappe del globo che mostrano la frammentazione del supercontinente iniziale e la migrazione dei continenti. La prima risale a 300 milioni di anni fa, la seconda a 50 milioni di anni fa e la terza mostra una ricostruzione successiva.*
+
+Ricostruzione, secondo **Wegener**, delle varie posizioni dei continenti nel corso degli ultimi 300 milioni di anni.
+
+---
+
+### Pagina 6
+
+**Contenuto testuale:**
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+Circa 300 milioni di anni fa, le maggiori masse continentali del globo erano riunite in un unico grande blocco che *Wegener* chiamò **Pangea** (dal greco *pàn* = tutto e *gaìa* = terra).
+
+Questo *supercontinente* era circondato da un unico grande oceano, profondo 3000÷4000 m, la **Pantalassa** (dal greco *pàn* = tutto e *thàlassa* = mare).
+
+Circa 200÷250 milioni di anni fa, verso est si apriva un grande golfo «oceanico», la **Tetide**, che separava la Pangea in due parti: una settentrionale, detta **Laurasia**, e una meridionale, detta **Gondwana**.
+
+**[Immagine 12]**
+*Descrizione: Mappa della Pangea circondata dalla Pantalassa. Sono indicati i blocchi Laurasia (Nordamerica, Asia, Europa) e Gondwana (Sudamerica, Africa, India, Australia, Antartide), separati dal mare della Tetide. Un punto rosso indica la posizione della "Futura Italia".*
+
+---
+
+### Pagina 7
+
+**Contenuto testuale:**
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+La *teoria della deriva dei continenti* è supportata da **argomentazioni** di natura:
+a) **geologica**
+b) **paleontologica**
+c) **paleoclimatica**
+
+**Argomenti geologici**
+
+Grandi lineamenti strutturali della crosta terrestre e province geologiche combaciano quasi esattamente quando si riavvicinano i blocchi continentali, riportandoli nelle posizioni ritenute originarie. Per esempio, la regione geologica nei pressi di Sao Luis in Brasile è un *cratone* dell’Africa occidentale (i cratoni sono parti interne dei continenti che non hanno subito deformazione da centinaia di milioni di anni).
+
+**[Immagine 13]**
+*Descrizione: Mappa che mostra l'incastro tra Sudamerica e Africa. Le aree colorate evidenziano la continuità di antichi blocchi continentali (in marrone) e catene montuose recenti o orogeni (in arancione) tra i due continenti.*
+
+---
+
+### Pagina 8
+
+**Contenuto testuale:**
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+**Argomenti paleontologici**
+
+(**paleontologia**: branca delle scienze naturali che studia gli esseri viventi vissuti nel passato geologico e i loro ambienti di vita sulla Terra.)
+
+In Sudamerica, Africa, Madagascar, India e Australia furono rinvenuti i **resti fossili** delle stesse piante e degli stessi animali vissuti nel **Paleozoico**. Se questi continenti fossero stati separati bisognerebbe ammettere l’esistenza di lingue di terra (**ponti continentali**) per collegarli tra loro. Ma la geofisica non ammette l’esistenza di questi **ponti** perché la *crosta continentale* non può sprofondare dentro la *crosta oceanica*, più densa e pesante. Pertanto, la presenza di queste specie in vari continenti, testimoniata dai *resti fossili*, può essere spiegata solo ammettendo la contiguità di questi continenti. **L’Era Paleozoica** è suddivisa in 6 *periodi*: *Cambriano* (540-485 m.a.), *Ordoviciano* (485-444 m.a.), *Siluriano* (444-419 m.a.), *Devoniano* (419-359 m.a.) *Carbonifero* (359-299 m.a.), *Permiano* (299-252 m.a.).
+
+**[Immagine 14]**
+*Descrizione: Diagramma dei continenti del Gondwana (Sudamerica, Africa, India, Antartide, Australia) uniti, con fasce colorate che indicano le aree di ritrovamento dei fossili di Cynognathus (rettile terrestre), Mesosaurus (rettile d'acqua dolce), Lystrosaurus (rettile terrestre) e Glossopteris (felce).*
+
+**[Immagine 15]**
+*Descrizione: Quattro illustrazioni/foto di fossili: un rettile terrestre ricostruito, uno scheletro fossile di Mesosaurus, una felce fossile di Glossopteris e un disegno di Lystrosaurus.*
+
+---
+
+### Pagina 9
+
+**Contenuto testuale:**
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+**Argomenti paleoclimatici**
+
+Evidenze sul clima del passato sono fornite dalle rocce sedimentarie: le *tilliti*, depositi di detriti di roccia trasportati dai ghiacciai, sono indizio sicuro di *glaciazioni*.
+
+**[Immagine 16]**
+*Descrizione: Mappa dei continenti meridionali uniti che mostra una vasta area centrale (l'Antartide e le parti adiacenti degli altri continenti) coperta dai ghiacci, con frecce blu che indicano la direzione di espansione dei ghiacciai verso l'esterno.*
+
+**[Immagine 17]**
+*Descrizione: Mappa del globo attuale con una linea rossa che rappresenta l'Equatore e una crocetta blu per il Polo Sud, posizionati in modo da giustificare l'antica distribuzione dei depositi glaciali se i continenti fossero stati uniti.*
+
+Equatore (linea rossa) e polo sud (crocetta blu) sono indicati nelle posizioni più favorevoli per giustificare l’espansione glaciale, se i continenti si fossero trovati sempre nella stessa posizione di oggi.
+
+---
+
+### Pagina 10
+
+**Contenuto testuale:**
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+**Altri argomenti paleoclimatici**
+
+Testimonianze di **vari tipi di climi** sono fornite da: depositi di carbone (*clima umido tropicale*); gesso, salgemma, arenarie rosse (*clima arido, desertico*); rocce carbonatiche di scogliera corallina (*clima caldo tropicale*).
+
+**[Immagine 18]**
+*Descrizione: Mappa della Pangea con diverse fasce climatiche rappresentate da colori (verde per tropicale, arancione per desertico, azzurro per polare) e simboli che indicano la posizione dei vari depositi: carbon fossile, scogliere coralline, depositi salini, dune desertiche e massi erratici.*
+
+Massi erratici: grandi blocchi di roccia trasportati a fondovalle da un ghiacciaio.
+
+---
+
+### Pagina 11
+
+**Contenuto testuale:**
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+**PER SAPERNE DI PIÙ**
+
+**L’ipotesi di Wegener: detrattori e sostenitori**
+
+Sebbene fosse sostenuta da una vasta serie di dati, l’ipotesi di *Wegener* fu osteggiata e criticata.
+
+Le critiche maggiori riguardavano il meccanismo fisico della deriva dei continenti, cioè le «**forze traslatrici**».
+
+*Wegener* infatti riteneva che la deriva si verificasse a causa della rotazione terrestre, che faceva migrare i continenti dai poli all’equatore, ma i dati dimostravano che le forze erano insufficienti.
+
+Riteneva inoltre che i continenti tendessero a spostarsi verso ovest a causa dell’attrito prodotto dalle maree terrestri (rallentavano la rotazione scollando la crosta terrestre dal substrato), e che si comportassero come zattere di *sial* che «navigavano» attraverso il *sima* a velocità sostenute.
+
+---
+
+### Pagina 12
+
+**Contenuto testuale:**
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+**PER SAPERNE DI PIÙ**
+
+Il più famoso critico di *Wegener* fu il geofisico e matematico di Cambridge **Harold Jeffreys**.
+
+**[Immagine 19]**
+*Descrizione: Ritratto di Harold Jeffreys.*
+
+Egli riteneva che il debole *sima* non avrebbe potuto corrugare il *sial* e che le forze traslatrici invocate da *Wegener* rappresenterebbero circa la milionesima parte della forza necessaria per muovere i continenti.
+
+---
+
+### Pagina 13
+
+**Contenuto testuale:**
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+**PER SAPERNE DI PIÙ**
+
+Tra i sostenitori di *Wegener* è da ricordare il geologo americano di Harvard **Reginald Aldworth Daly**.
+
+**[Immagine 20]**
+*Descrizione: Ritratto di Reginald Aldworth Daly.*
+
+Egli accettò l’idea della deriva proponendo che i continenti sarebbero scivolati lateralmente sotto l’influsso della gravità a causa del rigonfiamento delle regioni polari ed equatoriali con una depressione intermedia.
+
+Favorevoli a *Wegener* furono anche **Émile Argand**, il grande geologo svizzero a cui si deve la sintesi della struttura della catena alpina (1924), e **Alexander du Toit**, un geologo sudafricano, noto per aver ricostruito (1937) con accuratezza l’originario assemblaggio delle terre australi nell’unico grande continente di *Gondwana*.
+
+**[Immagine 21]**
+*Descrizione: Ritratti di Émile Argand (a sinistra) e Alexander du Toit (a destra).*
+
+---
+
+### Pagina 14
+
+**Contenuto testuale:**
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+**PER SAPERNE DI PIÙ**
+
+Nel 1928, il geologo inglese **Arthur Holmes**, pioniere della datazione isotopica, propose che la concentrazione di elementi radioattivi nel substrato terrestre fosse sufficiente a causare la convezione.
+
+**[Immagine 22]**
+*Descrizione: Ritratto di Arthur Holmes.*
+
+Secondo il modello di *Holmes*, correnti (convettive) subcrostali fluenti in opposte direzioni eserciterebbero una forte trazione nel *sial* soprastante, che verrebbe stirato orizzontalmente e assottigliato.
+
+Anche un eventuale grosso *blocco sialico* sovrastante potrebbe così venir rotto in grossi frammenti, tra i quali comparirebbe del *sima* e si formerebbe così un nuovo oceano.
+
+**Il modello di Holmes può essere considerato il vero embrione delle attuali teorie della dinamica terrestre.**
+
+---
+
+### Pagina 15
+
+**Contenuto testuale:**
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+**Le dorsali medio-oceaniche**
+
+Le *dorsali medio-oceaniche* si estendono su tutto il globo per quasi 60 000 km come una cucitura di un pallone da calcio (oceano Atlantico, Indiano, Antartico, Pacifico, il Mar di Norvegia e il Mare Artico). Furono scoperte nella seconda metà degli anni Cinquanta dello scorso secolo.
+
+**[Immagine 23]**
+*Descrizione: Mappa del mondo che mostra l'età dei fondali oceanici. Le zone in rosso rappresentano le dorsali medio-oceaniche, ovvero le parti più giovani e attive del fondo oceanico.*
+
+Ogni colore corrisponde a rocce formatesi nello stesso intervallo di tempo; in rosso l’attuale estensione delle dorsali medio-oceaniche.
+
+---
+
+### Pagina 16
+
+**Contenuto testuale:**
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+Le **dorsali oceaniche** sono estesi rigonfiamenti lineari, segmentati e più o meno fratturati, le cui creste si trovano a 2500÷2700 m di profondità, mentre il fondo oceanico digrada fino a 5000÷6000 m. In casi particolari, le dorsali possono affiorare formando delle isole vulcaniche (**Islanda, Azzorre, alcune isole dell’Atlantico, dell’Oceano Indiano, dell’Oceano Pacifico (Pasqua e Galapagos)**).
+
+La zona di cresta è caratterizzata da una **valle tettonica** o **valle di sprofondamento** (**rift valley**) circondata da rilievi basaltici molto fratturati. La *rift valley* è zona di **terremoti** a ipocentro superficiale, con attività vulcanica effusiva ed elevato flusso di calore. Nelle dorsali gran parte dell’attività geologica recente è concentrata lungo la *rift valley*, mentre i fianchi sono più vecchi e meno attivi. Le dorsali sono costituite prevalentemente da **basalti tholeitici** (poveri di K e ricchi di Ca) e da **gabbri**.
+
+**[Immagine 24]**
+*Descrizione: Spaccato 3D di una dorsale oceanica che mostra la fuoriuscita di magma (rosso) lungo la rift valley, il raffreddamento della crosta (grigio) e il movimento divergente sopra l'astenosfera (giallo/arancione).*
+
+**[Immagine 25]**
+*Descrizione: Una serie di 8 profili morfologici del fondo oceanico in diversi punti della Terra (numerati da 1 a 8) e una cartina geografica che indica le relative posizioni dei profili (Atlantico, Indiano, Pacifico).*
+
+8 profili delle dorsali medio-oceaniche. Le altezze sono esagerate rispetto alle lunghezze.
+
+---
+
+### Pagina 17
+
+**Contenuto testuale:**
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+**La struttura della crosta oceanica**
+
+La crosta oceanica ha una struttura a strati.
+
+**[Immagine 26]**
+*Descrizione: Diagramma stratigrafico della crosta oceanica che mostra i vari livelli in profondità (km): sedimenti (strato 1), basalti e dicchi (strato 2), gabbri (strato 3) e il mantello sottostante separato dalla Moho.*
+
+**Strato 1:** coltre di **sedimenti** oceanici. (Spessore medio = 400 m, Velocità onde P = 1,6-2,5 km/s).
+
+**Strato 2:** detto anche **basamento oceanico** o **strato vulcanico**, è costituito da ripetute colate di **basalti tholeitici** (percentuale di silicati alta) spesso con struttura a **cuscini** (**pillow lava**), cui segue un complesso di **dicchi o filoni** verticali. I dicchi sono **rocce magmatiche** formatesi per solidificazione di magma intruso in rocce preesistenti. (Spessore medio = 1-2,5 km, Velocità onde P = 3,4-6,2 km/s).
+
+**Strato 3:** detto anche **strato oceanico**, è costituito da **gabbri** che derivano dalla solidificazione del magma presente in una grande camera magmatica. La **Moho** separa la **crosta oceanica** dal sottostante **mantello peridotitico**. La transizione crosta-mantello si verifica nello spazio di circa 1 km, in corrispondenza del quale la velocità delle onde sismiche aumenta bruscamente a 7,9÷8,1 km/s. (Spessore medio = 5 km, Velocità onde P = 6,4-7 km/s).
+
+---
+
+### Pagina 18
+
+**Contenuto testuale:**
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+La struttura a cuscini della **pillow lava** si forma quando la lava fuoriesce da un condotto vulcanico sottomarino.
+
+**[Immagine 27]**
+*Descrizione: Fotografia subacquea di colate laviche a forma di grandi cuscini tondeggianti sul fondo dell'oceano.*
+
+Al contatto con l’acqua marina fredda, la superficie della **lava** subisce un **rapido raffreddamento** e si forma una sottile crosta solida.
+
+Il flusso lavico si suddivide in blocchi che, ancora parzialmente fusi al loro interno, si deformano assumendo una forma tondeggiante.
+
+---
+
+### Pagina 19
+
+**Contenuto testuale:**
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+**Espansione del fondo oceanico**
+
+Secondo l’ipotesi dell’**espansione del fondo oceanico**, proposta dal geologo e ammiraglio statunitense **Harry Hammond Hess** nel 1960, le **dorsali oceaniche** sono l’espressione superficiale dei rami ascendenti dei lenti moti convettivi del **mantello**.
+
+**Hess** sosteneva che il materiale del mantello sale in corrispondenza delle dorsali oceaniche e poi si muove lateralmente, allontanandosi dall’**asse della dorsale**. Si produce **nuova litosfera oceanica** che va a riempire la fessura centrale. La litosfera oceanica viene riassorbita per **subduzione** in corrispondenza delle fosse oceaniche.
+
+**[Immagine 28]**
+*Descrizione: Ritratto di Harry Hammond Hess.*
+
+**[Immagine 29]**
+*Descrizione: Planisfero fisico-morfologico dei fondali oceanici che mostra l'andamento delle dorsali e delle fosse.*
+
+**[Immagine 30]**
+*Descrizione: Diagramma schematico dei moti convettivi nel mantello (astenosfera) che causano l'espansione del fondo oceanico a partire dalla dorsale e il riassorbimento nelle fosse oceaniche tramite subduzione.*
+
+---
+
+### Pagina 20
+
+**Contenuto testuale:**
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+**Il meccanismo dell’espansione**
+
+Il **mantello superiore** è composto soprattutto di **peridotite** (roccia ignea ultrafemica, detta anche ultrabasica perché ha un contenuto molto basso di silice) che, normalmente, si trova allo stato solido per via delle forti pressioni cui è sottoposta.
+
+Sotto il **centro di espansione della dorsale**, la **litosfera s’inarca, si lacera e si allontana**, riducendo così la pressione sulle sottostanti rocce del mantello.
+
+**[Immagine 31]**
+*Descrizione: Dettaglio del diagramma della dorsale con risalita di magma sotto la rift valley.*
+
+**[Immagine 32]**
+*Descrizione: Cartina del Mediterraneo centrale con frecce nere e rosse che illustrano il movimento di subduzione della placca africana sotto quella euroasiatica lungo il margine ellenico e calabro.*
+
+La linea rossa indica il margine di subduzione secondo cui la placca africana scorre al di sotto di quella euroasiatica. Le frecce rosse indicano il movimento relativo della placca di tetto, le frecce nere quello della placca che va in subduzione.
+
+La **litosfera oceanica** viene riassorbita per **subduzione** in corrispondenza delle **fosse oceaniche**.
+
+**[Immagine 33]**
+*Descrizione: Spaccato 3D di una zona di subduzione: la litosfera oceanica sprofonda nell'astenosfera sotto la crosta continentale, creando una fossa e un arco vulcanico insulare.*
+
+---
+
+### Pagina 21
+
+**Contenuto testuale:**
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+Il **magma peridotitico** che si forma risale e si raccoglie nella crosta, in una **camera magmatica**, a poca profondità sotto la cresta della dorsale.
+
+**[Immagine 34]**
+*Descrizione: Illustrazione dettagliata di una sezione trasversale di una dorsale oceanica. Mostra la camera magmatica centrale, i livelli di gabbri e peridotiti, i dicchi stratiformi verticali, i basalti a cuscini e i sedimenti in superficie. Sono indicate le profondità in km e l'asse della dorsale.*
+
+---
+
+### Pagina 22
+
+**Contenuto testuale:**
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+Dal magma peridotitico, per **cristallizzazione frazionata**, si forma un **fuso basaltico** dal quale hanno origine, all’interno della camera magmatica, i **gabbri**. Il gabbro è una **roccia magmatica intrusiva** contenente minerali di **plagioclasio, pirosseni ed olivina**.
+
+Il **fuso basaltico** della parte alta della camera magmatica sale verso l’alto attraverso le fratture verticali prodotte dalla distensione e lacerazione della crosta.
+
+Una parte del magma raggiunge la superficie, la lava basaltica fluisce lungo i fianchi della dorsale e solidifica spesso con la struttura a cuscini (*pillow*). **Il basalto è una roccia effusiva che ha la stessa costituzione mineralogica del gabbro, essendo formato principalmente da minerali di plagioclasio e pirosseni e olivina.** Il gabbro è il corrispondente intrusivo del basalto.
+
+**[Immagine 35]**
+*Descrizione: Ripetizione dell'illustrazione della sezione della dorsale con camera magmatica.*
+
+**[Immagine 36]**
+*Descrizione: Ripetizione dello spaccato 3D della dorsale oceanica che mostra il distacco delle placche e la risalita del magma.*
+
+---
+
+### Pagina 23
+
+**Contenuto testuale:**
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+Un’altra parte del magma solidifica lungo le fratture producendo i **dicchi stratiformi** e ostruendo i condotti fino a formare una sorta di tappo. I **dicchi** sono rocce magmatiche formatesi per solidificazione di magma intruso in rocce preesistenti.
+
+Il continuo processo di lacerazione e allontanamento della crosta oceanica lacera il tappo dando il via a un **nuovo ciclo di sollevamento astenosferico, fusione della peridotite, frazionamento del magma peridotitico, effusione lavica e intrusione.**
+
+**[Immagine 37]**
+*Descrizione: Ripetizione dell'illustrazione della sezione della dorsale.*
+
+**[Immagine 38]**
+*Descrizione: Ripetizione del planisfero morfologico dei fondali oceanici.*
+
+---
+
+### Pagina 24
+
+**Contenuto testuale:**
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+**Ipotesi dell’espansione del fondo oceanico**
+
+Numerose sono le **evidenze** che supportano l’ipotesi dell’espansione del fondo oceanico:
+
+**a. le anomalie magnetiche dei fondi oceanici:** le **anomalie magnetiche** sono valori del campo magnetico, misurati dai **magnetometri** in certe località, che si discostano dai valori teorici attesi. Un esempio di magnetometro è quello situato presso l'Istituto Svedese di Fisica Spaziale a Kiruna. **Le anomalie magnetiche possono essere sia positive, sia negative.**
+
+Le anomalie magnetiche sul fondo oceanico sono **simmetriche** rispetto alla dorsale.
+
+Le bande hanno una **larghezza di 1÷100 km**, una **lunghezza di centinaia di km** e sono **interrotte e dislocate in corrispondenza delle faglie trasformi.**
+
+**[Immagine 39]**
+*Descrizione: Mappa delle anomalie magnetiche al largo della costa occidentale del Nord America (Vancouver, Seattle), mostrate come bande colorate parallele e dislocate da faglie.*
+
+**[Immagine 40]**
+*Descrizione: Diagramma schematico che mostra la formazione di bande magnetiche simmetriche a causa dell'espansione del fondo oceanico e dell'inversione della polarità del campo magnetico terrestre.*
+
+**[Immagine 41]**
+*Descrizione: Diagramma che illustra il concetto di faglia trasforme tra due segmenti di dorsale.*
+
+---
+
+### Pagina 25
+
+**Contenuto testuale:**
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+**Come si formano le anomalie magnetiche?**
+
+La **lava basaltica** uscendo dalla dorsale oceanica si magnetizza per il calore residuo durante il raffreddamento (**magnetizzazione termoresidua**). Questa magnetizzazione è quella acquisita dalle rocce magmatiche quando si raffreddano sotto il punto di Curie (**temperatura di Curie (TC)**, è la temperatura al di sopra della quale i materiali magnetici perdono le loro proprietà ferromagnetiche, per essere sostituiti dal paramagnetismo).
+
+Man mano che si aggiunge nuova lava, quella già magnetizzata viene allontanata dall’asse della dorsale verso direzioni opposte.
+
+Ogni volta che il campo magnetico si inverte, l’evento viene **«fossilizzato»** nelle rocce magmatiche.
+
+Il fondo oceanico risulta così costituito da **bande alternate con magnetizzazione normale e inversa**, speculari all’asse della dorsale.
+
+Il **campo magnetico delle rocce del fondo oceanico** va a **sommarsi o a sottrarsi al campo magnetico terrestre attuale**, creando **anomalie positive o negative**, che sul fondo degli oceani sono disposte a bande parallele, a differenza di quelle sulla terraferma che sono disposte a chiazze.
+
+Poiché il campo magnetico attuale ha un’intensità molto più elevata dell’intensità residua, esso mantiene sempre un valore positivo.
+
+**[Immagine 42]**
+*Descrizione: Tre grafici che mostrano il profilo delle anomalie magnetiche (in gamma) e le bande di polarità (nero=normale, bianco=inversa) per diverse aree oceaniche: Sud Atlantico, Nord Pacifico e Pacifico-Antartico. I grafici mostrano la simmetria rispetto allo zero (asse della dorsale) e la correlazione tra le diverse zone.*
+
+Negli ultimi 76 milioni di anni si sono registrate 171 inversioni di polarità. In **nero** sono indicate le anomalie positive, in **bianco** quelle negative. Si osserva che le anomalie magnetiche sono correlate nei vari oceani.
+
+---
+
+### Pagina 26
+
+**Contenuto testuale:**
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+**b. l’età dei sedimenti oceanici:** l’età dei sedimenti che poggiano sulla crosta oceanica **aumenta** allontanandosi dall’asse della dorsale.
+
+I **sedimenti oceanici** sono costituiti dall’accumulo di minutissimi **gusci di organismi planctonici**.
+
+**[Immagine 43]**
+*Descrizione: Tre diagrammi temporali (Tempo 1, 2, 3) che mostrano come, col passare del tempo, lo strato di sedimenti diventi più spesso e più antico (puntini rossi e neri) man mano che ci si allontana dalla dorsale.*
+
+I sedimenti più antichi poggianti sul basamento basaltico sinora scoperti hanno 170 milioni di anni.
+
+Più del 50% del fondo oceanico ha 80 milioni di anni.
+
+Ci sono sempre stati oceani, ma i sedimenti più vecchi di 170 milioni di anni, dopo essere stati trasportati sul fondo oceanico, sono stati impilati sul margine di un continente o sono stati risucchiati nel mantello in una zona di subduzione.
+
+---
+
+### Pagina 27
+
+**Contenuto testuale:**
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+**c. l’elevato flusso di calore delle dorsali oceaniche:**
+Lungo l’asse delle dorsali oceaniche il **flusso di calore** è più elevato che nelle altre parti degli oceani.
+I valori maggiori si raggruppano, da entrambi i lati della cresta, entro una distanza di 150÷200 km.
+
+**d. il rapporto età-profondità della crosta oceanica;**
+Allontanandosi dall’asse della dorsale, la crosta oceanica si raffredda, si contrae e aumenta di densità, subendo una progressiva subsidenza per compensazione isostatica.
+
+**[Immagine 44]**
+*Descrizione: Planisfero che mostra l'età dei bacini oceanici codificata per colori (dal rosso per il giovane al blu per l'antico). Legenda: Età dei bacini oceanici (Milioni di anni fa).*
+
+**[Immagine 45]**
+*Descrizione: Grafico del rapporto tra la profondità dell'oceano (m) e l'età del fondale (milioni di anni). La curva mostra che la profondità aumenta gradualmente all'aumentare dell'età.*
+
+La profondità a cui la crosta oceanica si stabilizza varia, in rapporto lineare, con la radice quadrata della sua età.
+
+---
+
+### Pagina 28
+
+**Contenuto testuale:**
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+**e. le faglie trasformi:** sono **zone di frattura di dimensioni limitate**, comprese fra due segmenti di una dorsale. Esse **scorrono senza avvicinarsi o allontanarsi.** Queste faglie non sono la causa della dislocazione dei vari tronconi della dorsale, ma **rappresentano la conseguenza dell'espansione del fondale oceanico avvenuta in corrispondenza di ciascun troncone per la risalita disomogenea delle correnti convettive del mantello.**
+
+**[Immagine 46]**
+*Descrizione: Tre schemi geometrici che spiegano il movimento lungo una faglia trasforme: le frecce viola indicano il senso di espansione dei segmenti di dorsale.*
+
+**[Immagine 47]**
+*Descrizione: Mappa batimetrica di una dorsale oceanica che mostra le numerose fratture trasversali che la segmentano.*
+
+Il movimento della faglia è opposto solo nel tratto compreso fra i due segmenti di dorsale, all’esterno il movimento ai lati della frattura è concorde.
+
+**[Immagine 48]**
+*Descrizione: Diagramma 3D che evidenzia gli epicentri dei terremoti (stelle rosse) localizzati esclusivamente nel tratto di faglia attivo tra i due tronconi della dorsale.*
+
+I terremoti si verificano solo nel tratto compreso fra i due segmenti di dorsale.
+
+---
+
+### Pagina 29
+
+**Contenuto testuale:**
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+**f. i punti caldi:** chiamati anche **hot spot**, sono dei centri vulcanici isolati, caratterizzati da elevato flusso termico e intensa attività intraplacca. Esempi sono il *Grand Prismatic Spring* (Parco dello Yellowstone) e il vulcano Kilauea (isole Hawaii).
+
+**[Immagine 49]**
+*Descrizione: Mappa mondiale con punti arancioni che indicano la posizione dei principali punti caldi del pianeta (Iceland, Yellowstone, Hawaii, Galapagos, Azores, Afar, ecc.) in relazione ai margini di placca (linee rosse e nere).*

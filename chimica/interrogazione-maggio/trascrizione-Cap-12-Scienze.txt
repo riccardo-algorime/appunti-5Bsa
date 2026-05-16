@@ -1,0 +1,478 @@
+Ecco la trascrizione integrale, parola per parola, del contenuto delle slide della presentazione, con i relativi placeholder e descrizioni per le immagini.
+
+---
+
+### Slide 1
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+**Capitolo 12 La dinamica delle placche**
+
+Lezioni 1, 2
+**Margini continentali e margini di placca, Collisioni e orogenesi**
+
+[Immagine: *Fotografia di un paesaggio montuoso desertico caratterizzato da rocce di colore rossastro, aspre e profondamente erose, che mostrano evidenti stratificazioni.*]
+
+---
+
+### Slide 2
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+**I margini continentali**
+
+In geologia, per **margine continentale** si intende la parte marginale, più esterna, dei blocchi di crosta continentale che fa da transizione graduale alla crosta oceanica.
+
+[Immagine: *Diagramma 3D che illustra il passaggio dal blocco continentale all'oceano. Sono indicati: il Continente, il Margine continentale (che comprende Piattaforma continentale e Scarpata continentale) e l'Oceano (con la Piana abissale). Sono riportati i valori di densità: Crosta continentale ∂ = 2,7 g/cm³, Crosta oceanica ∂ = 3,0 g/cm³, Mantello ∂ = 3,3 g/cm³. È indicata inoltre la discontinuità di Moho.*]
+
+Il limite dei continenti si trova alla base della scarpata continentale intorno ai 2000÷3000 m di profondità.
+
+---
+
+### Slide 3
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+I margini continentali possono trovarsi distanti dai margini di placca, oppure coincidere con essi.
+
+[Immagine: *Mappa del mondo che mostra i confini delle placche tettoniche e i diversi tipi di margini continentali. Quattro etichette indicano: Margine di placca (in Islanda), Margine continentale passivo (costa occidentale dell'Africa), Margine continentale attivo (costa occidentale del Sudamerica) e Margine continentale trasforme (nord della Groenlandia).*]
+
+I margini continentali possono essere attivi (–), passivi ( ) e trasformi (–).
+
+---
+
+### Slide 4
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+I **margini continentali passivi** sono tipici dei continenti che si trovano ai bordi dei bacini oceanici in espansione.
+
+Segnano il **confine** tra oceano e continente della medesima placca.
+
+Sono **tettonicamente inattivi** perché si trovano in «retroguardia», opposta rispetto al moto della placca.
+
+Sopra di essi si verifica la sedimentazione di materiali continentali.
+
+[Immagine: *Mappa del mondo identica alla precedente, ma con evidenziati i Margini continentali passivi e i Margini di placca.*]
+
+---
+
+### Slide 5
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+I **margini continentali trasformi** corrispondono ai bruschi rigetti o deviazioni della spaccatura iniziale in corrispondenza dei quali avverrà la separazione continentale.
+
+Sono tipici degli oceani in espansione e caratterizzano il margine del continente in posizione opposta (di «retroguardia») rispetto al moto della placca.
+
+Sono caratterizzati da ripide scarpate tra continente e oceano.
+
+Interessano limitate estensioni, separate tra loro, all’interno dei margini passivi.
+
+[Immagine: *Mappa del mondo con evidenziati i Margini continentali trasformi e i Margini di placca.*]
+
+---
+
+### Slide 6
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+I **margini continentali attivi** sono situati sul bordo dei continenti in posizione anteriore rispetto al verso dello spostamento e coincidono con il margine della placca.
+
+Sono soggetti a sforzi prevalentemente compressivi.
+
+**Sono tettonicamente attivi** e quindi interessati da attività sismica e vulcanica.
+
+Sono associati ai margini di placca convergenti dove si verifica il fenomeno della *subduzione*.
+
+[Immagine: *Mappa del mondo con evidenziati i Margini continentali attivi e i Margini di placca.*]
+
+---
+
+### Slide 7
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+**Margini continentali passivi e margini di placca divergenti**
+
+I **margini continentali passivi** sono legati ai margini di placca divergenti e si formano a coppie in corrispondenza di una dorsale oceanica in fase di formazione.
+
+I **margini continentali passivi** si sviluppano lentamente in diverse fasi geotettoniche:
+
+a) **inarcamento iniziale** seguito dalla **formazione di fosse tettoniche**;
+
+b) **rottura dell’inarcamento** e **formazione di un golfo proto-oceanico**;
+
+c) **separazione completa** dei due blocchi e **formazione di un oceano vero e proprio**, dapprima stretto, poi sempre più largo.
+
+[Immagine: *Serie di quattro diagrammi 3D che mostrano l'evoluzione di un margine divergente: dall'inarcamento iniziale (rift valley), alla comparsa di crosta oceanica con un golfo, fino alla formazione di un oceano aperto con dorsale media e margini continentali passivi ai lati.*]
+
+---
+
+### Slide 8
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+[Immagine: *Stessa serie di quattro diagrammi 3D della slide precedente, ma con descrizioni testuali a fianco di ciascuna fase.*]
+
+**Inarcamento iniziale** dovuto alla risalita di magma caldo e formazione di fosse tettoniche.
+
+**Lacerazione della litosfera**, formazione di due tronconi continentali e di un golfo proto-oceanico; comparsa della crosta oceanica.
+
+**Separazione completa** dei due blocchi con formazione di due margini continentali opposti e di un oceano vero e proprio.
+
+**Allontanamento dei margini continentali** e accumulo di materiali sedimentari; allargamento dell’oceano.
+
+---
+
+### Slide 9
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+Questo processo è oggi visibile nell’**Africa orientale**.
+
+Dove il blocco somalo e la Placca Arabica si stanno separando dalla Placca Africana, sono in atto tutte le fasi di apertura di un continente e formazione di un oceano.
+
+La fase di *rifting* (spaccatura) è in atto nella zona tra Etiopia e Mozambico, dove è presente un sistema di *rift valley*, spesso occupate da grandi laghi, e si registra un’intensa attività vulcanica.
+
+La fase di apertura del continente con formazione di uno stretto mare e di due margini continentali passivi è in atto nel Mar Rosso.
+
+La fase di formazione di un oceano vero e proprio, con dorsale medio-oceanica, è in atto nel Golfo di Aden.
+
+[Immagine: *Mappa geologica dell'Africa Orientale e della Penisola Arabica. Sono evidenziati il Mar Rosso, il Golfo di Aden, la Rift Valley africana con i suoi grandi laghi (Vittoria, Alberto, Tanganica, Niassa), le placche (Africana, Arabica) e i vulcani attivi.*]
+
+---
+
+### Slide 10
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+**Un margine continentale passivo «fossile»: le Alpi Meridionali italiane**
+
+[Immagine: *Sezione geologica complessa che mostra la struttura crostale delle Alpi Meridionali, dal Lago Maggiore fino a Lubiana. Sono evidenziati il basamento metamorfico, la copertura sedimentaria, intrusioni magmatiche e numerose faglie.*]
+
+Questo tratto della catena alpina era, nel Giurassico superiore (130÷140 Ma fa), un segmento del margine continentale di un promontorio della Placca Africana (Adria), coinvolto successivamente nell’orogenesi alpina e sollevato ed eroso fino a costituire, oggi, le montagne della Lombardia e del Veneto.
+
+---
+
+### Slide 11
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+**Margini continentali trasformi e margini di placca trasformi**
+
+I **margini continentali trasformi** sono associati ai margini di placca trasformi.
+
+Sono caratterizzati da ripide scarpate tra continente e oceano, a differenza dei margini continentali passivi, che si presentano con blocchi rocciosi separati da faglie e si assottigliano progressivamente verso l’oceano.
+
+Le ripide scarpate si sono originate al momento della separazione dei continenti a opera della dorsale oceanica che andava formandosi.
+
+Interessano limitate estensioni, separate tra loro, all’interno dei margini passivi.
+
+[Immagine: *Due diagrammi 3D che illustrano la formazione di margini trasformi durante il rifting. Nel secondo diagramma è visibile una faglia trasforme che collega due segmenti di dorsale, separando il margine continentale trasforme da quello passivo.*]
+
+---
+
+### Slide 12
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+**Margini continentali trasformi** si trovano a nord della Groenlandia.
+
+[Immagine: *Mappa satellitare dell'Oceano Artico tra Groenlandia, Isole Svalbard e Norvegia. Sono evidenziati in giallo i margini continentali trasformi, in blu le faglie trasformi e in rosso la dorsale medio-atlantica.*]
+
+---
+
+### Slide 13
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+I **margini continentali trasformi** del Golfo di Guinea, in Africa, e del Brasile settentrionale sono situati in corrispondenza del fascio di fratture che tagliano l’Oceano Atlantico centromeridionale.
+
+[Immagine: *Mappa dell'Oceano Atlantico centrale tra Sudamerica e Africa. Sono visibili le numerose faglie trasformi perpendicolari alla dorsale medio-atlantica e i segmenti di margine continentale trasforme (evidenziati in giallo) lungo le coste dei due continenti.*]
+
+---
+
+### Slide 14
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+**Margini continentali attivi e margini di placca convergenti**
+
+I **margini continentali attivi** sono associati ai margini di placca convergenti, dove si verifica il fenomeno della *subduzione*. Quando due placche convergono si forma una **fossa**, la placca più densa sprofonda nell’astenosfera e, raggiunta una certa profondità, subisce fusione parziale. I fusi che ne derivano innescano un’attività plutonico-vulcanica che interessa la zona sovrastante il piano di Benioff. Il magma non sempre alimenta un’eruzione vulcanica; in diversi casi però si crea un allineamento di vulcani detto **arco magmatico**. Talvolta, solidifica in profondità in grosse strutture dette **plutoni**. L’insieme della fossa e dell’arco magmatico è detto **sistema arco-fossa**. Esso è formato da 5 elementi.
+
+[Immagine: *Diagramma 3D di una zona di subduzione in oceano con bacino marginale. Sono indicati: Fossa, Zona di subduzione, Intervallo arco-fossa, Arco magmatico, Area di retroarco, Bacino marginale, Sedimenti pelagici, Piano di Benioff e vulcani.*]
+
+---
+
+### Slide 15
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+[Immagine: *Diagramma 3D di un sistema arco-fossa su un margine continentale (tipo Ande). La placca oceanica subduce sotto quella continentale. Vengono evidenziati: Fossa, Zona di subduzione, Intervallo arco-fossa (con il prisma di accrezione), Arco magmatico (catena montuosa vulcanica), Area di retroarco, Piano di Benioff e vulcanismo andesitico.*]
+
+---
+
+### Slide 16
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+**Fossa oceanica**
+
+La fossa oceanica è una struttura larga 50÷100 km e profonda più di 6 km.
+
+Nelle fosse si impilano i sedimenti dei fondi oceanici raschiati dalla placca discendente oltre ai sedimenti terrigeni e piroclastici provenienti dal margine continentale o dall’arco insulare vulcanico adiacenti.
+
+[Immagine: *Mappa del mondo che mostra la posizione delle principali fosse oceaniche (linee blu scuro): fossa delle Marianne, del Giappone, delle Aleutine, del Perù-Cile, di Giava, ellenica, ecc.*]
+
+---
+
+### Slide 17
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+**Zona di subduzione**
+
+La zona di *subduzione* si trova sotto il ripido fianco interno della *fossa*, dove esistono depositi oceanici deformati e innalzati.
+
+[Immagine: *Dettaglio 3D di una zona di subduzione. Si vedono chiaramente la fossa, il prisma di accrezione formato da sedimenti oceanici deformati, i piani di sovrascorrimento e il piano di subduzione.*]
+
+---
+
+### Slide 18
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+**Intervallo arco-fossa**
+
+La rottura del pendio sopra la zona di *subduzione*, in corrispondenza dell’*arco magmatico*, segna il limite dell’*intervallo arco-fossa*.
+
+[Immagine: *Stessa immagine di dettaglio 3D della slide precedente, con evidenziata l'area definita come Intervallo arco-fossa, situata tra la fossa e l'arco vulcanico.*]
+
+---
+
+### Slide 19
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+**Arco magmatico**
+
+L’arco magmatico è la fascia vulcanica parallela alla fossa, oltre la zona di *subduzione*.
+
+I vulcani degli archi magmatici sono caratterizzati da eruzioni esplosive di lave e piroclasti.
+
+Se l’arco magmatico si trova in una zona di collisione tra due placche con crosta oceanica si forma una catena di isole vulcaniche (Giava, Timor, Giappone, Filippine).
+
+Se l’arco magmatico si trova in una zona di collisione tra una placca con crosta oceanica e una placca che trasporta un continente si forma, sul continente, una catena del tipo cordigliera (Ande, Montagne Rocciose canadesi).
+
+[Immagine: *Dettaglio 3D della zona di subduzione con evidenziato l'Arco vulcanico situato sopra la placca che non subduce.*]
+
+---
+
+### Slide 20
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+**Area di retroarco**
+
+L’area di retroarco è la **zona retrostante l’arco magmatico**.
+
+Le aree di retroarco retrostanti le cordigliere sono occupate da **depressioni continentali** (Bacino del Rio delle Amazzoni).
+
+Le aree di retroarco retrostanti le catene di isole sono occupate da mari di media profondità detti **bacini marginali** (Mare di Bering, Mar del Giappone, Mar delle Filippine, Mar Egeo).
+
+[Immagine: *Confronto tra due diagrammi 3D: a sinistra un sistema arco-fossa su margine continentale (senza bacino marginale); a destra un sistema arco-fossa in oceano con bacino marginale nell'area di retroarco.*]
+
+---
+
+### Slide 21
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+**Area di retroarco**
+
+[Immagine: *Due mappe geografiche esemplificative: a sinistra il Sud-est asiatico e l'Australia con evidenziati archi magmatici attivi e fosse; a destra il Mar Egeo (Grecia/Turchia) con l'indicazione della fossa ellenica, della subduzione e dell'arco vulcanico egeo.*]
+
+---
+
+### Slide 22
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+I continenti non sono immutabili nel tempo.
+
+**Tettonica delle placche e orogenesi**
+
+Nel corso del tempo geologico, in conseguenza della mobilità delle placche, i continenti si sono frammentati e riaggregati più volte.
+
+Quando due continenti si scontrano, si verifica una **collisione** che comporta la scomparsa del bacino oceanico interposto e la formazione di una catena montuosa.
+
+Il risultato finale di un processo collisionale è l’**orogenesi**, cioè la nascita di una catena montuosa.
+
+La **catena alpino-himalayana** è il risultato della collisione iniziata alla fine del Mesozoico tra l’Eurasia e le placche afro-arabica e indiana.
+
+[Immagine: *Mappa dell'Eurasia meridionale, dell'Africa e dell'India. Frecce indicano il movimento di collisione dell'Africa, dell'Arabia e dell'India verso nord contro il blocco eurasiatico, formando la fascia orogenetica alpino-himalayana.*]
+
+---
+
+### Slide 23
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+L’orogenesi si verifica ai limiti di placca convergenti, dove è in atto subduzione.
+
+**Modelli orogenetici**
+
+I processi orogenetici sono di 3 tipi:
+
+**a. orogenesi da collisione:** si ha quando due blocchi continentali giungono a fronteggiarsi e a scontrarsi. Si sono formate così le Alpi, gli Uràli, l’Himàlaya.
+
+**b. orogenesi da attivazione:** si ha quando una placca oceanica subduce velocemente e a lungo sotto un margine continentale. Si sono formate così le catene montuose del tipo cordigliera, come le Ande argentine e cilene e le Montagne rocciose canadesi.
+
+**c. orogenesi per accrescimento crostale:** si ha quando piccoli blocchi crostali collidono a più riprese con un margine di un continente, saldandosi a esso.
+
+[Immagine: *Tre diagrammi 3D illustrativi dei modelli descritti: collisione tra Placca Indiana ed Eurasiatica (Himalaya); attivazione tra Placca di Nazca e Sudamericana (Ande); accrescimento crostale tramite sovrapposizione di scaglie tettoniche.*]
+
+---
+
+### Slide 24
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+**a. orogenesi da collisione:** abbiamo detto che si ha quando due blocchi continentali giungono a fronteggiarsi e a scontrarsi (Alpi, Uràli, Himàlaya).
+
+[Immagine: *Sequenza di quattro sezioni crostali che mostrano l'evoluzione della collisione continentale.*]
+
+1. La placca oceanica si immerge sotto quella continentale. Sul margine continentale attivo si forma un **sistema arco-fossa**.
+2. L’oceano si restringe e i sedimenti oceanici cominciano a deformarsi sensibilmente.
+3. I continenti collidono. Crosta e sedimenti oceanici e rocce continentali si accavallano reciprocamente.
+4. La convergenza si blocca. L’edificio roccioso si alza, **per compensazione isostatica**, e **si forma una catena montuosa**.
+
+---
+
+### Slide 25
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+[Immagine: *Mappa dell'area Mediterranea che mostra le principali catene montuose numerate (Pontidi, Balcani, Carpazi, Dinaridi, Ellenidi, Tauridi, Alpi, Appennini, Pirenei, Betidi, Riff, Magrebidi). Frecce blu e rosse indicano i moti relativi delle placche.*]
+
+Le maggiori catene montuose della regione mediterranea sono il risultato del progressivo avvicinamento dell’Africa all’Europa.
+
+NB La *vergenza* è la direzione di movimento tettonico che una determinata struttura geologica (es. piega), generata principalmente da una spinta laterale, tende a presentare.
+A destra, schema di sviluppo di una piega in evoluzione a faglia e quindi falda di ricoprimento con vergenza verso la destra dell'osservatore
+
+[Immagine: *Tre disegni schematici che mostrano l'evoluzione di una piega che, sotto pressione laterale, si rompe diventando una faglia e portando alla sovrapposizione di strati (falda di ricoprimento).*]
+
+---
+
+### Slide 26
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+**b. orogenesi da attivazione:** abbiamo detto che si ha quando una placca oceanica subduce velocemente e a lungo sotto un margine continentale. Si sono formate così le catene montuose del tipo cordigliera, come le *Ande* argentine e cilene e le *Montagne rocciose* canadesi.
+
+[Immagine: *Mappa del Sudamerica con la Placca di Nazca che subduce sotto la Placca Sudamericana. In basso, una sezione trasversale mostra la fossa, la subduzione della placca oceanica e la formazione della catena delle Ande.*]
+
+Le *Ande* sono l’arco magmatico del *sistema arco-fossa* generato dalla *subduzione* della *Placca di Nazca* sotto la *Placca Sudamericana*.
+
+---
+
+### Slide 27
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+**c. orogenesi per accrescimento crostale:** si ha quando piccoli blocchi crostali collidono a più riprese con un margine di un continente, saldandosi a esso.
+In questo modo si sono formate le *catene dell’America nord-occidentale*.
+
+[Immagine: *Mappa del Nord America occidentale (Alaska e Canada) dove diversi colori evidenziano vari "terranes" o blocchi crostali aggiunti nel tempo.*]
+
+I diversi colori indicano enormi blocchi continentali che si sono «ammucchiati» contro il continente negli ultimi 150÷200 milioni di anni provenendo da sud (Perù e Cile)
+
+---
+
+### Slide 28
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+L’età dei fondi oceanici attuali non supera mai i 170 milioni di anni poiché essi sono continuamente coinvolti nel processo di subduzione.
+
+**Strutture dei continenti**
+
+Le testimonianze dei movimenti più antichi ci vengono fornite dalle placche continentali che, a differenza di quelle oceaniche, non si distruggono nel processo di subduzione.
+
+Tutte le catene montuose sono però soggette all’erosione e nel tempo geologico vengono lentamente spianate.
+
+Di quelle più antiche sono ormai riconoscibili soltanto le radici nel cuore dei continenti.
+
+[Immagine: *Mappa satellitare dei fondali oceanici e dei rilievi continentali terrestri.*]
+
+---
+
+### Slide 29
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+**Cratoni:** le parti interne dei continenti, piatte e stabili, che da centinaia di milioni di anni non subiscono deformazioni. I cratoni comprendono:
+
+1. **scudo** (nucleo di antiche catene montuose), in cui affiora il **basamento** di antichissime rocce metamorfiche e magmatiche intrusive spianate dall’erosione.
+
+1. **piattaforma**, la parte del *cratone* che borda lo *scudo* è, in cui giacciono rocce sedimentarie di età successiva, disposte in strati pressappoco orizzontali e rimaste indeformate da quando si sono formate.
+
+[Immagine: *Mappa mondiale che evidenzia i principali cratoni. Sono etichettati: Scudo canadese, Scudo brasiliano, Scudo baltico, Scudo siberiano, Scudo centroafricano e Scudo australiano. Una legenda indica i colori per Scudi, Piattaforme e Catene montuose di varie ere.*]
+
+---
+
+### Slide 30
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+Attorno ai *cratoni*, le stabili regioni interne dei continenti, ci sono gli **orògeni**.
+
+Gli **orògeni** sono fasce corrugate in cui le rocce hanno subìto intense deformazioni e sono state interessate da intensa attività magmatica e metamorfica.
+
+Le fasce corrugate sono il risultato di un’«onda orogenica» che si propaga verso il *cratone*, il quale può così accrescersi lateralmente per aggiunta di *orògeni* successivi.
+
+Il *continente nordamericano* si è accresciuto per orogenesi successive, attorno al nucleo più antico dello *scudo canadese*.
+
+[Immagine: *Mappa geocronologica del Nord America. Sono evidenziati: lo Scudo canadese (2500 Ma), la Piattaforma (2500-1000 Ma), le Catene paleozoiche (500-250 Ma), le Catene mesozoiche e cenozoiche (da 150 Ma) e i Sedimenti recenti.*]
+
+---
+
+### Slide 31
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+Nelle zone di convergenza delle placche sono comuni le **catene a pieghe** e **a falde di ricoprimento**.
+
+[Immagine: *Blocco diagramma 3D di una porzione di catena montuosa che mostra strati rocciosi piegati e sovrapposti lungo piani di faglia, definiti come Falde di ricoprimento.*]
+
+Queste catene si formano attraverso spinte laterali di compressione che deformano gli strati della parte più alta della crosta terrestre, causandone il raccorciamento e l’ispessimento.
+
+Le *catene a pieghe* e *a falde di ricoprimento* sono costituite prevalentemente da rocce sedimentarie, ma mostrano anche testimonianze di processi metamorfici e di intrusioni magmatiche.
+
+Presentano spesso un **andamento arcuato** e una **disposizione a fasci paralleli**.
+
+Possono essere localizzate sul margine di un continente (*Ande*, *Montagne Rocciose*) o in corrispondenza delle zone di saldatura fra due continenti (*Alpi*, *Caucaso*, *Himàlaya*).
+
+---
+
+### Slide 32
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+Quando si verifica la collisione tra due placche continentali, si produce un accavallamento di vari blocchi rocciosi e quindi un ispessimento crostale.
+
+Il sovraccarico, localizzato lungo l’asse della catena, costringe la *litosfera* ad affondare sempre più nell’*astenosfera*.
+
+La subsidenza accompagna la crescita graduale dell’**orògene** e interessa non soltanto l’area sotto la catena, ma anche la fascia esterna a essa.
+
+Questa fascia è detta **avanfossa**.
+
+L’**avanfossa** è una zona pianeggiante, destinata a essere colmata dai detriti provenienti dallo smantellamento per erosione della catena montuosa.
+
+L’ampiezza dell’*avanfossa* può variare da una decina fino a un centinaio o più di kilometri.
+
+[Immagine: *Blocco diagramma 3D che mostra una Catena montuosa, l'Avanfossa antistante colmata da sedimenti che formano una Pianura, e l'Avampaese più esterno.*]
+
+In posizione ancora più esterna rispetto all’*avanfossa* vi è l’**avampaese** (zona non interessata dall’orogenesi verso la quale avviene il trasporto tettonico delle falde).
+
+---
+
+### Slide 33
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+[Immagine: *Mappa dell'Italia che illustra il sistema catena-avanfossa-avampaese degli Appennini. Sono indicati la Catena montuosa lungo la dorsale, l'Avanfossa lungo il lato adriatico e ionico, e l'Avampaese che affiora in Puglia e in Sicilia sud-orientale.*]
+
+L’avanfossa degli Appennini si estende dalla Pianura Padana fino al Golfo di Taranto ed è affiancata, verso l’esterno, dall’avampaese che affiora solo in *Puglia* e in *Sicilia*.
+
+---
+
+### Slide 34
+Alfonso Bosellini – Le Scienze della Terra – Quinto anno - Triennio – Seconda edizione – © Zanichelli 2020
+
+**Gli «oceani perduti»: le ofioliti**
+
+I fondi oceanici fono [sic, sono] continuamente riassorbiti e distrutti nelle *fosse* durante la *subduzione*, ma molti frammenti si trovano ora inglobati nelle varie catene montuose del globo.
+
+**Ofioliti** (dal gr. *ophis*, serpente, e *lithos*, roccia): associazioni di rocce molto antiche che corrispondono a lembi di crosta oceanica o di mantello scampati alla subduzione e coinvolti in un’orogenesi che li ha «montati» su un margine continentale.
+
+Si tratta di rocce scure, spesso di colore verde, variamente metamorfosate.
+Una sequenza ofiolitica completa è formata da:
+
+[Immagine: *Schema a colonna di una sequenza ofiolitica (spessa 7-8 km) e tre fotografie di dettaglio: un radiolario al microscopio, una scogliera stratificata e un ammasso di lave a cuscino (pillow lava).*]
+
+*   una sottile copertura di rocce sedimentarie silicee (radiolariti)
+*   un complesso basaltico di lave a cuscini (*pillow lava*)
+*   un complesso di dicchi basaltici verticali
+*   un complesso di gabbri
+*   un complesso basale peridotitico più o meno alterato in serpentini
+
+---

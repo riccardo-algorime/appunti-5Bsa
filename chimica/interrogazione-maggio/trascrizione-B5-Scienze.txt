@@ -1,0 +1,428 @@
+Ecco la trascrizione completa e fedele della presentazione, inclusi i testi contenuti nelle immagini e le descrizioni degli elementi visivi.
+
+---
+
+### **Pagina 1**
+
+**Capitolo B5**
+**Le tecnologie del DNA ricombinante**
+
+---
+
+### **Pagina 2**
+
+**Temi del capitolo**
+
+**[Immagine: Mappa concettuale riassuntiva dei temi del capitolo. Al centro c'è il titolo principale "LE TECNOLOGIE DEL DNA RICOMBINANTE" da cui partono cinque rami principali:]**
+
+*   **Il DNA ricombinante**
+    *   Che cos'è un DNA ricombinante
+    *   Che cos'è il clonaggio genico
+    *   Gli enzimi di restrizione e la DNA ligasi
+    *   I vettori plasmidici e virali
+    *   Le fasi del clonaggio genico
+    *   La PCR
+    *   L'elettroforesi su gel di agarosio
+    *   Le librerie di DNA
+    *   Le applicazioni della PCR
+*   **Le proteine ricombinanti**
+    *   I vettori di espressione
+    *   L'isolamento degli mRNA dalle cellule
+    *   La reazione di RT-PCR e la sintesi del cDNA
+*   **Il sequenziamento del DNA**
+    *   Il metodo di sequenziamento di Sanger
+    *   I metodi di seconda generazione (NGS)
+    *   I metodi di terza generazione
+*   **La clonazione e l'editing genomico**
+    *   La clonazione animale
+    *   Il trasferimento nucleare
+    *   Gli animali transgenici e i modelli animali
+    *   L’editing genomico (CRISPR/Cas9)
+    *   La storia della clonazione animale
+    *   Le applicazioni della clonazione animale
+    *   I topi knock out
+*   **Le scienze omiche**
+    *   Il Progetto Genoma Umano
+    *   La trascrittomica: i microarray
+    *   La proteomica: l'elettroforesi bidimensionale
+    *   La genomica comparativa
+    *   La genomica funzionale
+    *   La metagenomica
+    *   La metabolomica e l'interattomica
+
+---
+
+### **Pagina 3**
+
+**Il DNA ricombinante**
+
+Nel 1973, due genetisti americani, **Stanley Cohen** e **Herbert Boyer**, trasferirono per la prima volta in un batterio di E. coli una molecola di DNA contenente i geni per la resistenza a 2 antibiotici, ciascuno proveniente da un ceppo batterico diverso. Il nuovo batterio era così in grado di resistere ai due antibiotici: mostrava quindi un fenotipo ibrido.
+
+“Era quindi nata l’era del DNA ricombinante”.
+
+**[Immagine: Due fotografie in bianco e nero. A sinistra Herbert Boyer, un uomo con capelli ricci e folti e una cravatta. A destra Stanley Cohen, un uomo calvo con occhiali e barba. Sotto le foto le scritte: Photo courtesy of Herbert Boyer e Photo courtesy of Stanford University.]**
+
+Un **DNA ricombinante** è una molecola di DNA che contiene l’informazione genetica proveniente da due o più organismi differenti.
+
+L’**ingegneria genetica** (tecnologia del DNA ricombinante) è l’insieme delle tecniche usate per ottenere e manipolare il DNA ricombinante. Essa si basa sull’idea che modificando in laboratorio il genotipo degli organismi sia possibile alterare il loro fenotipo in maniera mirata, e non casuale come avviene in natura. La sua evoluzione ha permesso la nascita delle biotecnologie moderne.
+
+Le biotecnologie hanno molte applicazioni, ma nella maggior parte dei casi la prima operazione da compiere è il **clonaggio genico**, ovvero la produzione di numerose copie di un *gene di interesse* mediante le tecniche del DNA ricombinante.
+
+La «cassetta degli attrezzi» comprende:
+*   il **gene** da clonare;
+*   gli **enzimi** per «tagliare» e «cucire» il DNA;
+*   un **vettore di clonaggio** (plasmidi batterici, fagi, virus).
+
+---
+
+### **Pagina 4**
+
+La creazione di una molecola di DNA ricombinante richiede 2 tipi di **enzimi** che catalizzano le reazioni di «taglio» e «cucitura»:
+
+*   **Enzimi di restrizione:** endonucleasi che *rompono* in **modo preciso** il *legame fosfodiestere* tra due nucleotidi adiacenti. Questi enzimi tagliano il DNA in corrispondenza di sequenze specifiche (*siti di restrizione*). Il DNA in questione è quello sia della cellula da cui estrarre il gene d’interesse sia del vettore di clonaggio in cui questo gene dovrà essere inserito. Esempi di tali enzimi sono: **EcoRI** (scoperto in *Escherichia coli*) che taglia il DNA formando estremità coesive, e l’enzima **SmaI** (scoperto in *Serratia marcescens*), che genera estremità piatte.
+
+L’**elettroforesi su gel d’agarosio** permette di separare i frammenti di DNA in base alle loro dimensioni. Le molecole di DNA sono cariche negativamente per la presenza dei gruppi fosfato dello scheletro carbonioso. Quando i frammenti sono sottoposti a un campo elettrico si spostano (migrano) verso il polo positivo. Il gel di agarosio si comporta come un “setaccio”, per cui le molecole di DNA più corte si spostano più velocemente, mentre quelle più lunghe sono più lente. Vedi pag. B164.
+
+**[Immagine: Schema di una camera di elettroforesi. Si vede una vaschetta con soluzione tampone, un gel di agarosio con pozzetti dove vengono caricati i frammenti di DNA. Sono indicati l'elettrodo negativo (catodo) e quello positivo (anodo). Una freccia indica che i frammenti piccoli avanzano nel gel di più di quelli grandi. A destra, due foto di gel sotto luce UV che mostrano le bande di DNA illuminate di blu/bianco.]**
+
+Laboratorio di elettroforesi su gel: https://youtu.be/uKwSxPgqS3U
+
+*   **DNA ligasi:** enzimi che *catalizzano* la *formazione del legame fosfodiestere* tra nucleotidi adiacenti.
+
+Il **gene** viene poi inserito in un **vettore di clonaggio**: molecola di DNA ricombinante che entra in una cellula e si replica generando molte copie di se stessa.
+
+I **vettori di clonaggio** più usati sono i **plasmidi**.
+
+**[Immagine: Illustrazione di un batterio di forma allungata (verde) contenente il DNA batterico principale (groviglio rosso) e diversi piccoli anelli di DNA identificati come "Plasmidi" (cerchi blu).]**
+
+Per esempio, il **vettore plasmidico pBSK+** contiene come marcatore di selezione il gene *ampR*, che conferisce la resistenza all’antibiotico *ampicillina*.
+
+---
+
+### **Pagina 5**
+
+**I fagi e i vettori virali:** oltre ai *plasmidi* batterici, è possibile adoperare anche dei genomi virali modificati.
+I primi vettori virali furono realizzati a partire dal batteriofago λ, inserendo nel suo genoma il gene da clonare. Vantaggio: rispetto ai plasmidi si possono inserire frammenti di DNA più lunghi. Per l’uomo, sono stati utilizzati anche vettori derivati da **adenovirus** (virus a DNA) o da **retrovirus** (virus a RNA). Questi ultimi in particolare sono capaci di integrarsi nel genoma della cellula ospite sotto forma di provirus e quindi sono utili per produrre l’espressione di una proteina in modo stabile e duraturo, come richiesto in alcuni protocolli di terapia genica per curare malattie ereditarie.
+I **retrovirus** sono un gruppo di virus che utilizza l’enzima *trascrittasi inversa* per convertire il proprio genoma da RNA a DNA durante il proprio ciclo di replicazione virale.
+
+**[Immagine: In alto a destra, schema di un Adenovirus. Ha una forma icosaedrica con fibre che spuntano dai vertici. Sono indicati: Fibre Shaft, Fibre Knob, Penton Base, Hexon e all'interno il dsDNA (DNA a doppio filamento).]**
+
+**[Immagine: In basso, due schemi di un retrovirus (HIV). A sinistra la forma "IMMATURE", a destra quella "MATURE". Sono indicati: Protease, Envelope gp70/p15E, Nucleocapsid, Reverse-transcriptase, Integrase, Capsid, Matrix. All'interno si vedono i due filamenti di RNA.]**
+
+Video libro di testo:
+- “Come si fa il clonaggio molecolare?”
+- “Come si coltivano i batteri in laboratorio.”
+
+---
+
+### **Pagina 6**
+
+Una **libreria di DNA** è una collezione di cloni ciascuno contenente un diverso inserto di DNA. Per costruire una libreria, si taglia il DNA di partenza con un enzima di restrizione e si inseriscono i frammenti in un **vettore di clonaggio**. Ogni *plasmide* incorporerà un solo frammento di DNA: otteniamo così una “popolazione” di *plasmidi* che contiene tutti i frammenti del genoma di partenza. Poi si trasformano le cellule batteriche usando l’intera collezione di *plasmidi*, e ciascuna cellula trasformata conterrà un singolo vettore con il relativo frammento di DNA. Quindi, ogni cellula darà origine ad un clone di cellule che contiene un singolo frammento di DNA.
+
+La **PCR** (*Polymerase Chain Reaction*) è un sistema automatizzato per isolare e amplificare, mediante un apparecchio detto **termociclatore**, il DNA in provetta (*in vitro*), basato sulla capacità dell’enzima **DNA polimerasi** di sintetizzare un nuovo filamento di DNA a partire da un filamento stampo. La tecnica fu ideata nel 1983 da **Kary Mullis**, per la quale ottenne il premio Nobel per la Chimica nel 1993.
+
+I reagenti che occorrono sono:
+*   il **DNA stampo** che si vuole amplificare;
+*   l’**enzima Taq polimerasi** (*Thermus aquaticus* - parco nazionale di Yellowstone), DNA polimerasi termoresistente capace di rimanere attiva alle alte temperature;
+*   una coppia di **primer**, inneschi per la *Taq* polimerasi;
+*   i quattro **nucleotidi** trifosfato.
+
+**[Immagine: A destra, una foto di un termociclatore professionale di marca Eppendorf (modello Mastercycler 5330). Accanto, la foto di Kary Mullis, un uomo con capelli chiari, che indossa un papillon colorato.]**
+
+---
+
+### **Pagina 7**
+
+**La reazione a catena della polimerasi (PCR)**
+
+**[Immagine: Diagramma del ciclo della PCR. Lo schema mostra i seguenti passaggi:]**
+
+1.  **Denaturazione:** i due filamenti del DNA stampo si separano. La miscela viene riscaldata a 95°C.
+2.  **Appaiamento (Annealing):** ciascun primer si appaia alla sequenza complementare sul filamento stampo. La temperatura si abbassa a 50-65°C.
+3.  **Allungamento:** la *Taq* polimerasi sintetizza il filamento complementare allo stampo. La temperatura si alza fino a 68-72°C.
+
+**[Lo schema mostra poi come il numero di filamenti raddoppi a ogni ciclo (1 -> 2 -> 4 -> 8 -> 16...).]**
+
+Il ciclo di tre fasi si ripete per molte volte.
+
+Il ciclo si ripete per circa 30 volte e alla fine avremo 2^30 = più di 1 miliardo di copie partendo da una singola copia.
+
+PCR: https://youtu.be/QPOMrRUOMaY
+Amplificazione DNA PCR: https://youtu.be/CQ0LCCi7AVY
+
+---
+
+### **Pagina 8**
+
+**ACTIVE LEARNING**
+
+**Rispondi**
+1. Quali enzimi sono utili per manipolare sequenze di DNA?
+2. Quali sono gli elementi che non devono mancare in un vettore di clonaggio?
+3. Che cos’è la PCR?
+
+**Scegli le parole**
+1. Un gene che codifica per la resistenza a un **antibiotico / enzima** può essere usato come **marcatore di selezione / polylinker** in un plasmide.
+2. EcoRI **taglia / riunisce** frammenti di DNA.
+
+**Ora tocca a te**
+Il premio Nobel per la medicina del 1978 è stato conferito a W. Aber, D. Nathans e H. Smith per le loro ricerche sugli enzimi di restrizione. Illustra con una presentazione i principali risultati dei loro studi.
+
+**DATI IN AGENDA Dna, quanto mi costi?**
+
+---
+
+### **Pagina 9**
+
+**Le proteine ricombinanti**
+
+Le **proteine ricombinanti** sono proteine ottenute dall’espressione di un gene clonato all’interno di un **vettore**.
+
+Per **isolare i trascritti** dalle cellule, se la sequenza codificante per la proteina di interesse proviene da un organismo eucariotico, è preferibile partire dall’mRNA invece che dal DNA.
+
+Si separano gli mRNA da tutte le altre componenti cellulari attraverso sistemi che selezionano solo le molecole che hanno una **coda di poli-A**, una caratteristica presente solo nei trascritti maturi, ossia in quegli RNA “maturi” deprivati degli **introni** e contenenti solo **esoni**. Vedi pag. B171.
+
+A questo punto abbiamo una collezione di tutti gli mRNA, tra i quali abbiamo anche quello della proteina d’interesse. Ma come si fa a recuperarlo tra migliaia di altri trascritti?
+Attraverso la **RT-PCR** (*Reverse Transcriptase Chain Reaction*), una tecnica che viene sfruttata in laboratorio per studiare l'espressione genica, si **amplifica** la sequenza codificante di interesse partendo da un insieme di mRNA isolati da un campione biologico. La tecnica della **RT- PCR** è una variante della tecnica della reazione a catena della polimerasi (PCR). Questa tecnica consiste nella sintesi di una molecola di DNA a doppio filamento a partire da uno stampo di RNA. La molecola di DNA sintetizzata mediante il processo di retrotrascrizione è definita **cDNA** (DNA complementare a singolo filamento). Al termine, si ottengono **numerose copie** della **sequenza codificante** per la **proteina** di interesse. Il prodotto della retrotrascrizione dell'RNA può essere amplificato mediante PCR classica, oppure essere quantificato mediante **real-time PCR**. Quest’ultimo, detto anche PCR quantitativa (in inglese *quantitative PCR*, abbreviato **qPCR**) è un metodo che simultaneamente amplifica (reazione a catena della polimerasi o PCR) e quantifica il DNA. Si tratta di un metodo simile ma da non confondere col metodo RT-PCR (*Reverse transcriptase-PCR*).
+
+**[Immagine: Schema della RT-PCR. Mostra delle cellule da cui viene estratto l'mRNA isolato. Segue la fase "+ trascrittasi inversa + oligo-dT" dove l'mRNA (con coda AAAAA) viene usato come stampo per la "Sintesi del primo filamento di DNA complementare (cDNA)" (con coda TTTTT). Segue il "Primo ciclo di PCR" e infine l'"Amplificazione con PCR" che produce DNA a doppio filamento.]**
+
+**La RT-PCR**
+
+---
+
+### **Pagina 10**
+
+Usando enzimi di restrizione e DNA ligasi, si inserisce la sequenza all’interno di un **vettore di espressione**: un **plasmide** che, trasferito in cellule batteriche o eucariotiche, permette di **sintetizzare la proteina** codificata dal gene.
+
+**[Immagine: Schema del funzionamento di un vettore di espressione. Viene mostrato un plasmide circolare con tre segnali per l'espressione di E. coli: P (promotore), R (sito di legame al ribosoma), T (terminatore) e un "Sito unico di restrizione". Un "Gene esogeno" viene inserito nel sito di restrizione. Segue la "Trasformazione di E. coli" in cui il plasmide entra nella cellula. All'interno della cellula, il DNA viene trascritto in mRNA e poi tradotto in una "Proteina ricombinante" rappresentata come un groviglio viola.]**
+
+Si possono quindi selezionare i batteri ricombinanti e coltivarli allestendo **colture batteriche** in **bioreattori**.
+
+**Il vettore di espressione**
+
+---
+
+### **Pagina 11**
+
+**ACTIVE LEARNING**
+
+**Rispondi**
+1. Che cosa distingue la PCR convenzionale dalla reazione di RT-PCR?
+2. Per sintetizzare una proteina ricombinante è preferibile clonare la sequenza del suo mRNA anziché quella del DNA: perché?
+
+**Scegli le parole**
+1. Un filamento di RNA può essere convertito in uno di **cDNA / RNA a doppio filamento** dall’enzima **Taq / trascrittasi inversa**.
+2. Il primo farmaco ricombinante è stato **l’insulina / il G-CSF**.
+
+**Ora tocca a te**
+Prima dell’insulina ricombinante i pazienti diabetici erano trattati con insulina di origine animale. Aiutandoti con una ricerca in Rete, documentati sulle difficoltà di reperimento di insulina non umana e i rischi legati al suo uso.
+
+---
+
+### **Pagina 12**
+
+**Il sequenziamento del DNA**
+
+Il **sequenziamento del DNA** permette di definire il preciso ordine della sequenza di nucleotidi che formano una molecola di acido desossiribonucleico.
+
+Il **metodo Sanger** (pronuncia «sangher»),detto anche **metodo dei terminatori di catena**. Anche se superato da altri più innovativi come quelli di **sequenziamento di seconda** e di **terza generazione**, rimane un punto di riferimento per la biologia molecolare.
+
+Si basa su una reazione simile alla PCR, ma viene usato **solo un primer** e dei **dideossinucleotidi (ddNTP) modificati** che agiscono da **terminatori di catena** perché privi del gruppo 3’–OH necessario alla formazione del legame fosfodiestere con il nucleotide successivo. Inoltre, questi nucleotidi modificati vengono aggiunti dei marcatori fluorescenti, indispensabili per poter vedere il risultato.
+
+Sequenziamento del DNA: https://youtu.be/ACeeNNxdtvM
+
+**[Immagine: In alto a destra, una foto in bianco e nero di Frederick Sanger, un uomo con occhiali e camicia chiara. In basso a destra, un'altra foto di Sanger in laboratorio mentre osserva una lastra di un'elettroforesi.]**
+
+**Friederick Sanger** (1918-2013) è stato un chimico britannico. È l'unico britannico ad aver vinto due volte il premio Nobel per la Chimica (1958 e 1980). Il primo gli fu assegnato per il suo lavoro sulla struttura delle proteine, in particolare quella dell'insulina, il secondo per il contributo alla determinazione delle sequenze degli acidi nucleici.
+
+Sanger lavorò al sequenziamento dell’insulina per dieci anni dal 1944 al 1954, sequenziando i 51 amminoacidi delle due catene dell’insulina con un metodo da lui stesso ideato. L’importanza del lavoro di Sanger è stata immensa, permettendo di sequenziare anche proteine più complesse come la ribonucleasi pancreatica, l’enzima tripsina, l’emoglobina e la mioglobina.
+
+---
+
+### **Pagina 13**
+
+**Il sequenziamento con il metodo Sanger:** lo schema mostra il sequenziamento per terminazione di catena mediante ddNTP (dideossinucleotidi modificati).
+
+**[Immagine: Infografica dettagliata del metodo Sanger divisa in 6 passaggi:]**
+
+1.  Si isola il frammento di DNA da sequenziare, per esempio dal genoma di un batterio.
+2.  I frammenti di DNA vengono uniti ai reagenti necessari per la sintesi dei filamenti complementari e suddivisi in quattro provette, ciascuna contenente uno dei quattro dideossinucleotidi (ddATP, ddCTP, ddTTP, ddGTP). **[Viene mostrato un filamento stampo con sequenza 3' AACAGCCTTCAAGT 5', un primer 5' TTGT 3', DNA polimerasi e i dNTP.]**
+3.  In ogni provetta si genera una miscela di frammenti tutti terminanti con lo stesso nucleotide (marcato). **[Sotto ogni provetta sono mostrati i vari frammenti di lunghezza diversa prodotti.]**
+4.  Si caricano i prodotti delle quattro reazioni nei pozzetti di un gel per l'analisi elettroforetica.
+5.  Procedendo dal frammento più piccolo (in basso) verso il più grande (in alto), si ricostruisce l'ordine con cui i nucleotidi sono stati incorporati.
+6.  La sequenza che emerge è complementare a quella che si intendeva sequenziare. **[Viene mostrato il risultato finale del "DNA sequenziato": ACTTGAAGGCTGTT (sopra il primer TTGT).]**
+
+---
+
+### **Pagina 14**
+
+**Metodi NGS (Next Generation Sequencing - Sequenziamento di nuova generazione):**
+Si basano sul **sequenziamento massivo in parallelo** di molecole di DNA; questo approccio permette di sequenziare anche interi genomi, abbattendo tempi di analisi e costi.
+
+Una di queste è il **pirosequenziamento**, un metodo enzimatico completamente automatizzato, che permette il sequenziamento della catena complementare. Sfrutta l’enzima **luciferasi**, e ciò permette di leggere direttamente le sequenze senza bisogno dell’elettroforesi. La tecnica prevede l’aggiunta ciclica dei 4 nucleotidi nel nuovo filamento con emissione di un segnale chemioluminescente, seguita dalla degradazione di quelli non incorporati; ciò consente di stabilire la sequenza del DNA stampo (Vedi fig. 26 di pag. B177).
+Il pirosequenziamento è stato usato nel 2007 per determinare la sequenza del genoma di James **Watson**.
+
+**[Immagine: Foto di James Watson, un uomo anziano con pochi capelli bianchi, che indossa una giacca scura e tiene le braccia incrociate.]**
+
+Le **tecniche di terza generazione** sono ancora più promettenti, ad esempio il **sequenziamento a nanopori**, mediante l’uso di membrane, deduce la sequenza di un frammento di DNA valutando come si modifica il potenziale elettrico di membrana al passaggio dei singoli nucleotidi attraverso il **nanoporo** di membrana. La tecnica prevede che il filamento di DNA da sequenziare attraversa il nanoporo un nucleotide alla volta, e il potenziale di membrana si modifica in modo diverso a seconda del nucleotide che passa il quel momento (Vedi fig. 27 di pag. B177).
+
+---
+
+### **Pagina 15**
+
+**ACTIVE LEARNING**
+
+**Rispondi**
+1. Quali sono i reagenti necessari per il sequenziamento di Sanger?
+2. Quali sono i vantaggi del *Next Generation Sequencing*?
+3. Come funziona il pirosequenziamento?
+
+**Scegli le parole**
+1. I ddNTP sono **nucleotidi / nucleosidi** privi del gruppo **3’–OH / 5’–P**.
+2. Il **pirosequenziamento / sequenziamento NGS** usa la **galattossidasi / luciferasi**, che emette un segnale luminoso.
+
+**Ora tocca a te**
+I nuovi sequenziatori a nanopori sono così piccoli che possono essere portati nello spazio. Aiutandoti con la Rete, verifica se sono già stati eseguiti sequenziamenti in orbita e quali potrebbero essere le applicazioni future.
+
+---
+
+### **Pagina 16**
+
+**La clonazione e l’editing genomico**
+
+La **clonazione** è la creazione di copie geneticamente identiche di un intero organismo.
+La tecnica di **trasferimento nucleare** (utilizzata nella clonazione della pecora **Dolly**) ha segnato una svolta storica ma è poco efficiente e molto complessa.
+
+La pecora Dolly (clone della pecora *Finn Dorset* con madre surrogata pecora *Scottish Blackface*) è nata il 5 luglio 1996 presso il *Roslin Institute* dell’Università di Edimburgo, grazie agli studi effettuati dal team di **Ian Wilmut**.
+
+**[Immagine: A sinistra, foto di Ian Wilmut, un uomo con barba e occhiali, accanto alla pecora Dolly. A destra, una foto di Dolly (bianca) accanto alla sua madre surrogata (con la faccia nera).]**
+
+---
+
+### **Pagina 17**
+
+La clonazione (**tecnica di trasferimento nucleare**) si basa sui seguenti passaggi:
+
+1. si **asporta il nucleo** da una **cellula somatica** di un individuo;
+2. si **elimina il nucleo** di un **oocita** non fecondato di un secondo individuo;
+3. si **inserisce il nucleo** della cellula somatica nell’oocita per generare uno **pseudo-zigote** che verrà stimolato a dividersi in provetta e generare un **embrione**;
+4. si **impianta l’embrione** nell’utero di una **madre surrogata**;
+5. si **sviluppa** un animale con lo **stesso patrimonio genetico della cellula somatica iniziale**.
+
+**[Immagine: Schema grafico della clonazione di Dolly. Mostra una pecora donatrice di cellule del tessuto mammario (Finn Dorset) e una pecora donatrice di oociti (Scottish Blackface). Il nucleo della cellula somatica viene inserito nell'oocita enucleato. Dopo una scarica elettrica, i due si fondono. Dopo 7 giorni di crescita in vitro, l'embrione viene impiantato in una madre surrogata. Il risultato finale è la nascita di 1 pecora (Dolly) geneticamente identica alla donatrice del nucleo.]**
+
+434 oociti -> 29 embrioni -> 1 pecora
+
+Clonazione pecora Dolly: https://youtu.be/XZqv49MLHNs
+
+---
+
+### **Pagina 18**
+
+Un altro importante strumento per la ricerca biomedica sono gli **animali geneticamente modificati**:
+
+**Topi transgenici:** topi geneticamente modificati in cui è stato inserito un gene normalmente assente nel genoma del topo. Ottenere topi transgenici risulta un passaggio fondamentale per la creazione di sistemi modello utili allo studio di diverse malattie, in particolare le malattie genetiche umane (es. **fibrosi cistica** e **malattia di Alzheimer**), l'analisi delle risposte farmacologiche ma anche per disporre di sistemi efficaci di produzione di proteine importanti dal punto di vista farmacologico e terapeutico. La tecnica prevede il prelievo di uno **zigote** da una femmina di topo (donatrice); il **transgene** viene inserito nello **zigote** tramite **microiniezione** mediante un microago di vetro; lo **zigote** con **transgene** viene coltivato brevemente *in vitro* in modo che compia alcune mitosi e poi viene impianto nell’utero di una femmina di topo (madre surrogata). I **topi geneticamente modificati** possono riprodurre il fenotipo di una malattia umana, permettendo di capire i meccanismi patogenetici e di testare nuovi farmaci.
+
+**[Immagine: Schema della microiniezione di DNA in un pronucleo di uno zigote di topo, seguito dall'impianto in una femmina pseudo-gravida e la nascita di progenie transgenica.]**
+
+**Topi knock out:** topi geneticamente modificati in cui è stato inattivato uno specifico gene. La tecnica prevede l’inserimento nel gene di un marcatore che lo inattiva. Questo gene inattivato così viene integrato nel cromosoma del topo presente all’interno di una cellula staminale. Questa viene trapiantata in una blastocisti, che successivamente formerà un embrione.
+
+**[Immagine: Schema della creazione di un topo knock-out. Mostra un vettore plasmidico con un gene da inattivare e un marcatore. Il gene mutato viene inserito in una cellula staminale embrionale di topo, dove sostituisce il gene funzionante sul cromosoma. La cellula viene inserita in una blastocisti che viene poi impiantata in una madre surrogata, portando alla nascita di topi con il gene inattivato.]**
+
+---
+
+### **Pagina 19**
+
+Le tecniche di manipolazione del genoma più usate si basano sul trasferimento di geni tra specie diverse (**transgeni**) mediante vettori virali, ma non si può prevedere se la procedura causerà *mutagenesi inserzionale*: se per esempio il gene inserito interrompe una sequenza regolatrice (es. un promotore) il gene non viene più trascritto.
+
+L’**editing genomico** aggira questi rischi: permette di modificare in modo mirato specifiche sequenze geniche senza intaccare l’integrità del resto del genoma.
+La svolta è arrivata nel 1993 con la scoperta delle sequenze **CRISPR** (*Clustered Regularly Interspaced Short Palindromic Repeats* - Brevi Sequenze ripetute e palindrome) su cui si basa il **sistema CRISPR/Cas9** che, attraverso l’abbinamento di uno specifico **RNA guida** all’**endonucleasi Cas9**, taglia il DNA a doppio filamento a livello di una sequenza specifica e ne permette il successivo editing, ossia la modifica di sequenze geniche. La tecnica CRISPR/Cas9 è stata inventata dalla chimica statunitense, **Jennifer Doudna**, e dalla biochimica, genetista e microbiologa francese, **Emmanuelle Charpentier**, e viene utilizzata per esempio per generare topi knock out.
+
+**[Immagine: A sinistra, schema molecolare del sistema CRISPR/Cas9. Si vede l'enzima Cas9 (blu) che tiene aperto il DNA genomico (giallo) grazie al "Guide RNA" (verde) che si appaia alla "Matching genome sequence". Dopo il taglio, vengono mostrati due meccanismi di riparazione: NHEJ (Non-Homologous End Joining) che porta a InDel (inserzioni/delezioni) e HR (Homologous Recombination) che permette di inserire una nuova sequenza.]**
+
+**[Immagine: A destra, una foto delle due scienziate Jennifer Doudna (a sinistra, bionda) ed Emmanuelle Charpentier (a destra, con capelli scuri), con uno sfondo stilizzato che rappresenta una doppia elica di DNA.]**
+
+CRISPR/Cas9: https://youtu.be/8jmNRLmHWPo
+
+---
+
+### **Pagina 20**
+
+**ACTIVE LEARNING**
+
+**Rispondi**
+1. Come funziona la procedura di trasferimento nucleare?
+2. Che cos’è l’«editing genomico»?
+3. Che cos’è un topo knock out?
+4. Che cosa sono le sequenze CRISPR e dove sono state scoperte?
+
+**Scegli le parole**
+1. I topi **knock out / transgenici** sono topi in cui è stato inserito un nuovo gene mediante la tecnica di **clonazione / microiniezione**.
+2. L’enzima Cas9 è **un’endonucleasi / una polimerasi** che taglia **il DNA / l’RNA guida**.
+
+**Ora tocca a te**
+Nel 2007 i ricercatori Mario R. Capecchi, Martin J. Evans e Oliver Smithies hanno ricevuto il premio Nobel per la medicina per i loro studi sui topi knock out. Aiutandoti con una ricerca in Rete, descrivi i principali risultati delle ricerche.
+
+---
+
+### **Pagina 21**
+
+**SALUTE**
+**L’era della genomica**
+
+Le **scienze omiche** si basano su tecnologie ad alta resa per analizzare diversi sottoinsiemi di biomolecole cellulari.
+Tra le più sviluppate ci sono:
+*   la *genomica* che studia l’insieme dei geni presenti nel genoma di un organismo;
+*   la *trascrittomica* che cataloga tutte le molecole di RNA trascritte in una cellula;
+*   la *proteomica*, per lo studio delle proteine cellulari;
+*   la *metabolomica* che si concentra sui metaboliti di una cellula e sulle loro interazioni metaboliche.
+
+Queste (e altre) forniscono la base per la **biologia dei sistemi** che studia l’evoluzione e i cambiamenti dinamici degli organismi intesi come sistemi.
+
+---
+
+### **Pagina 22**
+
+**SALUTE**
+
+La **genomica strutturale** mira a identificare la sequenza di un intero genoma e a descrivere l’organizzazione strutturale dei suoi geni. Grazie a questa disciplina è stato possibile sequenziare il genoma umano (**Progetto Genoma Umano**) e disegnare le mappe che descrivono la posizione dei geni nei singoli cromosomi.
+
+La **genomica comparativa** identifica somiglianze tra i genomi di organismi diversi, permettendo di stimare il loro grado di **correlazione evolutiva**. Applicabile anche ai virus, è utile per capire dove e quando ha avuto origine un nuovo virus o seguirne l’evoluzione nel corso di un’epidemia.
+
+La **genomica funzionale** ha come obiettivo quello di comprendere la funzione svolta da tutti i geni presenti nel genoma di un organismo.
+
+---
+
+### **Pagina 23**
+
+**SALUTE**
+
+La **trascrittomica** studia il **trascrittoma**, ovvero la collezione completa di tutte le molecole di RNA trascritte dal genoma in un dato momento da un certo tipo di cellula o tessuto.
+Il **confronto dei profili trascrizionali** può aiutare a capire le differenze tra un tessuto sano e la controparte affetta da una patologia.
+
+La **proteomica** descrive il corredo proteico completo di cellule e tessuti.
+
+La **metabolomica** studia il **metaboloma**, cioè l’insieme completo dei metaboliti presenti in una cellula o tessuto.
+
+I suoi dati possono essere integrati nelle **analisi multi-omiche**, il cui progresso è legato a quello dell’**interattomica** che descrive la totalità delle interazioni molecolari di una cellula o di un tessuto.
+
+---
+
+### **Pagina 24**
+
+**ACTIVE LEARNING**
+
+**Rispondi**
+1. Qual è il principio alla base del sequenziamento shotgun?
+2. In quale modo la genetica comparativa permette di risalire alle correlazioni evolutive tra specie?
+3. Che cosa si intende per scienze omiche?
+
+**Scegli le parole**
+1. Il genoma umano è stato sequenziato con il sequenziamento **a nanopori / shotgun**.
+2. La **genomica funzionale / trascrittomica** illustra tutti i geni espressi.
+
+**Ora tocca a te**
+Nel 2020 si è celebrato il ventesimo anniversario della prima bozza del genoma umano. Aiutandoti con una ricerca in Rete, ricostruisci quali sono state le tappe principali del Progetto Genoma Umano, chi ha contribuito allo studio e i risultati ottenuti.
+
+**DIMMI LA TUA! Nobel a CRISPR**

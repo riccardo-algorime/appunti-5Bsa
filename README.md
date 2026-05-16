@@ -11,11 +11,11 @@ Raccolta di appunti e materiali scolastici.
 
 | Cartella | Contenuto | Entrata consigliata |
 |---|---|---|
-| `chimica/` | 1 cartelle, 0 file | `-` |
+| `chimica/` | 2 cartelle, 0 file | `-` |
 | `fisica/` | 1 cartelle, 0 file | `-` |
 | `italiano/` | 8 cartelle, 2 file | `INDICE.md` |
 | `mate/` | 0 cartelle, 0 file | `-` |
-| `pcto/` | 5 cartelle, 1 file | `appunti.md` |
+| `pcto/` | 5 cartelle, 2 file | `appunti.md` |
 | `storia/` | 1 cartelle, 0 file | `-` |
 
 ## Tree rapido
@@ -23,18 +23,26 @@ Raccolta di appunti e materiali scolastici.
 ```text
 .
 ├── chimica/
-│   └── interrogazione-aprile/
-│       ├── B1-raw.md
-│       ├── B1-ripasso.md
-│       ├── B1-studio.md
-│       ├── B2B4-ripasso.md
-│       ├── B2B4-studio.md
-│       ├── B2-raw.md
-│       ├── B2-ripasso.md
-│       ├── B2-studio.md
-│       ├── B4-raw.md
-│       ├── B4-ripasso.md
-│       └── B4-studio.md
+│   ├── interrogazione-aprile/
+│   │   ├── B1-raw.md
+│   │   ├── B1-ripasso.md
+│   │   ├── B1-studio.md
+│   │   ├── B2B4-ripasso.md
+│   │   ├── B2B4-studio.md
+│   │   ├── B2-raw.md
+│   │   ├── B2-ripasso.md
+│   │   ├── B2-studio.md
+│   │   ├── B4-raw.md
+│   │   ├── B4-ripasso.md
+│   │   └── B4-studio.md
+│   └── interrogazione-maggio/
+│       ├── trascrizione-B4-Scienze.txt
+│       ├── trascrizione-B5-Scienze.txt
+│       ├── trascrizione-B6-Scienze.txt
+│       ├── trascrizione-Cap-10-Scienze.txt
+│       ├── trascrizione-Cap-11-Scienze.txt
+│       ├── trascrizione-Cap-12-Scienze.txt
+│       └── trascrizione-Cap-9-Scienze.txt
 ├── CONTRIBUTING.md
 ├── fisica/
 │   └── materiali/
@@ -42,6 +50,8 @@ Raccolta di appunti e materiali scolastici.
 │       ├── appunti-verifica-fisica-compatto.md
 │       ├── appunti-verifica-fisica.md
 │       ├── calc/
+│       ├── __pycache__/
+│       ├── render_calc_jpgs.py
 │       ├── teoria-verifica-fisica-orale.md
 │       ├── trascrizione-app-giulia.md
 │       └── trascrizione-lezioni/
@@ -91,14 +101,15 @@ Raccolta di appunti e materiali scolastici.
 │   ├── 31-03-26/
 │   │   └── transcription.txt
 │   ├── appunti.md
-│   └── materiali-pcto/
-│       ├── 06-05-20/
-│       ├── 18-03-26/
-│       ├── 23-04-26/
-│       ├── 31-03-26/
-│       ├── quarta/
-│       ├── quinta/
-│       └── terza/
+│   ├── materiali-pcto/
+│   │   ├── 06-05-20/
+│   │   ├── 18-03-26/
+│   │   ├── 23-04-26/
+│   │   ├── 31-03-26/
+│   │   ├── quarta/
+│   │   ├── quinta/
+│   │   └── terza/
+│   └── relazioni_pcto.md
 ├── README.md
 └── storia/
     └── materiale/

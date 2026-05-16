@@ -49,7 +49,6 @@ Raccolta di appunti e materiali scolastici.
 │       ├── appunti-bea.md
 │       ├── appunti-verifica-fisica-compatto.md
 │       ├── appunti-verifica-fisica.md
-│       ├── calc/
 │       ├── __pycache__/
 │       ├── render_calc_jpgs.py
 │       ├── teoria-verifica-fisica-orale.md

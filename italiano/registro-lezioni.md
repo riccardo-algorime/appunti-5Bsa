@@ -1,6 +1,6 @@
 # Registro lezioni 2026 e stato trascrizioni
 
-Tabella ordinata per data crescente. Ho segnato `Sì` solo quando esiste una trascrizione valida in `lezioni/DD-MM-26/transcription.txt`; `No` quando la trascrizione manca, è stata rimossa, oppure non risulta valida.
+Tabella ordinata per data crescente. Ho segnato `Sì` solo quando esiste una trascrizione valida in `~/Documents/scuola/boh/appunti/LINGUA E LETTERATURA ITALIANA/lezioni/DD-MM-26/transcription.txt`; `No` quando la trascrizione manca, è stata rimossa, oppure non risulta valida.
 
 | Data | Lezione svolta | Trascrizione valida |
 |---|---|---|
@@ -17,7 +17,7 @@ Tabella ordinata per data crescente. Ho segnato `Sì` solo quando esiste una tra
 | 17-02-2026 | Pascoli: la biografia secondo l'interpretazione di V. Andreoli (da I segreti di casa Pascoli); la poetica del fanciullino: lettura e analisi di brani scelti | Sì |
 | 23-02-2026 | Pascoli: i punti cardine del Fanciullino; la poetica; lo stile. Lettura e analisi di Arano. | Sì |
 | 24-02-2026 | Pascoli: lettura e analisi di Lavandare e di X Agosto | Sì |
-| 26-02-2026 | Pascoli: lettura e analisi di Temporale, L'assiuolo (saggio di Santagata, Un piccolo io); Canti di Castelvecchio: caratteri generali; lettura e analisi Il gelsomino notturno e La tovaglia. Verifiche orali; ripasso e recupero in itinere | No |
+| 26-02-2026 | Pascoli: lettura e analisi di Temporale, L'assiuolo (saggio di Santagata, Un piccolo io); Canti di Castelvecchio: caratteri generali; lettura e analisi Il gelsomino notturno e La tovaglia. Verifiche orali; ripasso e recupero in itinere | Sì |
 | 02-03-2026 | Pascoli: lettura e analisi di Nebbia; verifiche orali; ripasso e recupero in itinere; assegnata simulazione Invalsi di italiano (su Classroom) | Sì |
 | 03-03-2026 | Verifiche orali; ripasso e recupero in itinere; D'Annunzio: introduzione alla biografia e alla poetica | Sì |
 | 05-03-2026 | Verifiche orali; ripasso e recupero in itinere; D'Annunzio: la biografia e la poetica; l'Estetismo: introduzione a Il piacere | Sì |
@@ -31,6 +31,16 @@ Tabella ordinata per data crescente. Ho segnato `Sì` solo quando esiste una tra
 | 13-04-2026 | Svevo: la biografia e l'opera; la figura dell'inetto e il tema della malattia; lo stile | Sì |
 | 16-04-2026 | Svevo: lettura e analisi La morale del gabbiano da Una vita; Senilità: il sistema dei personaggi; brano La scoperta del tradimento; La coscienza di Zeno: la struttura, il tempo, il punto di vista; lettura e analisi della Prefazione e del Preambolo; dal cap. III, L'eterna ultima sigaretta; cap. IV, La morte e lo schiaffo del padre. | Sì |
 | 20-04-2026 | Svevo: brano La proposta di matrimonio; lettura e analisi della conclusione del romanzo La vita è inquinata alle radici; introduzione a Pirandello: la biografia e l'opera | Sì |
+| 21-04-2026 | Pirandello: l'umorismo; lettura e analisi La vecchia imbellettata; verifiche orali; ripasso e recupero in itinere | Sì |
+| 23-04-2026 | Pirandello: il contrasto Vita e Forma; il tema dell'identità; Novelle per un anno: lettura e analisi di Il treno ha fischiato e La carriola; verifiche orali; ripasso e recupero in itinere. | Sì |
+| 27-04-2026 | Pirandello: la novella La patente; verifiche orali; ripasso e recupero in itinere | Sì |
+| 28-04-2026 | Pirandello: Il fu Mattia Pascal; lettura e analisi La lanterninosofia; verifiche orali; ripasso e recupero in itinere | Sì |
+| 30-04-2026 | Indicazioni per il colloquio d'Esame; Pirandello: lettura e analisi del brano Mattia Pascal fa visita alla propria tomba; Uno nessuno centomila: lettura e analisi Il naso e Non conclude; il teatro: I sei personaggi in cerca d'autore; verifiche orali: ripasso e recupero in itinere | Sì |
+| 04-05-2026 | Pirandello: relativismo gnoseologico:lLa sigora Frola e il sig. Ponza; Così è se vi pare : scena finale; Da I sei personaggi: L'ingresso in scena dei sei personaggi: analisi e commento. Visione di sequenze scelte dallo spettacolo con la regia di G. De Lullo. | Sì |
+| 05-05-2026 | Simulazione seconda prova d'Esame | No |
+| 07-05-2026 | Ungaretti: la vita e la poetica; lettura e analisi di Il porto sepolto, Veglia, Fratelli e I fiumi; verifiche orali; ripasso e recupero in itinere | Sì |
+| 11-05-2026 | Verifiche orali; ripasso e recupero in itinere. Ungaretti: visione della prima parte del documentario Raiplay | Sì |
+| 14-05-2026 | Ungaretti: da Il dolore, Non gridate più; Saba: la biografia e l'opera; lettura e analisi: Mio padre è stato per me l'assassino, Ed amai nuovamente, Amai; verifiche orali; ripasso e recupero in itinere | Sì |
 
 ## Note
 
@@ -38,7 +48,7 @@ Tabella ordinata per data crescente. Ho segnato `Sì` solo quando esiste una tra
 
 ## Stato integrazione schemi studio
 
-Gli schemi di studio in `lezioni/studio/` sono integrati fino alla lezione del **09-04-2026** compresa.
+Gli schemi di studio principali nella root della cartella sono integrati fino alla lezione del **14-05-2026** compresa, per gli argomenti effettivamente trattati nelle trascrizioni disponibili.
 
 | Argomento | Lezioni coperte | Ultimo aggiornamento |
 |---|---|---|
@@ -49,5 +59,11 @@ Gli schemi di studio in `lezioni/studio/` sono integrati fino alla lezione del *
 | D'Annunzio | 03-03-26 → 17-03-26 | Marzo 2026 |
 | Futurismo | 17-03-26 → 09-04-26 | 09/04/26 |
 | Romanzo del Novecento | 09-04-26 | 09/04/26 |
+| Svevo | 13-04-26 → parte Svevo del 20-04-26 | 17/05/26 |
+| Pirandello | parte Pirandello del 20-04-26 → 04-05-26 | 17/05/26 |
+| Ungaretti | 07-05-26 → parte Ungaretti del 14-05-26 | 17/05/26 |
+| Saba | parte Saba del 14-05-26 | 17/05/26 |
 
-**Da integrare**: Svevo (13-04, 16-04, 20-04), Pirandello, Saba, Ungaretti, Montale.
+**Da integrare**: Montale, se/quando sarà disponibile una trascrizione di lezione dedicata.
+
+Nota: la vecchia cartella `lezioni/studio/` resta ferma al blocco precedente e non è stata aggiornata in questa passata; gli schemi aggiornati sono quelli nelle cartelle principali della root.

@@ -1,8 +1,8 @@
 # Indice — Appunti di Letteratura Italiana (5BSA, 2025-26)
 
-> **Ultimo aggiornamento:** 15 aprile 2026
+> **Ultimo aggiornamento:** 17 maggio 2026
 > **Scopo:** Preparazione all'Esame di Stato (maturità)
-> **Fonti:** Trascrizioni delle lezioni in classe (gennaio–aprile 2026)
+> **Fonti:** Trascrizioni delle lezioni in classe (gennaio–maggio 2026)
 
 ---
 
@@ -32,6 +32,9 @@ flowchart TD
     A --> G[Il Futurismo]
     A --> H[Il Romanzo<br/>del Novecento]
     A --> I[Italo Svevo]
+    A --> J[Luigi Pirandello]
+    A --> K[Giuseppe Ungaretti]
+    A --> L[Umberto Saba]
 
     D -->|"matrice comune"| E
     D -->|"matrice comune"| F
@@ -39,6 +42,9 @@ flowchart TD
     F -->|"reazione contro"| G
     G -->|"contesto per"| H
     H -->|"iniziatori italiani"| I
+    H -->|"romanzo psicologico"| J
+    I -->|"crisi dell'io"| J
+    K -->|"triade lirica"| L
     B -->|"cinema → letteratura"| C
 
     style A fill:#2c3e50,stroke:#1a252f,color:#fff
@@ -61,7 +67,10 @@ La professoressa ha scelto di partire dal Novecento per poi tornare indietro, se
 | 5 | **Gabriele D'Annunzio** | 1863–1938 | 03/03, 05/03, 09/03, 10/03, 12/03, 16/03, 17/03 | `dannunzio/` |
 | 6 | **Il Futurismo** | 1909–1920 | 17/03, 31/03, 09/04 | `futurismo/` |
 | 7 | **Il Romanzo del Novecento** | Inizio '900 | 09/04 | `romanzo-novecento/` |
-| 8 | **Italo Svevo** | 1893–1923 | 13/04 | `svevo/` |
+| 8 | **Italo Svevo** | 1893–1923 | 13/04, 16/04, 20/04 | `svevo/` |
+| 9 | **Luigi Pirandello** | 1867–1936 | 20/04, 21/04, 23/04, 27/04, 28/04, 04/05 | `pirandello/` |
+| 10 | **Giuseppe Ungaretti** | 1888–1970 | 07/05, 11/05, 14/05 | `ungaretti/` |
+| 11 | **Umberto Saba** | 1883–1957 | 14/05 | `saba/` |
 
 \* Le lezioni del 13/01 e del 26/02 non dispongono di trascrizione valida; i contenuti sono stati integrati dalle fonti disponibili.
 
@@ -99,16 +108,27 @@ Argomento introdotto nella lezione del 09/04. Le tre innovazioni rispetto all'Ot
 
 ### 8. `svevo/`
 
-Trattazione completa di Italo Svevo (lezione del 13/04). Vita e formazione: Trieste città mitteleuropea, triplice identità linguistica (dialetto-tedesco-italiano), autodidatta, doppia vita da industriale e scrittore. Il rapporto con Joyce (insegnante d'inglese) e con la psicoanalisi di Freud (stimolo letterario, non cura). La scrittura come ossessione e terapia. La "malattia dell'uomo": disagio dell'individuo nella società borghese; la malattia è la vita stessa. I tre romanzi e i tre personaggi: Alfonso Nitti (*Una vita*, 1893), Emilio Brentani (*Senilità*, 1898), Zeno Cosini (*La coscienza di Zeno*, 1923). Il concetto di inetto (abulico, inadatto). Autoinganno e grandezza latente. Stile: scrittura di grado zero, monologo interiore, discorso indiretto libero, prima persona, struttura a blocchi tematici, tono ironico.
+Trattazione completa di Italo Svevo. Vita e formazione: Trieste città mitteleuropea, triplice identità linguistica, autodidatta, doppia vita da industriale e scrittore. Joyce, Freud e psicoanalisi. Concetto di inetto, ipertrofia della coscienza, lottatori e contemplatori. Analisi di *Una vita*, *Senilità* e *La coscienza di Zeno*: Prefazione, Preambolo, ultima sigaretta, morte del padre, matrimonio, atto mancato, finale apocalittico e vita come malattia.
+
+### 9. `pirandello/`
+
+Biografia e opera di Luigi Pirandello. *L'umorismo*, avvertimento e sentimento del contrario, scomposizione del reale. Vita e Forma, maschere, trappole sociali, identità e follia. Novelle: *Il treno ha fischiato*, *La carriola*, *La patente*. Romanzi: *Il fu Mattia Pascal* e *Uno, nessuno e centomila*. Teatro: *Così è (se vi pare)*, relativismo gnoseologico, *Sei personaggi in cerca d'autore*, quarta parete e teatro nel teatro.
+
+### 10. `ungaretti/`
+
+Biografia per luoghi di Giuseppe Ungaretti: Alessandria d'Egitto, Parigi, Carso/Isonzo, Roma, Brasile, Milano. Vicenda editoriale da *Il porto sepolto* a *L'Allegria*, poi *Sentimento del tempo* e *Il dolore*. Poetica del segreto, parola essenziale, versicoli, analogia, titolo come verso zero. Analisi di *Il porto sepolto*, *Veglia*, *Fratelli*, *I fiumi*, *Sono una creatura*, *San Martino del Carso*, *Soldati*, *Mattina* e *Non gridate più*.
+
+### 11. `saba/`
+
+Introduzione a Umberto Saba. Trieste come città di confine, biografia familiare, padre assente, madre, balia Peppa, psicoanalisi e trauma. Poetica della poesia onesta, lingua chiara e tradizionale ma moderna nell'interiorità. *Il Canzoniere* come autobiografia poetica. Analisi centrale di *La capra* e accenni a *A mia moglie*, *Trieste*, *Mio padre è stato per me l'assassino*, *Ed amai nuovamente* e *Amai*.
 
 ---
 
 ## Argomenti ancora da trattare
 
-La professoressa ha annunciato il programma rimanente:
+Resta da integrare solo ciò che non ha ancora una vera lezione schematizzata:
 
-- **Luigi Pirandello** — vita, poetica, *Il fu Mattia Pascal*, *Uno, nessuno e centomila*
-- **La triade lirica**: Saba, Ungaretti, Montale
+- **Eugenio Montale** — annunciato come parte della triade lirica, ma non ancora coperto da una trascrizione schematizzata in questa cartella.
 
 ---
 
@@ -137,6 +157,15 @@ La professoressa ha annunciato il programma rimanente:
 | Romanzo del Novecento | mega-schema | 274 | 25 603 | 25 848 |
 | Romanzo del Novecento | riassunto | 152 | 13 343 | 13 478 |
 | Romanzo del Novecento | ripasso | 67 | 3 302 | 3 334 |
-| Svevo | mega-schema | 244 | 16 935 | 17 183 |
-| Svevo | riassunto | 123 | 8 878 | 9 000 |
-| Svevo | ripasso | 81 | 2 743 | 2 783 |
+| Svevo | mega-schema | 477 | 28 666 | 28 918 |
+| Svevo | riassunto | 99 | 8 129 | 8 210 |
+| Svevo | ripasso | 193 | 7 766 | 7 820 |
+| Pirandello | mega-schema | 454 | 23 320 | 23 531 |
+| Pirandello | riassunto | 103 | 10 018 | 10 134 |
+| Pirandello | ripasso | 228 | 8 290 | 8 367 |
+| Ungaretti | mega-schema | 461 | 25 971 | 26 141 |
+| Ungaretti | riassunto | 99 | 7 623 | 7 679 |
+| Ungaretti | ripasso | 172 | 7 953 | 8 002 |
+| Saba | mega-schema | 363 | 20 008 | 20 195 |
+| Saba | riassunto | 96 | 7 066 | 7 133 |
+| Saba | ripasso | 164 | 7 117 | 7 173 |

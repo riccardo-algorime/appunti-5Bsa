@@ -13,7 +13,7 @@ Raccolta di appunti e materiali scolastici.
 |---|---|---|
 | `chimica/` | 2 cartelle, 0 file | `-` |
 | `fisica/` | 1 cartelle, 0 file | `-` |
-| `italiano/` | 8 cartelle, 2 file | `INDICE.md` |
+| `italiano/` | 12 cartelle, 2 file | `INDICE.md` |
 | `mate/` | 0 cartelle, 0 file | `-` |
 | `pcto/` | 5 cartelle, 2 file | `appunti.md` |
 | `storia/` | 1 cartelle, 0 file | `-` |
@@ -69,6 +69,68 @@ Raccolta di appunti e materiali scolastici.
 │   │   ├── riassunto.md
 │   │   └── ripasso.md
 │   ├── INDICE.md
+│   ├── lezioni/
+│   │   ├── 01-12-25/
+│   │   ├── 02-02-26/
+│   │   ├── 02-03-26/
+│   │   ├── 02-12-25/
+│   │   ├── 03-03-26/
+│   │   ├── 04-05-26/
+│   │   ├── 04-11-25/
+│   │   ├── 05-03-26/
+│   │   ├── 07-05-26/
+│   │   ├── 08-01-26/
+│   │   ├── 09-02-26/
+│   │   ├── 09-03-26/
+│   │   ├── 09-04-26/
+│   │   ├── 09-12-25/
+│   │   ├── 10-03-26/
+│   │   ├── 11-05-26/
+│   │   ├── 11-11-25/
+│   │   ├── 12-01-26/
+│   │   ├── 12-02-26/
+│   │   ├── 12-03-26/
+│   │   ├── 13-01-26/
+│   │   ├── 13-04-26/
+│   │   ├── 13-11-25/
+│   │   ├── 14-05-26/
+│   │   ├── 14-10-25/
+│   │   ├── 15-01-26/
+│   │   ├── 15-1-26/
+│   │   ├── 16-01-26/
+│   │   ├── 16-02-26/
+│   │   ├── 16-03-26/
+│   │   ├── 16-04-26/
+│   │   ├── 17-02-26/
+│   │   ├── 17-03-26/
+│   │   ├── 17-11-25/
+│   │   ├── 18-11-25/
+│   │   ├── 18-12-25/
+│   │   ├── 19-01-26/
+│   │   ├── 20-01-26/
+│   │   ├── 20-04-26/
+│   │   ├── 21-04-26/
+│   │   ├── 22-01-26/
+│   │   ├── 22-12-25/
+│   │   ├── 23-02-26/
+│   │   ├── 23-04-26/
+│   │   ├── 24-02-26/
+│   │   ├── 24-11-25/
+│   │   ├── 25-11-25/
+│   │   ├── 26-01-26/
+│   │   ├── 26-02-26/
+│   │   ├── 27-01-26/
+│   │   ├── 27-04-26/
+│   │   ├── 27-10-25/
+│   │   ├── 27-11-25/
+│   │   ├── 28-04-26/
+│   │   ├── 29-01-26/
+│   │   ├── 30-01-26/
+│   │   ├── 30-04-26/
+│   │   ├── 31-03-26/
+│   │   ├── raw/
+│   │   ├── studio/
+│   │   └── unknown/
 │   ├── neorealismo-cinematografico/
 │   │   ├── mega-schema.md
 │   │   ├── riassunto.md
@@ -81,12 +143,24 @@ Raccolta di appunti e materiali scolastici.
 │   │   ├── mega-schema.md
 │   │   ├── riassunto.md
 │   │   └── ripasso.md
+│   ├── pirandello/
+│   │   ├── mega-schema.md
+│   │   ├── riassunto.md
+│   │   └── ripasso.md
 │   ├── registro-lezioni.md
 │   ├── romanzo-novecento/
 │   │   ├── mega-schema.md
 │   │   ├── riassunto.md
 │   │   └── ripasso.md
-│   └── svevo/
+│   ├── saba/
+│   │   ├── mega-schema.md
+│   │   ├── riassunto.md
+│   │   └── ripasso.md
+│   ├── svevo/
+│   │   ├── mega-schema.md
+│   │   ├── riassunto.md
+│   │   └── ripasso.md
+│   └── ungaretti/
 │       ├── mega-schema.md
 │       ├── riassunto.md
 │       └── ripasso.md

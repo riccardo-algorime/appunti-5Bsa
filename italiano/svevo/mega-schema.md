@@ -7,238 +7,471 @@
 | Elemento | Dettaglio |
 |----------|-----------|
 | **Vero nome** | Ettore Schmitz |
-| **Pseudonimo** | Italo Svevo (nome d'arte che insiste sulla doppia appartenenza: Italia + mondo mitteleuropeo) |
+| **Pseudonimo** | Italo Svevo: *Italo* rimanda all'identità italiana, *Svevo* al mondo germanico e mitteleuropeo |
 | **Nato** | 1861, **Trieste** |
-| **Morto** | 1928, a seguito di un incidente d'auto con complicazioni dovute al vizio del fumo |
-| **Professione** | Prima impiegato di banca, poi industriale (impresa di vernice navale del suocero Veneziani) |
-| **Rapporto con la scrittura** | **Ossessione** — non la professione ma il bisogno irrinunciabile; letterato dilettante e autodidatta |
-| **Lingue** | 1ª dialetto triestino · 2ª tedesco · 3ª italiano (lingua delle sue opere) |
+| **Morto** | 1928, dopo un incidente d'auto con complicazioni legate anche al vizio del fumo |
+| **Professione** | Prima impiegato di banca, poi industriale nell'impresa Veneziani di vernici navali |
+| **Rapporto con la scrittura** | Ossessione, bisogno, forma di autoanalisi e unica vera terapia |
+| **Lingue** | 1ª dialetto triestino · 2ª tedesco · 3ª italiano, lingua letteraria scelta per le opere |
 | **Opere principali** | *Una vita* (1893) · *Senilità* (1898) · *La coscienza di Zeno* (1923) |
 
 ---
 
-## 1. Vita e formazione
+## 1. Vita, formazione e identità di confine
 
-### 1.1 Trieste: una città di confine
+### 1.1 Trieste: città mitteleuropea
 
-Italo Svevo nasce nel 1861 a **Trieste**, una città che non è elemento biografico secondario ma condizione strutturante di tutta la sua opera. Trieste è una città di **porto**, di **confine**, posizionata al crocevia tra Italia, Austria e Germania: una città **mitteleuropea** per definizione, luogo di incroci di uomini e merci, di culture che si sovrappongono.
+Svevo nasce a **Trieste**, città di porto e di confine, collocata tra mondo italiano, austriaco e tedesco. Questo dato non è solo geografico: spiega la sua formazione composita, il suo rapporto problematico con la lingua italiana e la sua apertura verso la cultura europea, soprattutto verso Joyce e Freud.
 
-Nel 1873 Svevo si trasferisce in Germania, dove studia in un collegio e si avvicina alla letteratura. Quando torna a Trieste nel 1878 — attorno ai diciassette anni, la stessa età degli studenti della classe — la sua vocazione letteraria è già forte, ma il padre non vuole assecondarla.
-
-> [!note] Dalla lezione
-> «L'italiano tra le lingue dei romanzi di Svevo non era di fatto né la prima e neanche la seconda lingua. Era la terza. Perché la prima lingua è quella del dialetto triestino, la seconda lingua è il tedesco, la terza lingua è l'italiano che poi lui usò come lingua letteraria delle sue opere. Quindi già questo ci fa capire come la sua formazione sia composita.»
-
-### 1.2 La doppia vita: impiegato e scrittore
-
-Svevo lavora come impiegato di banca, poi sposa una lontana cugina, **Livia Veneziani**, il cui padre è a capo di un'impresa che brevetta una vernice speciale per le navi. Si rivela un commerciante e industriale di successo. **Per venticinque anni non pubblica più nulla** — ma non smette di scrivere, perché la scrittura è la sua ossessione.
-
-La sua formazione è quella di un **autodidatta**: si forma su letture che compie in autonomia, fuori da un corso di studi specifico. Questo lo rende meno condizionato dai modelli letterari canonici, più libero di trovare una propria via.
-
-### 1.3 I due incontri fondamentali del primo Novecento
-
-Nel primo decennio del Novecento, prima della pubblicazione del capolavoro, avvengono due incontri destinati a segnare profondamente *La coscienza di Zeno*.
-
-**James Joyce** — Svevo lo conosce direttamente perché Joyce era il suo insegnante d'inglese, una lingua che gli serviva per la professione commerciale. Joyce sarà tra i primi a riconoscere il valore del romanzo, aiutando Svevo a ottenere quella notorietà internazionale che in Italia gli era stata negata.
-
-**La psicoanalisi di Freud** — Trieste, per la sua vicinanza con l'Austria, è uno dei luoghi in cui la nuova disciplina freudiana — nata simbolicamente con *L'interpretazione dei sogni* del 1900 — viene conosciuta prima che altrove in Italia. Svevo legge Freud anche perché un suo parente era in cura presso un allievo di Freud. Ma la sua posizione è di **interesse critico**, non di fede:
+Nel 1873 studia in Germania; quando torna a Trieste nel 1878 ha già una forte vocazione letteraria, ma il padre non la incoraggia. La sua formazione resta quindi quella di un **autodidatta**, meno vincolato ai modelli scolastici e più libero di costruire una narrativa propria.
 
 > [!note] Dalla lezione
-> «Svevo ritiene la psicoanalisi uno strumento **inutile dal punto di vista medico**, quindi una disciplina inutile per la guarigione, ma **molto interessante da un punto di vista letterario**. [...] Qual è invece lo strumento che riconosce come terapeutico per lui rispetto alle difficoltà della vita, al disagio esistenziale? La scrittura. La scrittura per Svevo si rivela essere l'unica vera terapia.»
+> L'italiano per Svevo non è la prima lingua, ma la terza: prima viene il dialetto triestino, poi il tedesco, poi l'italiano scelto come lingua letteraria. Anche per questo la sua formazione è composita.
 
-### 1.4 La morte e il vizio del fumo
+### 1.2 La doppia vita: impiegato, industriale, scrittore
 
-Svevo muore nel 1928 a seguito di un incidente d'auto. L'incidente non fu particolarmente grave, ma le complicazioni derivate dal suo inesausto **vizio del fumo** ne causarono la morte. Non è un dettaglio aneddotico: il vizio del fumo è il tema centrale del primo blocco narrativo de *La coscienza di Zeno*, intitolato proprio *Il fumo*.
+Svevo lavora come impiegato di banca, poi sposa **Livia Veneziani** ed entra nell'impresa del suocero, specializzata in una vernice navale. Diventa un industriale efficiente, cioè appartiene proprio a quel mondo borghese e produttivo che poi smaschera nei romanzi.
 
-### 1.5 Lo pseudonimo
+Dopo *Senilità* resta per circa **venticinque anni senza pubblicare**, ma non smette di scrivere. La scrittura non è per lui una carriera: è un bisogno continuo, una forma di terapia più autentica della psicoanalisi.
 
-Il nome d'arte **Italo Svevo** non è casuale: insiste sulla **doppia appartenenza** dell'autore. Italo rimanda all'identità italiana; Svevo — che richiama gli Svevi, popolo germanico — rimanda al mondo nord-europeo, austriaco, tedesco. È la sintesi identitaria di un autore che sentiva di appartenere all'Italia pur cresciuto in un contesto multiculturale e mitteleuropeo.
+### 1.3 Joyce e Freud
+
+Nel primo Novecento due incontri sono decisivi.
+
+**James Joyce** è il suo insegnante d'inglese a Trieste. Riconosce il valore di Svevo e contribuisce alla sua fortuna internazionale dopo *La coscienza di Zeno*.
+
+**Freud e la psicoanalisi** arrivano presto a Trieste per la vicinanza con l'area austriaca. Svevo è interessato alla psicoanalisi, ma in modo critico: non la considera davvero efficace come cura medica, mentre la ritiene importantissima come strumento letterario per raccontare inconscio, nevrosi, memoria, autoinganno e malattia.
+
+> [!note] Dalla lezione
+> Per Svevo la psicoanalisi è inutile come guarigione, ma molto interessante come letteratura. La vera cura, per lui, è la scrittura.
 
 ---
 
-## 2. La scrittura come terapia e come ossessione
+## 2. Scrittura, malattia e società borghese
 
-### 2.1 Un letterato dilettante
+### 2.1 Scrittura di grado zero
 
-Svevo è un **letterato dilettante**: non professionista, autodidatta, non formato su percorsi accademici. Questo comporta due conseguenze. Da un lato, è **meno condizionato dai modelli** letterari precedenti; la sua scrittura è più immediata, più libera dai formalismi. Dall'altro, la critica letteraria — anche nei decenni successivi — ha sottolineato che la sua lingua è quella che si definisce una **scrittura di grado zero**: piuttosto lineare, quasi elementare nel senso (lievemente) deteriore del termine, non particolarmente elegante dal punto di vista letterario.
+Svevo è stato spesso accusato dalla critica di "scrivere male": lingua lineare, poco elegante, con disarmonie sintattiche. Questa **scrittura di grado zero** dipende anche dal fatto che l'italiano è la sua terza lingua. Tuttavia proprio questa semplicità gli permette di evitare il formalismo e di concentrarsi sul contenuto: la coscienza, la nevrosi, l'autoanalisi.
+
+### 2.2 Scrivere come autoanalisi
+
+Scrivere significa:
+
+- osservarsi dall'interno
+- portare alla luce autoinganni e contraddizioni
+- trasformare il disagio in racconto
+- curare, almeno parzialmente, il male di vivere
+
+Svevo non mette in scena eroi o superuomini, ma l'**uomo ordinario** del Novecento: borghese, fragile, pieno di nevrosi, incapace di aderire pienamente alla vita.
+
+### 2.3 La malattia dell'uomo
+
+La malattia sveviana non è solo clinica o individuale. È il disagio dell'individuo dentro la **società borghese**, fondata su successo economico, profitto, competizione, apparenza e conformismo. Chi non riesce ad adattarsi a questo sistema si sente escluso, debole, inadeguato.
+
+La conclusione più radicale è che la malattia coincide con la vita stessa: se vivere significa essere esposti a dolore, desiderio, frustrazione, nevrosi e morte, allora l'unica salute assoluta sarebbe la morte.
 
 > [!note] Dalla lezione
-> «Sostanzialmente la critica ci ha detto che Svevo scrive male. [...] Il suo linguaggio, proprio la lingua, non è particolarmente apprezzato dalla critica. Questo però gli consente di evitare i formalismi, cioè gli artifici, e di scrivere in modo più immediato e volto all'espressione del contenuto.»
-
-### 2.2 Scrivere come cura
-
-Per Svevo scrivere è un **bisogno**, un'**ossessione**, un modo per conoscere se stessi. La scrittura è **autoanalisi**, cioè indagine di sé, e in quanto tale è **terapia**:
-
-- la psicoanalisi può essere uno stimolo alla creazione artistica, ma non cura la **malattia dell'uomo**
-- la scrittura, invece, **cura il proprio male di vivere**; è l'unica vera terapia
-- ecco perché Svevo ha scritto moltissimo — romanzi, lettere, biglietti — nonostante i venticinque anni senza pubblicazione
+> La domanda decisiva è: qual è la malattia dell'uomo? La risposta sveviana è tragica: **la malattia è la vita**.
 
 ---
 
-## 3. La "malattia dell'uomo" e la società borghese
+## 3. L'inetto e l'ipertrofia della coscienza
 
-Svevo parte dal presupposto che **tutti gli uomini siano malati**. Ma di quale malattia si tratta?
+### 3.1 Definizione di inetto
 
-La malattia che emerge all'inizio del Novecento — e che gli scrittori di questa stagione iniziano a indagare — è quella del rapporto tra **l'individuo e la società borghese**. La **borghesia** è la classe dominante del Novecento: impone un modello legato al **successo economico**, alla **logica del profitto**, all'**apparenza** e al **conformismo**. Chi non risponde a queste richieste rischia l'esclusione, l'emarginazione, l'isolamento.
+Il personaggio chiave della narrativa sveviana è l'**inetto**, dal latino *in-aptus*, cioè inadatto. L'inetto è inadatto alla vita pratica perché è abulico, privo di volontà stabile, incapace di agire con decisione.
 
-L'individuo che si trova a dover vivere dentro questo sistema può vacillare: può sentirsi in una condizione di **disagio**, di **insofferenza**, di **estraneità**. Svevo indaga proprio il rapporto tra l'individuo e la società borghese per mettere a nudo le ipocrisie, le falsità, i vizi e le debolezze di quel mondo — di cui lui stesso fa parte, essendo un industriale triestino di successo.
+Alfonso Nitti, Emilio Brentani e Zeno Cosini sono tre forme diverse di inettitudine. La differenza è nell'esito: Alfonso si suicida, Emilio fugge nel sogno, Zeno sopravvive grazie al caso e all'ironia.
 
-> [!note] Dalla lezione
-> «Qual è la malattia dell'uomo? [...] È la vita. **La malattia è la vita**. Tragico vederla così, eh? La malattia di vivere. [...] Coincide con la vita. Per cui la cura, o meglio la salute, con cosa coincide? Con la morte.»
+### 3.2 Ipertrofia della coscienza
 
-Questa è la conclusione ultima della visione sveviana: se la malattia è la vita, l'unica salute è la morte. Svevo arriva a questa posizione, ma — soprattutto ne *La coscienza di Zeno* — la presenta con una componente ironica che la rende sopportabile.
+La radice dell'inettitudine è l'**ipertrofia della coscienza**. *Iper-* indica eccesso; *-trofia* rimanda al nutrimento. Una coscienza ipertrofica è quindi una coscienza eccessivamente alimentata: pensa troppo, rimugina troppo, analizza tutto.
 
----
+Il risultato non è una maggiore capacità di agire, ma il contrario: più il personaggio pensa, più si blocca. La riflessione diventa rovello, tormento, ostacolo alla scelta.
 
-## 4. I tre romanzi e i tre personaggi
+| Coscienza sana per l'azione | Coscienza ipertrofica |
+|-----------------------------|-----------------------|
+| Permette decisione rapida | Rimanda continuamente |
+| Aderisce alla vita | Osserva la vita da fuori |
+| Agisce | Contempla |
+| Rischia | Si paralizza |
 
-### 4.1 *Una vita* (1893) — Alfonso Nitti
+### 3.3 Lottatori e contemplatori
 
-Il primo romanzo, pubblicato con lo pseudonimo di Italo Svevo, fu un **fiasco assoluto**. Il protagonista è **Alfonso Nitti** — il cognome non è casuale: rimanda al pronome latino neutro *nihil*, "nulla". Alfonso è un impiegato che, dopo una delusione di lavoro e sentimentale, si uccide.
+Svevo costruisce una dicotomia fondamentale:
 
-### 4.2 *Senilità* (1898) — Emilio Brentani
+| Categoria | Caratteristiche | Esempi |
+|-----------|-----------------|--------|
+| **Lottatori** | Agiscono, afferrano la preda, si adattano alla vita, seguono la logica darwiniana della lotta per la sopravvivenza | Macario, Balli, Angiolina, Guido in parte |
+| **Contemplatori** | Pensano, osservano, rimuginano, vivono più nella coscienza che nella realtà | Alfonso, Emilio, Amalia, Zeno |
 
-Il secondo romanzo, anch'esso ignorato dal pubblico, ha per protagonista **Emilio Brentani**, un giovane con velleità di intellettuale — aspirazioni letterarie poco fondate, non trasformate mai in atto. Si innamora di una ragazza del popolo volgare e fedifraga (che lo tradisce a ripetizione) di nome Angiolina, che lui **idealizza**: mentre per tutti Angiolina è "Angiolona", per Emilio è un angelo.
-
-Emilio è vittima dell'**autoinganno**: il fenomeno psicologico per cui non si riesce a vedere la realtà così com'è, ma la si guarda attraverso le proprie lenti colorate, secondo i propri desideri.
-
-> [!note] Dalla lezione
-> «Ognuno di noi ha le lenti colorate di un colore diverso e ognuno di noi la realtà la vede attraverso il colore delle sue lenti che non è proprio quello.»
-
-Emilio si crede grande di una **grandezza latente**: convinto di valere moltissimo come scrittore, rimanda sistematicamente l'impegno al giorno dopo, al prossimo momento favorevole. È una grandezza sempre in potenza e mai in atto, che lo mette al riparo dalle delusioni e dall'impegno concreto.
-
-Come finisce la sua vicenda esistenziale? Con una **fuga nell'immaginazione**, un rifiuto della realtà a favore di una dimensione di sogno e vagheggiamento. È una sconfitta.
-
-### 4.3 *La coscienza di Zeno* (1923) — Zeno Cosini
-
-Il capolavoro, pubblicato dopo i venticinque anni di silenzio. Il protagonista è **Zeno Cosini**. Anche il nome contiene significati precisi: *Zeno* deriva dal greco *xenos*, **straniero** — Zeno è estraneo a se stesso e agli altri; *Cosini* è un cognome che indica qualcosa di piccolo, di poco conto, di insignificante.
-
-Zeno non riesce a smettere di fumare. Ha un rapporto conflittuale con il **padre** — una costante della letteratura del Novecento legata alla psicanalisi freudiana, già vista in Kafka. Si innamora di Ada, che lo rifiuta; lui chiede la mano a tutte le sorelle finché Augusta acconsente e diventa la moglie ideale. Per una serie di circostanze casuali (tra cui le speculazioni finanziarie del dopoguerra) finisce per fare una fortuna commerciale — nonostante non abbia nessun particolare talento.
-
-La differenza fondamentale tra Zeno e i suoi predecessori è la componente **ironica** e il **distacco**: se Alfonso e Emilio sono dei sconfitti che si rifugiano nell'illusione o nel sogno, Zeno **si affida al caso**, che per lui si rivela fortunato. *La coscienza di Zeno* è un romanzo che, letto con il giusto spirito, fa ridere.
-
-> [!note] Dalla lezione
-> «La componente che troviamo nella *Coscienza di Zeno* che è estranea ai primi due romanzi è quella dell'ironia, del distacco ironico.»
+Il retroterra culturale è **Darwin**: la vita appare come lotta, selezione, capacità di adattamento. Ma gli inetti sveviani non sono adatti alla lotta; non hanno gli organi giusti per afferrare il reale.
 
 ```mermaid
 flowchart LR
-    A["*Una vita* (1893)"] --> B["**Alfonso Nitti**<br/>Nitti = nihil = nulla<br/>Impiegato · delusione · suicidio"]
-    C["*Senilità* (1898)"] --> D["**Emilio Brentani**<br/>Velleità letterarie · autoinganno<br/>Grandezza latente · fuga nel sogno"]
-    E["*La coscienza di Zeno* (1923)"] --> F["**Zeno Cosini**<br/>Xenos = straniero · Cosini = insignificante<br/>Inetto ironico · si affida al caso · fortuna"]
-    B -->|"esito"| G["Suicidio"]
-    D -->|"esito"| H["Fuga nell'immaginazione"]
-    F -->|"esito"| I["Fortuna casuale + ironia"]
-    style G fill:#c0392b,color:#fff
-    style H fill:#e67e22,color:#fff
-    style I fill:#27ae60,color:#fff
+    A["Vita come lotta"] --> B["Darwin<br/>selezione e adattamento"]
+    B --> C["Lottatori<br/>azione, preda, successo"]
+    B --> D["Contemplatori<br/>pensiero, rovello, inettitudine"]
+    D --> E["Ipertrofia della coscienza"]
+    E --> F["Blocco dell'azione"]
 ```
 
 ---
 
-## 5. L'inetto
+## 4. *Una vita*: Alfonso Nitti e le ali di gabbiano
 
-### 5.1 Definizione
+### 4.1 Il romanzo
 
-Il termine che accomuna tutti e tre i protagonisti sveviani è **inetto**. Deriva dal latino *in-aptus*, **inadatto**: l'inetto è colui che è inadatto a vivere perché è **abulico**, cioè senza volontà, che si lascia vivere anziché agire.
+*Una vita* esce nel 1893 ed è un insuccesso. Il protagonista è **Alfonso Nitti**, impiegato e inetto. Il cognome richiama *nihil*, "nulla": Alfonso porta già nel nome un destino di inconsistenza e sconfitta.
 
-Alfonso, Emilio e Zeno sono tutti inetti. La differenza sta nel modo in cui ognuno affronta questa condizione: i primi due soccombono (suicidio, fuga nel sogno); Zeno si affida al caso con distacco ironico e, paradossalmente, riesce.
+Dopo una delusione lavorativa e sentimentale, Alfonso si suicida. È il primo grande inetto sveviano.
 
-### 5.2 I personaggi sveviani siamo noi
+### 4.2 "Con le ali di gabbiano ci si nasce"
+
+Nel brano letto in classe, Alfonso partecipa a una gita in barca con **Macario**, personaggio che funziona da amico-nemico, alter ego e antagonista. Il nome Macario deriva dal greco **Makarios**, "felice": anche qui il nome contiene un significato. Macario è felice perché aderisce spontaneamente alla vita, sa stare al mondo, sa agire.
+
+Durante la gita, Macario osserva i **gabbiani**: hanno un cervello piccolissimo, "quantità da negligersi", ma possiedono ali, occhi, stomaco, appetito e istinto perfettamente funzionali alla caccia. Sono fatti per piombare sulla preda. Il loro piccolo cervello non è un limite, perché per vivere non serve pensare troppo: serve agire al momento giusto.
+
+Alfonso, invece, ha troppa coscienza. Il suo cervello non lo aiuta: lo ostacola. Non sa godere della gita, è pallido, impaurito, aggrappato con le mani. Macario nota le sue mani e costruisce l'opposizione decisiva:
+
+- le **mani dei lottatori** sono organi per afferrare
+- le **mani dei contemplatori** sono inabili a tenere
+- le **ali** servono al gabbiano per cacciare, ma ad Alfonso servono solo per l'immaginazione
 
 > [!note] Dalla lezione
-> «I personaggi sveviani siamo noi. Cioè Svevo sta parlando di noi, sta parlando dell'uomo del Novecento.»
+> Macario dice ad Alfonso che chi non ha le ali necessarie quando nasce non le avrà mai. Lottatori si nasce: chi non sa piombare sulla preda al momento giusto non lo imparerà guardando gli altri.
 
-L'autoinganno di Emilio, la difficoltà di smettere di fumare di Zeno, la grandezza latente mai tradotta in atto: sono meccanismi che appartengono alla psicologia di chiunque. Svevo non descrive casi patologici clinici, ma la nevrosi ordinaria dell'uomo borghese.
+La battuta finale è centrale: Alfonso chiede se anche lui abbia le ali e Macario risponde: **"Per fare voli poetici sì"**. Alfonso può immaginare, sognare, fare voli poetici; ma non può afferrare il reale. Ha ali per la fantasia, non mani per l'azione.
+
+### 4.3 Significato simbolico
+
+| Immagine | Significato |
+|----------|-------------|
+| **Gabbiano** | Animale perfettamente adatto alla caccia e alla vita |
+| **Ali** | Capacità naturale di piombare sulla preda; in Alfonso diventano solo fantasia |
+| **Mani** | Presa sul reale, azione concreta, capacità di afferrare |
+| **Cervello piccolo del gabbiano** | Non serve pensare troppo per vivere: serve essere adatti |
+| **Cervello di Alfonso** | Ipertrofia della coscienza, impaccio, paralisi |
+| **Voli poetici** | Immaginazione senza efficacia pratica |
 
 ---
 
-## 6. Stile e struttura narrativa
+## 5. *Senilità*: Emilio, Amalia, Balli e Angiolina
 
-### 6.1 La scrittura di grado zero
+### 5.1 Il romanzo
 
-Come già accennato, la critica giudica lo stile di Svevo una **scrittura di grado zero**: piuttosto lineare, con irregolarità e disarmonie sintattiche, priva di formalismi e artifici. Questo deriva direttamente dalla sua condizione di letterato autodidatta cresciuto tra parlate diverse, con l'italiano come terza lingua. Il risultato, però, è una scrittura che privilegia l'**espressione del contenuto** rispetto alla ricerca formale.
+*Senilità* esce nel 1898 ed è anch'esso ignorato. Il protagonista è **Emilio Brentani**, giovane con velleità letterarie: crede di possedere una grandezza latente, ma non la realizza mai. Vive di potenzialità, rinvii e autoinganni.
 
-### 6.2 Tecniche narrative
+Il titolo non indica la vecchiaia anagrafica: i personaggi principali sono giovani. La **senilità** è una condizione interiore fatta di fiacchezza, rinuncia, grigiore, monotonia, frustrazione e tendenza a vivere più nei pensieri che nella realtà.
 
-Svevo utilizza due tecniche fondamentali per dare voce all'interiorità dei personaggi.
+### 5.2 Il sistema dei personaggi
 
-Il **monologo interiore** è la tecnica principale de *La coscienza di Zeno*: i pensieri del personaggio sono espressi in prima persona, come se fossero rivolti a un interlocutore, mantenendo una struttura sintattica e logica riconoscibile. Svevo leggerà (dopodomani rispetto alla lezione del 13/04) il Preambolo di *La coscienza di Zeno* come esempio.
+Il romanzo organizza i personaggi secondo lo stesso schema lottatori/contemplatori.
 
-Il **discorso indiretto libero** — già incontrato in Verga, dove aveva una funzione mimetica per rendere naturale il parlato — qui serve per dare voce liberamente ai pensieri della coscienza, che non si presentano sempre in modo ordinato.
+| Personaggio | Ruolo | Categoria | Significato |
+|-------------|-------|-----------|-------------|
+| **Emilio Brentani** | Protagonista, aspirante scrittore | Contemplatore | Autoinganno, grandezza latente, incapacità di agire |
+| **Amalia** | Sorella di Emilio | Contemplatrice | Vita grigia, dedizione al fratello, amore non corrisposto |
+| **Stefano Balli** | Scultore | Lottatore | Sa godere della vita, è più sicuro e vitale |
+| **Angiolina** | Donna amata da Emilio | Lottatrice | Donna concreta, sensuale, infedele, non coincide con l'ideale di Emilio |
 
-> [!note] Dalla lezione
-> «Là Verga lo utilizza con una funzione mimetica, no? Per conferire naturalezza al linguaggio. Qui Svevo lo utilizza proprio per dar voce liberamente ai pensieri della coscienza che abbiamo detto non si presentano sempre in modo ordinato.»
+Emilio idealizza **Angiolina**, ragazza del popolo che lui trasforma in creatura pura e angelica, mentre in realtà lo tradisce apertamente. Il suo problema è l'**autoinganno**: non vede la realtà, ma la versione della realtà che gli conviene desiderare.
 
-### 6.3 La struttura de *La coscienza di Zeno*
-
-Caratteristiche strutturali chiave:
-
-- **Prima persona** — a differenza dei due romanzi precedenti (in terza persona), *La coscienza di Zeno* è narrata in prima persona. È la coscienza stessa di Zeno a prendere la parola.
-- **Inaffidabilità del narratore** — ciò che Zeno dice è sempre **relativo**, il suo punto di vista soggettivo, non la verità assoluta.
-- **Struttura a blocchi tematici** (non cronologica) — *Il fumo*, *La morte di mio padre*, *Storia del mio matrimonio*, *La storia di un'associazione commerciale*. I piani temporali si intersecano.
-- **Tono ironico** — la grande novità rispetto ai romanzi precedenti.
-
-### 6.4 Svevo e l'uomo ordinario
+**Amalia**, la sorella, presenta tratti analoghi: anche lei ama un uomo che non la corrisponde e vive in una condizione di chiusura, monotonia e frustrazione. Dall'altra parte, **Stefano Balli** e **Angiolina** rappresentano l'energia vitale, la capacità di stare nel mondo e godere dei piaceri.
 
 > [!note] Dalla lezione
-> «Svevo mette in scena l'**uomo ordinario**, non l'eroe o il superuomo. L'autore indaga la vita borghese del commercio della Trieste mercantile, per metterne a nudo gli aspetti più torbidi, le debolezze più nascoste, le ossessioni inconfessabili. L'indagine di Svevo appare quasi un dissidio. Lui stesso è parte di quel mondo, lo incarna perfettamente. In pratica toglie la maschera a una realtà a cui partecipa attivamente.»
+> La senilità del titolo non rimanda all'età, ma a una condizione interiore: vivere nella rinuncia, nella fiacchezza, nei propri pensieri, invece che nella realtà.
 
 ---
 
-## 7. Quadro riassuntivo
+## 6. *La coscienza di Zeno*: struttura generale
+
+### 6.1 Il capolavoro
+
+*La coscienza di Zeno* viene pubblicato nel 1923, dopo il lungo silenzio editoriale. Il protagonista è **Zeno Cosini**:
+
+- *Zeno* richiama il greco *xenos*, "straniero": Zeno è estraneo agli altri e a se stesso
+- *Cosini* suggerisce piccolezza, insignificanza
+
+È ancora un inetto, ma diverso da Alfonso ed Emilio: possiede distacco ironico, si affida al caso e spesso il caso lo favorisce.
+
+### 6.2 Struttura del romanzo
+
+Il romanzo è composto da:
+
+1. **Prefazione** del Dottor S.
+2. **Preambolo** di Zeno
+3. capitoli o **blocchi logici**: *Il fumo*, *La morte di mio padre*, *Storia del mio matrimonio*, *La moglie e l'amante*, *Storia di un'associazione commerciale*, *Psicanalisi*
+
+Non c'è andamento cronologico lineare: domina il **tempo misto**, cioè il tempo della coscienza. La memoria procede per nuclei tematici, associazioni, ritorni, contraddizioni.
+
+### 6.3 Tecniche narrative
+
+| Tecnica | Funzione |
+|---------|----------|
+| **Prima persona** | È la coscienza di Zeno a parlare |
+| **Monologo interiore** | Zeno parla a se stesso, si interroga, ragiona, si contraddice |
+| **Narratore inaffidabile** | Zeno non offre verità oggettive ma verità filtrate, deformate, mescolate a bugie |
+| **Tempo misto** | Il racconto segue la logica della memoria e della coscienza |
+| **Ironia** | Distanza critica rispetto alla propria malattia e ai propri fallimenti |
+
+---
+
+## 7. Prefazione: Dottor S., vendetta e narratore inaffidabile
+
+La **Prefazione** è scritta dal **Dottor S.**, lo psicanalista di Zeno. Il nome è ambiguo: può richiamare Svevo, Sigmund Freud, oppure una Z vista allo specchio, cioè un doppio rovesciato di Zeno.
+
+Il Dottor S. dichiara di pubblicare le memorie del paziente per **vendetta**, perché Zeno ha abbandonato la cura. Questa scelta è professionalmente scorretta: il medico viola il rapporto con il paziente e propone perfino di dividere con lui i guadagni se riprenderà la terapia. Sembra quasi un ricatto.
+
+> [!note] Dalla lezione
+> Il lettore non può fidarsi neppure del Dottor S.: anche lui è risentito, interessato, coinvolto. L'inaffidabilità non riguarda solo Zeno, ma anche chi lo introduce.
+
+La Prefazione mette subito in gioco il tema di **verità e bugie**: il Dottor S. avverte che nelle memorie di Zeno ci sono entrambe. Il romanzo del Novecento non offre più una verità sicura e oggettiva; mette il lettore davanti a punti di vista parziali.
+
+### 7.1 Transfer e controtransfert
+
+Il Dottor S. interpreta l'antipatia di Zeno come **transfer**: il paziente investe il medico di sentimenti nati altrove, per esempio odio, dipendenza, amore, rifiuto, legati a figure della propria storia personale. Lo psicanalista diventa uno schermo su cui il paziente proietta vissuti inconsci.
+
+Il **controtransfert** è invece l'insieme dei sentimenti che il medico prova verso il paziente. Un analista dovrebbe conservarne consapevolezza e mantenere distacco professionale. Il Dottor S., però, appare poco distaccato: si sente truffato e pubblica per vendetta.
+
+---
+
+## 8. Preambolo: autoanalisi fallita e monologo interiore
+
+Nel **Preambolo** parla Zeno. È un esempio di **monologo interiore**: Zeno si rivolge a se stesso, tenta di ricordare l'infanzia e commenta il proprio stesso tentativo.
+
+Il medico gli aveva consigliato di non ostinarsi subito a guardare troppo lontano, ma Zeno disobbedisce. Vuole cominciare **ab ovo**, cioè dall'origine. Compra e legge un trattato di psicoanalisi, giudicandolo facile ma noioso: prova a curarsi da solo, con presunzione e sfiducia verso la disciplina.
+
+### 8.1 Gli occhi presbiti e l'infanzia
+
+Zeno dice di voler vedere la propria infanzia, ma più di dieci lustri, cioè circa cinquant'anni, lo separano da essa. I suoi occhi sono **presbiti**: la vista stessa diventa metafora della difficoltà di vedere davvero il passato. Gli ostacoli sono gli anni, le ore, la memoria deformata.
+
+### 8.2 La locomotiva
+
+Nel rilassamento Zeno intravede una **locomotiva** che sbuffa in salita trascinando molte vetture. Lui non sa interpretarla e la considera quasi casuale; ma l'immagine può essere letta come metafora del peso del vivere: affanni, fatiche, dolori, carichi che la vita trascina con sé.
+
+### 8.3 Il bambino in fasce
+
+Zeno prova a risalire alla prima infanzia e vede un **bambino in fasce**, ma dubita che sia lui: forse è il bambino appena nato della cognata. Lo chiama "povero bambino" perché chi nasce è già destinato alla **malattia del vivere**.
+
+Il bambino non può essere protetto del tutto. Anche i genitori, pur senza volerlo, possono trasmettere ferite, errori, traumi. Ogni minuto della vita aggiunge un reagente alla misteriosa combinazione che formerà l'individuo.
+
+Il Preambolo si chiude con **"Ritenterò domani"**: formula simbolica di Zeno. Egli rimanda, rinnova propositi, promette di riprovare, ma non conclude. È lo stesso meccanismo dell'ultima sigaretta.
+
+> [!note] Dalla lezione
+> "Ritenterò domani" è il simbolo del personaggio: i suoi proponimenti sono sempre rinnovabili, come l'ultima sigaretta.
+
+---
+
+## 9. Il fumo: U.S., date e nevrosi
+
+Il primo blocco narrativo è **Il fumo**. Zeno crede che il fumo sia la causa della propria malattia: abulia, incapacità di volontà, inettitudine. Per questo prova continuamente a smettere.
+
+La formula decisiva è **U.S.**, cioè **ultima sigaretta**. Zeno annota date su libri, fogli, pareti; cerca giorni significativi, combinazioni numeriche, anniversari. Il meccanismo è nevrotico: ogni data dovrebbe inaugurare una nuova vita, ma ogni ultima sigaretta è seguita da un'altra.
+
+### 9.1 Il 2 febbraio 1886
+
+Una data ricordata è **2 febbraio 1886**, quando Zeno passa dagli studi di legge a quelli di chimica e registra l'ultima sigaretta. Il cambio di studi non è un dettaglio: mostra che Zeno mette continuamente in dubbio le proprie scelte, cerca giustificazioni, si autoconvince.
+
+Quando torna alla legge, registra un'altra ultima sigaretta. La sigaretta diventa il capro espiatorio della sua incapacità: forse Zeno ama il vizio proprio perché gli permette di attribuire al fumo la colpa della propria debolezza.
+
+### 9.2 Il cimitero dei buoni propositi
+
+Da studente Zeno copre le pareti della stanza con date di ultime sigarette, scritte con colori diversi e perfino a olio. Quella stanza diventa il **cimitero dei suoi buoni propositi**: ogni data è la traccia fisica di un fallimento.
+
+Le date preferite sono quelle musicali o simboliche:
+
+- il **nono giorno del nono mese del 1899**
+- il **primo giorno del primo mese del 1901**
+
+L'ultima sigaretta ha un gusto più intenso perché sembra contenere una vittoria su se stessi e la promessa di un futuro di forza e salute. Ma proprio questa promessa rende il vizio rinnovabile: ogni sigaretta può diventare l'ultima, quindi nessuna è davvero l'ultima.
+
+---
+
+## 10. La morte del padre: schiaffo, colpa e inettitudine
+
+Il capitolo **La morte di mio padre** mette al centro il rapporto padre-figlio, tema tipico del primo Novecento e legato alla psicoanalisi.
+
+Il padre di Zeno è percepito come autoritario e giudicante. Quando è ormai moribondo, si solleva dal letto in uno spasmo e lascia cadere la mano sul volto del figlio. Zeno interpreta il gesto come uno **schiaffo**, cioè come ultima punizione del padre.
+
+Il lettore non può sapere se sia davvero uno schiaffo intenzionale o un gesto involontario dovuto alla malattia. Proprio qui emerge l'inaffidabilità del racconto: il fatto è filtrato dalla coscienza di Zeno.
+
+La reazione di Zeno rivela:
+
+- senso di colpa
+- frustrazione
+- bisogno di riconoscimento paterno
+- immaturità
+- incapacità di trovare in sé il fondamento della propria identità
+
+Zeno pensa che, morto il padre, non avrà più nessuno a cui dimostrare la propria grandezza. Questo mostra la sua insicurezza: non si sente adulto se non viene confermato da un'autorità esterna.
+
+---
+
+## 11. Matrimonio, Augusta e salute malata
+
+Nel capitolo **Storia del mio matrimonio**, Zeno frequenta la famiglia **Malfenti**. Il capofamiglia diventa per lui una sorta di **padre elettivo**: industriale di successo, figura forte, modello borghese.
+
+Zeno si innamora di **Ada**, la più bella, ma viene rifiutato. Nella stessa serata chiede la mano anche ad **Alberta**, che vuole studiare, e infine ad **Augusta**, la meno avvenente, che accetta e diventa una moglie perfetta.
+
+Questo episodio mostra che Zeno è **amorale**, non semplicemente immorale: è privo di un orientamento morale stabile, si lascia guidare dagli eventi e dal caso. Paradossalmente il caso lo favorisce, perché Augusta si rivela la moglie migliore per lui.
+
+### 11.1 Augusta e la salute
+
+Augusta incarna la **salute**: crede nel matrimonio, nella messa domenicale, nelle certezze, nei punti fermi. Non mette continuamente in discussione la vita. Per Zeno questa salute è insieme ammirevole e inquietante.
+
+Zeno arriva infatti a definirla una **salute malata**. È un ossimoro: Augusta è sana perché vive tranquilla, ma è "malata" perché non sa di vivere dentro la malattia dell'esistenza. La sua sicurezza appare superficiale a chi, come Zeno, dubita di tutto.
+
+> [!note] Dalla lezione
+> Per chi si fa domande, chi possiede certezze incontrovertibili può sembrare spaventoso. Il senso della vita sta nel dubbio, non in risposte immobili.
+
+---
+
+## 12. Guido Speier e l'atto mancato
+
+**Guido Speier** è il fidanzato e poi marito di Ada. È giovane, brillante, disinvolto, violinista: incarna ciò che Zeno non è ma vorrebbe essere. Zeno lo invidia e lo detesta, pur frequentandolo.
+
+Guido compie scelte professionali azzardate, va incontro alla rovina economica e si suicida. L'episodio più significativo è il funerale: Zeno si reca al cimitero ma segue il corteo funebre sbagliato.
+
+Questa scena va letta in senso psicoanalitico come **atto mancato**: Zeno voleva andare al funerale di Guido, ma inconsciamente fa altro. L'errore rivela un desiderio rimosso: non voleva davvero partecipare, perché Guido era il rivale odiato e invidiato.
+
+### 12.1 Freud: Ego, Es, Super-io, lapsus e sogni
+
+La lezione collega l'atto mancato al modello freudiano:
+
+| Termine | Significato |
+|---------|-------------|
+| **Ego / Io** | Senso della realtà, coscienza delle proprie azioni |
+| **Es** | Parte profonda, inconscia, pulsionale, non controllata |
+| **Super-io** | Norme, regole, doveri introiettati da famiglia, scuola, società |
+| **Sintomo** | Segno di disequilibrio tra queste istanze |
+| **Atto mancato** | Si vuole fare una cosa ma se ne fa un'altra: emerge l'Es |
+| **Lapsus** | "Scivolone" della mente: si dice una cosa al posto di un'altra |
+| **Sogno** | Emersione libera dell'inconscio, interpretabile dall'analista |
+
+L'errore al funerale di Guido non è casuale: è la parte inconscia di Zeno che si manifesta.
+
+---
+
+## 13. Ultimi capitoli: amante, associazione commerciale, successo casuale
+
+Nel capitolo **La moglie e l'amante**, Zeno ha una relazione adultera con una donna che sostiene anche economicamente. Ma anche qui non è lui a scegliere davvero: alla fine è la donna ad abbandonarlo.
+
+Nel capitolo **Storia di un'associazione commerciale**, Zeno ottiene un buon successo economico, anche grazie alle circostanze legate alla Prima guerra mondiale. Il suo successo non nasce da una volontà eroica o da un talento superiore: nasce dal caso, da circostanze favorevoli, dalla sua capacità di adattarsi passivamente agli eventi.
+
+---
+
+## 14. Il finale: psicanalisi, civiltà malata e apocalisse cosmica
+
+L'ultimo capitolo si intitola **Psicanalisi**. Il romanzo si chiude tornando al tema con cui era iniziato: la cura psicoanalitica. La struttura è circolare.
+
+Zeno polemizza con la psicanalisi perché ha compreso che la sua malattia non è individuale. Non è solo lui a essere malato: è la **vita** a essere malata, è la **civiltà** a essere malata. Perciò la psicanalisi non può guarirlo; al massimo può fargli accettare la malattia.
+
+Zeno si dichiara guarito, ma questa guarigione è ambigua: coincide soprattutto con il rifiuto della psicanalisi, che vede patologia dove per Zeno c'è semplicemente vita.
+
+### 14.1 Vita, malattia e morte
+
+Nel finale Zeno afferma che la vita somiglia alla malattia, procede per crisi, miglioramenti e peggioramenti, ma a differenza delle altre malattie è **sempre mortale**. Non sopporta cure: volerla curare sarebbe assurdo come voler curare i buchi del corpo considerandoli ferite.
+
+La formula fondamentale è:
 
 ```mermaid
-mindmap
-  root((**Italo Svevo**))
-    **Vita**
-      Ettore Schmitz 1861–1928
-      Trieste città mitteleuropea
-      Autodidatta · impiegato · industriale
-      Joyce insegnante d inglese
-      Psicoanalisi di Freud come stimolo letterario
-      Vizio del fumo
-    **Scrittura**
-      Ossessione e bisogno
-      Terapia e autoanalisi
-      Scrittura di grado zero
-      Autodidatta non condizionato dai modelli
-    **Visione**
-      Malattia è la vita
-      Individuo vs società borghese
-      Successo · profitto · conformismo
-      Disagio · autoinganno · nevrosi
-    **Tre romanzi**
-      Una vita 1893
-        Alfonso Nitti · nihil · suicidio
-      Senilità 1898
-        Emilio Brentani · autoinganno · grandezza latente
-      La coscienza di Zeno 1923
-        Zeno Cosini · inetto ironico · caso fortunato
-    **Stile**
-      Monologo interiore
-      Discorso indiretto libero
-      Prima persona in CdZ
-      Narratore inaffidabile
-      Blocchi tematici non cronologici
-      Tono ironico
+flowchart LR
+    A["Vita"] --> B["Malattia"]
+    B --> C["Nessuna cura individuale"]
+    C --> D["Unica salute assoluta: morte"]
 ```
 
+### 14.2 Civiltà malata, alienazione e capitalismo
+
+Zeno allarga il discorso dall'individuo alla civiltà. La **vita attuale è inquinata alle radici**: l'uomo ha preso il posto di alberi e animali, ha inquinato aria e spazio, ha creato sovraffollamento, urbanesimo, mancanza di respiro.
+
+La società moderna produce **alienazione**: l'individuo è estraneo a se stesso e alla società. La spirale produttivistica, la società borghese e il capitalismo nascente allontanano l'uomo dalla sua essenza.
+
+> [!note] Dalla lezione
+> La parola chiave per i personaggi del Novecento è **alienazione**: estraneità dell'individuo rispetto alla società e a se stesso.
+
+### 14.3 Animali e uomo occhialuto
+
+Gli animali si evolvono adattando il proprio organismo all'ambiente: la rondinella sviluppa le ali, la talpa si interra, il cavallo trasforma il piede. Il loro progresso non lede la salute.
+
+L'uomo, invece, è **occhialuto**: per orientarsi nella realtà ha bisogno di strumenti fuori di sé. Non potenzia il proprio organismo, ma inventa **ordigni** esterni al corpo.
+
+All'inizio gli ordigni sono prolungamenti del braccio, come bastoni o clave. Poi non hanno più alcun rapporto con l'arto: basta un pulsante, un comando, un meccanismo distante. L'uomo diventa più furbo ma anche più debole; la sua furbizia cresce in proporzione alla sua debolezza.
+
+### 14.4 Ordigno, apocalisse, nebulosa
+
+La parola **ordigno** è decisiva perché preannuncia la catastrofe. Sotto la legge del possessore del maggior numero di ordigni prosperano malattie e ammalati: la selezione naturale viene sostituita dalla potenza tecnica.
+
+Zeno immagina che, quando i gas velenosi non basteranno più, un uomo come tutti gli altri ma "un po' più ammalato" inventerà o userà un esplosivo incomparabile e lo collocherà al centro della terra. L'esplosione sarà enorme e nessuno la udrà; la terra tornerà allo stato di **nebulosa**, priva di parassiti e malattie.
+
+Questa immagine anticipa in modo impressionante le paure novecentesche dell'atomica, delle dittature e dell'uomo che può decidere le sorti del mondo attraverso la tecnica.
+
+### 14.5 Nichilismo o palingenesi
+
+Il finale è ambiguo:
+
+| Interpretazione | Significato |
+|-----------------|-------------|
+| **Nichilismo** | La distruzione è definitiva; se la vita è malattia, la morte è l'unica salute |
+| **Palingenesi** | Dopo l'azzeramento cosmico può esserci una rinascita, una nuova origine |
+
+La parola finale del romanzo è **"malattie"**. Non è casuale: tutta *La coscienza di Zeno* arriva lì, alla diagnosi della vita e della civiltà come malattia.
+
+> [!note] Dalla lezione
+> Il tono dell'ultima pagina cambia: non è più soltanto ironico, ma ragionativo, serio, solenne. Il romanzo si chiude su un'apocalisse cosmica che può essere letta come distruzione nichilistica o come possibile palingenesi.
+
 ---
 
-## 8. Cronologia essenziale
+## 15. Quadro dei tre romanzi
+
+```mermaid
+flowchart TD
+    A["*Una vita* (1893)<br/>Alfonso Nitti"] --> A1["Inetto tragico<br/>ipertrofia della coscienza<br/>suicidio"]
+    B["*Senilità* (1898)<br/>Emilio Brentani"] --> B1["Inetto contemplatore<br/>autoinganno<br/>fuga nell'immaginazione"]
+    C["*La coscienza di Zeno* (1923)<br/>Zeno Cosini"] --> C1["Inetto ironico<br/>narratore inaffidabile<br/>caso favorevole"]
+    A1 --> D["Malattia dell'uomo"]
+    B1 --> D
+    C1 --> D
+    D --> E["La vita è malattia"]
+```
+
+| Romanzo | Protagonista | Meccanismo | Esito |
+|---------|--------------|------------|-------|
+| *Una vita* | Alfonso Nitti | Non ha mani per afferrare il reale; ha solo voli poetici | Suicidio |
+| *Senilità* | Emilio Brentani | Autoinganno, grandezza latente, senilità interiore | Fuga nel sogno |
+| *La coscienza di Zeno* | Zeno Cosini | Nevrosi, ironia, caso, narratore inaffidabile | Successo paradossale e diagnosi cosmica della malattia |
+
+---
+
+## 16. Cronologia essenziale
 
 | Anno | Evento / Opera |
-|------|---------------|
+|------|----------------|
 | **1861** | Nasce Ettore Schmitz a Trieste |
-| **1873** | Si trasferisce in Germania, studia in collegio |
-| **1878** | Ritorna a Trieste (~17 anni); vocazione letteraria già forte |
-| **1893** | Pubblica *Una vita* (fiasco) con lo pseudonimo Italo Svevo |
-| **1898** | Pubblica *Senilità* (anch'essa ignorata) |
-| **~1900** | Silenzio editoriale di venticinque anni; continua a scrivere privatamente |
-| **1900** | Nasce simbolicamente la psicoanalisi (*L'interpretazione dei sogni* di Freud) |
-| **1900s** | Conosce James Joyce come insegnante d'inglese; scopre Freud |
-| **1923** | Pubblica *La coscienza di Zeno*, riconosciuta da Joyce; notorietà internazionale |
-| **1928** | Muore per complicazioni da fumo dopo un incidente d'auto |
+| **1873** | Studia in Germania |
+| **1878** | Ritorna a Trieste |
+| **1893** | Pubblica *Una vita* |
+| **1898** | Pubblica *Senilità* |
+| **1900** | *L'interpretazione dei sogni* di Freud inaugura simbolicamente la psicoanalisi |
+| **Primo Novecento** | Conosce Joyce e si interessa a Freud |
+| **1923** | Pubblica *La coscienza di Zeno* |
+| **1928** | Muore dopo incidente d'auto, con complicazioni legate al fumo |
 
 ---
 
-*Fonti: lezione del 13/04/2026 — Lingua e letteratura italiana*
+## 17. Fonti e testi da portare
+
+Testi centrali emersi dalle lezioni:
+
+- *Una vita*, **"Con le ali di gabbiano ci si nasce"**
+- *La coscienza di Zeno*, **Prefazione**
+- *La coscienza di Zeno*, **Preambolo**
+- *La coscienza di Zeno*, **Il fumo / Ultima sigaretta**
+- *La coscienza di Zeno*, **La morte di mio padre / schiaffo del padre**
+- *La coscienza di Zeno*, **La proposta di matrimonio** da leggere sul libro
+- *La coscienza di Zeno*, **finale / Psicanalisi**
+
+---
+
+*Fonti: lezioni del 13/04/2026, 16/04/2026 e parte Svevo del 20/04/2026 — Lingua e letteratura italiana*

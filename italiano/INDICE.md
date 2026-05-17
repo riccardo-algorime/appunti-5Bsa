@@ -160,9 +160,9 @@ Resta da integrare solo ciò che non ha ancora una vera lezione schematizzata:
 | Svevo | mega-schema | 477 | 28 666 | 28 918 |
 | Svevo | riassunto | 99 | 8 129 | 8 210 |
 | Svevo | ripasso | 193 | 7 766 | 7 820 |
-| Pirandello | mega-schema | 454 | 23 320 | 23 531 |
-| Pirandello | riassunto | 103 | 10 018 | 10 134 |
-| Pirandello | ripasso | 228 | 8 290 | 8 367 |
+| Pirandello | mega-schema | 746 | 51 432 | 51 969 |
+| Pirandello | riassunto | 129 | 18 310 | 18 508 |
+| Pirandello | ripasso | 294 | 18 611 | 18 828 |
 | Ungaretti | mega-schema | 461 | 25 971 | 26 141 |
 | Ungaretti | riassunto | 99 | 7 623 | 7 679 |
 | Ungaretti | ripasso | 172 | 7 953 | 8 002 |

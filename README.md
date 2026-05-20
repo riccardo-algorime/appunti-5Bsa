@@ -16,7 +16,7 @@ Raccolta di appunti e materiali scolastici.
 | `italiano/` | 12 cartelle, 2 file | `INDICE.md` |
 | `mate/` | 0 cartelle, 0 file | `-` |
 | `pcto/` | 5 cartelle, 2 file | `appunti.md` |
-| `storia/` | 1 cartelle, 0 file | `-` |
+| `storia/` | 1 cartelle, 2 file | `STORIA_CAP_13_14_15_richmarkdown_mermaid.md` |
 
 ## Tree rapido
 
@@ -186,30 +186,32 @@ Raccolta di appunti e materiali scolastici.
 │   └── relazioni_pcto.md
 ├── README.md
 └── storia/
-    └── materiale/
-        ├── STORIA-3.10.md
-        ├── STORIA-3.10.pdf
-        ├── STORIA-3.11.md
-        ├── STORIA-3.11.pdf
-        ├── STORIA-3.12.md
-        ├── STORIA-3.12.pdf
-        ├── STORIA-3.1.md
-        ├── STORIA-3.1.pdf
-        ├── STORIA-3.2.md
-        ├── STORIA-3.2.pdf
-        ├── STORIA-3.3.md
-        ├── STORIA-3.3.pdf
-        ├── STORIA-3.4.md
-        ├── STORIA-3.4.pdf
-        ├── STORIA-3.5.md
-        ├── STORIA-3.5.pdf
-        ├── STORIA-3.6.md
-        ├── STORIA-3.6.pdf
-        ├── STORIA-3.7.md
-        ├── STORIA-3.8.md
-        ├── STORIA-3.9.md
-        ├── STORIA-3.9.pdf
-        └── studio/
+    ├── materiale/
+    │   ├── STORIA-3.10.md
+    │   ├── STORIA-3.10.pdf
+    │   ├── STORIA-3.11.md
+    │   ├── STORIA-3.11.pdf
+    │   ├── STORIA-3.12.md
+    │   ├── STORIA-3.12.pdf
+    │   ├── STORIA-3.1.md
+    │   ├── STORIA-3.1.pdf
+    │   ├── STORIA-3.2.md
+    │   ├── STORIA-3.2.pdf
+    │   ├── STORIA-3.3.md
+    │   ├── STORIA-3.3.pdf
+    │   ├── STORIA-3.4.md
+    │   ├── STORIA-3.4.pdf
+    │   ├── STORIA-3.5.md
+    │   ├── STORIA-3.5.pdf
+    │   ├── STORIA-3.6.md
+    │   ├── STORIA-3.6.pdf
+    │   ├── STORIA-3.7.md
+    │   ├── STORIA-3.8.md
+    │   ├── STORIA-3.9.md
+    │   ├── STORIA-3.9.pdf
+    │   └── studio/
+    ├── STORIA_CAP_13_14_15_richmarkdown_mermaid.md
+    └── STORIA_CAP_13_14_15_sottolineato_mermaid_RENDERIZZATO.pdf
 ```
 
 ## Come usarlo

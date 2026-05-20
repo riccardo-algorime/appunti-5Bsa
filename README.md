@@ -16,7 +16,7 @@ Raccolta di appunti e materiali scolastici.
 | `italiano/` | 12 cartelle, 2 file | `INDICE.md` |
 | `mate/` | 0 cartelle, 0 file | `-` |
 | `pcto/` | 5 cartelle, 2 file | `appunti.md` |
-| `storia/` | 1 cartelle, 2 file | `STORIA_CAP_13_14_15_richmarkdown_mermaid.md` |
+| `storia/` | 1 cartelle, 4 file | `STORIA_CAP_13_14_15_richmarkdown_mermaid.md` |
 
 ## Tree rapido
 
@@ -211,7 +211,9 @@ Raccolta di appunti e materiali scolastici.
     │   ├── STORIA-3.9.pdf
     │   └── studio/
     ├── STORIA_CAP_13_14_15_richmarkdown_mermaid.md
-    └── STORIA_CAP_13_14_15_sottolineato_mermaid_RENDERIZZATO.pdf
+    ├── STORIA_CAP_13_14_15_sottolineato_mermaid_RENDERIZZATO.pdf
+    ├── v3_carte_sto_presentazione_c13.pptx.pdf
+    └── v3_carte_sto_presentazione_c14.pptx.pdf
 ```
 
 ## Come usarlo

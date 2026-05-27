@@ -13,7 +13,7 @@ Raccolta di appunti e materiali scolastici.
 |---|---|---|
 | `chimica/` | 2 cartelle, 0 file | `-` |
 | `fisica/` | 1 cartelle, 0 file | `-` |
-| `italiano/` | 12 cartelle, 2 file | `INDICE.md` |
+| `italiano/` | 12 cartelle, 3 file | `INDICE.md` |
 | `mate/` | 0 cartelle, 0 file | `-` |
 | `pcto/` | 5 cartelle, 2 file | `appunti.md` |
 | `storia/` | 1 cartelle, 8 file | `-` |
@@ -68,6 +68,7 @@ Raccolta di appunti e materiali scolastici.
 │   │   ├── mega-schema.md
 │   │   ├── riassunto.md
 │   │   └── ripasso.md
+│   ├── INDICE-INTERROGAZIONI-MAGGIO.md
 │   ├── INDICE.md
 │   ├── lezioni/
 │   │   ├── 01-12-25/

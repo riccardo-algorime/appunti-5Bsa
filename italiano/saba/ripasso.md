@@ -137,9 +137,11 @@ Frase pronta:
 | **"Trite parole"** | Parole logore, consumate, già usate dalla tradizione |
 | **"Che non uno osava"** | I poeti del primo Novecento preferiscono avanguardie, sperimentazione, dannunzianesimo |
 | **Rima fiore/amore** | Antica perché nasce con la tradizione poetica; difficile perché quasi impossibile da rendere nuova e autentica |
+| **Amai / amo** | Ripetizione con valore di anafora incompleta e poliptoto; passaggio dal passato al presente |
 | **"Verità che giace al fondo"** | Verità profonda dell'inconscio |
 | **Sogno obliato** | La verità interiore è come un sogno dimenticato |
 | **Dolore** | Solo il dolore riscopre questa verità e la avvicina alla coscienza |
+| **"Te che mi ascolti"** | Può essere Lina, una musa o il lettore |
 | **"Buona carta"** | La poesia stessa: strumento di conoscenza e comunicazione |
 
 Frase pronta:
@@ -165,9 +167,11 @@ Frase pronta:
 
 > In *A mia moglie* domina la **tenerezza**, non l'eros dannunziano: Lina è lodata come creatura semplice, domestica, naturale, quasi sacra.
 
+Stile da ricordare: andamento prosaico, lessico semplice con qualche parola letteraria come **pecchia**, frequenti anastrofi e ripresa di "**Tu sei come**".
+
 ### *Trieste*
 
-Da ricordare: città amata e odiata, rifugio e prigione; formula della **scontrosa grazia**. Trieste dà a Saba un **cantuccio**, ma riflette anche le sue scissioni interiori.
+Da ricordare: città amata e odiata, rifugio e prigione; formula della **scontrosa grazia**. Trieste dà a Saba un **cantuccio**, ma riflette anche le sue scissioni interiori. L'**aria natia** è inquieta e tormentosa; la vita "**pensosa e schiva**" richiama Petrarca e l'idea di una solitudine meditativa.
 
 ### *Città vecchia*
 
@@ -179,6 +183,7 @@ Da ricordare: città amata e odiata, rifugio e prigione; formula della **scontro
 | **Infinito nell'umiltà** | Nel basso e nel povero Saba trova una dimensione universale |
 | **Puro / turpe** | Il pensiero si fa più puro dove la via è più degradata |
 | **Umili** | Creature della vita e del dolore, simili al poeta |
+| **Signore** | Dignità creaturale degli umili, non confessione religiosa tradizionale |
 
 Frase pronta:
 

@@ -55,7 +55,7 @@ Questa idea è spiegata nello scritto ***Quello che resta da fare ai poeti***, d
 
 Questa semplicità però è solo apparente. Saba usa spesso forme tradizionali, come il sonetto, e recupera parole alte o desuete dentro un discorso limpido. La sua modernità non consiste nella rottura formale, ma nello scavo interiore: parla di trauma, inconscio, desiderio, dolore.
 
-La poesia *Amai* è una dichiarazione di poetica: Saba dice di amare le "trite parole", cioè parole già usate e consumate, che nel Novecento molti poeti non osavano più usare. Ama perfino la rima più tradizionale, **fiore/amore**: è la più antica perché appartiene alle origini della poesia italiana, ma anche la più difficile perché è ormai quasi impossibile usarla in modo autentico. La sua poesia non cerca l'effetto nuovo, ma la **verità che giace al fondo**, cioè la verità dell'inconscio, nascosta come un sogno dimenticato. Questa verità si avvicina alla coscienza soprattutto attraverso il **dolore**. Alla fine di *Amai*, la "buona carta" è la poesia stessa: lo strumento con cui Saba conosce se stesso e comunica agli altri una verità interiore.
+La poesia *Amai* è una dichiarazione di poetica: Saba dice di amare le "trite parole", cioè parole già usate e consumate, che nel Novecento molti poeti non osavano più usare. Ama perfino la rima più tradizionale, **fiore/amore**: è la più antica perché appartiene alle origini della poesia italiana, fino allo Stilnovo, ma anche la più difficile perché è ormai quasi impossibile usarla in modo autentico. La ripetizione di "Amai" e il passaggio ad "Amo" creano una dichiarazione personale che arriva fino al presente e a chi ascolta. La sua poesia non cerca l'effetto nuovo, ma la **verità che giace al fondo**, cioè la verità dell'inconscio, nascosta come un sogno dimenticato. Questa verità si avvicina alla coscienza soprattutto attraverso il **dolore**. Alla fine di *Amai*, la "buona carta" è la poesia stessa: lo strumento con cui Saba conosce se stesso e comunica agli altri una verità interiore.
 
 ---
 
@@ -67,7 +67,7 @@ L'opera fondamentale di Saba è *Il Canzoniere*. Il titolo richiama Petrarca e q
 
 I temi del *Canzoniere* restano quasi immobili: i fanciulli di Trieste, le vie solitarie, i caffè del porto, le donne amate e soprattutto Lina. Questa immobilità nasce dalla visione malinconica della vita: l'uomo spera un domani migliore, ma sa che il dolore ritorna. Qui si sente il legame con **Leopardi**, mentre nella scelta delle realtà umili torna il legame con **Pascoli**.
 
-*Storia e cronistoria del Canzoniere*, del **1948**, è importante perché Saba vi compie un'**autoesegesi**: commenta se stesso, racconta aneddoti biografici e spiega la nascita di alcune liriche. Per esempio, a proposito di *A mia moglie*, racconta che la poesia nacque quasi di getto mentre Lina era uscita e una cagna gli si era avvicinata.
+*Storia e cronistoria del Canzoniere*, del **1948**, è importante perché Saba vi compie un'**autoesegesi**: commenta se stesso, racconta aneddoti biografici e spiega la nascita di alcune liriche. Per esempio, a proposito di *A mia moglie*, racconta che la poesia nacque quasi di getto mentre Lina era uscita e una cagna gli si era avvicinata. Quando Lina la ascoltò, rimase male per i paragoni animali; Saba invece li intendeva come elogio della creaturalità e della semplicità.
 
 ---
 
@@ -77,11 +77,11 @@ I temi del *Canzoniere* restano quasi immobili: i fanciulli di Trieste, le vie s
 
 **Mio padre è stato per me l'assassino** unisce forma tradizionale e contenuto moderno. È un sonetto, ma parla di padre assente, trauma, inconscio, scissione familiare. Il verso finale, "eran due razze in antica tenzone", indica il conflitto tra le due origini del poeta: madre e padre, ebraismo e cristianesimo, severità e leggerezza.
 
-**A mia moglie** va ricordata per i paragoni animali. Saba paragona Lina a una bianca pollastra, una gravida giovenca, una lunga cagna, una pavida coniglia, una rondine, una formica e un'ape. Non vuole offenderla, ma elogiare il vivente nella sua semplicità: gli animali sono creature umili, naturali, vicine a una dimensione quasi sacra. Il sentimento dominante è la **tenerezza**, non l'eros dannunziano. Lina appare insieme domestica, materna, fragile, gelosa, fedele, operosa e capace di dare al poeta una nuova primavera.
+**A mia moglie** va ricordata per i paragoni animali. Saba paragona Lina a una bianca pollastra, una gravida giovenca, una lunga cagna, una pavida coniglia, una rondine, una formica e un'ape. Non vuole offenderla, ma elogiare il vivente nella sua semplicità: gli animali sono creature umili, naturali, vicine a una dimensione quasi sacra. La poesia è quasi religiosa ma in senso laico, ed è anche infantile/proletaria per la sua semplicità. Il sentimento dominante è la **tenerezza**, non l'eros dannunziano. Lina appare insieme domestica, materna, fragile, gelosa, fedele, operosa e capace di dare al poeta una nuova primavera.
 
-**Trieste** va collegata alla formula della **scontrosa grazia**: la città è amata e respinta, rifugio e limite. È un amore inquieto, non consolatorio, perché la città dà al poeta un cantuccio ma riflette anche le sue scissioni interiori.
+**Trieste** va collegata alla formula della **scontrosa grazia**: la città è amata e respinta, rifugio e limite. È un amore inquieto, non consolatorio, perché la città dà al poeta un cantuccio ma riflette anche le sue scissioni interiori. L'"aria natia" è tormentosa, e la chiusura sulla vita "pensosa e schiva" richiama un modello petrarchesco di solitudine meditativa.
 
-**Città vecchia** mostra la Trieste più povera e degradata, vicino al porto: osterie, lupanari, vecchi, prostitute, marinai, soldati, giovani folli d'amore. In questa umanità marginale Saba trova "**l'infinito nell'umiltà**": proprio dove la via è più turpe, il suo pensiero si fa più puro. Gli umili sono creature della vita e del dolore, e il poeta sente di appartenere alla loro stessa umanità.
+**Città vecchia** mostra la Trieste più povera e degradata, vicino al porto: osterie, lupanari, vecchi, prostitute, marinai, soldati, giovani folli d'amore. Uomini e merci diventano il "detrito" del porto, cioè scarti materiali e umani. In questa umanità marginale Saba trova "**l'infinito nell'umiltà**": proprio dove la via è più turpe, il suo pensiero si fa più puro. Gli umili sono creature della vita e del dolore, e il "Signore" che si agita in loro indica una dignità creaturale, non una confessione religiosa tradizionale.
 
 ---
 

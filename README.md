@@ -22,18 +22,16 @@ Raccolta di appunti e materiali scolastici.
 
 ```text
 .
-├── CONTRIBUTING.md
-├── README.md
 ├── chimica/
 │   ├── interrogazione-aprile/
 │   │   ├── B1-raw.md
 │   │   ├── B1-ripasso.md
 │   │   ├── B1-studio.md
+│   │   ├── B2B4-ripasso.md
+│   │   ├── B2B4-studio.md
 │   │   ├── B2-raw.md
 │   │   ├── B2-ripasso.md
 │   │   ├── B2-studio.md
-│   │   ├── B2B4-ripasso.md
-│   │   ├── B2B4-studio.md
 │   │   ├── B4-raw.md
 │   │   ├── B4-ripasso.md
 │   │   └── B4-studio.md
@@ -46,18 +44,18 @@ Raccolta di appunti e materiali scolastici.
 │       ├── cap-12-dinamica-placche/
 │       ├── cap-9-interno-terra/
 │       └── indice.md
+├── CONTRIBUTING.md
 ├── fisica/
 │   └── materiali/
-│       ├── __pycache__/
 │       ├── appunti-bea.md
 │       ├── appunti-verifica-fisica-compatto.md
 │       ├── appunti-verifica-fisica.md
+│       ├── __pycache__/
 │       ├── render_calc_jpgs.py
 │       ├── teoria-verifica-fisica-orale.md
 │       ├── trascrizione-app-giulia.md
 │       └── trascrizione-lezioni/
 ├── italiano/
-│   ├── INDICE.md
 │   ├── dannunzio/
 │   │   ├── mega-schema.md
 │   │   ├── riassunto.md
@@ -70,6 +68,7 @@ Raccolta di appunti e materiali scolastici.
 │   │   ├── mega-schema.md
 │   │   ├── riassunto.md
 │   │   └── ripasso.md
+│   ├── INDICE.md
 │   ├── lezioni/
 │   │   ├── 01-12-25/
 │   │   ├── 02-02-26/
@@ -185,20 +184,20 @@ Raccolta di appunti e materiali scolastici.
 │   │   ├── quinta/
 │   │   └── terza/
 │   └── relazioni_pcto.md
+├── README.md
 └── storia/
     ├── 13.png
     ├── 14.png
     ├── 15.png
-    ├── STORIA_CAP_13_14_15_sottolineato_mermaid_RENDERIZZATO.pdf
     ├── materiale/
-    │   ├── STORIA-3.1.md
-    │   ├── STORIA-3.1.pdf
     │   ├── STORIA-3.10.md
     │   ├── STORIA-3.10.pdf
     │   ├── STORIA-3.11.md
     │   ├── STORIA-3.11.pdf
     │   ├── STORIA-3.12.md
     │   ├── STORIA-3.12.pdf
+    │   ├── STORIA-3.1.md
+    │   ├── STORIA-3.1.pdf
     │   ├── STORIA-3.2.md
     │   ├── STORIA-3.2.pdf
     │   ├── STORIA-3.3.md
@@ -214,6 +213,7 @@ Raccolta di appunti e materiali scolastici.
     │   ├── STORIA-3.9.md
     │   ├── STORIA-3.9.pdf
     │   └── studio/
+    ├── STORIA_CAP_13_14_15_sottolineato_mermaid_RENDERIZZATO.pdf
     ├── tutto.png
     ├── v3_carte_sto_presentazione_c13.pptx.pdf
     ├── v3_carte_sto_presentazione_c14.pptx.pdf

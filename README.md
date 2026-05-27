@@ -68,7 +68,8 @@ Raccolta di appunti e materiali scolastici.
 │   │   ├── mega-schema.md
 │   │   ├── riassunto.md
 │   │   ├── riassunto.pdf
-│   │   └── ripasso.md
+│   │   ├── ripasso.md
+│   │   └── schema-mermaid.md
 │   ├── INDICE-INTERROGAZIONI-MAGGIO.md
 │   ├── INDICE.md
 │   ├── lezioni/
@@ -149,29 +150,34 @@ Raccolta di appunti e materiali scolastici.
 │   │   ├── mega-schema.md
 │   │   ├── riassunto.md
 │   │   ├── riassunto.pdf
-│   │   └── ripasso.md
+│   │   ├── ripasso.md
+│   │   └── schema-mermaid.md
 │   ├── registro-lezioni.md
 │   ├── riassunti-interrogazioni-maggio.pdf
 │   ├── romanzo-novecento/
 │   │   ├── mega-schema.md
 │   │   ├── riassunto.md
 │   │   ├── riassunto.pdf
-│   │   └── ripasso.md
+│   │   ├── ripasso.md
+│   │   └── schema-mermaid.md
 │   ├── saba/
 │   │   ├── mega-schema.md
 │   │   ├── riassunto.md
 │   │   ├── riassunto.pdf
-│   │   └── ripasso.md
+│   │   ├── ripasso.md
+│   │   └── schema-mermaid.md
 │   ├── svevo/
 │   │   ├── mega-schema.md
 │   │   ├── riassunto.md
 │   │   ├── riassunto.pdf
-│   │   └── ripasso.md
+│   │   ├── ripasso.md
+│   │   └── schema-mermaid.md
 │   └── ungaretti/
 │       ├── mega-schema.md
 │       ├── riassunto.md
 │       ├── riassunto.pdf
-│       └── ripasso.md
+│       ├── ripasso.md
+│       └── schema-mermaid.md
 ├── mate/
 ├── pcto/
 │   ├── 06-05-20/

@@ -4,6 +4,8 @@
 > **Campo:** dal Futurismo a Saba, compresi.
 > **Formato consigliato:** partire dai riassunti per una ripresa discorsiva, poi usare i ripassi solo per fissare collegamenti e mappe finali.
 
+> **PDF unico:** [riassunti-interrogazioni-maggio.pdf](riassunti-interrogazioni-maggio.pdf)
+
 ---
 
 ## Percorso di studio
@@ -27,14 +29,14 @@ flowchart LR
 
 ## Link rapidi ai riassunti
 
-| Ordine | Argomento | Riassunto | Perché conta |
-|---:|-----------|-----------|--------------|
-| 1 | **Il Futurismo** | [futurismo/riassunto.md](futurismo/riassunto.md) | Serve per capire avanguardia, modernità, macchina, velocità, rottura con il passato e sperimentazione formale. |
-| 2 | **Il romanzo del Novecento** | [romanzo-novecento/riassunto.md](romanzo-novecento/riassunto.md) | Introduce soggettività, tempo interiore, narratore inattendibile, personaggio in crisi e confronto con Proust, Kafka e Joyce. |
-| 3 | **Italo Svevo** | [svevo/riassunto.md](svevo/riassunto.md) | Autore dell'inetto, della coscienza ipertrofica, della malattia come chiave della vita e del romanzo come autoanalisi. |
-| 4 | **Luigi Pirandello** | [pirandello/riassunto.md](pirandello/riassunto.md) | Centrale per identità frantumata, maschere, vita e forma, umorismo, relativismo e teatro nel teatro. |
-| 5 | **Giuseppe Ungaretti** | [ungaretti/riassunto.md](ungaretti/riassunto.md) | Porta alla poesia della parola essenziale, della guerra, del segreto, dell'analogia e della fratellanza. |
-| 6 | **Umberto Saba** | [saba/riassunto.md](saba/riassunto.md) | Chiude il percorso con poesia onesta, autobiografia, trauma familiare, Trieste e ricerca della verità interiore. |
+| Ordine | Argomento | Markdown | PDF | Perché conta |
+|---:|-----------|----------|-----|--------------|
+| 1 | **Il Futurismo** | [futurismo/riassunto.md](futurismo/riassunto.md) | [futurismo/riassunto.pdf](futurismo/riassunto.pdf) | Serve per capire avanguardia, modernità, macchina, velocità, rottura con il passato e sperimentazione formale. |
+| 2 | **Il romanzo del Novecento** | [romanzo-novecento/riassunto.md](romanzo-novecento/riassunto.md) | [romanzo-novecento/riassunto.pdf](romanzo-novecento/riassunto.pdf) | Introduce soggettività, tempo interiore, narratore inattendibile, personaggio in crisi e confronto con Proust, Kafka e Joyce. |
+| 3 | **Italo Svevo** | [svevo/riassunto.md](svevo/riassunto.md) | [svevo/riassunto.pdf](svevo/riassunto.pdf) | Autore dell'inetto, della coscienza ipertrofica, della malattia come chiave della vita e del romanzo come autoanalisi. |
+| 4 | **Luigi Pirandello** | [pirandello/riassunto.md](pirandello/riassunto.md) | [pirandello/riassunto.pdf](pirandello/riassunto.pdf) | Centrale per identità frantumata, maschere, vita e forma, umorismo, relativismo e teatro nel teatro. |
+| 5 | **Giuseppe Ungaretti** | [ungaretti/riassunto.md](ungaretti/riassunto.md) | [ungaretti/riassunto.pdf](ungaretti/riassunto.pdf) | Porta alla poesia della parola essenziale, della guerra, del segreto, dell'analogia e della fratellanza. |
+| 6 | **Umberto Saba** | [saba/riassunto.md](saba/riassunto.md) | [saba/riassunto.pdf](saba/riassunto.pdf) | Chiude il percorso con poesia onesta, autobiografia, trauma familiare, Trieste e ricerca della verità interiore. |
 
 ---
 
@@ -57,4 +59,3 @@ Il **romanzo del Novecento** prepara Svevo e Pirandello: non conta più racconta
 3. Per gli autori, riduci la biografia a ciò che spiega opere e poetica.
 4. Prepara almeno un collegamento in avanti e uno all'indietro.
 5. Chiudi con una frase sintetica del tipo: "questo autore/argomento è importante perché...".
-

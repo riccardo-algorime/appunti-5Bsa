@@ -13,7 +13,7 @@ Raccolta di appunti e materiali scolastici.
 |---|---|---|
 | `chimica/` | 2 cartelle, 0 file | `-` |
 | `fisica/` | 1 cartelle, 0 file | `-` |
-| `italiano/` | 12 cartelle, 3 file | `INDICE.md` |
+| `italiano/` | 12 cartelle, 4 file | `INDICE.md` |
 | `mate/` | 0 cartelle, 0 file | `-` |
 | `pcto/` | 5 cartelle, 2 file | `appunti.md` |
 | `storia/` | 1 cartelle, 8 file | `-` |
@@ -67,6 +67,7 @@ Raccolta di appunti e materiali scolastici.
 │   ├── futurismo/
 │   │   ├── mega-schema.md
 │   │   ├── riassunto.md
+│   │   ├── riassunto.pdf
 │   │   └── ripasso.md
 │   ├── INDICE-INTERROGAZIONI-MAGGIO.md
 │   ├── INDICE.md
@@ -147,23 +148,29 @@ Raccolta di appunti e materiali scolastici.
 │   ├── pirandello/
 │   │   ├── mega-schema.md
 │   │   ├── riassunto.md
+│   │   ├── riassunto.pdf
 │   │   └── ripasso.md
 │   ├── registro-lezioni.md
+│   ├── riassunti-interrogazioni-maggio.pdf
 │   ├── romanzo-novecento/
 │   │   ├── mega-schema.md
 │   │   ├── riassunto.md
+│   │   ├── riassunto.pdf
 │   │   └── ripasso.md
 │   ├── saba/
 │   │   ├── mega-schema.md
 │   │   ├── riassunto.md
+│   │   ├── riassunto.pdf
 │   │   └── ripasso.md
 │   ├── svevo/
 │   │   ├── mega-schema.md
 │   │   ├── riassunto.md
+│   │   ├── riassunto.pdf
 │   │   └── ripasso.md
 │   └── ungaretti/
 │       ├── mega-schema.md
 │       ├── riassunto.md
+│       ├── riassunto.pdf
 │       └── ripasso.md
 ├── mate/
 ├── pcto/

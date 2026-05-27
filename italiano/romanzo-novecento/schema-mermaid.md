@@ -1,116 +1,26 @@
-# Schema mentale stampabile — Romanzo del Novecento
+# Schema prova — Romanzo del Novecento
 
-Schema unico e compatto, disposto nello stesso ordine del `riassunto.md`.
+Formato pensato per stampa in bianco e nero: ordine verticale, poche diramazioni, lettura dall'alto verso il basso.
 
 ```mermaid
-mindmap
-  root((Romanzo del Novecento))
-    Coordinate
-      Crisi del Positivismo
-      Primo Novecento europeo
-      Bergson
-        Tempo come durata
-      Freud
-        Psicanalisi
-      Autori europei
-        Proust
-        Kafka
-        Joyce
-      Autori italiani
-        Svevo
-        Pirandello
-      Genere italiano
-        Romanzo psicologico
-    1 Rivoluzione del romanzo
-      Modello ottocentesco
-        Narratore onnisciente
-        Tempo cronologico
-        Personaggio saldo
-        Realta ordinabile
-      Innovazioni novecentesche
-        Punto di vista soggettivo
-          Coscienza del personaggio
-          Narratore inattendibile
-        Tempo interiorizzato
-          Memoria
-          Durata
-          Piani temporali sovrapposti
-        Personaggio in fieri
-          Ambiguo
-          Incerto
-          Isolato
-          Identita problematica
-      Pirandello
-        Relativismo gnoseologico
-    2 Proust
-      Madeleine
-        Dalla parte di Swann
-        Tazza di te
-        Sapore
-      Memoria involontaria
-        Non cercata
-        Sensoriale
-        Riaffiora il passato
-      Valore del testo
-        Verita dentro il soggetto
-        Odore e sapore persistono
-        Combray ritorna
-      Tempo
-        Presente e passato si fondono
-        Durata bergsoniana
-    3 Kafka
-      La metamorfosi
-        Gregor Samsa
-        Insetto
-        Camera quotidiana
-      Straniamento
-        Assurdo trattato come normale
-        Effetto di spaesamento
-      Significati
-        Famiglia esclude
-        Rapporto padre figlio
-        Lettera al padre
-        Freud
-        Alienazione moderna
-        Intellettuale senza ruolo
-    4 Tecniche narrative
-      Monologo interiore
-        Prima persona
-        Pensiero organizzato
-        Sintassi rispettata
-        Svevo
-        Preambolo di Zeno
-      Flusso di coscienza
-        Pensiero spontaneo
-        Associazioni libere
-        Sintassi disgregata
-        Joyce
-        Ulisse
-      Errore da evitare
-        Zeno non e flusso di coscienza
-    5 Joyce
-      Ulisse 1922
-      Coscienza come materia narrativa
-      Salti mentali
-      Assenza di filtro ordinatore
-    6 Svevo e Zeno
-      La coscienza di Zeno 1923
-      Punto di vista ristretto
-      Narratore inattendibile
-      Tempo per nuclei tematici
-      Forma autobiografica
-      Psicanalisi letteraria
-      Vita come malattia
-    7 Quadro finale
-      Fine narratore onnisciente
-      Fine tempo lineare
-      Fine identita compatta
-      Coscienza soggettiva
-      Tempo interiore
-      Identita incerta
-    8 Date e opere
-      1913 Proust
-      1916 Kafka
-      1922 Joyce
-      1923 Svevo
+flowchart TB
+    A["ROMANZO DEL NOVECENTO<br/>Crisi del modello ottocentesco e nascita del romanzo psicologico"]
+
+    A --> B["0. Coordinate essenziali<br/>Contesto: primo Novecento europeo, crisi del Positivismo<br/>Influenze: Bergson tempo come durata; Freud psicanalisi<br/>Europa: Proust, Kafka, Joyce<br/>Italia: Svevo, Pirandello<br/>Genere italiano: romanzo psicologico"]
+
+    B --> C["1. Dall'Ottocento al Novecento<br/>Modello ottocentesco: narratore onnisciente, tempo lineare, personaggio saldo<br/>Innovazione 1: punto di vista soggettivo e narratore inattendibile<br/>Innovazione 2: tempo interiorizzato, memoria, durata<br/>Innovazione 3: personaggio in fieri, ambiguo, isolato<br/>Esito: crisi della verita unica e relativismo"]
+
+    C --> D["2. Proust e memoria involontaria<br/>Opera: Dalla parte di Swann, episodio della Madeleine<br/>Stimolo: sapore della Madeleine nel te<br/>Effetto: ritorno dell'infanzia a Combray<br/>Memoria involontaria: non cercata, sensoriale, profonda<br/>Tempo: presente e passato si fondono nella durata"]
+
+    D --> E["3. Kafka e La metamorfosi<br/>Gregor Samsa si sveglia trasformato in insetto<br/>Straniamento: evento assurdo raccontato come normale<br/>Contrasto: metamorfosi surreale e stanza realistica<br/>Temi: isolamento, famiglia che esclude, rapporto padre-figlio<br/>Significato: alienazione dell'uomo moderno e dell'intellettuale"]
+
+    E --> F["4. Tecniche narrative<br/>Monologo interiore: pensieri in prima persona, ordine logico e sintattico<br/>Esempio: Preambolo della Coscienza di Zeno<br/>Flusso di coscienza: pensiero spontaneo, associazioni libere, sintassi disgregata<br/>Esempio: Ulisse di Joyce<br/>Errore da evitare: Zeno non e flusso di coscienza"]
+
+    F --> G["5. Joyce e Ulisse<br/>Joyce porta il flusso di coscienza alla forma piu radicale<br/>Materia narrativa: non solo azione esterna, ma movimento della mente<br/>Pensieri per salti, ritorni, immagini e associazioni<br/>Assenza di filtro narrativo ordinatore"]
+
+    G --> H["6. Svevo e La coscienza di Zeno<br/>Romanzo paradigma del Novecento italiano<br/>Io narrante: Zeno o meglio la sua coscienza<br/>Narratore inattendibile: si giustifica e si contraddice<br/>Tempo soggettivo: capitoli per nuclei tematici, non cronologia<br/>Psicanalisi: strumento letterario, non guarigione sicura<br/>Conclusione: vita come malattia"]
+
+    H --> I["7. Quadro riassuntivo<br/>Cade il narratore onnisciente<br/>Cade il tempo lineare<br/>Cade il personaggio compatto<br/>Al centro: coscienza soggettiva, tempo interiore, identita incerta<br/>Bergson: durata<br/>Freud: infanzia, genitori, libere associazioni<br/>Proust memoria; Kafka alienazione; Joyce flusso; Svevo e Pirandello romanzo psicologico"]
+
+    I --> L["8. Date e opere<br/>1913: Proust, Dalla parte di Swann<br/>1916: Kafka, La metamorfosi<br/>1922: Joyce, Ulisse<br/>1923: Svevo, La coscienza di Zeno"]
 ```

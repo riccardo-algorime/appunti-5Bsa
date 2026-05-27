@@ -1,6 +1,6 @@
 # Indice — Appunti di Letteratura Italiana (5BSA, 2025-26)
 
-> **Ultimo aggiornamento:** 17 maggio 2026
+> **Ultimo aggiornamento:** 27 maggio 2026
 > **Scopo:** Preparazione all'Esame di Stato (maturità)
 > **Fonti:** Trascrizioni delle lezioni in classe (gennaio–maggio 2026)
 
@@ -69,8 +69,8 @@ La professoressa ha scelto di partire dal Novecento per poi tornare indietro, se
 | 7 | **Il Romanzo del Novecento** | Inizio '900 | 09/04 | `romanzo-novecento/` |
 | 8 | **Italo Svevo** | 1893–1923 | 13/04, 16/04, 20/04 | `svevo/` |
 | 9 | **Luigi Pirandello** | 1867–1936 | 20/04, 21/04, 23/04, 27/04, 28/04, 04/05 | `pirandello/` |
-| 10 | **Giuseppe Ungaretti** | 1888–1970 | 07/05, 11/05, 14/05 | `ungaretti/` |
-| 11 | **Umberto Saba** | 1883–1957 | 14/05 | `saba/` |
+| 10 | **Giuseppe Ungaretti** | 1888–1970 | 07/05, 11/05, 14/05, ripassi 21/05 e 25/05 | `ungaretti/` |
+| 11 | **Umberto Saba** | 1883–1957 | 14/05, 18/05, 21/05, ripasso 26/05 | `saba/` |
 
 \* Le lezioni del 13/01 e del 26/02 non dispongono di trascrizione valida; i contenuti sono stati integrati dalle fonti disponibili.
 
@@ -104,31 +104,31 @@ Contesto storico, il primo movimento d'avanguardia. *Manifesto del Futurismo* (1
 
 ### 7. `romanzo-novecento/`
 
-Argomento introdotto nella lezione del 09/04. Le tre innovazioni rispetto all'Ottocento: punto di vista soggettivo, tempo soggettivo (Bergson), personaggio in fieri. Proust e la memoria involontaria (episodio della Madeleine). Kafka e lo straniamento (*La metamorfosi*). Joyce e il flusso di coscienza (*Ulisse*). Svevo e *La coscienza di Zeno*. Monologo interiore vs flusso di coscienza.
+Argomento introdotto nella lezione del 09/04 e rinforzato nei ripassi del 18/05, 25/05 e 26/05. Le tre innovazioni rispetto all'Ottocento: punto di vista soggettivo, tempo soggettivo (Bergson), personaggio in fieri. Proust e la memoria involontaria (episodio della Madeleine). Kafka e lo straniamento (*La metamorfosi*). Joyce e il flusso di coscienza (*Ulisse*). Svevo e *La coscienza di Zeno*. Monologo interiore vs flusso di coscienza.
 
 ### 8. `svevo/`
 
-Trattazione completa di Italo Svevo. Vita e formazione: Trieste città mitteleuropea, triplice identità linguistica, autodidatta, doppia vita da industriale e scrittore. Joyce, Freud e psicoanalisi. Concetto di inetto, ipertrofia della coscienza, lottatori e contemplatori. Analisi di *Una vita*, *Senilità* e *La coscienza di Zeno*: Prefazione, Preambolo, ultima sigaretta, morte del padre, matrimonio, atto mancato, finale apocalittico e vita come malattia.
+Trattazione completa di Italo Svevo, integrata con i ripassi orali di fine maggio. Vita e formazione: Trieste città mitteleuropea, triplice identità linguistica, autodidatta, doppia vita da industriale e scrittore. Joyce, Freud e psicoanalisi. Concetto di inetto, ipertrofia della coscienza, lottatori e contemplatori. Analisi di *Una vita*, *Senilità* e *La coscienza di Zeno*: Prefazione, Preambolo, ultima sigaretta, morte del padre, matrimonio, atto mancato, finale apocalittico e vita come malattia.
 
 ### 9. `pirandello/`
 
-Biografia e opera di Luigi Pirandello. *L'umorismo*, avvertimento e sentimento del contrario, scomposizione del reale. Vita e Forma, maschere, trappole sociali, identità e follia. Novelle: *Il treno ha fischiato*, *La carriola*, *La patente*. Romanzi: *Il fu Mattia Pascal* e *Uno, nessuno e centomila*. Teatro: *Così è (se vi pare)*, relativismo gnoseologico, *Sei personaggi in cerca d'autore*, quarta parete e teatro nel teatro.
+Biografia e opera di Luigi Pirandello, integrata con i ripassi orali di fine maggio. *L'umorismo*, avvertimento e sentimento del contrario, scomposizione del reale. Vita e Forma, maschere, trappole sociali, identità e follia. Novelle: *Il treno ha fischiato*, *La carriola*, *La patente*. Romanzi: *Il fu Mattia Pascal* e *Uno, nessuno e centomila*. Teatro: *Così è (se vi pare)*, relativismo gnoseologico, *Sei personaggi in cerca d'autore*, quarta parete e teatro nel teatro.
 
 ### 10. `ungaretti/`
 
-Biografia per luoghi di Giuseppe Ungaretti: Alessandria d'Egitto, Parigi, Carso/Isonzo, Roma, Brasile, Milano. Vicenda editoriale da *Il porto sepolto* a *L'Allegria*, poi *Sentimento del tempo* e *Il dolore*. Poetica del segreto, parola essenziale, versicoli, analogia, titolo come verso zero. Analisi di *Il porto sepolto*, *Veglia*, *Fratelli*, *I fiumi*, *Sono una creatura*, *San Martino del Carso*, *Soldati*, *Mattina* e *Non gridate più*.
+Biografia per luoghi di Giuseppe Ungaretti: Alessandria d'Egitto, Parigi, Carso/Isonzo, Roma, Brasile, Milano. Vicenda editoriale da *Il porto sepolto* a *L'Allegria*, poi *Sentimento del tempo* e *Il dolore*. Poetica del segreto, parola essenziale, versicoli, analogia, titolo come verso zero. Analisi di *Il porto sepolto*, *Veglia*, *Fratelli*, *I fiumi*, *Sono una creatura*, *San Martino del Carso*, *Soldati*, *Mattina* e *Non gridate più*. I ripassi del 21/05 e 25/05 rafforzano il rapporto formale con il Futurismo e l'analisi di *Veglia*.
 
 ### 11. `saba/`
 
-Introduzione a Umberto Saba. Trieste come città di confine, biografia familiare, padre assente, madre, balia Peppa, psicoanalisi e trauma. Poetica della poesia onesta, lingua chiara e tradizionale ma moderna nell'interiorità. *Il Canzoniere* come autobiografia poetica. Analisi centrale di *La capra* e accenni a *A mia moglie*, *Trieste*, *Mio padre è stato per me l'assassino*, *Ed amai nuovamente* e *Amai*.
+Trattazione di Umberto Saba aggiornata con le lezioni del 18/05 e 21/05. Trieste come città di confine, biografia familiare, padre assente, madre, balia Peppa, psicoanalisi e trauma. Poetica della poesia onesta, lingua chiara e tradizionale ma moderna nell'interiorità. *Il Canzoniere* come autobiografia poetica. Analisi di *La capra*, *Mio padre è stato per me l'assassino*, *Ed amai nuovamente*, *Amai*, *A mia moglie*, *Trieste* e *Città vecchia*.
 
 ---
 
 ## Argomenti ancora da trattare
 
-Resta da integrare solo ciò che non ha ancora una vera lezione schematizzata:
+Resta da integrare solo ciò che non è stato incluso perché oltre il limite "fino a Saba":
 
-- **Eugenio Montale** — annunciato come parte della triade lirica, ma non ancora coperto da una trascrizione schematizzata in questa cartella.
+- **Eugenio Montale** — introdotto nella trascrizione del 26-05-2026, ma non schematizzato in questa passata.
 
 ---
 

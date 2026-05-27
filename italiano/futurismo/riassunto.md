@@ -20,7 +20,7 @@
 
 ### 1.1 Il primo movimento d'avanguardia
 
-Il Futurismo è il **primo movimento d'avanguardia** italiano, sviluppatosi nel primo decennio del Novecento. Il termine *avanguardia* viene dal lessico militare: indica i soldati che precedono la guardia, che esplorano il territorio prima degli altri. Allo stesso modo, il Futurismo si propone di **innovare** rompendo con tutto ciò che lo precede, investendo con la sua furia rinnovatrice non soltanto la letteratura, ma anche l'arte, il teatro e persino la cucina. Per affermare il proprio programma, il gruppo pubblica una serie di **manifesti** che stabiliscono regole nuove contro un passato sentito come anacronistico.
+Il Futurismo è il **primo movimento d'avanguardia** italiano, sviluppatosi nel primo decennio del Novecento. Il termine *avanguardia* viene dal lessico militare: indica i soldati che precedono la guardia, che esplorano il territorio prima degli altri. Allo stesso modo, il Futurismo vuole andare in anticipo sul proprio tempo, portando **novità** e rompendo con tutto ciò che lo precede. La sua furia rinnovatrice investe non soltanto la letteratura, ma anche l'arte, il teatro e persino la cucina. Per affermare il proprio programma, il gruppo pubblica una serie di **manifesti** che stabiliscono regole nuove contro un passato sentito come anacronistico.
 
 ### 1.2 La contestazione della società borghese
 
@@ -47,7 +47,7 @@ Il cuore del programma futurista è un progetto di **eversione radicale**: il pa
 
 - **«Bruciamo i musei»**: i musei conservano un passato che non ha più nulla da dire al presente
 - **«Uccidiamo il chiaro di luna»**: il chiaro di luna è un simbolo della tradizione poetica da Petrarca a Leopardi, e va abbattuto
-- La **museificazione** dell'arte è un atto di morte: cristallizza le opere nell'immobilismo
+- La **museificazione** dell'arte è un atto di morte: cristallizza le opere nell'immobilismo e le trasforma in forme statiche, incapaci di vivere nel presente
 
 La tradizione è vista come un **carcere** da cui liberarsi. Ogni forma di culto del passato — dalla scuola ai musei, dalle biblioteche alle accademie — rappresenta un ostacolo alla creatività.
 
@@ -140,6 +140,8 @@ flowchart TD
 Marinetti è l'**animatore del gruppo** futurista, punto di riferimento teorico e organizzativo. È lui che pubblica i manifesti e organizza le serate futuriste. La rivista **Lacerba**, pubblicata a Firenze dal 1913, è l'organo ufficiale del movimento in Italia.
 
 **Zang Tumb Tumb (1914):** l'opera poetica più celebre di Marinetti è una descrizione **fonosimbolica** di un episodio della guerra d'Africa. Il titolo stesso è un'**onomatopea** che riproduce i suoni delle esplosioni. Il testo mette in pratica tutti i principi del Manifesto tecnico: la sintassi è distrutta, il ritmo riproduce i suoni della battaglia. Marinetti usa i **caratteri tipografici** come strumento espressivo: il grassetto amplificato corrisponde a una voce più forte, gli spazi bianchi esprimono il silenzio, la distanza tra le lettere varia il ritmo. Compaiono anche **segni algebrici**, **ripetizioni di lettere** («vibraaaare») e **disegni**.
+
+Sul piano formale, alcune soluzioni futuriste aiutano a capire anche Ungaretti: essenzialità, spazi vuoti, abolizione della punteggiatura e valore della parola isolata. La differenza resta però radicale sul piano ideologico: i futuristi glorificano la guerra, mentre Ungaretti non ne condivide l'esaltazione e ne restituisce l'esperienza tragica.
 
 **Contro i professori:** il testo si colloca nella polemica futurista contro il **passatismo** scolastico. Marinetti rifiuta Nietzsche perché il suo Superuomo è «un prodotto dell'immaginazione ellenica, costruito coi tre grandi cadaveri putrefatti di Apollo, di Marte e di Bacco». Al Superuomo greco, i futuristi oppongono **l'uomo moltiplicato**: «Nemico del libro, amico dell'esperienza personale, allievo della macchina, lucido nell'ampio della sua ispirazione, munito di fiuto felino, di fulminei calcoli, di istinto selvaggio.» Le università sono definite «grandi fogne dell'intellettualità». Tre sono i nemici dell'arte: **l'imitazione, la prudenza e il denaro**, riducibili a uno solo: la **viltà**. La scuola futurista consisterebbe nell'introdurre un corso regolare di **rischi fisici** — incendi, annegamenti, crolli — per temprare il corpo e lo spirito.
 

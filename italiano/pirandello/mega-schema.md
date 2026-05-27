@@ -14,7 +14,7 @@
 | **Famiglia** | Sposa **Antonietta Portulano**, colpita da gravi crisi nervose e poi ricoverata |
 | **Crisi economica** | Dissesto legato all'allagamento delle **miniere di zolfo** del padre e alla perdita della dote della moglie |
 | **Produzione** | Novelle, romanzi, saggistica, teatro |
-| **Opere chiave** | *L'umorismo* · *Novelle per un anno* · *Il fu Mattia Pascal* · *Uno, nessuno e centomila* · *Così è (se vi pare)* · *Sei personaggi in cerca d'autore* |
+| **Opere chiave** | *L'umorismo* (1908) · *Novelle per un anno* · *Il fu Mattia Pascal* · *Uno, nessuno e centomila* · *Così è (se vi pare)* · *Sei personaggi in cerca d'autore* |
 
 ---
 
@@ -199,7 +199,7 @@ Il collegamento con **Svevo** è forte: Zeno e Mattia Pascal sono personaggi che
 
 ### 5.1 *Il treno ha fischiato*: Belluca
 
-Belluca è un contabile, un impiegato modello, puntuale e obbediente. Un giorno arriva in ufficio in ritardo, farneticando: dice di aver sentito **il treno fischiare**. I colleghi lo giudicano pazzo, perché il suo comportamento contraddice la forma in cui lo avevano sempre rinchiuso.
+Belluca è un contabile, un **impiegato** modello, puntuale e obbediente: va evitato l'errore di chiamarlo operaio. Un giorno arriva in ufficio in ritardo, farneticando: dice di aver sentito **il treno fischiare**. Il fischio è realmente sentito, non inventato né allucinato; ciò che cambia è il valore che assume per lui. I colleghi lo giudicano pazzo, perché il suo comportamento contraddice la forma in cui lo avevano sempre rinchiuso.
 
 Poi si scopre la sua vita: è schiacciato dal lavoro, dalla famiglia, dai doveri, da donne malate da mantenere. Il fischio del treno diventa un'**epifania**: gli rivela che oltre il suo mondo soffocante esistono viaggi, terre lontane, possibilità, immaginazione.
 
@@ -279,7 +279,7 @@ Durante la convalescenza di Adriano Meis, Anselmo Paleari espone la **Lanternino
 - le masse seguono grandi **lanternoni**: fede religiosa, fede nella scienza, ideologie politiche
 - nei periodi di crisi i lanternoni si spengono e resta il caos
 
-La Lanterninosofia esprime il relativismo pirandelliano: ogni uomo vede la realtà attraverso il proprio piccolo lume. Una realtà oggettiva, unica e stabile non è garantita.
+La Lanterninosofia esprime il **relativismo gnoseologico** pirandelliano: ogni uomo vede la realtà attraverso il proprio piccolo lume. Una realtà oggettiva, unica e stabile non è garantita; quando i lanternoni collettivi si spengono, l'individuo resta senza orientamento.
 
 #### Tecniche e significato
 
@@ -334,7 +334,7 @@ Le due versioni sono inconciliabili:
 
 Gli abitanti del paese vogliono una verità oggettiva e infieriscono sui personaggi, senza capire la loro tragedia e la pietà reciproca che li lega. Nel dramma compare **Laudisi**, assente nella novella, alter ego di Pirandello: con ironia smonta le certezze di chi pretende la verità.
 
-La conclusione è la formula perfetta del **relativismo gnoseologico**:
+La conclusione è la formula perfetta del **relativismo gnoseologico**, cioè l'idea che esistano tante verità quanti sono i punti di vista e che non sia raggiungibile una verità oggettiva unica:
 
 > "Io sono colei che mi si crede."
 
@@ -743,4 +743,4 @@ Il paradosso è che per Pirandello la forma nella vita è morte, ma nell'arte pu
 
 ---
 
-*Fonti: lezioni del 20/04/2026, 21/04/2026, 23/04/2026, 27/04/2026, 28/04/2026, 04/05/2026 — Lingua e letteratura italiana*
+*Fonti: lezioni del 20/04/2026, 21/04/2026, 23/04/2026, 27/04/2026, 28/04/2026, 04/05/2026, 18/05/2026, 25/05/2026, 26/05/2026 — Lingua e letteratura italiana*

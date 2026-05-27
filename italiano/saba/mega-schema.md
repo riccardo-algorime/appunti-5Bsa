@@ -149,6 +149,17 @@ L'onestà non significa banalità. Significa coraggio: guardare dentro di sé e 
 
 Nella lezione, parlando di *Ed amai nuovamente*, il docente definisce la sincerità di Saba come "**più ardita sincerità**": una sincerità coraggiosa, perché scava nella profondità dell'interiorità.
 
+Questa idea viene formulata con chiarezza anche nello scritto critico ***Quello che resta da fare ai poeti***, del **1911**. Il titolo è già una domanda: che cosa resta da fare ai poeti nel primo Novecento, in un'epoca dominata dal dannunzianesimo, dalle avanguardie e dal gusto per la sperimentazione? La risposta di Saba è netta: resta da fare **poesia onesta**.
+
+Per Saba una poesia è onesta quando nasce da sentimenti autentici, non quando abbaglia il lettore con la tecnica. Per spiegarsi contrappone due esempi:
+
+| Esempio | Valore secondo Saba |
+|---------|---------------------|
+| **Manzoni degli *Inni sacri*** | Versi anche mediocri sul piano retorico, ma onesti perché ispirati da sentimenti genuini |
+| **D'Annunzio delle *Laudi*** | Versi sublimi e magnifici, ma effimeri se costruiti per affascinare e non per dire una verità autentica |
+
+Da qui emerge anche il legame con **Pascoli**: Saba si sente più vicino alla poesia delle **umili cose**, degli affetti quotidiani, dei desideri semplici, che non all'estetismo aristocratico di D'Annunzio.
+
 ### 4.2 Semplicità apparente
 
 La poesia di Saba sembra semplice. Usa spesso un linguaggio **discorsivo**, **narrativo**, quasi **prosaico**. Le frasi possono sembrare vicine al parlato e alla vita ordinaria.
@@ -181,6 +192,16 @@ La poesia *Amai* è presentata in lezione come una vera dichiarazione di poetica
 > [!note] Dalla lezione
 > "Trite" significa dette e ridette, consumate. Saba dichiara di amare le parole tradizionali che gli altri poeti non osavano più usare, proprio mentre il primo Novecento preferiva avanguardie, rottura e sperimentazione.
 
+L'analisi della lezione insiste su alcuni punti precisi.
+
+Prima di tutto, la rima **fiore/amore** è detta "**la più antica**" perché appartiene al repertorio originario della poesia italiana, fin dallo **Stilnovo**. Ma è anche "**la più difficile**" perché è stata usata così tante volte che sembra quasi impossibile adoperarla in modo autentico e nuovo. Saba però non la rifiuta: la accetta proprio perché vuole recuperare parole e forme che la moda letteraria del suo tempo considera ormai logore.
+
+Il passaggio da **"Amai"** ad **"Amo"** è importante: i primi "Amai" guardano alla storia della sua poesia e della sua fedeltà alla tradizione; l'"Amo" finale porta il discorso nel presente e lo apre a chi ascolta, forse Lina, forse i lettori. La poesia diventa un dialogo.
+
+Il nucleo più moderno è la **verità che giace al fondo**. Questa verità non è una verità razionale e immediatamente chiara: è una verità profonda, sepolta, simile a un **sogno dimenticato**. Coincide con le zone dell'**inconscio**, con ciò che l'uomo non conosce pienamente di se stesso. Solo il **dolore** riesce a riportarla vicino alla coscienza. Per questo la poesia di Saba è limpida nella forma, ma scava in un mondo interiore torbido, ambivalente, conflittuale.
+
+Alla fine compare la "**buona carta**": è la carta vincente lasciata alla fine del gioco. Nella spiegazione della lezione, questa buona carta è la **poesia stessa**, cioè ciò che dà a Saba una possibilità di conoscenza, consolazione e comunicazione con gli altri.
+
 ---
 
 ## 5. *Il Canzoniere*
@@ -197,7 +218,17 @@ La scelta è coerente con tutta la poetica di Saba: classicismo senza artificios
 
 La poesia non è evasione dalla vita, ma modo per darle forma. La vita viene raccolta, riletta, organizzata. Per questo Saba scrive anche *Storia e cronistoria del Canzoniere*, un'opera in cui commenta e ricostruisce dall'interno il senso della propria raccolta.
 
-### 5.3 Edizione definitiva
+I temi del *Canzoniere* restano sostanzialmente costanti: i **fanciulli di Trieste**, le **vie solitarie** della città, i **caffè fumosi del porto**, le **donne amate**, soprattutto Lina. Sono temi quotidiani e quasi immobili, perché Saba concepisce la vita come segnata da una ripetizione profonda: l'uomo spera sempre in un domani migliore, ma sa che il nuovo giorno porterà ancora le stesse sofferenze. Qui emerge il collegamento con **Leopardi**, nella consapevolezza malinconica del dolore dell'esistenza, e con **Pascoli**, nella contemplazione delle cose umili e familiari.
+
+Il fondo costante dell'opera è quindi una vita dominata dal **dolore**, ma alleviata dalla contemplazione delle cose quotidiane e dal sentirsi vivere in un canto intimo. La poesia non elimina il dolore: lo rende conoscibile.
+
+### 5.3 *Storia e cronistoria del Canzoniere*
+
+***Storia e cronistoria del Canzoniere***, del **1948**, è uno scritto critico in cui Saba commenta se stesso. La lezione lo definisce una forma di **autoesegesi**: Saba parla della propria opera, spesso anche di sé in terza persona, e accompagna le liriche con aneddoti autobiografici, spiegazioni sulla nascita dei testi e osservazioni sulle scelte poetiche.
+
+Questo testo è importante perché mostra che il *Canzoniere* non è una semplice raccolta di poesie sparse: è un libro costruito, interpretato e ripensato dall'autore stesso. Saba vuole guidare il lettore dentro la storia della propria poesia e dentro la cronistoria concreta, cioè le occasioni, i momenti e i gesti quotidiani da cui alcune liriche nascono.
+
+### 5.4 Edizione definitiva
 
 L'edizione definitiva del *Canzoniere* è **postuma**, del **1961**. Questo dato è importante perché mostra il carattere progressivo dell'opera: Saba lavora per tutta la vita alla costruzione del libro, come se il libro coincidesse con la vita stessa.
 
@@ -263,11 +294,44 @@ Il verso finale, "**eran due razze in antica tenzone**", riassume la scissione p
 
 Questa scelta permette anche di capire la distanza da **D'Annunzio**. Se D'Annunzio tende alla bellezza preziosa, eccezionale, aristocratica, Saba cerca la verità nell'ordinario, nel domestico, nel basso, nel vivente comune.
 
+La poesia nasce, secondo il racconto di *Storia e cronistoria del Canzoniere*, in modo quasi improvviso: Lina era uscita, Saba rimase solo, una cagna gli si avvicinò e gli posò il muso sulle ginocchia. Da quell'immagine nacque la poesia, composta quasi di getto e poi letta subito alla moglie. Lina però non reagì come Saba sperava: rimase male, perché non si riconosceva nei paragoni con animali umili. Saba dovette spiegarle che non c'era nessuna offesa.
+
+Saba stesso definisce *A mia moglie* una poesia quasi **religiosa**, scritta come una preghiera, ma in senso laico. Non significa che Saba sia credente in senso tradizionale: il riferimento a Dio indica piuttosto la dimensione **creaturale** degli animali, cioè la loro semplicità, innocenza, vicinanza alla vita elementare. Per questo Lina è paragonata alle "femmine di tutti i sereni animali che avvicinano a Dio": è vista come creatura non corrotta dalla falsità, dal calcolo e dall'ipocrisia.
+
+Il sentimento dominante non è l'eros dannunziano, né la passione sensuale, ma la **tenerezza**. Saba guarda Lina con gratitudine, affetto profondo, bisogno di protezione e riconoscimento.
+
+| Animale | Aspetto di Lina messo in luce |
+|---------|-------------------------------|
+| **Bianca pollastra** | Umiltà terrena, semplicità, ma anche passo fiero e regale |
+| **Gallinelle** | Voce dolce e malinconica quando Lina si lamenta dei suoi mali |
+| **Gravida giovenca** | Maternità, dolcezza, bisogno di essere consolata con un dono |
+| **Lunga cagna** | Fedeltà, devozione, dolcezza, ma anche ferocia e gelosia |
+| **Pavida coniglia** | Timidezza, paura, vulnerabilità, istinto materno |
+| **Rondine** | Leggerezza e annuncio di una nuova primavera |
+| **Provvida formica** | Operosità, previdenza, cura concreta |
+| **Pecchia / ape** | Laboriosità e appartenenza al mondo naturale |
+
+La struttura è semplice e ripetitiva, fondata sull'anafora "**Tu sei come**". Il lessico è quotidiano, ma può includere parole più alte o letterarie, come **pecchia** per "ape". Anche qui si vede la poetica di Saba: una lingua apparentemente semplice, ma capace di rivelare una profondità affettiva e simbolica.
+
 ### 6.4 *Trieste*
 
 *Trieste* è da ricordare per il rapporto ambivalente con la città e per l'espressione **scontrosa grazia**. La città è amata e respinta, rifugio e limite. Non è una città idealizzata: ha una grazia difficile, aspra, non addomesticata.
 
-### 6.5 Accenni dalla lezione: Lina e la sincerità
+Nella lettura della lezione la città è descritta come un amore inquieto, quasi geloso e tempestoso. La **scontrosa grazia** unisce due elementi opposti: da una parte la grazia, cioè la bellezza; dall'altra lo scontroso, cioè l'asprezza, la chiusura, la difficoltà. Trieste non è consolatoria: ciò che dà piacere dà anche tormento.
+
+La città ha un'**aria natia** inquieta e tormentosa, che riflette le scissioni interiori di Saba. Alla fine però offre al poeta un "**cantuccio**" fatto per lui, per la sua vita "**pensosa e schiva**". Qui la lezione richiama anche Petrarca, perché l'espressione ricorda il modello di una vita solitaria, meditativa, ritirata.
+
+### 6.5 *Città vecchia*
+
+*Città vecchia* appartiene alla raccolta *Trieste e una donna* e completa il rapporto di Saba con la città. Qui non siamo nella Trieste elegante, ma nella zona vecchia vicino al porto, fatta di vie oscure, pozzanghere, fanali, osterie, lupanari, botteghe, degrado e miseria.
+
+Il poeta attraversa un'umanità marginale: la **prostituta**, il **marinaio**, il **vecchio che bestemmia**, la **femmina che bega**, il **dragone** seduto dal friggitore, la giovane folle d'amore. Sono "merci ed uomini" ridotti a detrito di un grande porto di mare: scarti delle merci e scarti dell'umanità.
+
+Eppure proprio lì Saba trova "**l'infinito nell'umiltà**". La parola **umiltà** va collegata a *humus*, la terra: indica ciò che è basso, povero, vicino alla vita elementare, senza superbia. Dove la via è più **turpe**, cioè sporca, vergognosa, indecorosa, il pensiero del poeta si fa più **puro**. È un'antitesi fondamentale: il poeta trova purezza non nel sublime, ma nel luogo più degradato.
+
+Il verso "**s'agita in esse, come in me, il Signore**" non va letto come confessione religiosa tradizionale: indica il riconoscimento di una dignità profonda, quasi sacra, negli umili e nei sofferenti. Saba sente di far parte della stessa umanità ferita. Per questo *Città vecchia* è coerente con tutta la sua poetica: dal basso, dal quotidiano, dall'umile, emerge una verità universale.
+
+### 6.6 Accenni dalla lezione: Lina e la sincerità
 
 La lezione accenna anche a *Ed amai nuovamente*, testo legato a Lina. Non serve farne un'analisi completa, ma vanno ricordati alcuni nuclei:
 
@@ -330,6 +394,8 @@ mindmap
       Titolo petrarchesco
       Autobiografia poetica
       Vita ordinata in versi
+      Temi immobili
+      Dolore e quotidiano
       Edizione definitiva 1961
       Storia e cronistoria
     Poesie
@@ -341,8 +407,12 @@ mindmap
         Padre e madre
       A mia moglie
         Paragoni animali
+        Tenerezza
       Trieste
         Scontrosa grazia
+      Città vecchia
+        Umili
+        Infinito nell'umiltà
 ```
 
 ---
@@ -355,9 +425,10 @@ mindmap
 | **Leopardi** | Rapporto ambivalente con la città d'origine: Recanati/Trieste |
 | **Petrarca** | Titolo *Canzoniere* e idea del libro poetico unitario |
 | **D'Annunzio** | Contrasto tra estetismo aristocratico e poesia onesta dell'ordinario |
+| **Pascoli** | Umili cose, quotidiano, affetti semplici |
 | **Freud / psicoanalisi** | Infanzia, padre, trauma, inconscio |
 | **Trieste mitteleuropea** | Ambiente multilingue, commerciale, ebraico, slavo, italiano e austriaco |
 
 ---
 
-*Fonti: lezione del 14/05/2026, dalla sezione su Saba in poi; integrazione dei dati essenziali richiesti per lo studio.*
+*Fonti: lezioni del 14/05/2026, 18/05/2026, 21/05/2026 e parte su Saba del 26/05/2026; integrazione dei dati essenziali richiesti per lo studio.*

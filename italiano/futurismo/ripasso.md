@@ -4,7 +4,7 @@
 
 ## Quadro d'insieme
 
-Il Futurismo è il **primo movimento d'avanguardia** italiano (1909-1920 ca.). *Avanguardia* = termine militare, chi va in avanscoperta. Contestazione **globale** (non solo letteraria) della società borghese e della tradizione. L'artista si sente **disgustato, declassato, disoccupato**. Il modello è l'**eroismo della vita moderna** (Baudelaire): velocità, macchine, vita urbana, industria. L'opera d'arte diventa **riproducibile** (tipografia, stampa, fotografia).
+Il Futurismo è il **primo movimento d'avanguardia** italiano (1909-1920 ca.). *Avanguardia* = termine militare: chi va in avanscoperta, prima degli altri, e porta **novità**. Contestazione **globale** (non solo letteraria) della società borghese e della tradizione. L'artista si sente **disgustato, declassato, disoccupato**. Il modello è l'**eroismo della vita moderna** (Baudelaire): velocità, macchine, vita urbana, industria. L'opera d'arte diventa **riproducibile** (tipografia, stampa, fotografia).
 
 Rapporto con **D'Annunzio**: condividono il vitalismo e l'aggressività, ma rifiutano il suo culto del passato. Rifiutano anche **Nietzsche** (Superuomo legato alla cultura greca = passatismo).
 
@@ -12,7 +12,7 @@ Rapporto con **D'Annunzio**: condividono il vitalismo e l'aggressività, ma rifi
 
 ## Ideologia
 
-**Sconsacrazione del passato** → «Bruciamo i musei», «Uccidiamo il chiaro di luna». La tradizione è un carcere. Museificare = uccidere.
+**Sconsacrazione del passato** → «Bruciamo i musei», «Uccidiamo il chiaro di luna». La tradizione è un carcere. Museificare = uccidere: significa immobilizzare l'arte, trasformarla in morte.
 
 **Tre valori fondamentali**: dinamismo, velocità, aggressività temeraria.
 
@@ -39,6 +39,8 @@ flowchart LR
 Rivista: **Lacerba** (Firenze, dal 1913). Collaboratori: Boccioni, Carrà.
 
 **Zang Tumb Tumb** (1914): descrizione fonosimbolica della guerra d'Africa. Titolo = onomatopea. Tecniche: onomatopea propria, **caratteri tipografici** (grassetto = voce forte, spazi = silenzio), segni grafici/algebrici, **calligrammi** (parole che disegnano l'oggetto), ripetizioni di lettere. → **Simultaneità di percezioni**.
+
+**Collegamento con Ungaretti:** debito solo **formale** (versi brevissimi, parola isolata, spazi bianchi, poca o nulla punteggiatura). Differenza decisiva: Ungaretti non recupera l'ideologia futurista della guerra come «sola igiene del mondo».
 
 **Contro i professori**: attacco al passatismo. Rifiuto di Nietzsche (il suo Superuomo è greco = passatista). L'alternativa futurista: **l'uomo moltiplicato per opera propria** — nemico del libro, allievo della macchina. Tre nemici dell'arte: imitazione, prudenza, denaro = **viltà**. I professori «castrano gli spiriti». La scuola futurista: «corso regolare di rischi e pericoli fisici».
 
@@ -101,4 +103,5 @@ mindmap
 - [ ] Sai spiegare cosa sono **Zang Tumb Tumb** e **Il palombaro** e le tecniche usate?
 - [ ] Sai spiegare il rapporto dei futuristi con D'Annunzio e con Nietzsche?
 - [ ] Ricordi la definizione di guerra come «sola igiene del mondo»?
+- [ ] Sai distinguere il debito formale di Ungaretti dal rifiuto dell'ideologia futurista?
 - [ ] Sai spiegare *Contro i professori* e il concetto di «uomo moltiplicato»?

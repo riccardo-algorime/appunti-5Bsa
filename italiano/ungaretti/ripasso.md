@@ -73,6 +73,8 @@ flowchart TD
 - **Parola-verso**: una parola occupa un verso intero.
 - **Punteggiatura assente o selezionata**: influenza futurista.
 - **Verso libero** nella prima fase.
+- **Titolo come verso zero**: dà la chiave del testo, per esempio in *Veglia* e *Fratelli*.
+- **Spazi bianchi**: silenzio che amplifica il suono della parola.
 - **Date e luoghi**: funzione diaristica.
 - **Analogia**: collega elementi lontani.
 - **Fonosimbolismo**: il suono rafforza il senso.
@@ -86,7 +88,7 @@ flowchart TD
 | Testo | Da dire |
 |-------|---------|
 | ***Il porto sepolto*** | Dichiarazione di poetica: il poeta scende nel mistero e torna con i canti; resta un segreto inesauribile |
-| ***Veglia*** | Notte accanto al compagno massacrato; dalla morte nasce l'attaccamento alla vita |
+| ***Veglia*** | Titolo come verso zero: notte accanto al compagno massacrato; "buttato" disumanizza il soldato; **t** e **d** hanno suono secco e fonosimbolico; dalla morte nasce l'attaccamento alla vita |
 | ***Fratelli*** | Fratellanza dei soldati; parola tremante, foglia appena nata, fragilità comune |
 | ***I fiumi*** | Autobiografia per fiumi: Serchio, Nilo, Senna, Isonzo; "docile fibra dell'universo" |
 | ***Sono una creatura*** | Pietra del San Michele; pianto invisibile; "La morte si sconta vivendo" |
@@ -130,7 +132,7 @@ Frase chiave: **"docile fibra dell'universo"**. Nel luogo della guerra il poeta 
 
 | Collegamento | Come farlo |
 |--------------|------------|
-| **Futurismo** | Punteggiatura abolita, verso libero, Lacerba; ma Ungaretti non esalta la guerra |
+| **Futurismo** | Debito formale: Lacerba, punteggiatura ridotta, verso libero, versicoli, spazi bianchi, fonosimbolismo; ma Ungaretti non esalta la guerra |
 | **Apollinaire** | Parigi, calligrammi, pagina come spazio moderno |
 | **Pascoli** | Analogia, fonosimbolismo, vita/morte; in *Non gridate più* erba e morti |
 | **D'Annunzio** | In *I fiumi* natura personificata, ma niente superuomo: Ungaretti è docile |
@@ -155,9 +157,13 @@ Risposta: *L'Allegria* è legata alla guerra e usa versicoli, parola-verso, fram
 
 ### 4. Qual è il senso di *Veglia*?
 
-Risposta: davanti al compagno massacrato, nella massima presenza della morte, il poeta scopre un attaccamento disperato alla vita. La morte non annulla la vita: la rende più evidente.
+Risposta: il titolo è già un verso zero, perché indica la veglia notturna accanto al morto. Davanti al compagno massacrato, nella massima presenza della morte, il poeta scopre un attaccamento disperato alla vita. Il lessico è duro: "buttato" riduce il soldato a oggetto, mentre le **t** e le **d** rendono fonosimbolicamente la violenza della scena.
 
-### 5. Qual è il messaggio di *Non gridate più*?
+### 5. Qual è il rapporto tra Futurismo e Ungaretti?
+
+Risposta: Ungaretti ha un **debito formale** verso il Futurismo: Lacerba, punteggiatura ridotta, verso libero, versicoli, parole isolate, spazi bianchi e fonosimbolismo. Però non è futurista sul piano ideologico: il Futurismo vede la guerra come **"sola igiene del mondo"**, mentre Ungaretti la vive come dolore, naufragio e disumanizzazione.
+
+### 6. Qual è il messaggio di *Non gridate più*?
 
 Risposta: dopo le guerre, continuare odio e rancore significa uccidere di nuovo i morti, cioè tradirli. Bisogna tacere le grida della guerra per ascoltare il loro sussurro e arrivare alla pacificazione.
 
@@ -166,7 +172,8 @@ Risposta: dopo le guerre, continuare odio e rancore significa uccidere di nuovo 
 ## Errori da evitare
 
 - Dire che Ungaretti è solo ermetico: **solo una fase** è propriamente legata all'Ermetismo.
-- Confondere Futurismo e Ungaretti: riprende alcune forme, ma rifiuta l'esaltazione della guerra.
+- Confondere Futurismo e Ungaretti: riprende alcune forme, ma rifiuta l'esaltazione della guerra come **"sola igiene del mondo"**.
 - Dimenticare la vicenda editoriale: **1916 Porto sepolto, 1919 Allegria di naufragi, 1931 L'Allegria**.
+- Dimenticare che ***Allegria di naufragi*** è un **ossimoro**: naufragio della guerra e allegria come amore per la vita.
 - Dimenticare il documentario: segreto, pezzetti di carta, parola impotente, guerra come atto bestiale.
 - Scrivere accenti sbagliati: **è**, **perché**, **così**, **sì**.

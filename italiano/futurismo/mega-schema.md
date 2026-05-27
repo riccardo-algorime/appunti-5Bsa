@@ -20,7 +20,7 @@
 
 ### 1.1 Il primo movimento d'avanguardia
 
-Il Futurismo si configura come il **primo movimento d'avanguardia** che si sviluppa in Italia tra il primo e il secondo decennio del Novecento. La parola stessa — *avanguardia* — appartiene al lessico militare: indica quei soldati che precedono la guardia, che vanno in **avanscoperta**, che entrano in un territorio prima degli altri. E proprio come un reparto d'avanscoperta, il Futurismo si propone di esplorare qualcosa che non era mai stato fatto: di **innovare**, rompendo con tutto ciò che lo precede.
+Il Futurismo si configura come il **primo movimento d'avanguardia** che si sviluppa in Italia tra il primo e il secondo decennio del Novecento. La parola stessa — *avanguardia* — appartiene al lessico militare: indica quei soldati che precedono la guardia, che vanno in **avanscoperta**, che entrano in un territorio prima degli altri. E proprio come un reparto d'avanscoperta, il Futurismo si propone di esplorare qualcosa che non era mai stato fatto: di **innovare**, rompendo con tutto ciò che lo precede e portando novità dove la cultura tradizionale vede solo continuità.
 
 Questo movimento non si limita alla letteratura. I futuristi conducono una contestazione **globale**: letteratura, arte, teatro, persino la cucina vengono investiti dalla loro furia rinnovatrice. Il gruppo pubblica una serie di **manifesti** che si propongono di dare regole nuove per uscire da un passato sentito come anacronistico e superato.
 
@@ -59,7 +59,7 @@ Il cuore del programma futurista è un progetto di **eversione**: un sovvertimen
 
 - **«Bruciamo i musei»**: i musei contengono il passato che non ha più nulla da dire al presente
 - **«Uccidiamo il chiaro di luna»**: il chiaro di luna è un simbolo della tradizione poetica da Petrarca a Leopardi, e va abbattuto
-- La **museificazione** dell'arte è un atto di morte: museificare le opere significa ucciderle, cristallizzarle nell'immobilismo
+- La **museificazione** dell'arte è un atto di morte: museificare le opere significa ucciderle, cristallizzarle nell'immobilismo e trasformare la vita dell'arte in forma statica
 
 La tradizione è vista come un **carcere**, una prigione da cui liberarsi. Ogni forma di culto del passato — dalla scuola ai musei, dalle biblioteche alle accademie — rappresenta un ostacolo alla creatività e all'energia vitale.
 
@@ -199,6 +199,8 @@ Marinetti è l'**animatore del gruppo** futurista, il suo punto di riferimento t
 L'opera poetica più celebre di Marinetti è **Zang Tumb Tumb** (1914), una descrizione **fonosimbolica** di un episodio della guerra d'Africa. Già il titolo è significativo: è costituito da un'**onomatopea** che riproduce il suono della guerra, delle esplosioni, dei colpi.
 
 Il testo mette in pratica tutti i principi enunciati nel Manifesto tecnico: le parole sono in libertà, la sintassi è distrutta, il ritmo riproduce i suoni della battaglia. Marinetti fa ricorso all'**onomatopea propria** per riprodurre i suoni della guerra e utilizza i **caratteri tipografici** come strumento espressivo: il grassetto che si amplifica corrisponde a un ampliamento della voce, gli spazi bianchi esprimono il silenzio in rapporto al suono, la distanza tra le lettere produce variazioni nel ritmo che si intensifica o si affievolisce. Troviamo anche **segni grafici** (linee verticali), **segni algebrici** (più, meno, diviso, parentesi), **ripetizioni di lettere** interne alle parole (come «vibraaaare») e persino **disegni**.
+
+Questo uso degli **spazi bianchi**, dell'essenzialità e dell'abolizione della punteggiatura permette un confronto con **Ungaretti** sul piano formale: anche Ungaretti valorizza il vuoto della pagina e la parola isolata. La differenza, però, è ideologica e decisiva: il Futurismo esalta la guerra come «sola igiene del mondo», mentre Ungaretti, dall'esperienza della trincea, non recupera questa glorificazione interventista.
 
 #### Marcia futurista — Parole in libertà
 

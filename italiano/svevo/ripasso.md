@@ -9,7 +9,7 @@ Lingue: dialetto triestino, tedesco, italiano.
 Professione: impiegato di banca, poi industriale Veneziani.  
 Scrittura: ossessione, autoanalisi, terapia.  
 Joyce: insegnante d'inglese e primo estimatore.  
-Freud: psicoanalisi utile come strumento letterario, non come cura sicura.
+Freud: psicoanalisi fondamentale come strumento letterario, non come cura efficace. Svevo non crede nella guarigione psicoanalitica, ma usa la psicoanalisi per raccontare inconscio, memoria e autoinganno.
 
 ---
 
@@ -27,6 +27,7 @@ Freud: psicoanalisi utile come strumento letterario, non come cura sicura.
 | **Malattia** | Non solo individuale: coincide con la vita e con la civiltà moderna |
 | **Alienazione** | Estraneità dell'individuo rispetto a sé e alla società |
 | **Ordigno** | Tecnica esterna al corpo; simbolo della civiltà malata e distruttiva |
+| **Ironia di Zeno** | Distacco che gli permette di guardare la propria malattia e sopravvivere dove Alfonso ed Emilio falliscono |
 
 ---
 
@@ -37,6 +38,8 @@ Freud: psicoanalisi utile come strumento letterario, non come cura sicura.
 | **Una vita** (1893) | Alfonso Nitti | Inetto, "nulla", non sa afferrare il reale | Suicidio |
 | **Senilità** (1898) | Emilio Brentani | Autoinganno, grandezza latente, senilità interiore | Fuga nel sogno |
 | **La coscienza di Zeno** (1923) | Zeno Cosini | Inetto ironico, nevrosi, caso, narratore inaffidabile | Successo paradossale + finale apocalittico |
+
+Evoluzione da dire bene: Alfonso è l'inetto tragico, Emilio è l'inetto che si rifugia nell'illusione, Zeno è l'inetto che resta malato ma acquista ironia e consapevolezza.
 
 ---
 
@@ -95,6 +98,7 @@ Da ricordare:
 
 - Dottor S. = forse Svevo, Sigmund, o Z allo specchio
 - autobiografia scritta, non terapia orale classica
+- la cura fallisce, ma produce il romanzo: la psicoanalisi diventa letteratura
 - il lettore è avvertito: ci saranno **verità e bugie**
 - **transfer**: il paziente proietta sul medico sentimenti inconsci
 - **controtransfert**: sentimenti del medico verso il paziente
@@ -153,6 +157,8 @@ Freud: **atto mancato**, **lapsus** e **sogni** sono emersioni dell'inconscio. L
 ## Finale: Psicanalisi e apocalisse
 
 Nel finale Zeno rifiuta la psicanalisi: ha capito che la malattia non è solo sua, ma della vita e della civiltà intera.
+
+Frase da ricordare: Svevo non crede nella psicoanalisi come terapia, ma la considera fondamentale come strumento letterario; Zeno capisce che la malattia non si cura perché coincide con la vita stessa.
 
 | Concetto | Spiegazione |
 |----------|-------------|

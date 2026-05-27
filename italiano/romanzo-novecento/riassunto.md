@@ -24,11 +24,13 @@ Il romanzo dell'Ottocento — il cui esempio italiano è *I Promessi Sposi* di M
 
 Il romanzo novecentesco sovverte tutti e tre questi pilastri.
 
-**Primo: muta il punto di vista.** Il campo visivo del narratore si restringe fino a coincidere con quello di un singolo personaggio. Non c'è più un narratore-Dio: la storia viene filtrata dalla coscienza soggettiva di chi la vive. Ne *La coscienza di Zeno*, l'io narrante è Zeno e i suoi giudizi sono sempre relativi, dipendenti dal suo punto di vista. Questa soggettivizzazione si esprime spesso nella forma della **confessione autobiografica** o delle **memorie**.
+**Primo: muta il punto di vista.** Il campo visivo del narratore si restringe fino a coincidere con quello di un singolo personaggio. Non c'è più un narratore-Dio: la storia viene filtrata dalla coscienza soggettiva di chi la vive. Ne *La coscienza di Zeno*, l'io narrante è Zeno e i suoi giudizi sono sempre relativi, dipendenti dal suo punto di vista. Il narratore può quindi diventare **inattendibile**, perché offre una versione parziale e deformata dei fatti, non una verità oggettiva. Questa soggettivizzazione si esprime spesso nella forma della **confessione autobiografica** o delle **memorie**.
 
 **Secondo: muta la concezione del tempo.** Il tempo non è più una serie di momenti successivi oggettivi, ma viene **interiorizzato** e diventa **soggettivo**: un'ora di lezione sembra più lunga di un'ora di svago, i cinque minuti di attesa di qualcuno desiderato non durano quanto quelli che mancano all'intervallo. Questo tempo soggettivo è quello che domina il Novecento. *La coscienza di Zeno* non segue un ordine cronologico, ma è organizzata in **nuclei tematici** (*Il fumo*, *La morte di mio padre*, *Storia del mio matrimonio*...) in cui presente, passato e futuro si intrecciano. Alla base vi è il pensiero di **Henri Bergson**, che teorizza il tempo come **durata**: non una successione di momenti separati, ma un fluire in cui i momenti si compenetrano.
 
-**Terzo: muta il personaggio.** Il protagonista novecentesco non è più granitico, ma è **ambiguo, incerto, sfumato** — un personaggio **in fieri** (in divenire) che si muove su più piani psicologici e si trova spesso in una condizione di **estraniamento** e **solitudine** rispetto al mondo.
+**Terzo: muta il personaggio.** Il protagonista novecentesco non è più granitico, ma è **ambiguo, incerto, sfumato** — un personaggio **in fieri** (in divenire) che si muove su più piani psicologici e si trova spesso in una condizione di **estraniamento** e **solitudine** rispetto al mondo. In una formula da interrogazione: il romanzo psicologico del Novecento nasce dalla **riduzione del narratore alla coscienza del personaggio**, dal **tempo soggettivo** e dal **personaggio mutevole e ambiguo**.
+
+Questa crisi si collega al **relativismo gnoseologico** di Pirandello: non esiste una realtà unica conoscibile una volta per tutte, ma **tante verità quante sono le persone**. Perciò il romanzo novecentesco non presenta più certezze compatte, ma punti di vista parziali e identità instabili.
 
 ```mermaid
 flowchart LR
@@ -100,22 +102,22 @@ flowchart TD
 
 | Tecnica | Definizione | Caratteristiche | Esempio |
 |---------|-------------|-----------------|---------|
-| **Monologo interiore** | Pensieri del personaggio in prima persona, come rivolti a un interlocutore | Mantiene la struttura sintattica; il personaggio "parla a se stesso" | Preambolo de *La coscienza di Zeno* (Svevo, 1923) |
-| **Flusso di coscienza** | Registrazione dei pensieri secondo il flusso spontaneo e alogico della mente | Scompare la punteggiatura; si procede per libere associazioni; rappresentazione mimetica del pensiero | *Ulisse* (Joyce, 1922) |
+| **Monologo interiore** | Pensieri del personaggio in prima persona, come rivolti a un interlocutore | Mantiene una struttura logica e sintattica; il personaggio "parla a se stesso" | Preambolo de *La coscienza di Zeno* (Svevo, 1923) |
+| **Flusso di coscienza** | Registrazione dei pensieri secondo il flusso spontaneo e alogico della mente | Punteggiatura assente o ridotta; sintassi disgregata; libere associazioni; rappresentazione mimetica del pensiero | *Ulisse* (Joyce, 1922) |
 
-Il **monologo interiore** è la presentazione in prima persona dei pensieri del personaggio come se fossero rivolti a un interlocutore: il personaggio parla a se stesso, mantenendo però una struttura sintattica e logica riconoscibile.
+Il **monologo interiore** è la presentazione in prima persona dei pensieri del personaggio come se fossero rivolti a un interlocutore: il personaggio parla a se stesso, mantenendo però una struttura sintattica e logica riconoscibile. È la tecnica usata da Zeno nel *Preambolo*, quando racconta di volersi autocurare e di essersi comprato un volume di psicanalisi: non bisogna confonderla con il flusso di coscienza.
 
 Il **flusso di coscienza** è più radicale: registra i pensieri secondo un **flusso spontaneo e alogico**, secondo il principio di disordine con cui i pensieri si presentano alla mente. Vengono meno la grammatica convenzionale e la punteggiatura, perché la psiche procede per **libere associazioni** — lo stesso meccanismo su cui si fonda la **psicanalisi freudiana**. Ne *L'Ulisse* di Joyce (1922):
 
 > ...se pensa di perché prima non ha mai fatto una cosa del genere chiedere la colazione a letto con due uova da quando eravamo all'albergo City Arms quando faceva finta di star male con la voce da sofferente...
 
-I pensieri scorrono senza filtri, senza punteggiatura, per associazione spontanea: è una **rappresentazione mimetica del pensiero** così com'è nella mente, senza che il narratore funga da filtro logico.
+I pensieri scorrono senza filtri, senza punteggiatura, per associazione spontanea: è una **rappresentazione mimetica del pensiero** così com'è nella mente, senza che il narratore funga da filtro logico. Formula da ricordare: **Zeno = monologo interiore; Joyce = flusso di coscienza**.
 
 ---
 
 ## 5. Italo Svevo e *La coscienza di Zeno*
 
-*La coscienza di Zeno* (1923) è il romanzo più importante di Svevo e uno dei paradigmi del romanzo novecentesco in Italia. Concentra in sé tutte le innovazioni del Novecento: il **punto di vista ristretto** della coscienza soggettiva di Zeno (i cui giudizi sono sempre relativi, mai assoluti); il **tempo soggettivo** organizzato per nuclei tematici anziché in ordine cronologico; la **forma autobiografica** delle memorie. Insieme a **Luigi Pirandello** (*Il fu Mattia Pascal*, *Uno, nessuno e centomila*), Svevo è il massimo esponente del **romanzo psicologico** italiano, incentrato sull'esplorazione dell'interiorità, sulla frammentazione dell'identità e sulla crisi delle certezze.
+*La coscienza di Zeno* (1923) è il romanzo più importante di Svevo e uno dei paradigmi del romanzo novecentesco in Italia. Concentra in sé tutte le innovazioni del Novecento: il **punto di vista ristretto** della coscienza soggettiva di Zeno (i cui giudizi sono sempre relativi, mai assoluti); il **narratore inattendibile**, perché Zeno ricostruisce la propria vita giustificandosi e contraddicendosi; il **tempo soggettivo** organizzato per nuclei tematici anziché in ordine cronologico; la **forma autobiografica** delle memorie. La psicanalisi è fondamentale come strumento letterario di indagine della psiche, anche se Svevo non crede davvero nella sua efficacia terapeutica: Zeno abbandona la cura e arriva a pensare che la vita stessa sia malata. Insieme a **Luigi Pirandello** (*Il fu Mattia Pascal*, *Uno, nessuno e centomila*), Svevo è il massimo esponente del **romanzo psicologico** italiano, incentrato sull'esplorazione dell'interiorità, sulla frammentazione dell'identità e sulla crisi delle certezze.
 
 ---
 

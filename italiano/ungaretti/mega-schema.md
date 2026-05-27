@@ -65,6 +65,8 @@ Ungaretti incontra anche italiani legati all'avanguardia, come **Soffici**, **Pa
 
 > [!note] Dalla lezione
 > Nel filmato visto l'11/05, Ungaretti ricorda il caffè parigino **La Closerie des Lilas**, dove si riunivano poeti di vari paesi. Dice di aver incontrato lì Soffici, Palazzeschi e Papini, arrivati a Parigi nell'ambiente di Apollinaire. Le prime poesie uscirono su **Lacerba**.
+>
+> Nelle interrogazioni del 21/05 e del 25/05 la professoressa insiste sul fatto che questo contatto con l'avanguardia non rende Ungaretti un futurista in senso pieno: il suo è soprattutto un **debito formale**, non ideologico.
 
 ### 1.3 Carso e Isonzo: la guerra come rivelazione tragica
 
@@ -112,6 +114,8 @@ La raccolta fondamentale della prima fase non nasce subito nella forma definitiv
 | **1931** | ***L'Allegria*** | Titolo definitivo della prima grande raccolta |
 
 Il titolo *Allegria di naufragi* è già ossimorico: il naufragio è distruzione, perdita, crollo; l'allegria è invece slancio vitale. Questo contrasto esprime bene la scoperta ungarettiana: nel punto massimo della precarietà può nascere un attaccamento ancora più forte alla vita.
+
+Nella spiegazione d'interrogazione il **naufragio** rimanda soprattutto alla guerra e alla condizione estrema della trincea, mentre l'**allegria** indica l'amore per la vita scoperto proprio quando la vita è minacciata. Quando nel 1931 il titolo si riduce a *L'Allegria*, cade il termine del naufragio e resta in primo piano quel sentimento vitale.
 
 ### 2.2 Le raccolte successive
 
@@ -229,7 +233,7 @@ La pagina bianca è altrettanto importante. Le parole sono brevi, isolate, separ
 | **Titolo come verso zero** | Il titolo orienta la lettura e completa il significato |
 | **Date e luoghi** | Funzione diaristica: la poesia nasce da una situazione concreta |
 | **Analogia** | Accostamento di elementi lontani, spesso senza passaggi logici espliciti |
-| **Fonosimbolismo** | Il suono delle parole rafforza il significato |
+| **Fonosimbolismo** | Il suono delle parole rafforza il significato; in *Veglia* le dentali **t** e **d** rendono la durezza della scena |
 | **Ossimoro** | Accostamento di opposti: "nulla d'inesauribile segreto", "corolla di tenebre" |
 | **Adynaton** | Figura dell'impossibile, centrale in *Non gridate più*: "Cessate d'uccidere i morti" |
 
@@ -241,9 +245,13 @@ Ungaretti risente del Futurismo:
 - nella rottura della sintassi tradizionale;
 - nell'attenzione allo spazio bianco;
 - nella libertà del verso;
+- nei **versicoli** e nelle parole isolate, vicini alla ricerca futurista sulla parola libera;
+- nell'uso fonosimbolico dei suoni;
 - nei contatti con **Lacerba**.
 
-Però non coincide con il Futurismo. Il Futurismo esalta la guerra come "igiene del mondo"; Ungaretti, dopo averla vissuta, la mostra come dolore, disumanità, precarietà. Nel video dell'11/05 afferma che la guerra resta **"l'atto più bestiale dell'uomo"**.
+Però non coincide con il Futurismo. Il **Manifesto tecnico della letteratura futurista** proponeva abolizione di molta punteggiatura, libertà sintattica, parole in libertà, verbi all'infinito, riduzione degli aggettivi e degli avverbi. Ungaretti riprende alcune conseguenze formali di quel clima, ma le piega a un'esigenza diversa: concentrare l'esperienza e dare valore al silenzio.
+
+La differenza decisiva è ideologica. Il Futurismo esalta la guerra come **"sola igiene del mondo"**; Ungaretti, dopo averla vissuta, la mostra come dolore, disumanità, precarietà. Nel video dell'11/05 afferma che la guerra resta **"l'atto più bestiale dell'uomo"**.
 
 ### 5.3 Apollinaire e i calligrammi
 
@@ -285,6 +293,8 @@ Il lessico è durissimo: "buttato", "massacrato", "digrignata", "congestione". L
 
 - "buttato" disumanizza il poeta, come se fosse uno scarto;
 - "massacrato" è parola-verso;
+- il titolo *Veglia* funziona come **verso zero**: chiarisce che tutta la scena è una notte passata accanto al morto;
+- le **t** di "buttato" e le **d** di "digrignata" e "penetrata" hanno valore fonosimbolico, perché il suono secco imita la violenza della situazione;
 - dopo molti versi arriva il verbo reggente "ho scritto";
 - le "lettere piene d'amore" sono in antitesi con la morte;
 - la vita si scopre nel momento in cui è negata.
@@ -391,7 +401,9 @@ Il documentario visto in classe è utile come **testimonianza diretta**. Non è 
 
 ### 8.1 Futurismo
 
-Ungaretti condivide con il Futurismo alcune scelte formali: libertà metrica, abolizione o riduzione della punteggiatura, centralità della parola isolata, uso espressivo della pagina. Tuttavia si allontana radicalmente dall'ideologia futurista della guerra: la guerra non è igiene, ma dolore e disumanizzazione.
+Ungaretti condivide con il Futurismo alcune scelte formali: libertà metrica, abolizione o riduzione della punteggiatura, centralità della parola isolata, uso espressivo della pagina, attenzione fonosimbolica ai suoni. Il legame passa anche da **Lacerba**, su cui pubblica le prime poesie.
+
+Tuttavia si allontana radicalmente dall'ideologia futurista della guerra. Per il Futurismo la guerra è la **"sola igiene del mondo"**; per Ungaretti, che la vive nella trincea del Carso, è naufragio, dolore e disumanizzazione. Per questo il rapporto va formulato così: **debito formale, non adesione ideologica**.
 
 ### 8.2 Apollinaire
 

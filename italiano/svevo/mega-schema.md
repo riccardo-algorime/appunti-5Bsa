@@ -43,7 +43,7 @@ Nel primo Novecento due incontri sono decisivi.
 **Freud e la psicoanalisi** arrivano presto a Trieste per la vicinanza con l'area austriaca. Svevo è interessato alla psicoanalisi, ma in modo critico: non la considera davvero efficace come cura medica, mentre la ritiene importantissima come strumento letterario per raccontare inconscio, nevrosi, memoria, autoinganno e malattia.
 
 > [!note] Dalla lezione
-> Per Svevo la psicoanalisi è inutile come guarigione, ma molto interessante come letteratura. La vera cura, per lui, è la scrittura.
+> Per Svevo la psicoanalisi è inutile come guarigione, ma è **fondamentale** dal punto di vista letterario: permette al romanzo del Novecento di concentrarsi sulla psiche, sulle contraddizioni dell'io e sull'inconscio. La vera cura, per lui, resta la scrittura.
 
 ---
 
@@ -82,6 +82,8 @@ La conclusione più radicale è che la malattia coincide con la vita stessa: se 
 Il personaggio chiave della narrativa sveviana è l'**inetto**, dal latino *in-aptus*, cioè inadatto. L'inetto è inadatto alla vita pratica perché è abulico, privo di volontà stabile, incapace di agire con decisione.
 
 Alfonso Nitti, Emilio Brentani e Zeno Cosini sono tre forme diverse di inettitudine. La differenza è nell'esito: Alfonso si suicida, Emilio fugge nel sogno, Zeno sopravvive grazie al caso e all'ironia.
+
+L'evoluzione è importante: nei primi due romanzi l'inetto è soprattutto sconfitto, mentre in *La coscienza di Zeno* l'inettitudine diventa anche una forma di lucidità. Zeno non è più capace degli altri, ma sa guardare la propria condizione da una certa distanza: il **distacco ironico** gli permette di raccontare una situazione tragica con leggerezza e di accettare, almeno in parte, la malattia.
 
 ### 3.2 Ipertrofia della coscienza
 
@@ -223,6 +225,8 @@ La **Prefazione** è scritta dal **Dottor S.**, lo psicanalista di Zeno. Il nome
 
 Il Dottor S. dichiara di pubblicare le memorie del paziente per **vendetta**, perché Zeno ha abbandonato la cura. Questa scelta è professionalmente scorretta: il medico viola il rapporto con il paziente e propone perfino di dividere con lui i guadagni se riprenderà la terapia. Sembra quasi un ricatto.
 
+La terapia stessa nasce in modo particolare: il medico ha chiesto a Zeno di scrivere un'autobiografia, lasciando affiorare pensieri e ricordi. Zeno però non rispetta davvero le indicazioni, interrompe il percorso e trasforma l'analisi in un testo letterario. Già nella Prefazione, quindi, la psicoanalisi appare ambigua: fallisce come cura ordinata, ma produce il romanzo.
+
 > [!note] Dalla lezione
 > Il lettore non può fidarsi neppure del Dottor S.: anche lui è risentito, interessato, coinvolto. L'inaffidabilità non riguarda solo Zeno, ma anche chi lo introduce.
 
@@ -241,6 +245,8 @@ Il **controtransfert** è invece l'insieme dei sentimenti che il medico prova ve
 Nel **Preambolo** parla Zeno. È un esempio di **monologo interiore**: Zeno si rivolge a se stesso, tenta di ricordare l'infanzia e commenta il proprio stesso tentativo.
 
 Il medico gli aveva consigliato di non ostinarsi subito a guardare troppo lontano, ma Zeno disobbedisce. Vuole cominciare **ab ovo**, cioè dall'origine. Compra e legge un trattato di psicoanalisi, giudicandolo facile ma noioso: prova a curarsi da solo, con presunzione e sfiducia verso la disciplina.
+
+Questo conferma il rapporto ambivalente con la psicoanalisi: Zeno la usa, la studia, ne assume il linguaggio, ma contemporaneamente la svaluta e la disobbedisce. Per Svevo questo è decisivo: la psicoanalisi non guarisce il personaggio, però offre al romanzo il metodo per scavare nella memoria, nell'inconscio e nelle bugie dell'io.
 
 ### 8.1 Gli occhi presbiti e l'infanzia
 
@@ -369,6 +375,8 @@ Zeno polemizza con la psicanalisi perché ha compreso che la sua malattia non è
 
 Zeno si dichiara guarito, ma questa guarigione è ambigua: coincide soprattutto con il rifiuto della psicanalisi, che vede patologia dove per Zeno c'è semplicemente vita.
 
+Qui si capisce il punto più radicale: Zeno non scopre di essere sano, ma scopre che non esiste una salute separata dalla vita. Se la vita è crisi, desiderio, nevrosi, errore, invecchiamento e morte, allora la malattia non è un incidente da eliminare: è la condizione stessa dell'esistenza. Per questo la psicoanalisi può interpretare i sintomi, ma non può cancellare la malattia dell'uomo.
+
 ### 14.1 Vita, malattia e morte
 
 Nel finale Zeno afferma che la vita somiglia alla malattia, procede per crisi, miglioramenti e peggioramenti, ma a differenza delle altre malattie è **sempre mortale**. Non sopporta cure: volerla curare sarebbe assurdo come voler curare i buchi del corpo considerandoli ferite.
@@ -438,9 +446,9 @@ flowchart TD
 
 | Romanzo | Protagonista | Meccanismo | Esito |
 |---------|--------------|------------|-------|
-| *Una vita* | Alfonso Nitti | Non ha mani per afferrare il reale; ha solo voli poetici | Suicidio |
-| *Senilità* | Emilio Brentani | Autoinganno, grandezza latente, senilità interiore | Fuga nel sogno |
-| *La coscienza di Zeno* | Zeno Cosini | Nevrosi, ironia, caso, narratore inaffidabile | Successo paradossale e diagnosi cosmica della malattia |
+| *Una vita* | Alfonso Nitti | Non ha mani per afferrare il reale; ha solo voli poetici | Suicidio: l'inettitudine resta tragica |
+| *Senilità* | Emilio Brentani | Autoinganno, grandezza latente, senilità interiore | Fuga nel sogno e nell'illusione |
+| *La coscienza di Zeno* | Zeno Cosini | Nevrosi, ironia, caso, narratore inaffidabile | Successo paradossale, accettazione della malattia e diagnosi cosmica |
 
 ---
 

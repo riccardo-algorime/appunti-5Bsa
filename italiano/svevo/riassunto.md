@@ -24,6 +24,8 @@ La sua vita è doppia: da un lato impiegato e poi industriale, dall'altro scritt
 
 Nel primo Novecento sono importanti due incontri: **Joyce**, suo insegnante d'inglese e poi estimatore, e **Freud**, conosciuto attraverso la psicoanalisi. Svevo non crede molto nella psicoanalisi come cura, ma la considera uno strumento letterario decisivo per raccontare nevrosi, autoanalisi e inconscio.
 
+Questo punto va tenuto distinto: Svevo non si fida della psicoanalisi come terapia capace di guarire l'uomo, ma la giudica **fondamentale** per il romanzo psicologico del Novecento, perché permette di indagare la psiche, l'io diviso, i sintomi, i ricordi deformati e le bugie che il soggetto racconta a se stesso.
+
 ---
 
 ## 2. Malattia, borghesia e inetto
@@ -33,6 +35,8 @@ La narrativa sveviana parte dall'idea che l'uomo moderno sia malato. La malattia
 Il personaggio tipico è l'**inetto**, cioè l'inadatto alla vita. L'inetto non agisce: pensa troppo, rimugina, si blocca. La lezione definisce questo meccanismo **ipertrofia della coscienza**: la coscienza è eccessivamente alimentata e ostacola l'azione.
 
 Da qui nasce l'opposizione tra **lottatori** e **contemplatori**. I lottatori agiscono e si adattano alla vita, secondo un retroterra darwiniano di lotta per la sopravvivenza. I contemplatori, invece, guardano, pensano, sognano, ma non afferrano il reale.
+
+Nei tre romanzi l'inetto evolve: **Alfonso** è l'inetto tragico che trova come uscita il suicidio; **Emilio** resta sconfitto e si rifugia nell'immaginazione; **Zeno** è ancora inetto, ma introduce la novità dell'**ironia**, cioè la capacità di guardare la propria malattia da lontano e di sopravvivere dentro di essa.
 
 ---
 
@@ -56,6 +60,8 @@ Il capolavoro del 1923 ha come protagonista **Zeno Cosini**. *Zeno* richiama *xe
 
 La **Prefazione** è scritta dal **Dottor S.**, psicanalista di Zeno. Egli pubblica le memorie del paziente per vendetta, perché Zeno ha abbandonato la cura. Questo rende inaffidabile anche il medico. Fin dall'inizio il lettore sa che leggerà un insieme di **verità e bugie**. Entrano anche i concetti di **transfer** e **controtransfert**: il paziente proietta sul medico vissuti inconsci, ma anche il medico prova sentimenti verso il paziente e dovrebbe saperli governare.
 
+La Prefazione mostra anche il paradosso della psicoanalisi nel romanzo: il Dottor S. vorrebbe usarla come cura e impone a Zeno di scrivere un'autobiografia, ma la terapia fallisce e il materiale clinico diventa letteratura. Il medico, vendicativo e interessato al guadagno, non è una guida neutrale.
+
 Nel **Preambolo**, Zeno tenta un'autoanalisi. Vuole cominciare **ab ovo**, dall'origine, cioè dall'infanzia, ma disobbedisce al medico e prova a curarsi da solo leggendo un trattato di psicoanalisi. È un monologo interiore. Vede una locomotiva che trascina vagoni in salita, immagine del peso del vivere, e un bambino in fasce, che chiama "povero bambino" perché chi nasce è già destinato alla malattia del vivere. Il finale **"ritenterò domani"** riassume il suo carattere: propositi continui, sempre rimandati.
 
 Nel capitolo del **fumo**, Zeno annota continuamente **U.S.**, "ultima sigaretta", su libri, fogli e pareti. Sceglie date simboliche, come il 2 febbraio 1886, il 9/9/1899 o l'1/1/1901, sperando che inaugurino una nuova vita. Ma ogni ultima sigaretta è seguita da un'altra: la stanza diventa il **cimitero dei buoni propositi**. Il fumo è anche un alibi, perché Zeno può attribuire al vizio la colpa della propria incapacità.
@@ -69,6 +75,8 @@ Il rapporto col padre culmina nello **schiaffo**: il padre moribondo lascia cade
 ## 4. Il finale
 
 L'ultimo capitolo, **Psicanalisi**, chiude circolarmente il romanzo. Zeno rifiuta la psicoanalisi perché capisce che la sua malattia non è individuale: è la vita stessa a essere malata. Anche la civiltà è malata, alienata, dominata dalla società borghese, dal capitalismo e dalla spirale produttivistica.
+
+Zeno quindi non guarisce nel senso medico: si autoproclama guarito perché capisce che non c'è una salute pura da recuperare. La malattia non è solo una sua nevrosi, ma coincide con la vita stessa, fatta di crisi, desideri, contraddizioni e morte. La psicoanalisi può interpretare questa condizione, non eliminarla.
 
 Nel finale la vita somiglia alla malattia ed è sempre mortale. La vita attuale è "inquinata alle radici": l'uomo occupa lo spazio, inquina, soffoca. Gli animali si adattano trasformando il corpo; l'uomo invece, "occhialuto", inventa **ordigni** fuori dal corpo. Gli ordigni lo rendono più furbo ma più debole, e la legge del più forte viene sostituita dalla legge di chi possiede più strumenti.
 

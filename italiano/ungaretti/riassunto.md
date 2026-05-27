@@ -20,6 +20,8 @@ Alessandria è la città della nascita e dell'infanzia. È anche la città del m
 
 Prima della guerra Ungaretti si trasferisce a **Parigi**, studia alla **Sorbona** e frequenta gli ambienti delle avanguardie. Qui incontra il mondo di **Apollinaire**, dei **calligrammi**, del Futurismo e di riviste come **Lacerba**, su cui pubblica le prime poesie. Da Parigi ricava un'idea moderna della poesia e della pagina.
 
+Questo contatto non significa che Ungaretti sia un futurista pieno: nelle lezioni è stato chiarito che il rapporto è soprattutto un **debito formale**. Riprende alcune innovazioni dell'avanguardia, ma non l'ideologia futurista della guerra.
+
 ### Guerra, Carso e Isonzo
 
 Nel 1914 Ungaretti è **interventista**; nel 1915 si arruola volontario e viene mandato sul **Carso**, presso l'**Isonzo**, in trincea. Qui scopre la realtà brutale della guerra: dolore, precarietà, paura, morte, ma anche fratellanza tra uomini fragili. La prima fase della sua poesia nasce proprio lì, spesso su pezzetti di carta, cartoline o materiali di fortuna.
@@ -33,6 +35,8 @@ Dopo la guerra vive anche a **Roma**. Nel 1923 ripubblica *Il porto sepolto* con
 ## 2. Le opere e le fasi poetiche
 
 La prima grande raccolta ha una vicenda editoriale progressiva: nel **1916** esce ***Il porto sepolto***; nel **1919** confluisce in ***Allegria di naufragi***; nel **1931** prende il titolo definitivo di ***L'Allegria***. Questa fase è legata alla guerra e alla trincea: le poesie sono come un diario essenziale della precarietà.
+
+***Allegria di naufragi*** è un titolo ossimorico: il **naufragio** rimanda alla guerra e alla condizione estrema, mentre l'**allegria** è l'attaccamento alla vita che nasce proprio nel momento massimo della tragicità. Nel titolo definitivo resta solo *L'Allegria*, cioè il sentimento vitale scoperto dentro il naufragio.
 
 Negli anni Trenta si colloca ***Sentimento del tempo***. Qui Ungaretti si avvicina all'**Ermetismo**: la poesia diventa più oscura, concentrata sulla **parola pura**, e recupera anche forme più tradizionali, come l'**endecasillabo**. Nella lezione questo allontanamento dalla storia è stato letto anche come una forma di resistenza passiva al fascismo, pur dentro una sua adesione formale.
 
@@ -54,7 +58,7 @@ Il **titolo** spesso funziona come **verso zero**, cioè dà la chiave per capir
 
 Nella prima fase Ungaretti usa **versicoli**, **parole-verso**, verso libero, assenza o scelta selettiva della punteggiatura. Sono elementi che risentono del **Futurismo**, ma il significato è diverso: i futuristi esaltavano la guerra, Ungaretti la vive come dolore e come scoperta della fragilità umana.
 
-Ricorrono spesso l'**analogia**, il **fonosimbolismo**, l'**ossimoro** e, in *Non gridate più*, l'**adynaton**. Le date e i luoghi danno alle poesie un valore diaristico: non sono testi astratti, ma nascono da un'esperienza precisa.
+Il Futurismo parla di guerra come **"sola igiene del mondo"**; Ungaretti, invece, la mostra come naufragio e disumanizzazione. Per questo bisogna dire: **debito formale, non adesione ideologica**. Ricorrono spesso l'**analogia**, il **fonosimbolismo**, l'**ossimoro** e, in *Non gridate più*, l'**adynaton**. Le date e i luoghi danno alle poesie un valore diaristico: non sono testi astratti, ma nascono da un'esperienza precisa.
 
 ---
 
@@ -66,7 +70,9 @@ Ricorrono spesso l'**analogia**, il **fonosimbolismo**, l'**ossimoro** e, in *No
 
 ### *Veglia*
 
-Il poeta passa una notte accanto a un compagno massacrato. L'orrore della morte produce per contrasto un attaccamento fortissimo alla vita. Il lessico è duro e fonosimbolico: "buttato", "massacrato", "digrignata", "penetrata". La conclusione esprime la scoperta vitale dentro l'assurdità della guerra.
+Il poeta passa una notte accanto a un compagno massacrato. Il titolo funziona come **verso zero**, perché chiarisce la situazione della poesia: una veglia nella trincea, vicino al morto. L'orrore della morte produce per contrasto un attaccamento fortissimo alla vita.
+
+Il lessico è duro e fonosimbolico: "buttato", "massacrato", "digrignata", "penetrata". Le **t** e le **d** hanno un suono secco, adatto a rendere la violenza della scena. "Buttato" è importante perché di solito si usa per gli oggetti: indica la disumanizzazione del soldato in trincea. La conclusione esprime la scoperta vitale dentro l'assurdità della guerra.
 
 ### *Fratelli*
 
@@ -96,4 +102,4 @@ Appartiene a *Il dolore*. Il verso "Cessate d'uccidere i morti" è un **adynaton
 
 ## 6. Collegamenti
 
-Ungaretti si collega al **Futurismo** per le innovazioni formali, ma lo supera perché rifiuta l'esaltazione della guerra. Si collega ad **Apollinaire** per l'esperienza parigina, i calligrammi e il rinnovamento della pagina poetica. Ha punti di contatto con **Pascoli** per analogia, fonosimbolismo e compresenza di vita e morte. Con **D'Annunzio** si può collegare in *I fiumi* per la fusione con la natura, ma Ungaretti non è superomistico: è una "docile fibra". È fondamentale per l'**Ermetismo** e va ricordato anche nel rapporto problematico con il **fascismo**.
+Ungaretti si collega al **Futurismo** per le innovazioni formali: Lacerba, punteggiatura ridotta, versicoli, parole isolate, spazio bianco e fonosimbolismo. Però lo supera perché rifiuta l'esaltazione della guerra. Si collega ad **Apollinaire** per l'esperienza parigina, i calligrammi e il rinnovamento della pagina poetica. Ha punti di contatto con **Pascoli** per analogia, fonosimbolismo e compresenza di vita e morte. Con **D'Annunzio** si può collegare in *I fiumi* per la fusione con la natura, ma Ungaretti non è superomistico: è una "docile fibra". È fondamentale per l'**Ermetismo** e va ricordato anche nel rapporto problematico con il **fascismo**.

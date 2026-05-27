@@ -29,7 +29,7 @@ Infine, il personaggio ottocentesco è **saldo e granitico** — un personaggio 
 
 Il romanzo del Novecento sovverte tutti e tre questi pilastri. I cambiamenti possono essere sintetizzati in tre punti fondamentali.
 
-**Primo: muta il punto di vista della narrazione.** Il campo visivo del narratore si restringe fino a coincidere con quello di un singolo personaggio. Non c'è più un narratore-Dio che vede tutto: la storia viene filtrata dalla coscienza soggettiva di chi la vive. Ne *La coscienza di Zeno*, ad esempio, l'io narrante è Zeno — o meglio la sua **coscienza**. I giudizi che Zeno esprime non sono mai assoluti ma sempre **relativi**, perché dipendono dal suo punto di vista e dal modo in cui gli eventi vengono filtrati dalla sua interiorità. Questa soggettivizzazione del racconto si esprime spesso nella forma della **confessione autobiografica**, delle **memorie** o della **novella**, che ripercorrono il vissuto del personaggio.
+**Primo: muta il punto di vista della narrazione.** Il campo visivo del narratore si restringe fino a coincidere con quello di un singolo personaggio. Non c'è più un narratore-Dio che vede tutto: la storia viene filtrata dalla coscienza soggettiva di chi la vive. Ne *La coscienza di Zeno*, ad esempio, l'io narrante è Zeno — o meglio la sua **coscienza**. I giudizi che Zeno esprime non sono mai assoluti ma sempre **relativi**, perché dipendono dal suo punto di vista e dal modo in cui gli eventi vengono filtrati dalla sua interiorità. Per questo il narratore novecentesco può essere anche **inattendibile**: non consegna una verità oggettiva, ma una versione parziale, deformata, spesso contraddittoria dei fatti. Questa soggettivizzazione del racconto si esprime spesso nella forma della **confessione autobiografica**, delle **memorie** o della **novella**, che ripercorrono il vissuto del personaggio.
 
 **Secondo: muta la concezione del tempo.** I protagonisti non sono più inseriti in un quadro cronologico certo. Il tempo non è più una serie di momenti successivi ma viene **interiorizzato** e diventa **soggettivo**.
 
@@ -41,6 +41,11 @@ Ne *La coscienza di Zeno* questa nuova concezione del tempo si riflette nella st
 Questi autori risentono profondamente del pensiero di **Henri Bergson**, il filosofo francese che teorizza il tempo come **durata**: non una successione ordinata di momenti separati, ma un fluire in cui i momenti si compenetrano l'uno nell'altro. È il **tempo dell'interiorità**, che ha un modo diverso di essere rispetto a quello dell'esteriorità e dell'orologio.
 
 **Terzo: muta il personaggio.** Il protagonista del romanzo novecentesco non è più saldo e granitico come quello dell'Ottocento, ma è **ambiguo, incerto, complesso e sfumato**. È un personaggio **in fieri** — espressione latina che significa "in divenire" — che si muove in una molteplicità di piani psicologici. E proprio perché è in divenire, perché è incerto e ambiguo, il personaggio novecentesco si trova spesso in una posizione di **estraniamento**, **isolamento** e **solitudine** rispetto al mondo in cui vive.
+
+> [!tip] Formula da interrogazione
+> Il romanzo psicologico del Novecento si riconosce da tre trasformazioni: **riduzione del narratore alla coscienza del personaggio**, **tempo da oggettivo a soggettivo**, **personaggio mutevole e ambiguo**. Da qui derivano il narratore inattendibile, la frantumazione dell'identità e l'impossibilità di una verità unica.
+
+Questa crisi della verità si collega al **relativismo gnoseologico** di Pirandello: non esiste una realtà univoca conoscibile in modo definitivo, ma **tante verità quante sono le persone**. È il superamento dell'idea ottocentesca di una realtà stabile e del Decadentismo inteso come ricerca di significati nascosti ancora decifrabili.
 
 ```mermaid
 flowchart LR
@@ -162,9 +167,9 @@ flowchart TD
 
 Le due principali tecniche narrative del romanzo del Novecento sono il **monologo interiore** e il **flusso di coscienza**.
 
-Con la tecnica del **monologo interiore** si intende la presentazione in prima persona dei pensieri del personaggio **come se fossero rivolti a un interlocutore**. Il personaggio parla, come se si rivolgesse a qualcuno, ma in realtà sta parlando a se stesso. Il monologo interiore mantiene ancora una struttura sintattica e logica riconoscibile.
+Con la tecnica del **monologo interiore** si intende la presentazione in prima persona dei pensieri del personaggio **come se fossero rivolti a un interlocutore**. Il personaggio parla, come se si rivolgesse a qualcuno, ma in realtà sta parlando a se stesso. Il monologo interiore mantiene ancora una struttura sintattica e logica riconoscibile: i pensieri sono interiori, ma non vengono trascritti nel loro caos puro.
 
-Un esempio di monologo interiore è il **Preambolo de *La coscienza di Zeno*** (1923).
+Un esempio di monologo interiore è il **Preambolo de *La coscienza di Zeno*** (1923): quando Zeno racconta di volersi "autocurare" e di essersi comprato un volume di psicanalisi, non usa il flusso di coscienza, ma appunto il monologo interiore.
 
 ### 4.2 Il flusso di coscienza (stream of consciousness)
 
@@ -180,10 +185,13 @@ L'esempio per eccellenza è l'**Ulisse** di James Joyce (1922). Ecco un framment
 
 In questo brano si vede la registrazione di pensieri colti nel loro sorgere, nel loro dinamico scorrere attraverso libere associazioni di idee. La punteggiatura scompare, la sintassi si disgrega, perché il flusso di coscienza è una **rappresentazione mimetica del pensiero** — mimetica nel senso che imita il pensiero così come effettivamente si manifesta nella mente — **senza che il narratore funga da filtro** sul piano della logica e della sintassi.
 
+> [!warning] Errore da evitare all'esame
+> Non dire che Zeno usa il flusso di coscienza. **Zeno = monologo interiore**; **Joyce, *Ulisse* = flusso di coscienza**. La differenza è decisiva: nel monologo interiore resta un ordine logico-sintattico, nel flusso di coscienza domina l'associazione libera, con sintassi spezzata e punteggiatura assente o ridotta.
+
 | Tecnica | Definizione | Caratteristiche | Esempio |
 |---------|------------|-----------------|---------|
-| **Monologo interiore** | Pensieri del personaggio in prima persona, come se rivolti a un interlocutore | Mantiene la struttura sintattica; il personaggio "parla a se stesso" | Preambolo de *La coscienza di Zeno* (Svevo, 1923) |
-| **Flusso di coscienza** | Registrazione dei pensieri secondo il flusso spontaneo e alogico della mente | Scompare la punteggiatura; si procede per libere associazioni; rappresentazione mimetica del pensiero | *Ulisse* (Joyce, 1922) |
+| **Monologo interiore** | Pensieri del personaggio in prima persona, come se rivolti a un interlocutore | Mantiene una struttura logica e sintattica; il personaggio "parla a se stesso"; c'è ancora una forma ordinata del discorso | Preambolo de *La coscienza di Zeno* (Svevo, 1923) |
+| **Flusso di coscienza** | Registrazione dei pensieri secondo il flusso spontaneo e alogico della mente | Scompare o si riduce la punteggiatura; la sintassi si disgrega; si procede per libere associazioni; rappresentazione mimetica del pensiero | *Ulisse* (Joyce, 1922) |
 
 ---
 
@@ -201,9 +209,13 @@ Joyce è il maestro del flusso di coscienza nella letteratura inglese. Il suo ro
 
 **Il punto di vista ristretto.** L'io narrante è Zeno, o meglio la sua **coscienza**. I giudizi che esprime sono sempre relativi, filtrati dalla sua soggettività. Il lettore non dispone mai di una verità "oggettiva": tutto passa attraverso il prisma deformante della coscienza del protagonista.
 
+**Il narratore inattendibile.** Zeno non è una voce neutra: ricostruisce la propria vita mentre cerca di giustificarsi, contraddirsi, assolversi. La sua autobiografia nasce dentro un rapporto problematico con il Dottor S e con la psicanalisi; perciò il lettore deve interpretare criticamente ciò che Zeno racconta, senza assumerlo come verità definitiva.
+
 **Il tempo soggettivo.** Il romanzo non segue un ordine cronologico ma è organizzato per **nuclei tematici** — *Il fumo*, *La morte di mio padre*, *Storia del mio matrimonio*, *Un'impresa commerciale* — in cui presente, passato e futuro si compenetrano e si intrecciano.
 
 **La forma autobiografica.** Il racconto assume la forma di memorie che ripercorrono il vissuto del personaggio, una delle forme tipiche del romanzo novecentesco.
+
+**La psicanalisi come strumento letterario.** Svevo non crede davvero nella psicanalisi come terapia capace di guarire l'uomo: Zeno abbandona la cura e arriva a pensare che la vita stessa sia "malata". Tuttavia la psicanalisi è fondamentale sul piano letterario, perché permette al romanzo di concentrarsi sulle contraddizioni della psiche, sull'infanzia, sulle nevrosi e sulle zone oscure dell'io.
 
 ### 6.2 La collocazione nel panorama italiano
 

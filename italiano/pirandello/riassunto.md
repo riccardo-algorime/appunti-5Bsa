@@ -12,7 +12,7 @@
 | **Famiglia** | Moglie: Antonietta Portulano, affetta da grave malattia nervosa |
 | **Crisi economica** | Allagamento delle miniere di zolfo del padre e perdita della dote della moglie |
 | **Produzione** | Novelle, romanzi, saggistica, teatro |
-| **Opere chiave** | *L'umorismo*, *Il fu Mattia Pascal*, *Uno, nessuno e centomila*, *Così è (se vi pare)*, *Sei personaggi in cerca d'autore* |
+| **Opere chiave** | *L'umorismo* (1908), *Il fu Mattia Pascal*, *Uno, nessuno e centomila*, *Così è (se vi pare)*, *Sei personaggi in cerca d'autore* |
 
 ---
 
@@ -62,7 +62,7 @@ Questo lo collega al **romanzo del Novecento** e a **Svevo**: come Zeno, anche i
 
 ## 5. Le novelle
 
-In ***Il treno ha fischiato***, Belluca è un impiegato modello, schiacciato dal lavoro e dalla famiglia. Un giorno sente il fischio di un treno e sembra impazzire. In realtà quel fischio è un'epifania: gli rivela che oltre la sua vita soffocante esiste un mondo di viaggi, spazi e immaginazione. La sua forma di bravo impiegato si rompe, e la situazione comica diventa tragica e umoristica.
+In ***Il treno ha fischiato***, Belluca è un **impiegato** modello, non un operaio, schiacciato dal lavoro e dalla famiglia. Un giorno sente davvero il fischio di un treno e sembra impazzire. In realtà quel fischio è un'epifania: gli rivela che oltre la sua vita soffocante esiste un mondo di viaggi, spazi e immaginazione. La sua forma di bravo impiegato si rompe, e la situazione comica diventa tragica e umoristica.
 
 In ***La carriola***, un uomo rispettabile, marito, padre, professore di diritto e avvocato, scopre improvvisamente di non riconoscersi nella propria vita. La targa con il suo nome e i suoi titoli gli mostra una forma morta, imposta dalla società. Per liberarsi, si concede in segreto un gesto assurdo: fa fare la carriola alla sua cagnetta. È una lucida follia, comica in apparenza ma tragica per il senso di soffocamento che rivela.
 
@@ -76,7 +76,7 @@ In ***La patente***, **Chiàrchiaro** è considerato uno iettatore. Non crede da
 
 ***L'esclusa*** è il primo romanzo di Pirandello e conserva residui naturalistici. È importante come avvio del percorso narrativo.
 
-***Il fu Mattia Pascal*** è il romanzo dell'identità sdoppiata. Mattia vive a Miragno, oppresso da moglie, suocera e difficoltà economiche. Va a Monte Carlo, vince al casinò e scopre che un cadavere è stato identificato come lui. Decide allora di diventare **Adriano Meis**. A Roma vive nella pensione di **Anselmo Paleari**, che gli espone la **Lanterninosofia**: ogni uomo possiede un piccolo lanternino che illumina una parte minima della realtà, mentre i grandi lanternoni collettivi, come fede, scienza e ideologie, possono spegnersi nei tempi di crisi.
+***Il fu Mattia Pascal*** è il romanzo dell'identità sdoppiata. Mattia vive a Miragno, oppresso da moglie, suocera e difficoltà economiche. Va a Monte Carlo, vince al casinò e scopre che un cadavere è stato identificato come lui. Decide allora di diventare **Adriano Meis**. A Roma vive nella pensione di **Anselmo Paleari**, che gli espone la **Lanterninosofia**: ogni uomo possiede un piccolo lanternino che illumina una parte minima della realtà, mentre i grandi lanternoni collettivi, come fede, scienza e ideologie, possono spegnersi nei tempi di crisi. È una formula narrativa del relativismo gnoseologico: ciascuno conosce solo una realtà parziale.
 
 La fuga però fallisce: senza documenti Adriano Meis non può sposarsi, denunciare un furto, esistere socialmente. Inscena un suicidio e torna a Miragno, ma la moglie si è risposata e la vita è andata avanti. Non può più essere né Mattia né Adriano: è soltanto **il fu Mattia Pascal**. Il romanzo mostra un narratore inattendibile, una coscienza ipertrofica, l'occhio strabico come visione obliqua e soprattutto l'**evasione impossibile**: fuori dalla forma non si vive, dentro la forma si muore.
 
@@ -90,7 +90,7 @@ Pirandello arriva al teatro in età matura. Il suo teatro vuole **mettere in cri
 
 In ***Così è (se vi pare)***, la signora Frola e il signor Ponza sostengono due verità opposte: per lei la donna che vive con Ponza è sua figlia; per lui è la seconda moglie, mentre la figlia di Frola è morta. La comunità vuole sapere la verità, ma Pirandello mostra la crudeltà di chi pretende una certezza assoluta. **Laudisi**, alter ego dell'autore, smonta ironicamente ogni pretesa di verità. La frase finale, **"io sono colei che mi si crede"**, esprime il relativismo gnoseologico: non esiste una verità oggettiva unica, ma tante verità quanti sono i punti di vista.
 
-***Sei personaggi in cerca d'autore*** va in scena nel 1921 al **Teatro Valle** di Roma. Il pubblico reagisce gridando **"manicomio!"**, perché l'opera rompe le regole tradizionali. Cade la quarta parete, nasce il **teatro nel teatro**, gli attori stanno provando una commedia quando entrano sei personaggi in cerca di qualcuno che dia forma al loro dramma. I personaggi si dichiarano più veri degli uomini: l'uomo muore, il personaggio può vivere per sempre nell'arte.
+***Sei personaggi in cerca d'autore*** va in scena nel 1921 al **Teatro Valle** di Roma. Il pubblico reagisce gridando **"manicomio!"**, perché l'opera rompe le regole tradizionali. Cade la quarta parete, nasce il **teatro nel teatro**, gli attori stanno provando *Il giuoco delle parti* quando entrano sei personaggi in cerca di qualcuno che dia forma al loro dramma. I personaggi si dichiarano più veri degli uomini: l'uomo muore, il personaggio può vivere per sempre nell'arte.
 
 ---
 
@@ -126,4 +126,4 @@ Con ***Sei personaggi in cerca d'autore***, rappresentato nel 1921 al Teatro Val
 
 ---
 
-*Fonti: lezioni del 20/04/2026, 21/04/2026, 23/04/2026, 27/04/2026, 28/04/2026, 04/05/2026 — Lingua e letteratura italiana*
+*Fonti: lezioni del 20/04/2026, 21/04/2026, 23/04/2026, 27/04/2026, 28/04/2026, 04/05/2026, 18/05/2026, 25/05/2026, 26/05/2026 — Lingua e letteratura italiana*

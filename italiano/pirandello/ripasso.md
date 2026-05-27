@@ -10,6 +10,7 @@ Studia a **Bonn**, vive e insegna a **Roma**
 Moglie: **Antonietta Portulano**, malata di nervi  
 Crisi economica: allagamento delle **miniere di zolfo** del padre + perdita della dote  
 Produzione: **novelle**, **romanzi**, **saggi**, **teatro**
+Saggio teorico da fissare: ***L'umorismo***, **1908**
 
 ---
 
@@ -38,6 +39,8 @@ Produzione: **novelle**, **romanzi**, **saggi**, **teatro**
 - **Io sono colei che mi si crede**
 - Pirandello **scompone il reale**
 - L'umorismo **fa ridere e pensare insieme**
+- Belluca è un **impiegato**, non un operaio
+- Il treno in *Il treno ha fischiato* fischia davvero: non è un'allucinazione
 
 ---
 
@@ -99,7 +102,7 @@ flowchart TD
 
 | Novella | Personaggi | Cosa succede | Concetto |
 |---------|------------|--------------|----------|
-| ***Il treno ha fischiato*** | **Belluca** | Impiegato modello sente il fischio del treno e sembra impazzire | Epifania, evasione nell'immaginazione |
+| ***Il treno ha fischiato*** | **Belluca** | Impiegato modello sente davvero il fischio del treno e sembra impazzire | Epifania, evasione nell'immaginazione |
 | ***La carriola*** | Professore/avvocato e cagnetta | Uomo rispettabile fa fare la carriola alla cagnetta in segreto | Lucida follia, uscita momentanea dalla forma |
 | ***La patente*** | **Chiàrchiaro**, giudice **D'Andrea** | Vuole la patente ufficiale di iettatore | Maschera sociale sfruttata per sopravvivere |
 | ***Ciàula scopre la luna*** | Ciàula | Caruso/minatore siciliano | Sicilia, miniere, richiamo a Verga |
@@ -142,7 +145,7 @@ flowchart TD
 | Elemento | Significato |
 |----------|-------------|
 | **Anselmo Paleari** | Pensionante appassionato di teosofia e spiritismo |
-| **Lanterninosofia** | Ogni individuo ha un lanternino: visione parziale della realtà |
+| **Lanterninosofia** | Paleari: ogni individuo ha un lanternino, cioè una visione parziale della realtà |
 | **Lanternoni** | Grandi certezze collettive: fede, scienza, ideologie |
 | **Narratore inattendibile** | Mattia racconta mescolando verità e menzogne |
 | **Occhio strabico** | Visione obliqua, laterale |
@@ -181,7 +184,7 @@ flowchart TD
 | **Laudisi** | Alter ego di Pirandello, smonta le certezze |
 | **Donna finale** | "Io sono colei che mi si crede" |
 
-Concetto: **relativismo gnoseologico** = una verità oggettiva non esiste.
+Concetto: **relativismo gnoseologico** = non esiste una verità oggettiva unica; esistono tante verità quanti sono i punti di vista.
 
 ### *Sei personaggi in cerca d'autore*
 
@@ -277,8 +280,8 @@ Il teatro di Pirandello vuole mettere in crisi lo spettatore. ***Così è (se vi
 | Che cosa sono le maschere? | Le forme sociali con cui siamo riconosciuti: studente, figlio, professore, avvocato, marito. |
 | Perché il pazzo è importante? | Perché rifiuta la maschera e quindi appare folle alla società, ma è più vicino alla Vita. |
 | Che cosa significa epifania? | Momento improvviso di rivelazione: il fischio del treno, la targa sulla porta, il naso di Gengè. |
-| Qual è la forma di Belluca? | Bravo impiegato diligente, schiacciato da lavoro e famiglia. |
-| Qual è la via d'uscita di Belluca? | Non fuga reale, ma immaginazione aperta dal fischio del treno. |
+| Qual è la forma di Belluca? | Bravo impiegato diligente, non operaio, schiacciato da lavoro e famiglia. |
+| Qual è la via d'uscita di Belluca? | Non fuga reale, ma immaginazione aperta dal fischio realmente sentito del treno. |
 | Qual è la via d'uscita nella *Carriola*? | Un gesto segreto e assurdo: far fare la carriola alla cagnetta. |
 | Perché Chiàrchiaro vuole la patente? | Per trasformare la maschera subita di iettatore in una professione utile alla famiglia. |
 | Perché Adriano Meis fallisce? | Senza documenti non può vivere dentro la società. |
@@ -291,4 +294,4 @@ Il teatro di Pirandello vuole mettere in crisi lo spettatore. ***Così è (se vi
 
 ---
 
-*Fonti: lezioni del 20/04/2026, 21/04/2026, 23/04/2026, 27/04/2026, 28/04/2026, 04/05/2026 — Lingua e letteratura italiana*
+*Fonti: lezioni del 20/04/2026, 21/04/2026, 23/04/2026, 27/04/2026, 28/04/2026, 04/05/2026, 18/05/2026, 25/05/2026, 26/05/2026 — Lingua e letteratura italiana*

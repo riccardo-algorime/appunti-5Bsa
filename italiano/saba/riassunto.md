@@ -51,9 +51,11 @@ La psicoanalisi individua il trauma, ma non lo risolve definitivamente. La poesi
 
 La poetica di Saba si riassume nell'idea di **poesia onesta**. La poesia deve dire la verità, anche quando è scomoda. Deve essere chiara, sincera, vicina alla vita. Saba rifiuta l'artificio e l'oscurità gratuita: preferisce parole comuni, discorsive, narrative, quasi prosaiche.
 
+Questa idea è spiegata nello scritto ***Quello che resta da fare ai poeti***, del **1911**. Secondo Saba ai poeti resta da fare poesia **onesta**, cioè non artificiosa, non costruita solo per stupire. Per chiarire il concetto contrappone Manzoni e D'Annunzio: gli *Inni sacri* possono essere retoricamente mediocri ma sinceri, mentre le *Laudi* sono versi sublimi ma effimeri se mirano solo all'effetto. Per questo Saba è più vicino a **Pascoli**, alle umili cose e agli affetti quotidiani, che al preziosismo dannunziano.
+
 Questa semplicità però è solo apparente. Saba usa spesso forme tradizionali, come il sonetto, e recupera parole alte o desuete dentro un discorso limpido. La sua modernità non consiste nella rottura formale, ma nello scavo interiore: parla di trauma, inconscio, desiderio, dolore.
 
-La poesia *Amai* è una dichiarazione di poetica: Saba dice di amare le "trite parole", cioè parole già usate e consumate, che nel Novecento molti poeti non osavano più usare. Ama perfino la rima più tradizionale, **fiore/amore**, perché la sua poesia non cerca l'effetto nuovo, ma la verità "che giace al fondo".
+La poesia *Amai* è una dichiarazione di poetica: Saba dice di amare le "trite parole", cioè parole già usate e consumate, che nel Novecento molti poeti non osavano più usare. Ama perfino la rima più tradizionale, **fiore/amore**: è la più antica perché appartiene alle origini della poesia italiana, ma anche la più difficile perché è ormai quasi impossibile usarla in modo autentico. La sua poesia non cerca l'effetto nuovo, ma la **verità che giace al fondo**, cioè la verità dell'inconscio, nascosta come un sogno dimenticato. Questa verità si avvicina alla coscienza soprattutto attraverso il **dolore**. Alla fine di *Amai*, la "buona carta" è la poesia stessa: lo strumento con cui Saba conosce se stesso e comunica agli altri una verità interiore.
 
 ---
 
@@ -63,6 +65,10 @@ L'opera fondamentale di Saba è *Il Canzoniere*. Il titolo richiama Petrarca e q
 
 *Il Canzoniere* è infatti un'**autobiografia poetica**: Saba ordina la propria esistenza in versi. Dentro ci sono Trieste, il padre, la madre, la balia, Lina, Linuccia, il dolore, la malattia, la vecchiaia. L'edizione definitiva è postuma, del **1961**. Saba scrive anche *Storia e cronistoria del Canzoniere*, dove interpreta e racconta il proprio libro.
 
+I temi del *Canzoniere* restano quasi immobili: i fanciulli di Trieste, le vie solitarie, i caffè del porto, le donne amate e soprattutto Lina. Questa immobilità nasce dalla visione malinconica della vita: l'uomo spera un domani migliore, ma sa che il dolore ritorna. Qui si sente il legame con **Leopardi**, mentre nella scelta delle realtà umili torna il legame con **Pascoli**.
+
+*Storia e cronistoria del Canzoniere*, del **1948**, è importante perché Saba vi compie un'**autoesegesi**: commenta se stesso, racconta aneddoti biografici e spiega la nascita di alcune liriche. Per esempio, a proposito di *A mia moglie*, racconta che la poesia nacque quasi di getto mentre Lina era uscita e una cagna gli si era avvicinata.
+
 ---
 
 ## 6. Le poesie principali
@@ -71,9 +77,11 @@ L'opera fondamentale di Saba è *Il Canzoniere*. Il titolo richiama Petrarca e q
 
 **Mio padre è stato per me l'assassino** unisce forma tradizionale e contenuto moderno. È un sonetto, ma parla di padre assente, trauma, inconscio, scissione familiare. Il verso finale, "eran due razze in antica tenzone", indica il conflitto tra le due origini del poeta: madre e padre, ebraismo e cristianesimo, severità e leggerezza.
 
-**A mia moglie** va ricordata per i paragoni animali. Saba paragona Lina ad animali non per offenderla, ma per elogiare il vivente. L'animale è naturale, semplice, vero. Qui si vede anche la distanza da **D'Annunzio**: Saba non cerca la bellezza preziosa e aristocratica, ma la verità dell'ordinario.
+**A mia moglie** va ricordata per i paragoni animali. Saba paragona Lina a una bianca pollastra, una gravida giovenca, una lunga cagna, una pavida coniglia, una rondine, una formica e un'ape. Non vuole offenderla, ma elogiare il vivente nella sua semplicità: gli animali sono creature umili, naturali, vicine a una dimensione quasi sacra. Il sentimento dominante è la **tenerezza**, non l'eros dannunziano. Lina appare insieme domestica, materna, fragile, gelosa, fedele, operosa e capace di dare al poeta una nuova primavera.
 
-**Trieste** va collegata alla formula della **scontrosa grazia**: la città è amata e respinta, rifugio e limite.
+**Trieste** va collegata alla formula della **scontrosa grazia**: la città è amata e respinta, rifugio e limite. È un amore inquieto, non consolatorio, perché la città dà al poeta un cantuccio ma riflette anche le sue scissioni interiori.
+
+**Città vecchia** mostra la Trieste più povera e degradata, vicino al porto: osterie, lupanari, vecchi, prostitute, marinai, soldati, giovani folli d'amore. In questa umanità marginale Saba trova "**l'infinito nell'umiltà**": proprio dove la via è più turpe, il suo pensiero si fa più puro. Gli umili sono creature della vita e del dolore, e il poeta sente di appartenere alla loro stessa umanità.
 
 ---
 
@@ -88,9 +96,11 @@ flowchart TD
     D --> F["Il Canzoniere<br/>autobiografia poetica"]
     F --> G["La capra<br/>dolore universale"]
     F --> H["Mio padre...<br/>trauma e padre"]
-    F --> I["Trieste / A mia moglie<br/>città e vivente"]
+    F --> I["Amai<br/>poetica e verità"]
+    F --> L["Trieste / Città vecchia<br/>città, umili, infinito"]
+    F --> M["A mia moglie<br/>animali e tenerezza"]
 ```
 
 ---
 
-*Fonti: lezione del 14/05/2026, dalla sezione su Saba in poi; integrazione dei dati essenziali richiesti per lo studio.*
+*Fonti: lezioni del 14/05/2026, 18/05/2026, 21/05/2026 e parte su Saba del 26/05/2026; integrazione dei dati essenziali richiesti per lo studio.*

@@ -13,7 +13,7 @@ Raccolta di appunti e materiali scolastici.
 |---|---|---|
 | `chimica/` | 2 cartelle, 0 file | `-` |
 | `fisica/` | 1 cartelle, 0 file | `-` |
-| `italiano/` | 12 cartelle, 4 file | `INDICE.md` |
+| `italiano/` | 13 cartelle, 4 file | `INDICE.md` |
 | `mate/` | 0 cartelle, 0 file | `-` |
 | `pcto/` | 5 cartelle, 2 file | `appunti.md` |
 | `storia/` | 1 cartelle, 8 file | `-` |
@@ -107,26 +107,31 @@ Raccolta di appunti e materiali scolastici.
 │   │   ├── 17-02-26/
 │   │   ├── 17-03-26/
 │   │   ├── 17-11-25/
+│   │   ├── 18-05-26/
 │   │   ├── 18-11-25/
 │   │   ├── 18-12-25/
 │   │   ├── 19-01-26/
 │   │   ├── 20-01-26/
 │   │   ├── 20-04-26/
 │   │   ├── 21-04-26/
+│   │   ├── 21-05-26/
 │   │   ├── 22-01-26/
 │   │   ├── 22-12-25/
 │   │   ├── 23-02-26/
 │   │   ├── 23-04-26/
 │   │   ├── 24-02-26/
 │   │   ├── 24-11-25/
+│   │   ├── 25-05-26/
 │   │   ├── 25-11-25/
 │   │   ├── 26-01-26/
 │   │   ├── 26-02-26/
+│   │   ├── 26-05-26/
 │   │   ├── 27-01-26/
 │   │   ├── 27-04-26/
 │   │   ├── 27-10-25/
 │   │   ├── 27-11-25/
 │   │   ├── 28-04-26/
+│   │   ├── 28-05-26/
 │   │   ├── 29-01-26/
 │   │   ├── 30-01-26/
 │   │   ├── 30-04-26/
@@ -134,6 +139,9 @@ Raccolta di appunti e materiali scolastici.
 │   │   ├── raw/
 │   │   ├── studio/
 │   │   └── unknown/
+│   ├── montale/
+│   │   ├── mega-schema.md
+│   │   └── riassunto.md
 │   ├── neorealismo-cinematografico/
 │   │   ├── mega-schema.md
 │   │   ├── riassunto.md

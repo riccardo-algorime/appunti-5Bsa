@@ -1,6 +1,6 @@
 # Indice — Appunti di Letteratura Italiana (5BSA, 2025-26)
 
-> **Ultimo aggiornamento:** 27 maggio 2026
+> **Ultimo aggiornamento:** 2 giugno 2026
 > **Scopo:** Preparazione all'Esame di Stato (maturità)
 > **Fonti:** Trascrizioni delle lezioni in classe (gennaio–maggio 2026)
 
@@ -35,6 +35,7 @@ flowchart TD
     A --> J[Luigi Pirandello]
     A --> K[Giuseppe Ungaretti]
     A --> L[Umberto Saba]
+    A --> M[Eugenio Montale<br/>da integrare]
 
     D -->|"matrice comune"| E
     D -->|"matrice comune"| F
@@ -46,6 +47,7 @@ flowchart TD
     I -->|"crisi dell'io"| J
     K -->|"triade lirica"| L
     B -->|"cinema → letteratura"| C
+    L -->|"passaggio alle ultime lezioni"| M
 
     style A fill:#2c3e50,stroke:#1a252f,color:#fff
     style E fill:#8e44ad,stroke:#6c3483,color:#fff
@@ -70,7 +72,8 @@ La professoressa ha scelto di partire dal Novecento per poi tornare indietro, se
 | 8 | **Italo Svevo** | 1893–1923 | 13/04, 16/04, 20/04 | `svevo/` |
 | 9 | **Luigi Pirandello** | 1867–1936 | 20/04, 21/04, 23/04, 27/04, 28/04, 04/05 | `pirandello/` |
 | 10 | **Giuseppe Ungaretti** | 1888–1970 | 07/05, 11/05, 14/05, ripassi 21/05 e 25/05 | `ungaretti/` |
-| 11 | **Umberto Saba** | 1883–1957 | 14/05, 18/05, 21/05, ripasso 26/05 | `saba/` |
+| 11 | **Umberto Saba** | 1883–1957 | 14/05, 18/05, 21/05, confronto con De André 28/05, ripassi 26/05 e 28/05 | `saba/` |
+| 12 | **Eugenio Montale** | 1896–1981 | 26/05, 28/05 | `montale/` |
 
 \* Le lezioni del 13/01 e del 26/02 non dispongono di trascrizione valida; i contenuti sono stati integrati dalle fonti disponibili.
 
@@ -104,7 +107,7 @@ Contesto storico, il primo movimento d'avanguardia. *Manifesto del Futurismo* (1
 
 ### 7. `romanzo-novecento/`
 
-Argomento introdotto nella lezione del 09/04 e rinforzato nei ripassi del 18/05, 25/05 e 26/05. Le tre innovazioni rispetto all'Ottocento: punto di vista soggettivo, tempo soggettivo (Bergson), personaggio in fieri. Proust e la memoria involontaria (episodio della Madeleine). Kafka e lo straniamento (*La metamorfosi*). Joyce e il flusso di coscienza (*Ulisse*). Svevo e *La coscienza di Zeno*. Monologo interiore vs flusso di coscienza.
+Argomento introdotto nella lezione del 09/04 e rinforzato nei ripassi del 18/05, 25/05, 26/05 e 28/05. Le tre innovazioni rispetto all'Ottocento: punto di vista soggettivo, tempo soggettivo (Bergson), personaggio in fieri. Proust e la memoria involontaria (episodio della Madeleine). Kafka e lo straniamento (*La metamorfosi*). Joyce e il flusso di coscienza (*Ulisse*). Svevo e *La coscienza di Zeno*. Monologo interiore vs flusso di coscienza.
 
 ### 8. `svevo/`
 
@@ -116,19 +119,21 @@ Biografia e opera di Luigi Pirandello, integrata con i ripassi orali di fine mag
 
 ### 10. `ungaretti/`
 
-Biografia per luoghi di Giuseppe Ungaretti: Alessandria d'Egitto, Parigi, Carso/Isonzo, Roma, Brasile, Milano. Vicenda editoriale da *Il porto sepolto* a *L'Allegria*, poi *Sentimento del tempo* e *Il dolore*. Poetica del segreto, parola essenziale, versicoli, analogia, titolo come verso zero. Analisi di *Il porto sepolto*, *Veglia*, *Fratelli*, *I fiumi*, *Sono una creatura*, *San Martino del Carso*, *Soldati*, *Mattina* e *Non gridate più*. I ripassi del 21/05 e 25/05 rafforzano il rapporto formale con il Futurismo e l'analisi di *Veglia*.
+Biografia per luoghi di Giuseppe Ungaretti: Alessandria d'Egitto, Parigi, Carso/Isonzo, Roma, Brasile, Milano. Vicenda editoriale da *Il porto sepolto* a *L'Allegria*, poi *Sentimento del tempo* e *Il dolore*. Poetica del segreto, parola essenziale, versicoli, analogia, titolo come verso zero. Analisi di *Il porto sepolto*, *Veglia*, *Fratelli*, *I fiumi*, *Sono una creatura*, *San Martino del Carso*, *Soldati*, *Mattina* e *Non gridate più*. I ripassi del 21/05, 25/05 e 28/05 rafforzano il rapporto formale con il Futurismo e l'analisi di *Veglia*.
 
 ### 11. `saba/`
 
-Trattazione di Umberto Saba aggiornata con le lezioni del 18/05 e 21/05. Trieste come città di confine, biografia familiare, padre assente, madre, balia Peppa, psicoanalisi e trauma. Poetica della poesia onesta, lingua chiara e tradizionale ma moderna nell'interiorità. *Il Canzoniere* come autobiografia poetica. Analisi di *La capra*, *Mio padre è stato per me l'assassino*, *Ed amai nuovamente*, *Amai*, *A mia moglie*, *Trieste* e *Città vecchia*.
+Trattazione di Umberto Saba aggiornata con le lezioni del 18/05, 21/05 e con il confronto del 28/05 tra *Città vecchia* e la canzone omonima di Fabrizio De André. Trieste come città di confine, biografia familiare, padre assente, madre, balia Peppa, psicoanalisi e trauma. Poetica della poesia onesta, lingua chiara e tradizionale ma moderna nell'interiorità. *Il Canzoniere* come autobiografia poetica. Analisi di *La capra*, *Mio padre è stato per me l'assassino*, *Ed amai nuovamente*, *Amai*, *A mia moglie*, *Trieste* e *Città vecchia*.
+
+### 12. `montale/`
+
+Trattazione di Eugenio Montale ricavata dalle lezioni del 26/05 e 28/05. Coordinate essenziali: Nobel 1975, produzione poetica ma anche giornalistica e saggistica, raccolte principali (*Ossi di seppia*, *Le occasioni*, *La bufera e altro*, *Satura/Xenia*). Focus su *Ossi di seppia*: pubblicazione da Gobetti nel 1925, valore antifascista, titolo originario *Rottami*, scarto/residualità, Liguria arida, esilio dalla vita, campana di vetro, muraglia, varco, poetica in negativo e correlativo oggettivo. Testi analizzati: *I limoni*, *Non chiederci la parola*, *Spesso il male di vivere ho incontrato*. *Meriggiare pallido e assorto* è solo nominata/rimandata.
 
 ---
 
 ## Argomenti ancora da trattare
 
-Resta da integrare solo ciò che non è stato incluso perché oltre il limite "fino a Saba":
-
-- **Eugenio Montale** — introdotto nella trascrizione del 26-05-2026, ma non schematizzato in questa passata.
+La cartella ora include anche **Montale** con `mega-schema.md` e `riassunto.md`. Mancano solo eventuali schemi più brevi se si vuole creare anche un `ripasso.md`.
 
 ---
 
@@ -169,3 +174,5 @@ Resta da integrare solo ciò che non è stato incluso perché oltre il limite "f
 | Saba | mega-schema | 363 | 20 008 | 20 195 |
 | Saba | riassunto | 96 | 7 066 | 7 133 |
 | Saba | ripasso | 164 | 7 117 | 7 173 |
+| Montale | mega-schema | 306 | 26 725 | 26 896 |
+| Montale | riassunto | 136 | 13 032 | 13 116 |

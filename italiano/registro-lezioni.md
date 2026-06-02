@@ -45,6 +45,7 @@ Tabella ordinata per data crescente. Ho segnato `Sì` solo quando esiste una tra
 | 21-05-2026 | Saba: temi del Canzoniere, Storia e cronistoria del Canzoniere; lettura e analisi di A mia moglie, Trieste e Città vecchia; confronto con la dimensione degli umili; verifiche orali e ripasso su Futurismo e Ungaretti | Sì |
 | 25-05-2026 | Restituzione e correzione delle verifiche scritte; indicazioni di metodo per riassunto, snodi argomentativi, analisi del testo e produzione; verifiche orali e ripasso su romanzo del Novecento, Pirandello, Futurismo, Ungaretti e Svevo | Sì |
 | 26-05-2026 | Introduzione a Montale; verifiche orali e ripasso su Saba, Svevo, Pirandello e romanzo del Novecento. La parte su Montale resta fuori dagli schemi aggiornati fino a Saba | Sì |
+| 28-05-2026 | Confronto tra Città vecchia di Saba e La città vecchia di Fabrizio De André: emarginati, umili, ipocrisia borghese e invito a comprendere; Montale: lettura e analisi di I limoni, Non chiederci la parola e Spesso il male di vivere; verifiche orali e ripasso su Proust, Svevo, Futurismo, Saba, Pirandello e Ungaretti | Sì |
 
 ## Note
 
@@ -52,7 +53,7 @@ Tabella ordinata per data crescente. Ho segnato `Sì` solo quando esiste una tra
 
 ## Stato integrazione schemi studio
 
-Gli schemi di studio principali nella root della cartella sono integrati fino alla lezione del **26-05-2026** compresa per gli argomenti fino a **Saba** e per i ripassi collegati. La parte nuova su **Montale** del 26-05-2026 è stata letta ma non integrata, perché fuori dal limite di questa passata.
+Gli schemi di studio principali nella root della cartella sono integrati fino alla lezione del **28-05-2026** compresa per gli argomenti fino a **Saba** e per i ripassi collegati. La parte nuova su **Montale** del 26-05-2026 e del 28-05-2026 è stata letta ma non integrata, perché fuori dal limite di questa passata.
 
 | Argomento | Lezioni coperte | Ultimo aggiornamento |
 |---|---|---|
@@ -63,11 +64,11 @@ Gli schemi di studio principali nella root della cartella sono integrati fino al
 | D'Annunzio | 03-03-26 → 17-03-26 | Marzo 2026 |
 | Futurismo | 17-03-26 → 09-04-26 | 09/04/26 |
 | Romanzo del Novecento | 09-04-26 | 09/04/26 |
-| Svevo | 13-04-26 → parte Svevo del 20-04-26, più ripassi 18/05, 25/05, 26/05 | 27/05/26 |
-| Pirandello | parte Pirandello del 20-04-26 → 04-05-26, più ripassi 18/05, 25/05, 26/05 | 27/05/26 |
-| Ungaretti | 07-05-26 → parte Ungaretti del 14-05-26, più ripassi 21/05 e 25/05 | 27/05/26 |
-| Saba | parte Saba del 14-05-26 → lezioni Saba del 18/05 e 21/05, più ripasso 26/05 | 27/05/26 |
+| Svevo | 13-04-26 → parte Svevo del 20-04-26, più ripassi 18/05, 25/05, 26/05 e 28/05 | 02/06/26 |
+| Pirandello | parte Pirandello del 20-04-26 → 04-05-26, più ripassi 18/05, 25/05, 26/05 e 28/05 | 02/06/26 |
+| Ungaretti | 07-05-26 → parte Ungaretti del 14-05-26, più ripassi 21/05, 25/05 e 28/05 | 02/06/26 |
+| Saba | parte Saba del 14-05-26 → lezioni Saba del 18/05 e 21/05, confronto con De André del 28/05, più ripasso 26/05 e 28/05 | 02/06/26 |
 
-**Da integrare**: Montale, se si decide di aprire una cartella dedicata e integrare la lezione del 26-05-2026.
+**Da integrare**: Montale, se si decide di aprire una cartella dedicata e integrare le lezioni del 26-05-2026 e 28-05-2026.
 
 Nota: la vecchia cartella `lezioni/studio/` resta ferma al blocco precedente e non è stata aggiornata in questa passata; gli schemi aggiornati sono quelli nelle cartelle principali della root.

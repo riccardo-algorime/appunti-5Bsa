@@ -141,7 +141,8 @@ Raccolta di appunti e materiali scolastici.
 │   │   └── unknown/
 │   ├── montale/
 │   │   ├── mega-schema.md
-│   │   └── riassunto.md
+│   │   ├── riassunto.md
+│   │   └── riassunto.pdf
 │   ├── neorealismo-cinematografico/
 │   │   ├── mega-schema.md
 │   │   ├── riassunto.md

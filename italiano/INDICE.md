@@ -175,4 +175,4 @@ La cartella ora include anche **Montale** con `mega-schema.md` e `riassunto.md`.
 | Saba | riassunto | 96 | 7 066 | 7 133 |
 | Saba | ripasso | 164 | 7 117 | 7 173 |
 | Montale | mega-schema | 306 | 26 725 | 26 896 |
-| Montale | riassunto | 152 | 13 849 | 13 933 |
+| Montale | riassunto | 318 | 19 901 | 20 038 |

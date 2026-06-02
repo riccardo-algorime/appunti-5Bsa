@@ -1,4 +1,4 @@
-# Eugenio Montale
+# Eugenio Montale — Riassunto
 
 ---
 
@@ -6,14 +6,16 @@
 
 | Elemento | Dettaglio |
 |----------|-----------|
-| **Nascita** | **1896**, autore ligure legato alle estati a **Monterosso** nelle Cinque Terre |
-| **Profilo** | **Poeta**, ma anche **giornalista** e **saggista**: all'esame può uscire anche un testo in prosa |
+| **Nascita e morte** | **1896-1981**; autore ligure, legato alle estati a **Monterosso** nelle Cinque Terre |
+| **Profilo** | **Poeta**, ma anche **giornalista** e **saggista**: può uscire anche un testo in prosa |
 | **Nobel** | **1975**, stesso anno della morte di Pasolini |
-| **Formazione** | Simbolismo, Decadentismo francese, **D'Annunzio** da "attraversare" |
-| **Raccolte** | ***Ossi di seppia*** (**1925**), ***Le occasioni*** (**1939**), ***La bufera e altro*** (**1956**), ***Satura*** negli anni Settanta |
+| **Formazione** | Simbolismo, Decadentismo francese, **D'Annunzio** da attraversare e superare |
+| **Raccolte** | ***Ossi di seppia*** (1925), ***Le occasioni*** (1939), ***La bufera e altro*** (1956), ***Satura*** con ***Xenia*** |
 | **Poetica** | **Poetica in negativo**: niente certezze, niente formule salvifiche; la poesia resiste al **male di vivere** |
 | **Paesaggio** | Liguria scabra, essenziale, arida; sole bruciante; disarmonia uomo-natura |
 | **Immagini chiave** | Ossi/rottami, campana di vetro, esilio dalla vita, muraglia, varco, correlativo oggettivo, divina Indifferenza |
+
+Montale è un autore centrale del Novecento perché porta fino in fondo la crisi delle certezze: il poeta non è più vate, non possiede verità da consegnare e non può promettere salvezza. Può però riconoscere il negativo, registrare il **male di vivere** e cercare, dentro oggetti poveri e concreti, un possibile **varco**.
 
 ---
 
@@ -21,30 +23,73 @@
 
 | Anno | Evento / opera |
 |------|----------------|
-| **1896** | Nasce Eugenio Montale; la sua immaginazione poetica resta legata alla **Liguria** e alle estati a **Monterosso** |
+| **1896** | Nasce Eugenio Montale; la sua immaginazione poetica resta legata alla **Liguria** e a **Monterosso** |
 | **1921** | ***I limoni***: dichiarazione di poetica antiaulica e antidannunziana |
 | **1923** | ***Non chiederci la parola***: formula della poetica in negativo |
-| **1925** | Esce ***Ossi di seppia*** presso **Piero Gobetti**; titolo originario ***Rottami*** |
-| **1939** | ***Le occasioni***, collocata alla vigilia della Seconda guerra mondiale |
-| **1956** | ***La bufera e altro***, legata anche alla bufera storica della guerra |
-| **Anni Settanta** | ***Satura*** e la sezione ***Xenia*** per **Drusilla Tanzi**, la Mosca |
+| **1925** | Esce ***Ossi di seppia*** presso **Piero Gobetti**; il titolo originario era ***Rottami*** |
+| **1939** | ***Le occasioni***, raccolta collocata alla vigilia della Seconda guerra mondiale |
+| **1956** | ***La bufera e altro***, il cui titolo rimanda anche alla bufera storica della guerra |
+| **Anni Settanta** | ***Satura***, più ironica e sarcastica; contiene ***Xenia*** per **Drusilla Tanzi**, la Mosca |
 | **1975** | Premio Nobel per la letteratura |
 | **1981** | Muore Montale |
 
+```mermaid
+flowchart LR
+    A[1896<br/>nascita] --> B[1921<br/>I limoni]
+    B --> C[1923<br/>Non chiederci la parola]
+    C --> D[1925<br/>Ossi di seppia<br/>Gobetti]
+    D --> E[1939<br/>Le occasioni]
+    E --> F[1956<br/>La bufera e altro]
+    F --> G[Anni Settanta<br/>Satura / Xenia]
+    G --> H[1975<br/>Nobel]
+    H --> I[1981<br/>morte]
+```
+
 ---
 
-## 1. Montale nel Novecento
+## 1. Raccolte e posizione nel Novecento
 
-Montale è presentato come autore inevitabile del Novecento: Nobel, molto collegabile, possibile allo scritto e all'orale. Non è romanziere: accanto alla poesia produce **giornalismo** e **saggistica**.
+### 1.1 Le raccolte principali
 
-Le raccolte da ricordare sono soprattutto tre: ***Ossi di seppia*** del **1925**, pubblicata nel ventennio fascista; ***Le occasioni*** del **1939**, collocata alla vigilia della Seconda guerra mondiale; ***La bufera e altro*** del **1956**, il cui titolo rimanda anche alla bufera storica della guerra. Negli anni Settanta esce ***Satura***, più ironica e talvolta sarcastica verso l'Italia contemporanea; al suo interno c'è ***Xenia***, sezione di versi per la moglie **Drusilla Tanzi**, detta **la Mosca** per le lenti spesse. *Xenia* significa "doni votivi".
+Le raccolte da ricordare sono soprattutto quattro. La più importante per le lezioni è ***Ossi di seppia***, pubblicata nel **1925**, in pieno ventennio fascista. ***Le occasioni*** esce nel **1939**, alla vigilia della Seconda guerra mondiale. ***La bufera e altro*** esce nel **1956**: già il titolo rimanda anche alla bufera storica della guerra. Negli anni Settanta esce ***Satura***, più ironica e talvolta sarcastica verso l'Italia contemporanea.
+
+Dentro *Satura* c'è ***Xenia***, sezione dedicata alla moglie **Drusilla Tanzi**, detta **la Mosca** per le lenti spesse. *Xenia* significa "doni votivi": sono versi offerti alla moglie morta.
 
 | Raccolta | Da sapere |
 |----------|-----------|
-| ***Ossi di seppia*** | 1925; Gobetti; paesaggio ligure; aridità; male di vivere; poetica in negativo |
-| ***Le occasioni*** | 1939; solo collocata cronologicamente in lezione |
-| ***La bufera e altro*** | 1956; allude anche alla Seconda guerra mondiale |
-| ***Satura / Xenia*** | Anni Settanta; ironia e sarcasmo; *Xenia* per Drusilla/la Mosca |
+| ***Ossi di seppia*** | 1925; Gobetti; paesaggio ligure; aridità; scarto; male di vivere; poetica in negativo |
+| ***Le occasioni*** | 1939; in lezione è stata soprattutto collocata cronologicamente |
+| ***La bufera e altro*** | 1956; titolo collegabile alla Seconda guerra mondiale |
+| ***Satura / Xenia*** | Anni Settanta; tono ironico/sarcastico; *Xenia* per Drusilla/la Mosca |
+
+### 1.2 Perché Montale è novecentesco
+
+Montale vive dentro il **relativismo novecentesco**: non c'è più una verità stabile, compatta, comunicabile in modo sicuro. Per questo il poeta non può dire come stanno definitivamente le cose. La poesia non è una formula magica e non apre mondi risolti: resta uno strumento di conoscenza parziale, negativa, faticosa.
+
+Da qui nasce il collegamento con **Pirandello**: entrambi mostrano la crisi della verità e dell'identità. Pirandello la rappresenta attraverso maschere, forme e punti di vista; Montale attraverso paesaggi aridi, oggetti scabri e formule negative.
+
+```mermaid
+mindmap
+  root((Montale))
+    Crisi novecentesca
+      Relativismo
+      Nessuna verità assoluta
+      Poeta non vate
+    Ossi di seppia
+      Scarto
+      Aridità
+      Male di vivere
+      Varco
+    Poetica in negativo
+      Non formule
+      Non salvezza
+      Ciò che non siamo
+    Oggetti concreti
+      Limoni
+      Rivo strozzato
+      Foglia riarsa
+      Cavallo stramazzato
+```
 
 ---
 
@@ -52,100 +97,221 @@ Le raccolte da ricordare sono soprattutto tre: ***Ossi di seppia*** del **1925**
 
 Montale si forma dentro una linea che passa per **Simbolismo**, **Decadentismo francese** e **D'Annunzio**. D'Annunzio è per lui un autore **imprescindibile**, da "attraversare": bisogna conoscerne la forza e poi prenderne le distanze.
 
-La distanza riguarda la poetica: Montale rifiuta **gigantismo dell'io**, estetismo, sublime, poesia aulica e accademica, poeta-vate capace di dare verità alle masse, panismo e fusione gioiosa con la natura. Al posto di piante preziose e paesaggi magnifici mette **oggetti dimessi**: fossi, pozzanghere mezzo seccate, limoni, muri, rottami, ossi di seppia.
+La distanza è netta sul piano della poetica. Montale rifiuta:
 
-L'eredità dannunziana resta però nello **stile**: attenzione al **fonosimbolismo**, al valore sonoro della parola, a un lessico anche colto. In ***I limoni*** la polemica antidannunziana convive con calchi da ***La pioggia nel pineto***: **"Ascoltami"** e **"Vedi"** richiamano **"Taci"** e **"Ascolta"**, ma non conducono al panismo; portano invece dentro un paesaggio dimesso, arido, interrogato per cercare un segreto che sfugge.
+- il **gigantismo dell'io**;
+- l'estetismo e il sublime;
+- la poesia aulica e accademica;
+- il poeta-vate che consegna verità alle masse;
+- il panismo e la fusione gioiosa con la natura;
+- le piante nobili e letterarie della tradizione alta.
 
----
+Al posto di questo mondo mette **oggetti dimessi**: fossi, pozzanghere mezzo seccate, limoni, muri, rottami, ossi di seppia. La sua poesia non cerca lo splendore, ma la verità scabra dello scarto.
 
-## 3. *Ossi di seppia*
+La distanza non cancella però l'eredità. Da D'Annunzio resta soprattutto una lezione **stilistica**: attenzione al **fonosimbolismo**, al valore sonoro delle parole, a un lessico anche colto. In ***I limoni*** la polemica antidannunziana convive con calchi da ***La pioggia nel pineto***: **"Ascoltami"** e **"Vedi"** richiamano **"Taci"** e **"Ascolta"**. Ma dove D'Annunzio conduce al panismo, Montale porta in un paesaggio dimesso, arido, interrogato per cercare un segreto che sfugge.
 
-***Ossi di seppia*** esce nel **1925** presso **Piero Gobetti**, giovane editore antifascista poi eliminato dal regime. Per molti giovani diventa una **bandiera antifascista**, opposta alla retorica celebrativa, sicura e rumorosa del fascismo.
-
-Il titolo originario era ***Rottami***. Anche ***Ossi di seppia*** indica **detrito**, **residuo**, **scarto**, ciò che resta sulla spiaggia dopo il passaggio del mare. Il titolo concentra l'idea di **consumazione dell'esistenza**, residualità ed esilio dalla pienezza della vita. Montale si colloca su una linea alta, da **Dante** a **Leopardi**, ma abbassa il tono rispetto a D'Annunzio: la grande poesia nasce non dal sublime, ma dallo scarto e dagli oggetti marginali.
-
-Negli *Ossi* dominano: **esilio del poeta dalla vita**, estraneità, disarmonia uomo-natura, paesaggio ligure arido, ricerca impossibile di un varco, male di vivere.
-
----
-
-## 4. Poetica in negativo
-
-La formula centrale è **poetica in negativo**. Montale non possiede una verità da comunicare e non consegna formule salvifiche. In ***Non chiederci la parola*** rifiuta una parola che squadri l'animo, lo illumini e lo dichiari a lettere di fuoco: la poesia non apre mondi e può offrire solo **"qualche storta sillaba e secca come un ramo"**.
-
-Questo non rende la poesia inutile: proprio perché non risolve, diventa **resistenza** al dolore, al male di vivere e all'impossibilità di aderire spontaneamente alla vita. Il senso sembra talvolta affiorare, ma non viene mai posseduto. Il contesto è il **relativismo novecentesco**: non esiste una verità stabile accessibile. Il collegamento con **Pirandello** sta qui: crisi della verità, identità problematica, uomo che spesso procede con maschere o paraocchi.
-
----
-
-## 5. Esilio, campana di vetro, limite
-
-Montale dichiara in prosa di essersi sempre sentito sotto una **campana di vetro**: vede la vita, la desidera, ma non riesce ad aderirvi in modo immediato. Da qui nasce l'**esilio dalla vita**.
-
-In ***Falsetto*** compare **Esterina**, ragazza ventenne che si tuffa in mare: per lei il mare è **"divino amico"**, simbolo di pienezza vitale e sicurezza. Il poeta invece appartiene alla **razza di chi rimane a terra**: non partecipa alla vita piena.
-
-L'io montaliano è quindi **prigioniero** in una negatività senza scampo. Il limite è espresso dalla **muraglia con cocci aguzzi di bottiglia** di ***Meriggiare pallido e assorto***: oltre il muro potrebbe esserci il disvelamento del mistero dell'esistenza, ma non si passa. In queste lezioni *Meriggiare* è stata solo nominata e rimandata, non analizzata.
-
-Il **varco** è lo spiraglio momentaneo in cui sembra aprirsi un senso; non diventa mai salvezza stabile.
+| D'Annunzio | Montale |
+|------------|---------|
+| Poeta-vate | Poeta senza formule |
+| Sublime e piante nobili | Oggetti poveri: fossi, limoni, rottami |
+| Panismo | Disarmonia uomo-natura |
+| Fusione vitale | Esilio dalla vita |
+| Linguaggio aulico | Stile aspro, conciso, scabro |
+| "Taci", "Ascolta" | "Ascoltami", "Vedi" in chiave antipanica |
 
 ---
 
-## 6. Paesaggio ligure e stile
+## 3. *Ossi di seppia*: titolo, paesaggio, condizione dell'uomo
 
-Il paesaggio degli *Ossi* è la **Liguria** di Monterosso, non come cartolina armoniosa ma come luogo **scabro**, **essenziale**, dominato dall'**aridità**. L'estate ha un sole bruciante che acceca e tortura; fossi, canne, pozzanghere mezzo seccate, muri scalcinati e foglie riarse traducono fisicamente solitudine, esilio e disarmonia. Il mare è ambivalente: pienezza vitale e comunione con l'**Essere**, ma proprio questa pienezza è negata al poeta. Qui sta l'opposizione al panismo dannunziano.
+### 3.1 Pubblicazione e titolo
 
-Lo stile è **aspro**, **conciso**, difficile, con musicalità secca. Il **fonosimbolismo** fa coincidere suono e significato: parole come **pozzanghere**, **mezzo seccate**, **strozzato**, **gorgoglia**, **incartocciarsi**, **riarsa** producono suoni duri, gutturali o secchi che evocano aridità, fatica e mancanza di linfa. Ci sono **allitterazioni aspre**, **tecnicismi** e lessico botanico: come in Pascoli c'è precisione terminologica, ma senza nido consolatorio. Frequente anche il **tu colloquiale**: "Ascoltami", "Vedi", "Non chiederci".
+***Ossi di seppia*** esce nel **1925** presso **Piero Gobetti**, giovane editore antifascista poi eliminato dal regime. La scelta editoriale è significativa: la raccolta diventa per molti giovani una specie di **bandiera antifascista**, perché si oppone alla retorica celebrativa, sicura e rumorosa del fascismo.
+
+Il titolo originario era ***Rottami***. Anche il titolo definitivo rimanda alla stessa area: **detrito**, **residuo**, **scarto**, ciò che resta sulla spiaggia dopo il passaggio del mare. Gli ossi di seppia sono resti marini, consumati, lasciati sulla battigia. Il titolo concentra quindi **consumazione dell'esistenza**, residualità, esclusione dalla pienezza della vita.
+
+Montale si colloca idealmente su una linea alta, da **Dante** a **Leopardi**, ma abbassa il tono rispetto a D'Annunzio: la grande poesia non nasce dal sublime, ma da ciò che è rimasto ai margini.
+
+### 3.2 Esilio dalla vita e campana di vetro
+
+Uno dei temi centrali degli *Ossi* è l'**esilio del poeta dalla vita**. Montale dichiara in prosa di essersi sempre sentito sotto una **campana di vetro**: vede la vita, la desidera, ne intuisce la pienezza, ma non riesce ad aderirvi in modo immediato.
+
+In ***Falsetto*** compare **Esterina**, ragazza ventenne che si tuffa in mare. Per lei il mare è **"divino amico"**, simbolo di pienezza vitale e sicurezza. Il poeta invece appartiene alla **razza di chi rimane a terra**: non partecipa alla vita piena.
+
+L'io montaliano è quindi un **io prigioniero**, chiuso in una negatività senza scampo. Il limite è espresso dalla **muraglia con cocci aguzzi di bottiglia** di ***Meriggiare pallido e assorto***: oltre il muro potrebbe esserci il disvelamento del mistero dell'esistenza, ma non si passa. In queste lezioni *Meriggiare* è stata solo nominata e rimandata, non analizzata.
+
+### 3.3 Paesaggio ligure
+
+Il paesaggio degli *Ossi* è la **Liguria** di Monterosso, ma non come cartolina armoniosa. È un luogo **scabro**, **essenziale**, **arido**, dominato dall'estate e da un sole bruciante che acceca e tortura. Fossi, canne, pozzanghere mezzo seccate, muri scalcinati e foglie riarse traducono fisicamente solitudine, esilio e disarmonia.
+
+Il mare è ambivalente: da un lato rappresenta pienezza vitale e comunione con l'**Essere**; dall'altro questa pienezza è negata al poeta, che resta a terra. Qui sta l'opposizione al panismo dannunziano: la natura non accoglie, non fonde, non consola.
+
+```mermaid
+flowchart TD
+    A[Ossi di seppia] --> B[Scarto / rottame]
+    A --> C[Paesaggio ligure]
+    A --> D[Esilio dalla vita]
+    A --> E[Male di vivere]
+    B --> B1[Residuo sulla spiaggia]
+    B --> B2[Esistenza consumata]
+    C --> C1[Aridità]
+    C --> C2[Sole bruciante]
+    C --> C3[Muri, fossi, pozzanghere]
+    D --> D1[Campana di vetro]
+    D --> D2[Razza di chi rimane a terra]
+    D --> D3[Muraglia con cocci aguzzi]
+    E --> E1[Disarmonia uomo-natura]
+    E --> E2[Ricerca del varco]
+```
 
 ---
 
-## 7. *I limoni*
+## 4. Poetica e stile
 
-***I limoni***, testo del **1921**, è una dichiarazione di poetica. Montale rifiuta poesia **aulica**, **accademica**, sublime; il primo bersaglio è **D'Annunzio**. I **poeti laureati** sono i poeti consacrati dall'alloro (**lauro**), simbolo della gloria poetica: si muovono tra piante nobili e letterarie, **bossi**, **ligustri**, **acanti**.
+### 4.1 Poetica in negativo
 
-Montale oppone a loro **"Io, per me"**: scelta isolata di strade che sboccano negli **erbosi fossi**, pozzanghere mezzo seccate, viuzze, ciglioni, canne, orti con limoni. Il paesaggio è dimesso e quotidiano, ma non idillico: le pozzanghere mezzo seccate evocano afa e aridità.
+La formula centrale è **poetica in negativo**. Montale non possiede una verità da comunicare e non consegna formule salvifiche. In ***Non chiederci la parola*** rifiuta una parola capace di squadrare l'animo, illuminarlo e dichiararlo a lettere di fuoco.
+
+La poesia non apre mondi risolti: può offrire solo **"qualche storta sillaba e secca come un ramo"**. La conclusione è: **"ciò che non siamo, ciò che non vogliamo"**. La conoscenza si dà quindi per sottrazione: non sappiamo dire positivamente che cosa siamo, ma possiamo riconoscere il falso, l'illusione, ciò che non vogliamo essere.
+
+Questo non rende la poesia inutile. Proprio perché non risolve, diventa **resistenza** al dolore e al male di vivere. Il senso sembra talvolta affiorare, ma non viene mai posseduto stabilmente.
+
+### 4.2 Varco e correlativo oggettivo
+
+Il **varco** è lo spiraglio in cui sembra aprirsi un senso nascosto dell'esistenza. Non è salvezza definitiva: è apparizione momentanea, intuizione, crepa dell'ordine reale. In *I limoni* il varco è cercato nello **sbaglio di natura**, nel **punto morto del mondo**, nell'**anello che non tiene**, nel **filo da disbrogliare**.
+
+Il **correlativo oggettivo** è il meccanismo per cui un oggetto concreto esprime una condizione interiore o una verità esistenziale. Montale non spiega astrattamente il male di vivere: lo fa vedere in un rivo strozzato, in una foglia riarsa, in un cavallo stramazzato. Anche i limoni diventano correlativo di una possibile apertura positiva.
+
+### 4.3 Lingua e fonosimbolismo
+
+Lo stile è **aspro**, **conciso**, difficile, con musicalità secca. Il **fonosimbolismo** fa coincidere suono e significato: parole come **pozzanghere**, **mezzo seccate**, **strozzato**, **gorgoglia**, **incartocciarsi**, **riarsa** producono suoni duri, gutturali o secchi che evocano aridità, fatica e mancanza di linfa.
+
+Ci sono **allitterazioni aspre**, **tecnicismi** e lessico botanico. Il collegamento con **Pascoli** riguarda proprio la precisione delle cose e dei nomi; però in Montale non c'è il nido consolatorio pascoliano. Frequente anche il **tu colloquiale**: "Ascoltami", "Vedi", "Non chiederci".
+
+| Aspetto | Significato |
+|---------|-------------|
+| **Poetica in negativo** | La poesia non dà formule; dice ciò che non siamo e non vogliamo |
+| **Varco** | Spiraglio momentaneo di senso, mai salvezza stabile |
+| **Correlativo oggettivo** | Oggetto concreto che traduce una condizione interiore |
+| **Fonosimbolismo** | Suoni duri/secchi coerenti con aridità e male di vivere |
+| **Lessico botanico** | Precisione concreta, collegabile a Pascoli ma senza consolazione |
+
+---
+
+## 5. *I limoni*
+
+***I limoni***, testo del **1921**, è una dichiarazione di poetica. Montale rifiuta poesia **aulica**, **accademica**, sublime. Il primo bersaglio è **D'Annunzio**.
+
+I **poeti laureati** sono i poeti consacrati dall'alloro (**lauro**), simbolo della gloria poetica. Si muovono tra piante nobili e letterarie: **bossi**, **ligustri**, **acanti**. Montale oppone a loro **"Io, per me"**: scelta isolata di strade che sboccano negli **erbosi fossi**, pozzanghere mezzo seccate, viuzze, ciglioni, canne, orti con limoni. Il paesaggio è dimesso e quotidiano, ma non idillico: le pozzanghere mezzo seccate evocano afa e aridità.
+
+| Poeti laureati | Montale |
+|----------------|---------|
+| Alloro, gloria poetica | "Io, per me" |
+| Bossi, ligustri, acanti | Fossi, pozzanghere, canne, limoni |
+| Poesia alta e accademica | Poesia dimessa e concreta |
+| D'Annunzio e sublime | Antidannunzianesimo |
 
 Nella seconda strofa ai dati visivi si aggiungono sensazioni **uditive** e **olfattive**: quando le gazzarre degli uccelli tacciono e l'aria quasi non si muove, si percepiscono il sussurro dei rami e l'odore dei limoni. Allora sembra placarsi l'inquietudine: anche ai "poveri", cioè ai poeti lontani dalla gloria dei laureati, tocca una piccola ricchezza, **l'odore dei limoni**.
 
-Nei silenzi le cose sembrano vicine a **tradire il loro ultimo segreto**. Il poeta cerca uno **sbaglio di natura**, il **punto morto del mondo**, l'**anello che non tiene**, il **filo da disbrogliare** che lo metta nel mezzo di **una** verità, non della verità assoluta. Sono immagini del **varco**, crepa dell'ordine reale: il senso è sfiorato, non conquistato.
+Nei silenzi le cose sembrano vicine a **tradire il loro ultimo segreto**. Il poeta cerca uno **sbaglio di natura**, il **punto morto del mondo**, l'**anello che non tiene**, il **filo da disbrogliare** che lo metta nel mezzo di **una** verità, non della verità assoluta. Sono immagini del **varco**: il senso è sfiorato, non conquistato.
 
-L'ultima strofa si apre con un **"Ma"**: l'illusione manca, l'uomo torna nelle città rumorose, l'azzurro si vede solo a pezzi tra le **cimase** dei palazzi, la pioggia stanca la terra, il tedio dell'inverno si addensa, la luce si fa avara e l'anima amara. Poi, da un **malchiuso portone**, appaiono i **gialli dei limoni**: il gelo del cuore si scioglie e i limoni diventano **"trombe d'oro della solarità"**. Non è salvezza definitiva, ma apparizione improvvisa di senso.
+L'ultima strofa si apre con un **"Ma"**: l'illusione manca, l'uomo torna nelle città rumorose, l'azzurro si vede solo a pezzi tra le **cimase** dei palazzi, la pioggia stanca la terra, il tedio dell'inverno si addensa, la luce si fa avara e l'anima amara. Poi, da un **malchiuso portone**, appaiono i **gialli dei limoni**: il gelo del cuore si scioglie e i limoni diventano **"trombe d'oro della solarità"**.
 
-I limoni sono **correlativo oggettivo**: oggetti concreti che incarnano tensione alla verità, richiesta di senso e possibilità momentanea del varco.
+I limoni sono **correlativo oggettivo**: oggetti concreti che incarnano tensione alla verità, richiesta di senso e possibilità momentanea del varco. Non danno salvezza definitiva, ma un'apparizione improvvisa di luce.
+
+```mermaid
+flowchart TD
+    A[I limoni] --> B[Rifiuto dei poeti laureati]
+    A --> C[Paesaggio dimesso]
+    A --> D[Ricerca del segreto]
+    A --> E[Apparizione finale]
+    B --> B1[Bossi, ligustri, acanti]
+    C --> C1[Fossi, pozzanghere, canne]
+    C --> C2[Orti dei limoni]
+    D --> D1[Sbaglio di natura]
+    D --> D2[Anello che non tiene]
+    D --> D3[Filo da disbrogliare]
+    E --> E1[Gialli dei limoni]
+    E --> E2[Trombe d'oro della solarità]
+    E --> E3[Varco momentaneo]
+```
 
 ---
 
-## 8. *Non chiederci la parola*
+## 6. *Non chiederci la parola*
 
-***Non chiederci la parola***, del **1923**, è dichiarazione di poetica degli *Ossi*. Il titolo coincide col primo verso e contiene già il rifiuto: non chiedere ai poeti una parola capace di spiegare tutto.
+***Non chiederci la parola***, del **1923**, è una dichiarazione di poetica degli *Ossi*. Il titolo coincide con il primo verso e contiene già il rifiuto: non chiedere ai poeti una parola capace di spiegare tutto.
 
-La prima strofa nega la parola ordinatrice: nessuna parola può **squadrare da ogni lato** l'animo informe, cioè rendere regolare il caos interiore, né dichiararlo a **lettere di fuoco**. Il **croco** che risplende in un **polveroso prato** crea contrasto cromatico: fiore luminoso dentro aridità e polvere.
+La prima strofa nega la parola ordinatrice. Nessuna parola può **squadrare da ogni lato** l'animo informe, cioè rendere regolare e comprensibile il caos interiore, né dichiararlo a **lettere di fuoco**. Il **croco** che risplende in un **polveroso prato** crea un contrasto cromatico: fiore luminoso dentro aridità e polvere.
 
-La seconda strofa presenta l'uomo **sicuro**: da *sine cura*, senza preoccupazione. È il **conformista**, in pace con sé e con gli altri perché non si pone domande e non cura la propria **ombra**, cioè la parte inquieta e conflittuale dell'io. La prof collega questa figura a **Pirandello**: chi procede con paraocchi sembra felice perché evita la crisi del guardare davvero la realtà.
+La seconda strofa presenta l'uomo **sicuro**. "Sicuro" deriva da *sine cura*, cioè **senza preoccupazione**. È il **conformista**, in pace con sé e con gli altri perché non si pone domande e non cura la propria **ombra**, cioè la parte inquieta e conflittuale dell'io. La prof collega questa figura a **Pirandello**: chi procede con paraocchi può sembrare felice perché evita la crisi del guardare davvero la realtà.
 
-La terza strofa riprende la negazione: **"Non domandarci la formula che mondi possa aprirti"**. La poesia non è formula magica e non rivela mondi come il poeta-vate; offre solo **"qualche storta sillaba e secca come un ramo"**, quasi un balbettìo arido. La conclusione è il nucleo della poetica montaliana: **"ciò che non siamo, ciò che non vogliamo"**. La conoscenza si dà solo in negativo.
+La terza strofa riprende la negazione: **"Non domandarci la formula che mondi possa aprirti"**. La poesia non è formula magica e non rivela mondi come il poeta-vate; offre solo **"qualche storta sillaba e secca come un ramo"**, quasi un balbettìo arido. La conclusione è il nucleo della poetica montaliana: **"ciò che non siamo, ciò che non vogliamo"**.
+
+| Immagine / formula | Significato |
+|--------------------|-------------|
+| **Parola che squadri** | Verità ordinatrice impossibile |
+| **Lettere di fuoco** | Chiarezza assoluta negata |
+| **Croco nel prato polveroso** | Bagliore dentro aridità |
+| **Uomo sicuro** | Conformista senza dubbi, vicino ai personaggi pirandelliani inconsapevoli |
+| **Storta sillaba e secca** | Poesia povera, arida, non salvifica |
+| **Ciò che non siamo** | Conoscenza solo negativa |
 
 ---
 
-## 9. *Spesso il male di vivere ho incontrato*
+## 7. *Spesso il male di vivere ho incontrato*
 
-***Spesso il male di vivere ho incontrato*** è testo cardine della poetica. L'incipit contiene un'**anastrofe**: ordine normale "ho incontrato spesso il male di vivere". Il male non è spiegato astrattamente, ma incontrato nelle cose attraverso **correlativi oggettivi**.
+***Spesso il male di vivere ho incontrato*** è testo cardine della poetica. L'incipit contiene un'**anastrofe**: l'ordine normale sarebbe "ho incontrato spesso il male di vivere". Il male non è spiegato astrattamente, ma incontrato nelle cose attraverso **correlativi oggettivi**.
 
-Nella prima parte il male di vivere appare in tre immagini: **rivo strozzato che gorgoglia** (flusso impedito, sofferenza sonora), **foglia riarsa che si incartoccia** (aridità, mancanza di linfa), **cavallo stramazzato** (crollo e vita spezzata). I tre regni coinvolti, acqua/natura fisica, vegetale e animale, mostrano che il dolore attraversa tutta la vita. Il collegamento principale è con **Leopardi**, soprattutto il giardino dello ***Zibaldone***; possibile anche il richiamo alla ***Ginestra***.
+Nella prima parte il male di vivere appare in tre immagini:
+
+| Correlativo | Significato |
+|-------------|-------------|
+| **Rivo strozzato che gorgoglia** | Flusso impedito, sofferenza sonora, vita che non scorre liberamente |
+| **Foglia riarsa che si incartoccia** | Aridità, mancanza di linfa, consumazione |
+| **Cavallo stramazzato** | Crollo, vita spezzata, dolore animale |
+
+I tre regni coinvolti — acqua/natura fisica, vegetale e animale — mostrano che il dolore attraversa tutta la vita. Il collegamento principale è con **Leopardi**, soprattutto il giardino dello ***Zibaldone***; possibile anche il richiamo alla ***Ginestra***.
 
 Il fonosimbolismo è decisivo: **strozzato/gorgoglia** ha suoni gutturali e cupi; **incartocciarsi/riarsa** ha suoni secchi, coerenti con scabrezza e aridità.
 
-La seconda parte introduce l'unico bene: **"Bene non seppi, fuori del prodigio / che schiude la divina Indifferenza"**. La **divina Indifferenza** non implica Dio: in Montale non c'è prospettiva religiosa, ma laica e immanente. È una forma di **atarassia**, distacco dal male del mondo, non felicità positiva. I correlativi sono **statua** nella sonnolenza del **meriggio** (fredda, marmorea, immobile, insensibile), **nuvola** e **falco alto levato** (altezza e distanza dalle miserie umane).
+La seconda parte introduce l'unico bene: **"Bene non seppi, fuori del prodigio / che schiude la divina Indifferenza"**. La **divina Indifferenza** non implica Dio: in Montale non c'è prospettiva religiosa, ma laica e immanente. È una forma di **atarassia**, distacco dal male del mondo, non felicità positiva.
+
+I correlativi della divina Indifferenza sono:
+
+| Correlativo | Significato |
+|-------------|-------------|
+| **Statua nella sonnolenza del meriggio** | Immobilità, freddezza marmorea, insensibilità al dolore |
+| **Nuvola** | Altezza, distanza, separazione dalle miserie umane |
+| **Falco alto levato** | Sguardo dall'alto, distacco, non coinvolgimento |
 
 Il **meriggio** oppone Montale a D'Annunzio: in *Alcyone* è estasi panica; in Montale è immobilità e indifferenza. Il collegamento leopardiano ritorna nella divinità lontana e non consolante, simile alla **luna** del ***Canto notturno di un pastore errante dell'Asia***.
 
+```mermaid
+flowchart LR
+    A[Male di vivere] --> B[Rivo strozzato]
+    A --> C[Foglia riarsa]
+    A --> D[Cavallo stramazzato]
+    B --> E[Vita impedita]
+    C --> F[Aridità]
+    D --> G[Crollo]
+    H[Divina Indifferenza] --> I[Statua]
+    H --> L[Nuvola]
+    H --> M[Falco alto]
+    I --> N[Immobilità]
+    L --> O[Distanza]
+    M --> P[Distacco]
+```
+
 ---
 
-## 10. Collegamenti e parole chiave
+## 8. Collegamenti e parole chiave
 
 | Collegamento | Nucleo |
 |--------------|--------|
 | **D'Annunzio** | Autore da attraversare; rifiuto di sublime, panismo, poeta-vate; eredità fonosimbolica e calchi in *I limoni* |
 | **Leopardi** | Male diffuso nella natura, pessimismo, separazione uomo-natura; *Zibaldone*, *Ginestra*, luna del *Canto notturno* |
 | **Pirandello** | Relativismo, crisi della verità, uomo conformista che procede senza interrogarsi |
-| **Pascoli** | Lessico botanico e precisione delle cose, ma senza funzione consolatoria |
+| **Pascoli** | Lessico botanico e precisione delle cose, ma senza nido consolatorio |
 | **Fascismo** | *Ossi* pubblicati nel 1925 da Gobetti; valore antifascista contro la retorica celebrativa |
 
 Parole chiave: **poetica in negativo**, **male di vivere**, **correlativo oggettivo**, **varco**, **aridità**, **scarto**, **residualità**, **campana di vetro**, **muraglia**, **divina Indifferenza**, **fonosimbolismo**.

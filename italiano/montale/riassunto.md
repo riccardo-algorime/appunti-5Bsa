@@ -17,6 +17,22 @@
 
 ---
 
+## Date fondamentali
+
+| Anno | Evento / opera |
+|------|----------------|
+| **1896** | Nasce Eugenio Montale; la sua immaginazione poetica resta legata alla **Liguria** e alle estati a **Monterosso** |
+| **1921** | ***I limoni***: dichiarazione di poetica antiaulica e antidannunziana |
+| **1923** | ***Non chiederci la parola***: formula della poetica in negativo |
+| **1925** | Esce ***Ossi di seppia*** presso **Piero Gobetti**; titolo originario ***Rottami*** |
+| **1939** | ***Le occasioni***, collocata alla vigilia della Seconda guerra mondiale |
+| **1956** | ***La bufera e altro***, legata anche alla bufera storica della guerra |
+| **Anni Settanta** | ***Satura*** e la sezione ***Xenia*** per **Drusilla Tanzi**, la Mosca |
+| **1975** | Premio Nobel per la letteratura |
+| **1981** | Muore Montale |
+
+---
+
 ## 1. Montale nel Novecento
 
 Montale è presentato come autore inevitabile del Novecento: Nobel, molto collegabile, possibile allo scritto e all'orale. Non è romanziere: accanto alla poesia produce **giornalismo** e **saggistica**.

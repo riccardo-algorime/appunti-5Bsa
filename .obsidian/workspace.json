@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "a2b0469952637e28",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e69dc6772286642",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9d57aba740447d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "italiano/lezioni/INDICE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "INDICE"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1219cbd926841c1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b146d0ea5fab43ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b63f13028be9e98f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f054492112b24b82",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e3135010ed203b96",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cf08f6c80c7dea7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "76a4998b472e42b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "536d35600bdeaded",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "italiano/lezioni/INDICE.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for INDICE"
+            }
+          },
+          {
+            "id": "739a02d002f0ae6f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "italiano/lezioni/INDICE.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from INDICE"
+            }
+          },
+          {
+            "id": "9bb537af850b26c6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8960def4804ae611",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "ae26a637e5dd00f7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "italiano/lezioni/INDICE.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of INDICE"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "f9d57aba740447d8",
+  "lastOpenFiles": [
+    "esame/italiano/studio/disordinato(gioele)/APPUNTI-NATURALISMO-VERISMO-VERGA-MEGA.md",
+    "esame/italiano/studio/disordinato(gioele)/APPUNTI-PASOLINI-MEGA.md",
+    "esame/italiano/studio/disordinato(gioele)/Naturalismo, Verismo e Giovanni Verga.md",
+    "esame/italiano/studio/disordinato(gioele)/ITA_FINAL_2.md",
+    "esame/italiano/studio/disordinato(gioele)/ITA2_finale.md",
+    "esame/italiano/studio/disordinato(gioele)/Il Contesto Culturale_ Classicisti e Romantici.md",
+    "esame/italiano/studio/disordinato(gioele)/PASOLINI_Studio_Completo.md",
+    "esame/italiano/studio/disordinato(gioele)",
+    "esame/italiano/studio",
+    "esame/matematica/ord_page1.png",
+    "esame/italiano/prove_maturita_prima_prova/_INDICE.md",
+    "esame/italiano/prove_maturita_prima_prova/_SOLUZIONI_LINKS.md",
+    "esame/italiano/prove_maturita_prima_prova/manifest.json",
+    "esame/italiano/prove_maturita_prima_prova/2019/quadro-riferimento/QDR prima PROVA 26 novembre.pdf",
+    "esame/italiano/prove_maturita_prima_prova/2019/quadro-riferimento",
+    "esame/italiano/prove_maturita_prima_prova/2020/simulazione-2020-03",
+    "esame/italiano/prove_maturita_prima_prova/2020",
+    "esame/italiano/prove_maturita_prima_prova/2019/simulazione-2019-03/P000-Esempio_Marzo19.pdf",
+    "esame/italiano/prove_maturita_prima_prova/2019/simulazione-2019-03",
+    "esame/italiano/prove_maturita_prima_prova/2019/simulazione-2019-02/P000-Esempio_Febbraio19.pdf",
+    "esame/matematica/prove_maturita_seconda_prova/_INDICE.md",
+    "esame/daccampo/matematica/prove_maturita_seconda_prova/_INDICE.md",
+    "esame/daccampo/scienze/trascrizioni_md/Le_tecnologie_del_DNA_ricombinante_-_Cap._B5.md",
+    "esame/daccampo/scienze/trascrizioni_md_ottimizzate/Tessuto_nervoso_neuroni_cellule_gliali_fibre_nervose_sinapsi_e_sistema_nervoso.md",
+    "esame/daccampo/scienze/trascrizioni_md_ottimizzate/Stereoisomeria.md",
+    "esame/daccampo/scienze/trascrizioni_md_ottimizzate/Sadava_Le_applicazioni_delle_biotecnologie_-_Cap._B6.md",
+    "esame/daccampo/scienze/trascrizioni_md_ottimizzate/Sadava_La_chimica_organica_C1.md",
+    "esame/daccampo/scienze/trascrizioni_md_ottimizzate/Sadava_I_polimeri_Ed._Civica_1.md",
+    "esame/daccampo/scienze/trascrizioni_md_ottimizzate/Sadava_I_derivati_degli_idrocarburi_C3.md",
+    "esame/daccampo/scienze/trascrizioni_md_ottimizzate/Sadava_Gli_idrocarburi_C2.md",
+    "esame/daccampo/scienze/trascrizioni_md_ottimizzate/PROGRAMMA_SVOLTO_SCIENZE_NATURALI_CHIMICHE_BIOLOGICHE_5BSA_D_ACCAMPO_A.S._2025-2026.md",
+    "esame/daccampo/scienze/trascrizioni_md_ottimizzate/Le_biomolecole_struttura_e_funzione_B1_-_5bsa2_1.md",
+    "esame/daccampo/scienze/trascrizioni_md_ottimizzate/Il_metabolismo_energetico_B2_2.md",
+    "esame/daccampo/scienze/trascrizioni_md_ottimizzate/Il_Sistema_Nervoso.md",
+    "esame/daccampo/scienze/trascrizioni_md_ottimizzate/Il_DNA_e_la_regolazione_genica_B4_2.md",
+    "esame/daccampo/scienze/trascrizioni_md_ottimizzate/Bosellini_Tettonica_Suddivisione_litosfera_in_placche_Verifica_del_modello_Attività_vulcanica_intraplacca_-_lezioni_1_2_3.md",
+    "esame/daccampo/scienze/trascrizioni_md_ottimizzate/Bosellini_La_dinamica_delle_placche_-_Margini_continentali_e_margini_di_placca_Collisioni_e_orogenesi_-_lezioni_1_2.md"
+  ]
+}

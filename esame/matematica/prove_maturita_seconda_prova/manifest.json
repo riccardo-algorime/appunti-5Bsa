@@ -1,0 +1,1472 @@
+{
+  "files": [
+    {
+      "year": "2025",
+      "session": "ordinaria",
+      "kind": "pdf",
+      "title": "Testo della prova",
+      "source": "https://www.matematica.it/tomasi/matls/2025/A002_ORD25_Matematica.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2025/ordinaria/A002_ORD25_Matematica.pdf",
+      "bytes": 370201
+    },
+    {
+      "year": "2025",
+      "session": "ordinaria",
+      "kind": "pdf",
+      "title": "Problema 1",
+      "source": "https://www.matematica.it/tomasi/matls/2025/problema1.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2025/ordinaria/problema1.pdf",
+      "bytes": 952998
+    },
+    {
+      "year": "2025",
+      "session": "ordinaria",
+      "kind": "pdf",
+      "title": "Problema 2",
+      "source": "https://www.matematica.it/tomasi/matls/2025/problema2.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2025/ordinaria/problema2.pdf",
+      "bytes": 1628419
+    },
+    {
+      "year": "2025",
+      "session": "ordinaria",
+      "kind": "pdf",
+      "title": "Quesito 1",
+      "source": "https://www.matematica.it/tomasi/matls/2025/quesito1.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2025/ordinaria/quesito1.pdf",
+      "bytes": 346339
+    },
+    {
+      "year": "2025",
+      "session": "ordinaria",
+      "kind": "pdf",
+      "title": "Quesito 2",
+      "source": "https://www.matematica.it/tomasi/matls/2025/quesito2.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2025/ordinaria/quesito2.pdf",
+      "bytes": 170930
+    },
+    {
+      "year": "2025",
+      "session": "ordinaria",
+      "kind": "pdf",
+      "title": "Quesito 3",
+      "source": "https://www.matematica.it/tomasi/matls/2025/quesito3.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2025/ordinaria/quesito3.pdf",
+      "bytes": 372150
+    },
+    {
+      "year": "2025",
+      "session": "ordinaria",
+      "kind": "pdf",
+      "title": "Quesito 4",
+      "source": "https://www.matematica.it/tomasi/matls/2025/quesito4.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2025/ordinaria/quesito4.pdf",
+      "bytes": 120698
+    },
+    {
+      "year": "2025",
+      "session": "ordinaria",
+      "kind": "pdf",
+      "title": "Quesito 5",
+      "source": "https://www.matematica.it/tomasi/matls/2025/quesito5.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2025/ordinaria/quesito5.pdf",
+      "bytes": 113659
+    },
+    {
+      "year": "2025",
+      "session": "ordinaria",
+      "kind": "pdf",
+      "title": "Quesito 6",
+      "source": "https://www.matematica.it/tomasi/matls/2025/quesito6.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2025/ordinaria/quesito6.pdf",
+      "bytes": 123542
+    },
+    {
+      "year": "2025",
+      "session": "ordinaria",
+      "kind": "pdf",
+      "title": "Quesito 7",
+      "source": "https://www.matematica.it/tomasi/matls/2025/quesito7.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2025/ordinaria/quesito7.pdf",
+      "bytes": 365645
+    },
+    {
+      "year": "2025",
+      "session": "ordinaria",
+      "kind": "pdf",
+      "title": "Quesito 8",
+      "source": "https://www.matematica.it/tomasi/matls/2025/quesito8.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2025/ordinaria/quesito8.pdf",
+      "bytes": 155650
+    },
+    {
+      "year": "2025",
+      "session": "suppletiva",
+      "kind": "pdf",
+      "title": "Testo della prova",
+      "source": "https://www.matematica.it/tomasi/matls/2025suppl/A002_SUP25.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2025/suppletiva/A002_SUP25.pdf",
+      "bytes": 354537
+    },
+    {
+      "year": "2025",
+      "session": "suppletiva",
+      "kind": "pdf",
+      "title": "Problema 1",
+      "source": "https://www.matematica.it/tomasi/matls/2025suppl/problema1-suppl.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2025/suppletiva/problema1-suppl.pdf",
+      "bytes": 2137688
+    },
+    {
+      "year": "2025",
+      "session": "suppletiva",
+      "kind": "pdf",
+      "title": "Problema 2",
+      "source": "https://www.matematica.it/tomasi/matls/2025suppl/problema2-suppl.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2025/suppletiva/problema2-suppl.pdf",
+      "bytes": 1661675
+    },
+    {
+      "year": "2025",
+      "session": "suppletiva",
+      "kind": "pdf",
+      "title": "Quesito 1",
+      "source": "https://www.matematica.it/tomasi/matls/2025suppl/quesito1_suppl.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2025/suppletiva/quesito1_suppl.pdf",
+      "bytes": 352440
+    },
+    {
+      "year": "2025",
+      "session": "suppletiva",
+      "kind": "pdf",
+      "title": "Quesito 2",
+      "source": "https://www.matematica.it/tomasi/matls/2025suppl/quesito2_suppl.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2025/suppletiva/quesito2_suppl.pdf",
+      "bytes": 148322
+    },
+    {
+      "year": "2025",
+      "session": "suppletiva",
+      "kind": "pdf",
+      "title": "Quesito 3",
+      "source": "https://www.matematica.it/tomasi/matls/2025suppl/quesito3_suppl.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2025/suppletiva/quesito3_suppl.pdf",
+      "bytes": 125651
+    },
+    {
+      "year": "2025",
+      "session": "suppletiva",
+      "kind": "pdf",
+      "title": "Quesito 4",
+      "source": "https://www.matematica.it/tomasi/matls/2025suppl/quesito4_suppl.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2025/suppletiva/quesito4_suppl.pdf",
+      "bytes": 235040
+    },
+    {
+      "year": "2025",
+      "session": "suppletiva",
+      "kind": "pdf",
+      "title": "Quesito 5",
+      "source": "https://www.matematica.it/tomasi/matls/2025suppl/quesito5_suppl.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2025/suppletiva/quesito5_suppl.pdf",
+      "bytes": 368710
+    },
+    {
+      "year": "2025",
+      "session": "suppletiva",
+      "kind": "pdf",
+      "title": "Quesito 6",
+      "source": "https://www.matematica.it/tomasi/matls/2025suppl/quesito6_suppl.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2025/suppletiva/quesito6_suppl.pdf",
+      "bytes": 139600
+    },
+    {
+      "year": "2025",
+      "session": "suppletiva",
+      "kind": "pdf",
+      "title": "Quesito 7",
+      "source": "https://www.matematica.it/tomasi/matls/2025suppl/quesito7_suppl.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2025/suppletiva/quesito7_suppl.pdf",
+      "bytes": 241912
+    },
+    {
+      "year": "2025",
+      "session": "suppletiva",
+      "kind": "pdf",
+      "title": "Quesito 8",
+      "source": "https://www.matematica.it/tomasi/matls/2025suppl/quesito8_suppl.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2025/suppletiva/quesito8_suppl.pdf",
+      "bytes": 200336
+    },
+    {
+      "year": "2025",
+      "session": "straordinaria",
+      "kind": "pdf",
+      "title": "Testo della prova",
+      "source": "https://www.matematica.it/tomasi/matls/2025straord/A002_STR25.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2025/straordinaria/A002_STR25.pdf",
+      "bytes": 230638
+    },
+    {
+      "year": "2025",
+      "session": "straordinaria",
+      "kind": "pdf",
+      "title": "Problema 1",
+      "source": "https://www.matematica.it/tomasi/matls/2025straord/problema1_straord_2025.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2025/straordinaria/problema1_straord_2025.pdf",
+      "bytes": 1682364
+    },
+    {
+      "year": "2025",
+      "session": "straordinaria",
+      "kind": "pdf",
+      "title": "Problema 2",
+      "source": "https://www.matematica.it/tomasi/matls/2025straord/problema2_straord_2025.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2025/straordinaria/problema2_straord_2025.pdf",
+      "bytes": 2107946
+    },
+    {
+      "year": "2025",
+      "session": "straordinaria",
+      "kind": "pdf",
+      "title": "Quesito 1",
+      "source": "https://www.matematica.it/tomasi/matls/2025straord/quesito1_straord_2025.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2025/straordinaria/quesito1_straord_2025.pdf",
+      "bytes": 150920
+    },
+    {
+      "year": "2025",
+      "session": "straordinaria",
+      "kind": "pdf",
+      "title": "Quesito 2",
+      "source": "https://www.matematica.it/tomasi/matls/2025straord/quesito2_straord_2025.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2025/straordinaria/quesito2_straord_2025.pdf",
+      "bytes": 120523
+    },
+    {
+      "year": "2025",
+      "session": "straordinaria",
+      "kind": "pdf",
+      "title": "Quesito 3",
+      "source": "https://www.matematica.it/tomasi/matls/2025straord/quesito3_straord_2025.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2025/straordinaria/quesito3_straord_2025.pdf",
+      "bytes": 108049
+    },
+    {
+      "year": "2025",
+      "session": "straordinaria",
+      "kind": "pdf",
+      "title": "Quesito 4",
+      "source": "https://www.matematica.it/tomasi/matls/2025straord/quesito4_straord_2025.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2025/straordinaria/quesito4_straord_2025.pdf",
+      "bytes": 168891
+    },
+    {
+      "year": "2025",
+      "session": "straordinaria",
+      "kind": "pdf",
+      "title": "Quesito 5",
+      "source": "https://www.matematica.it/tomasi/matls/2025straord/quesito5_straord_2025.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2025/straordinaria/quesito5_straord_2025.pdf",
+      "bytes": 630009
+    },
+    {
+      "year": "2025",
+      "session": "straordinaria",
+      "kind": "pdf",
+      "title": "Quesito 6",
+      "source": "https://www.matematica.it/tomasi/matls/2025straord/quesito6_straord_2025.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2025/straordinaria/quesito6_straord_2025.pdf",
+      "bytes": 396424
+    },
+    {
+      "year": "2025",
+      "session": "straordinaria",
+      "kind": "pdf",
+      "title": "Quesito 7",
+      "source": "https://www.matematica.it/tomasi/matls/2025straord/quesito7_straord_2025.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2025/straordinaria/quesito7_straord_2025.pdf",
+      "bytes": 201312
+    },
+    {
+      "year": "2025",
+      "session": "straordinaria",
+      "kind": "pdf",
+      "title": "Quesito 8",
+      "source": "https://www.matematica.it/tomasi/matls/2025straord/quesito8_straord_2025.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2025/straordinaria/quesito8_straord_2025.pdf",
+      "bytes": 384976
+    },
+    {
+      "year": "2024",
+      "session": "ordinaria",
+      "kind": "pdf",
+      "title": "Testo della prova",
+      "source": "https://www.matematica.it/tomasi/matls/2024/A002_ORD24.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2024/ordinaria/A002_ORD24.pdf",
+      "bytes": 285359
+    },
+    {
+      "year": "2024",
+      "session": "ordinaria",
+      "kind": "pdf",
+      "title": "Problema 1",
+      "source": "https://www.matematica.it/tomasi/matls/2024/problema1.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2024/ordinaria/problema1.pdf",
+      "bytes": 1304717
+    },
+    {
+      "year": "2024",
+      "session": "ordinaria",
+      "kind": "pdf",
+      "title": "Problema 2",
+      "source": "https://www.matematica.it/tomasi/matls/2024/problema2.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2024/ordinaria/problema2.pdf",
+      "bytes": 1981924
+    },
+    {
+      "year": "2024",
+      "session": "ordinaria",
+      "kind": "pdf",
+      "title": "Quesito 1",
+      "source": "https://www.matematica.it/tomasi/matls/2024/quesito1.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2024/ordinaria/quesito1.pdf",
+      "bytes": 177675
+    },
+    {
+      "year": "2024",
+      "session": "ordinaria",
+      "kind": "pdf",
+      "title": "Quesito 2",
+      "source": "https://www.matematica.it/tomasi/matls/2024/quesito2.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2024/ordinaria/quesito2.pdf",
+      "bytes": 247153
+    },
+    {
+      "year": "2024",
+      "session": "ordinaria",
+      "kind": "pdf",
+      "title": "Quesito 3",
+      "source": "https://www.matematica.it/tomasi/matls/2024/quesito3.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2024/ordinaria/quesito3.pdf",
+      "bytes": 228990
+    },
+    {
+      "year": "2024",
+      "session": "ordinaria",
+      "kind": "pdf",
+      "title": "Quesito 4",
+      "source": "https://www.matematica.it/tomasi/matls/2024/quesito4.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2024/ordinaria/quesito4.pdf",
+      "bytes": 209213
+    },
+    {
+      "year": "2024",
+      "session": "ordinaria",
+      "kind": "pdf",
+      "title": "Quesito 5",
+      "source": "https://www.matematica.it/tomasi/matls/2024/quesito5.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2024/ordinaria/quesito5.pdf",
+      "bytes": 466802
+    },
+    {
+      "year": "2024",
+      "session": "ordinaria",
+      "kind": "pdf",
+      "title": "Quesito 6",
+      "source": "https://www.matematica.it/tomasi/matls/2024/quesito6.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2024/ordinaria/quesito6.pdf",
+      "bytes": 183846
+    },
+    {
+      "year": "2024",
+      "session": "ordinaria",
+      "kind": "pdf",
+      "title": "Quesito 7",
+      "source": "https://www.matematica.it/tomasi/matls/2024/quesito7.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2024/ordinaria/quesito7.pdf",
+      "bytes": 417357
+    },
+    {
+      "year": "2024",
+      "session": "ordinaria",
+      "kind": "pdf",
+      "title": "Quesito 8",
+      "source": "https://www.matematica.it/tomasi/matls/2024/quesito8.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2024/ordinaria/quesito8.pdf",
+      "bytes": 806045
+    },
+    {
+      "year": "2024",
+      "session": "ordinaria",
+      "kind": "pdf",
+      "title": "commento",
+      "source": "https://www.matematica.it/tomasi/matls/2024/commento%20su%20prova%20di%20matematica-giugno2024.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2024/ordinaria/commento su prova di matematica-giugno2024.pdf",
+      "bytes": 25225
+    },
+    {
+      "year": "2024",
+      "session": "suppletiva",
+      "kind": "pdf",
+      "title": "Testo della prova",
+      "source": "https://www.matematica.it/tomasi/matls/2024suppl/suppl2024.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2024/suppletiva/suppl2024.pdf",
+      "bytes": 319408
+    },
+    {
+      "year": "2024",
+      "session": "suppletiva",
+      "kind": "pdf",
+      "title": "Problema 1",
+      "source": "https://www.matematica.it/tomasi/matls/2024suppl/problema1-suppl.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2024/suppletiva/problema1-suppl.pdf",
+      "bytes": 2032609
+    },
+    {
+      "year": "2024",
+      "session": "suppletiva",
+      "kind": "pdf",
+      "title": "Problema 2",
+      "source": "https://www.matematica.it/tomasi/matls/2024suppl/problema2-suppl.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2024/suppletiva/problema2-suppl.pdf",
+      "bytes": 1373568
+    },
+    {
+      "year": "2024",
+      "session": "suppletiva",
+      "kind": "pdf",
+      "title": "Quesito 1",
+      "source": "https://www.matematica.it/tomasi/matls/2024suppl/quesito1_suppl.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2024/suppletiva/quesito1_suppl.pdf",
+      "bytes": 306900
+    },
+    {
+      "year": "2024",
+      "session": "suppletiva",
+      "kind": "pdf",
+      "title": "Quesito 2",
+      "source": "https://www.matematica.it/tomasi/matls/2024suppl/quesito2_suppl.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2024/suppletiva/quesito2_suppl.pdf",
+      "bytes": 239904
+    },
+    {
+      "year": "2024",
+      "session": "suppletiva",
+      "kind": "pdf",
+      "title": "Quesito 3",
+      "source": "https://www.matematica.it/tomasi/matls/2024suppl/quesito3_suppl.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2024/suppletiva/quesito3_suppl.pdf",
+      "bytes": 280459
+    },
+    {
+      "year": "2024",
+      "session": "suppletiva",
+      "kind": "pdf",
+      "title": "Quesito 4",
+      "source": "https://www.matematica.it/tomasi/matls/2024suppl/quesito4_suppl.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2024/suppletiva/quesito4_suppl.pdf",
+      "bytes": 378078
+    },
+    {
+      "year": "2024",
+      "session": "suppletiva",
+      "kind": "pdf",
+      "title": "Quesito 5",
+      "source": "https://www.matematica.it/tomasi/matls/2024suppl/quesito5_suppl.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2024/suppletiva/quesito5_suppl.pdf",
+      "bytes": 438726
+    },
+    {
+      "year": "2024",
+      "session": "suppletiva",
+      "kind": "pdf",
+      "title": "Quesito 6",
+      "source": "https://www.matematica.it/tomasi/matls/2024suppl/quesito6_suppl.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2024/suppletiva/quesito6_suppl.pdf",
+      "bytes": 365329
+    },
+    {
+      "year": "2024",
+      "session": "suppletiva",
+      "kind": "pdf",
+      "title": "Quesito 7",
+      "source": "https://www.matematica.it/tomasi/matls/2024suppl/quesito7_suppl.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2024/suppletiva/quesito7_suppl.pdf",
+      "bytes": 394632
+    },
+    {
+      "year": "2024",
+      "session": "suppletiva",
+      "kind": "pdf",
+      "title": "Quesito 8",
+      "source": "https://www.matematica.it/tomasi/matls/2024suppl/quesito8_suppl.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2024/suppletiva/quesito8_suppl.pdf",
+      "bytes": 478199
+    },
+    {
+      "year": "2024",
+      "session": "straordinaria",
+      "kind": "pdf",
+      "title": "Testo della prova",
+      "source": "https://www.matematica.it/tomasi/matls/2024straord/A002_STR24.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2024/straordinaria/A002_STR24.pdf",
+      "bytes": 746126
+    },
+    {
+      "year": "2024",
+      "session": "straordinaria",
+      "kind": "pdf",
+      "title": "Problema 1",
+      "source": "https://www.matematica.it/tomasi/matls/2024straord/problema1_straord_2024.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2024/straordinaria/problema1_straord_2024.pdf",
+      "bytes": 1285736
+    },
+    {
+      "year": "2024",
+      "session": "straordinaria",
+      "kind": "pdf",
+      "title": "Problema 2",
+      "source": "https://www.matematica.it/tomasi/matls/2024straord/problema2_straord_2024.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2024/straordinaria/problema2_straord_2024.pdf",
+      "bytes": 1445277
+    },
+    {
+      "year": "2024",
+      "session": "straordinaria",
+      "kind": "pdf",
+      "title": "quesito1_straord_2024.pdf",
+      "source": "https://www.matematica.it/tomasi/matls/2024straord/quesito1_straord_2024.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2024/straordinaria/quesito1_straord_2024.pdf",
+      "bytes": 331486
+    },
+    {
+      "year": "2024",
+      "session": "straordinaria",
+      "kind": "pdf",
+      "title": "Quesito 2",
+      "source": "https://www.matematica.it/tomasi/matls/2024straord/quesito2_straord_2024.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2024/straordinaria/quesito2_straord_2024.pdf",
+      "bytes": 191106
+    },
+    {
+      "year": "2024",
+      "session": "straordinaria",
+      "kind": "pdf",
+      "title": "Quesito 3",
+      "source": "https://www.matematica.it/tomasi/matls/2024straord/quesito3_straord_2024.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2024/straordinaria/quesito3_straord_2024.pdf",
+      "bytes": 256938
+    },
+    {
+      "year": "2024",
+      "session": "straordinaria",
+      "kind": "pdf",
+      "title": "Quesito 4",
+      "source": "https://www.matematica.it/tomasi/matls/2024straord/quesito4_straord_2024.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2024/straordinaria/quesito4_straord_2024.pdf",
+      "bytes": 184544
+    },
+    {
+      "year": "2024",
+      "session": "straordinaria",
+      "kind": "pdf",
+      "title": "Quesito 5",
+      "source": "https://www.matematica.it/tomasi/matls/2024straord/quesito5_straord_2024.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2024/straordinaria/quesito5_straord_2024.pdf",
+      "bytes": 290860
+    },
+    {
+      "year": "2024",
+      "session": "straordinaria",
+      "kind": "pdf",
+      "title": "Quesito 6",
+      "source": "https://www.matematica.it/tomasi/matls/2024straord/quesito6_straord_2024.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2024/straordinaria/quesito6_straord_2024.pdf",
+      "bytes": 157160
+    },
+    {
+      "year": "2024",
+      "session": "straordinaria",
+      "kind": "pdf",
+      "title": "Quesito 7",
+      "source": "https://www.matematica.it/tomasi/matls/2024straord/quesito7_straord_2024.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2024/straordinaria/quesito7_straord_2024.pdf",
+      "bytes": 579132
+    },
+    {
+      "year": "2024",
+      "session": "straordinaria",
+      "kind": "pdf",
+      "title": "Quesito 8",
+      "source": "https://www.matematica.it/tomasi/matls/2024straord/quesito8_straord_2024.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2024/straordinaria/quesito8_straord_2024.pdf",
+      "bytes": 726309
+    },
+    {
+      "year": "2023",
+      "session": "ordinaria",
+      "kind": "pdf",
+      "title": "Testo della prova",
+      "source": "https://www.matematica.it/tomasi/matls/2023/A002_ORD23_Matematica_LS.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2023/ordinaria/A002_ORD23_Matematica_LS.pdf",
+      "bytes": 250236
+    },
+    {
+      "year": "2023",
+      "session": "ordinaria",
+      "kind": "pdf",
+      "title": "problema1.pdf",
+      "source": "https://www.matematica.it/tomasi/matls/2023/problema1.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2023/ordinaria/problema1.pdf",
+      "bytes": 357292
+    },
+    {
+      "year": "2023",
+      "session": "ordinaria",
+      "kind": "pdf",
+      "title": "Problema 2",
+      "source": "https://www.matematica.it/tomasi/matls/2023/problema2.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2023/ordinaria/problema2.pdf",
+      "bytes": 320596
+    },
+    {
+      "year": "2023",
+      "session": "ordinaria",
+      "kind": "pdf",
+      "title": "Quesito\r\n  1",
+      "source": "https://www.matematica.it/tomasi/matls/2023/quesito1.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2023/ordinaria/quesito1.pdf",
+      "bytes": 101448
+    },
+    {
+      "year": "2023",
+      "session": "ordinaria",
+      "kind": "pdf",
+      "title": "Quesito 2",
+      "source": "https://www.matematica.it/tomasi/matls/2023/quesito2.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2023/ordinaria/quesito2.pdf",
+      "bytes": 79583
+    },
+    {
+      "year": "2023",
+      "session": "ordinaria",
+      "kind": "pdf",
+      "title": "Quesito 3",
+      "source": "https://www.matematica.it/tomasi/matls/2023/quesito3.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2023/ordinaria/quesito3.pdf",
+      "bytes": 232333
+    },
+    {
+      "year": "2023",
+      "session": "ordinaria",
+      "kind": "pdf",
+      "title": "Quesito 4",
+      "source": "https://www.matematica.it/tomasi/matls/2023/quesito4.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2023/ordinaria/quesito4.pdf",
+      "bytes": 97746
+    },
+    {
+      "year": "2023",
+      "session": "ordinaria",
+      "kind": "pdf",
+      "title": "Quesito 5",
+      "source": "https://www.matematica.it/tomasi/matls/2023/quesito5.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2023/ordinaria/quesito5.pdf",
+      "bytes": 183911
+    },
+    {
+      "year": "2023",
+      "session": "ordinaria",
+      "kind": "pdf",
+      "title": "Quesito 6",
+      "source": "https://www.matematica.it/tomasi/matls/2023/quesito6.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2023/ordinaria/quesito6.pdf",
+      "bytes": 83035
+    },
+    {
+      "year": "2023",
+      "session": "ordinaria",
+      "kind": "pdf",
+      "title": "Quesito 7",
+      "source": "https://www.matematica.it/tomasi/matls/2023/quesito7.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2023/ordinaria/quesito7.pdf",
+      "bytes": 251055
+    },
+    {
+      "year": "2023",
+      "session": "ordinaria",
+      "kind": "pdf",
+      "title": "Quesito 8",
+      "source": "https://www.matematica.it/tomasi/matls/2023/quesito8.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2023/ordinaria/quesito8.pdf",
+      "bytes": 83100
+    },
+    {
+      "year": "2023",
+      "session": "suppletiva",
+      "kind": "pdf",
+      "title": "Testo della prova",
+      "source": "https://www.matematica.it/tomasi/matls/2023suppl/A002_SUP23_Matematica_06_07_2023.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2023/suppletiva/A002_SUP23_Matematica_06_07_2023.pdf",
+      "bytes": 1596386
+    },
+    {
+      "year": "2023",
+      "session": "suppletiva",
+      "kind": "pdf",
+      "title": "Problema 1",
+      "source": "https://www.matematica.it/tomasi/matls/2023suppl/problema1-suppletiva.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2023/suppletiva/problema1-suppletiva.pdf",
+      "bytes": 403219
+    },
+    {
+      "year": "2023",
+      "session": "suppletiva",
+      "kind": "pdf",
+      "title": "Problema 2",
+      "source": "https://www.matematica.it/tomasi/matls/2023suppl/problema2-suppletiva.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2023/suppletiva/problema2-suppletiva.pdf",
+      "bytes": 767142
+    },
+    {
+      "year": "2023",
+      "session": "suppletiva",
+      "kind": "pdf",
+      "title": "Questionario",
+      "source": "https://www.matematica.it/tomasi/matls/2023suppl/questionario-suppl-soluzioni.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2023/suppletiva/questionario-suppl-soluzioni.pdf",
+      "bytes": 405713
+    },
+    {
+      "year": "2023",
+      "session": "straordinaria",
+      "kind": "pdf",
+      "title": "Testo della prova",
+      "source": "https://www.matematica.it/tomasi/matls/2023straord/A002_STR23.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2023/straordinaria/A002_STR23.pdf",
+      "bytes": 221943
+    },
+    {
+      "year": "2023",
+      "session": "straordinaria",
+      "kind": "pdf",
+      "title": "Problema 1",
+      "source": "https://www.matematica.it/tomasi/matls/2023straord/problema1_straord_2023.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2023/straordinaria/problema1_straord_2023.pdf",
+      "bytes": 2256799
+    },
+    {
+      "year": "2023",
+      "session": "straordinaria",
+      "kind": "pdf",
+      "title": "Problema 2",
+      "source": "https://www.matematica.it/tomasi/matls/2023straord/problema2_straord_2023.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2023/straordinaria/problema2_straord_2023.pdf",
+      "bytes": 2365683
+    },
+    {
+      "year": "2023",
+      "session": "straordinaria",
+      "kind": "pdf",
+      "title": "Quesito 1",
+      "source": "https://www.matematica.it/tomasi/matls/2023straord/quesito1_straord_2023.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2023/straordinaria/quesito1_straord_2023.pdf",
+      "bytes": 516178
+    },
+    {
+      "year": "2023",
+      "session": "straordinaria",
+      "kind": "pdf",
+      "title": "Quesito 2",
+      "source": "https://www.matematica.it/tomasi/matls/2023straord/quesito2_straord_2023.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2023/straordinaria/quesito2_straord_2023.pdf",
+      "bytes": 387428
+    },
+    {
+      "year": "2023",
+      "session": "straordinaria",
+      "kind": "pdf",
+      "title": "Quesito 3",
+      "source": "https://www.matematica.it/tomasi/matls/2023straord/quesito3_straord_2023.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2023/straordinaria/quesito3_straord_2023.pdf",
+      "bytes": 193116
+    },
+    {
+      "year": "2023",
+      "session": "straordinaria",
+      "kind": "pdf",
+      "title": "Quesito 4",
+      "source": "https://www.matematica.it/tomasi/matls/2023straord/quesito4_straord_2023.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2023/straordinaria/quesito4_straord_2023.pdf",
+      "bytes": 233025
+    },
+    {
+      "year": "2023",
+      "session": "straordinaria",
+      "kind": "pdf",
+      "title": "Quesito 5",
+      "source": "https://www.matematica.it/tomasi/matls/2023straord/quesito5_straord_2023.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2023/straordinaria/quesito5_straord_2023.pdf",
+      "bytes": 339467
+    },
+    {
+      "year": "2023",
+      "session": "straordinaria",
+      "kind": "pdf",
+      "title": "Quesito 6",
+      "source": "https://www.matematica.it/tomasi/matls/2023straord/quesito6_straord_2023.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2023/straordinaria/quesito6_straord_2023.pdf",
+      "bytes": 480107
+    },
+    {
+      "year": "2023",
+      "session": "straordinaria",
+      "kind": "pdf",
+      "title": "Quesito 7",
+      "source": "https://www.matematica.it/tomasi/matls/2023straord/quesito7_straord_2023.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2023/straordinaria/quesito7_straord_2023.pdf",
+      "bytes": 327829
+    },
+    {
+      "year": "2023",
+      "session": "straordinaria",
+      "kind": "pdf",
+      "title": "Quesito 8",
+      "source": "https://www.matematica.it/tomasi/matls/2023straord/quesito8_straord_2023.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2023/straordinaria/quesito8_straord_2023.pdf",
+      "bytes": 461818
+    },
+    {
+      "year": "2019",
+      "session": "ordinaria-mat-fis",
+      "kind": "pdf",
+      "title": "Testo della prova (in pdf)",
+      "source": "https://www.matematica.it/tomasi/matls/2019/AB02_ORD19_Liceo%20scientifico.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2019/ordinaria-mat-fis/AB02_ORD19_Liceo scientifico.pdf",
+      "bytes": 444011
+    },
+    {
+      "year": "2019",
+      "session": "ordinaria-mat-fis",
+      "kind": "pdf",
+      "title": "problema1.pdf",
+      "source": "https://www.matematica.it/tomasi/matls/2019/problema1.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2019/ordinaria-mat-fis/problema1.pdf",
+      "bytes": 1314428
+    },
+    {
+      "year": "2019",
+      "session": "ordinaria-mat-fis",
+      "kind": "pdf",
+      "title": "Problema 2",
+      "source": "https://www.matematica.it/tomasi/matls/2019/problema2.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2019/ordinaria-mat-fis/problema2.pdf",
+      "bytes": 1512573
+    },
+    {
+      "year": "2019",
+      "session": "ordinaria-mat-fis",
+      "kind": "pdf",
+      "title": "Quesito\r\n  1",
+      "source": "https://www.matematica.it/tomasi/matls/2019/quesito1.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2019/ordinaria-mat-fis/quesito1.pdf",
+      "bytes": 237184
+    },
+    {
+      "year": "2019",
+      "session": "ordinaria-mat-fis",
+      "kind": "pdf",
+      "title": "Quesito 2",
+      "source": "https://www.matematica.it/tomasi/matls/2019/quesito2.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2019/ordinaria-mat-fis/quesito2.pdf",
+      "bytes": 174736
+    },
+    {
+      "year": "2019",
+      "session": "ordinaria-mat-fis",
+      "kind": "pdf",
+      "title": "Quesito 3",
+      "source": "https://www.matematica.it/tomasi/matls/2019/quesito3.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2019/ordinaria-mat-fis/quesito3.pdf",
+      "bytes": 227247
+    },
+    {
+      "year": "2019",
+      "session": "ordinaria-mat-fis",
+      "kind": "pdf",
+      "title": "Quesito 4",
+      "source": "https://www.matematica.it/tomasi/matls/2019/quesito4.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2019/ordinaria-mat-fis/quesito4.pdf",
+      "bytes": 255061
+    },
+    {
+      "year": "2019",
+      "session": "ordinaria-mat-fis",
+      "kind": "pdf",
+      "title": "Quesito 5",
+      "source": "https://www.matematica.it/tomasi/matls/2019/quesito5.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2019/ordinaria-mat-fis/quesito5.pdf",
+      "bytes": 193227
+    },
+    {
+      "year": "2019",
+      "session": "ordinaria-mat-fis",
+      "kind": "pdf",
+      "title": "Quesito 6",
+      "source": "https://www.matematica.it/tomasi/matls/2019/quesito6.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2019/ordinaria-mat-fis/quesito6.pdf",
+      "bytes": 458383
+    },
+    {
+      "year": "2019",
+      "session": "ordinaria-mat-fis",
+      "kind": "pdf",
+      "title": "Quesito 7",
+      "source": "https://www.matematica.it/tomasi/matls/2019/quesito7.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2019/ordinaria-mat-fis/quesito7.pdf",
+      "bytes": 353859
+    },
+    {
+      "year": "2019",
+      "session": "ordinaria-mat-fis",
+      "kind": "pdf",
+      "title": "Quesito 8",
+      "source": "https://www.matematica.it/tomasi/matls/2019/quesito8.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2019/ordinaria-mat-fis/quesito8.pdf",
+      "bytes": 109890
+    },
+    {
+      "year": "2019",
+      "session": "ordinaria-mat-fis",
+      "kind": "pdf",
+      "title": "Testo della prova di Matematica e Fisica - Sessione suppletiva - Liceo scientifico (4 luglio 2019)",
+      "source": "https://www.matematica.it/tomasi/matls/2019/AB02_SUP19-04-07-2019.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2019/ordinaria-mat-fis/AB02_SUP19-04-07-2019.pdf",
+      "bytes": 290802
+    },
+    {
+      "year": "2019",
+      "session": "ordinaria-mat-fis",
+      "kind": "pdf",
+      "title": "Testo della prova di Matematica e Fisica-Sessione straordinaria - Liceo scientifico (20 settembre 2019)",
+      "source": "https://www.matematica.it/tomasi/matls/2019/AB02_STR19_20-09-2019.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2019/ordinaria-mat-fis/AB02_STR19_20-09-2019.pdf",
+      "bytes": 334591
+    },
+    {
+      "year": "2019",
+      "session": "suppletiva",
+      "kind": "pdf",
+      "title": "Problema 1",
+      "source": "https://www.matematica.it/tomasi/matls/2019suppl/problema1_suppl_2019.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2019/suppletiva/problema1_suppl_2019.pdf",
+      "bytes": 2989089
+    },
+    {
+      "year": "2019",
+      "session": "suppletiva",
+      "kind": "pdf",
+      "title": "Problema 2",
+      "source": "https://www.matematica.it/tomasi/matls/2019suppl/problema2_suppl_2019.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2019/suppletiva/problema2_suppl_2019.pdf",
+      "bytes": 2017733
+    },
+    {
+      "year": "2019",
+      "session": "suppletiva",
+      "kind": "pdf",
+      "title": "Quesito 1",
+      "source": "https://www.matematica.it/tomasi/matls/2019suppl/quesito1_suppl_2019.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2019/suppletiva/quesito1_suppl_2019.pdf",
+      "bytes": 296301
+    },
+    {
+      "year": "2019",
+      "session": "suppletiva",
+      "kind": "pdf",
+      "title": "Quesito 2",
+      "source": "https://www.matematica.it/tomasi/matls/2019suppl/quesito2_suppl_2019.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2019/suppletiva/quesito2_suppl_2019.pdf",
+      "bytes": 326071
+    },
+    {
+      "year": "2019",
+      "session": "suppletiva",
+      "kind": "pdf",
+      "title": "Quesito 3",
+      "source": "https://www.matematica.it/tomasi/matls/2019suppl/quesito3_suppl_2019.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2019/suppletiva/quesito3_suppl_2019.pdf",
+      "bytes": 182212
+    },
+    {
+      "year": "2019",
+      "session": "suppletiva",
+      "kind": "pdf",
+      "title": "Quesito 4",
+      "source": "https://www.matematica.it/tomasi/matls/2019suppl/quesito4_suppl_2019.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2019/suppletiva/quesito4_suppl_2019.pdf",
+      "bytes": 357612
+    },
+    {
+      "year": "2019",
+      "session": "suppletiva",
+      "kind": "pdf",
+      "title": "Quesito 5",
+      "source": "https://www.matematica.it/tomasi/matls/2019suppl/quesito5_suppl_2019.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2019/suppletiva/quesito5_suppl_2019.pdf",
+      "bytes": 222981
+    },
+    {
+      "year": "2019",
+      "session": "suppletiva",
+      "kind": "pdf",
+      "title": "Quesito 6",
+      "source": "https://www.matematica.it/tomasi/matls/2019suppl/quesito6_suppl_2019.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2019/suppletiva/quesito6_suppl_2019.pdf",
+      "bytes": 359788
+    },
+    {
+      "year": "2019",
+      "session": "suppletiva",
+      "kind": "pdf",
+      "title": "Quesito 7",
+      "source": "https://www.matematica.it/tomasi/matls/2019suppl/quesito7_suppl_2019.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2019/suppletiva/quesito7_suppl_2019.pdf",
+      "bytes": 462156
+    },
+    {
+      "year": "2019",
+      "session": "suppletiva",
+      "kind": "pdf",
+      "title": "Quesito 8",
+      "source": "https://www.matematica.it/tomasi/matls/2019suppl/quesito8_suppl_2019.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2019/suppletiva/quesito8_suppl_2019.pdf",
+      "bytes": 188039
+    },
+    {
+      "year": "2019",
+      "session": "straordinaria",
+      "kind": "pdf",
+      "title": "Testo della prova",
+      "source": "https://www.matematica.it/tomasi/matls/2019straord/AB02_STR19.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2019/straordinaria/AB02_STR19.pdf",
+      "bytes": 334591
+    },
+    {
+      "year": "2019",
+      "session": "straordinaria",
+      "kind": "pdf",
+      "title": "Problema 1",
+      "source": "https://www.matematica.it/tomasi/matls/2019straord/problema1_straord_2019.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2019/straordinaria/problema1_straord_2019.pdf",
+      "bytes": 2660070
+    },
+    {
+      "year": "2019",
+      "session": "straordinaria",
+      "kind": "pdf",
+      "title": "Problema 2",
+      "source": "https://www.matematica.it/tomasi/matls/2019straord/problema2_straord_2019.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2019/straordinaria/problema2_straord_2019.pdf",
+      "bytes": 3016037
+    },
+    {
+      "year": "2019",
+      "session": "straordinaria",
+      "kind": "pdf",
+      "title": "Quesito 1",
+      "source": "https://www.matematica.it/tomasi/matls/2019straord/quesito1_straord_2019.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2019/straordinaria/quesito1_straord_2019.pdf",
+      "bytes": 61475
+    },
+    {
+      "year": "2019",
+      "session": "straordinaria",
+      "kind": "pdf",
+      "title": "Quesito 2",
+      "source": "https://www.matematica.it/tomasi/matls/2019straord/quesito2_straord_2019.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2019/straordinaria/quesito2_straord_2019.pdf",
+      "bytes": 61011
+    },
+    {
+      "year": "2019",
+      "session": "straordinaria",
+      "kind": "pdf",
+      "title": "Quesito 3",
+      "source": "https://www.matematica.it/tomasi/matls/2019straord/quesito3_straord_2019.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2019/straordinaria/quesito3_straord_2019.pdf",
+      "bytes": 44932
+    },
+    {
+      "year": "2019",
+      "session": "straordinaria",
+      "kind": "pdf",
+      "title": "Quesito 4",
+      "source": "https://www.matematica.it/tomasi/matls/2019straord/quesito4_straord_2019.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2019/straordinaria/quesito4_straord_2019.pdf",
+      "bytes": 20540
+    },
+    {
+      "year": "2019",
+      "session": "straordinaria",
+      "kind": "pdf",
+      "title": "Quesito 5",
+      "source": "https://www.matematica.it/tomasi/matls/2019straord/quesito5_straord_2019.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2019/straordinaria/quesito5_straord_2019.pdf",
+      "bytes": 67201
+    },
+    {
+      "year": "2019",
+      "session": "straordinaria",
+      "kind": "pdf",
+      "title": "Quesito 6",
+      "source": "https://www.matematica.it/tomasi/matls/2019straord/quesito6_straord_2019.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2019/straordinaria/quesito6_straord_2019.pdf",
+      "bytes": 51816
+    },
+    {
+      "year": "2019",
+      "session": "straordinaria",
+      "kind": "pdf",
+      "title": "Quesito 7",
+      "source": "https://www.matematica.it/tomasi/matls/2019straord/quesito7_straord_2019.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2019/straordinaria/quesito7_straord_2019.pdf",
+      "bytes": 79120
+    },
+    {
+      "year": "2019",
+      "session": "straordinaria",
+      "kind": "pdf",
+      "title": "Quesito 8",
+      "source": "https://www.matematica.it/tomasi/matls/2019straord/quesito8_straord_2019.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2019/straordinaria/quesito8_straord_2019.pdf",
+      "bytes": 19046
+    },
+    {
+      "year": "2019",
+      "session": "simulazione-2019-04-02",
+      "kind": "pdf",
+      "title": "Testo dell'esempio di prova",
+      "source": "https://www.matematica.it/tomasi/matls/2019matfis2/LI02-Esempio2-02-04-2019.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2019/simulazione-2019-04-02/LI02-Esempio2-02-04-2019.pdf",
+      "bytes": 239506
+    },
+    {
+      "year": "2019",
+      "session": "simulazione-2019-04-02",
+      "kind": "pdf",
+      "title": "problema1.pdf",
+      "source": "https://www.matematica.it/tomasi/matls/2019matfis2/problema1.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2019/simulazione-2019-04-02/problema1.pdf",
+      "bytes": 413069
+    },
+    {
+      "year": "2019",
+      "session": "simulazione-2019-04-02",
+      "kind": "pdf",
+      "title": "Problema 2",
+      "source": "https://www.matematica.it/tomasi/matls/2019matfis2/problema2.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2019/simulazione-2019-04-02/problema2.pdf",
+      "bytes": 322378
+    },
+    {
+      "year": "2019",
+      "session": "simulazione-2019-04-02",
+      "kind": "pdf",
+      "title": "Quesito\r\n  1",
+      "source": "https://www.matematica.it/tomasi/matls/2019matfis2/quesito1.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2019/simulazione-2019-04-02/quesito1.pdf",
+      "bytes": 169186
+    },
+    {
+      "year": "2019",
+      "session": "simulazione-2019-04-02",
+      "kind": "pdf",
+      "title": "Quesito 2",
+      "source": "https://www.matematica.it/tomasi/matls/2019matfis2/quesito2.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2019/simulazione-2019-04-02/quesito2.pdf",
+      "bytes": 145146
+    },
+    {
+      "year": "2019",
+      "session": "simulazione-2019-04-02",
+      "kind": "pdf",
+      "title": "Quesito 3",
+      "source": "https://www.matematica.it/tomasi/matls/2019matfis2/quesito3.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2019/simulazione-2019-04-02/quesito3.pdf",
+      "bytes": 114315
+    },
+    {
+      "year": "2019",
+      "session": "simulazione-2019-04-02",
+      "kind": "pdf",
+      "title": "Quesito 4",
+      "source": "https://www.matematica.it/tomasi/matls/2019matfis2/quesito4.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2019/simulazione-2019-04-02/quesito4.pdf",
+      "bytes": 178761
+    },
+    {
+      "year": "2019",
+      "session": "simulazione-2019-04-02",
+      "kind": "pdf",
+      "title": "Quesito 5",
+      "source": "https://www.matematica.it/tomasi/matls/2019matfis2/quesito5.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2019/simulazione-2019-04-02/quesito5.pdf",
+      "bytes": 132968
+    },
+    {
+      "year": "2019",
+      "session": "simulazione-2019-04-02",
+      "kind": "pdf",
+      "title": "Quesito 6",
+      "source": "https://www.matematica.it/tomasi/matls/2019matfis2/quesito6.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2019/simulazione-2019-04-02/quesito6.pdf",
+      "bytes": 77286
+    },
+    {
+      "year": "2019",
+      "session": "simulazione-2019-04-02",
+      "kind": "pdf",
+      "title": "Quesito 7",
+      "source": "https://www.matematica.it/tomasi/matls/2019matfis2/quesito7.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2019/simulazione-2019-04-02/quesito7.pdf",
+      "bytes": 121350
+    },
+    {
+      "year": "2019",
+      "session": "simulazione-2019-04-02",
+      "kind": "pdf",
+      "title": "Quesito 8",
+      "source": "https://www.matematica.it/tomasi/matls/2019matfis2/quesito8.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2019/simulazione-2019-04-02/quesito8.pdf",
+      "bytes": 57293
+    },
+    {
+      "year": "2019",
+      "session": "simulazione-2019-02-28",
+      "kind": "pdf",
+      "title": "Testo dell'esempio di prova",
+      "source": "https://www.matematica.it/tomasi/matls/2019matfis1/LI02-Esempio1.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2019/simulazione-2019-02-28/LI02-Esempio1.pdf",
+      "bytes": 427155
+    },
+    {
+      "year": "2019",
+      "session": "simulazione-2019-02-28",
+      "kind": "pdf",
+      "title": "problema1.pdf",
+      "source": "https://www.matematica.it/tomasi/matls/2019matfis1/problema1.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2019/simulazione-2019-02-28/problema1.pdf",
+      "bytes": 640070
+    },
+    {
+      "year": "2019",
+      "session": "simulazione-2019-02-28",
+      "kind": "pdf",
+      "title": "Problema 2",
+      "source": "https://www.matematica.it/tomasi/matls/2019matfis1/problema2.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2019/simulazione-2019-02-28/problema2.pdf",
+      "bytes": 416518
+    },
+    {
+      "year": "2019",
+      "session": "simulazione-2019-02-28",
+      "kind": "pdf",
+      "title": "Quesito\r\n  1",
+      "source": "https://www.matematica.it/tomasi/matls/2019matfis1/quesito1.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2019/simulazione-2019-02-28/quesito1.pdf",
+      "bytes": 373884
+    },
+    {
+      "year": "2019",
+      "session": "simulazione-2019-02-28",
+      "kind": "pdf",
+      "title": "Quesito 2",
+      "source": "https://www.matematica.it/tomasi/matls/2019matfis1/quesito2.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2019/simulazione-2019-02-28/quesito2.pdf",
+      "bytes": 592768
+    },
+    {
+      "year": "2019",
+      "session": "simulazione-2019-02-28",
+      "kind": "pdf",
+      "title": "Quesito 3",
+      "source": "https://www.matematica.it/tomasi/matls/2019matfis1/quesito3.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2019/simulazione-2019-02-28/quesito3.pdf",
+      "bytes": 67004
+    },
+    {
+      "year": "2019",
+      "session": "simulazione-2019-02-28",
+      "kind": "pdf",
+      "title": "Quesito 4",
+      "source": "https://www.matematica.it/tomasi/matls/2019matfis1/quesito4.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2019/simulazione-2019-02-28/quesito4.pdf",
+      "bytes": 508977
+    },
+    {
+      "year": "2019",
+      "session": "simulazione-2019-02-28",
+      "kind": "pdf",
+      "title": "Quesito 5",
+      "source": "https://www.matematica.it/tomasi/matls/2019matfis1/quesito5.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2019/simulazione-2019-02-28/quesito5.pdf",
+      "bytes": 239143
+    },
+    {
+      "year": "2019",
+      "session": "simulazione-2019-02-28",
+      "kind": "pdf",
+      "title": "Quesito 6",
+      "source": "https://www.matematica.it/tomasi/matls/2019matfis1/quesito6.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2019/simulazione-2019-02-28/quesito6.pdf",
+      "bytes": 66347
+    },
+    {
+      "year": "2019",
+      "session": "simulazione-2019-02-28",
+      "kind": "pdf",
+      "title": "Quesito 7",
+      "source": "https://www.matematica.it/tomasi/matls/2019matfis1/quesito7.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2019/simulazione-2019-02-28/quesito7.pdf",
+      "bytes": 77967
+    },
+    {
+      "year": "2019",
+      "session": "simulazione-2019-02-28",
+      "kind": "pdf",
+      "title": "Quesito 8",
+      "source": "https://www.matematica.it/tomasi/matls/2019matfis1/quesito8.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2019/simulazione-2019-02-28/quesito8.pdf",
+      "bytes": 68947
+    },
+    {
+      "year": "2018",
+      "session": "simulazione-matematica-2018-12-20",
+      "kind": "pdf",
+      "title": "Testo dell'esempio di prova",
+      "source": "https://www.matematica.it/tomasi/matls/2018sim-mat/Esempio-LI02-LI03-LI15-Mat.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2018/simulazione-matematica-2018-12-20/Esempio-LI02-LI03-LI15-Mat.pdf",
+      "bytes": 390032
+    },
+    {
+      "year": "2018",
+      "session": "simulazione-matematica-2018-12-20",
+      "kind": "pdf",
+      "title": "problema1.pdf",
+      "source": "https://www.matematica.it/tomasi/matls/2018sim-mat/problema1.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2018/simulazione-matematica-2018-12-20/problema1.pdf",
+      "bytes": 905564
+    },
+    {
+      "year": "2018",
+      "session": "simulazione-matematica-2018-12-20",
+      "kind": "pdf",
+      "title": "Problema 2 (soluzione)",
+      "source": "https://www.matematica.it/tomasi/matls/2018sim-mat/problema2.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2018/simulazione-matematica-2018-12-20/problema2.pdf",
+      "bytes": 920787
+    },
+    {
+      "year": "2018",
+      "session": "simulazione-matematica-2018-12-20",
+      "kind": "pdf",
+      "title": "Quesito\r\n  1",
+      "source": "https://www.matematica.it/tomasi/matls/2018sim-mat/quesito1.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2018/simulazione-matematica-2018-12-20/quesito1.pdf",
+      "bytes": 718188
+    },
+    {
+      "year": "2018",
+      "session": "simulazione-matematica-2018-12-20",
+      "kind": "pdf",
+      "title": "Quesito 2",
+      "source": "https://www.matematica.it/tomasi/matls/2018sim-mat/quesito2.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2018/simulazione-matematica-2018-12-20/quesito2.pdf",
+      "bytes": 567592
+    },
+    {
+      "year": "2018",
+      "session": "simulazione-matematica-2018-12-20",
+      "kind": "pdf",
+      "title": "Quesito 3",
+      "source": "https://www.matematica.it/tomasi/matls/2018sim-mat/quesito3.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2018/simulazione-matematica-2018-12-20/quesito3.pdf",
+      "bytes": 561938
+    },
+    {
+      "year": "2018",
+      "session": "simulazione-matematica-2018-12-20",
+      "kind": "pdf",
+      "title": "Quesito 4",
+      "source": "https://www.matematica.it/tomasi/matls/2018sim-mat/quesito4.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2018/simulazione-matematica-2018-12-20/quesito4.pdf",
+      "bytes": 567733
+    },
+    {
+      "year": "2018",
+      "session": "simulazione-matematica-2018-12-20",
+      "kind": "pdf",
+      "title": "Quesito 5",
+      "source": "https://www.matematica.it/tomasi/matls/2018sim-mat/quesito5.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2018/simulazione-matematica-2018-12-20/quesito5.pdf",
+      "bytes": 547557
+    },
+    {
+      "year": "2018",
+      "session": "simulazione-matematica-2018-12-20",
+      "kind": "pdf",
+      "title": "Quesito 6",
+      "source": "https://www.matematica.it/tomasi/matls/2018sim-mat/quesito6.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2018/simulazione-matematica-2018-12-20/quesito6.pdf",
+      "bytes": 582583
+    },
+    {
+      "year": "2018",
+      "session": "simulazione-matematica-2018-12-20",
+      "kind": "pdf",
+      "title": "Quesito 7",
+      "source": "https://www.matematica.it/tomasi/matls/2018sim-mat/quesito7.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2018/simulazione-matematica-2018-12-20/quesito7.pdf",
+      "bytes": 505196
+    },
+    {
+      "year": "2018",
+      "session": "simulazione-matematica-2018-12-20",
+      "kind": "pdf",
+      "title": "Quesito 8",
+      "source": "https://www.matematica.it/tomasi/matls/2018sim-mat/quesito8.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2018/simulazione-matematica-2018-12-20/quesito8.pdf",
+      "bytes": 472980
+    },
+    {
+      "year": "2018",
+      "session": "simulazione-mat-fis-2018-12-20",
+      "kind": "pdf",
+      "title": "Esempio LI02-LI03-LI15 Mat-Fis.pdf",
+      "source": "https://www.matematica.it/tomasi/matls/2018sim-matfis/Esempio%20LI02-LI03-LI15%20Mat-Fis.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2018/simulazione-mat-fis-2018-12-20/Esempio LI02-LI03-LI15 Mat-Fis.pdf",
+      "bytes": 638549
+    },
+    {
+      "year": "2018",
+      "session": "quadro-riferimento",
+      "kind": "pdf",
+      "title": "QDR liceo scientifico LI02 22 11.pdf",
+      "source": "https://www.matematica.it/tomasi/matls/2018qdr/QDR%20liceo%20scientifico%20LI02%2022%2011.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2018/quadro-riferimento/QDR liceo scientifico LI02 22 11.pdf",
+      "bytes": 199267
+    },
+    {
+      "year": "2019",
+      "session": "suppletiva",
+      "kind": "pdf",
+      "title": "Testo della prova - link corretto",
+      "source": "https://www.matematica.it/tomasi/matls/2019/AB02_SUP19-04-07-2019.pdf",
+      "file": "daccampo/matematica/prove_maturita_seconda_prova/2019/suppletiva/AB02_SUP19-04-07-2019.pdf",
+      "bytes": 290802
+    }
+  ],
+  "errors": []
+}

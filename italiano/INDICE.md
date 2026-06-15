@@ -3,6 +3,7 @@
 > **Ultimo aggiornamento:** 2 giugno 2026
 > **Scopo:** Preparazione all'Esame di Stato (maturità)
 > **Fonti:** Trascrizioni delle lezioni in classe (gennaio–maggio 2026)
+> **Indice lezioni trascritte:** [`lezioni/INDICE.md`](lezioni/INDICE.md)
 
 ---
 

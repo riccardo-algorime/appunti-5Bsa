@@ -12,6 +12,7 @@ Raccolta di appunti e materiali scolastici.
 | Cartella | Contenuto | Entrata consigliata |
 |---|---|---|
 | `chimica/` | 2 cartelle, 0 file | `-` |
+| `esame/` | 3 cartelle, 0 file | `-` |
 | `fisica/` | 1 cartelle, 0 file | `-` |
 | `italiano/` | 13 cartelle, 4 file | `INDICE.md` |
 | `mate/` | 0 cartelle, 0 file | `-` |
@@ -45,6 +46,15 @@ Raccolta di appunti e materiali scolastici.
 │       ├── cap-9-interno-terra/
 │       └── indice.md
 ├── CONTRIBUTING.md
+├── esame/
+│   ├── daccampo/
+│   │   └── scienze/
+│   ├── italiano/
+│   │   ├── prove_maturita_prima_prova/
+│   │   └── studio/
+│   └── matematica/
+│       ├── ord_page1.png
+│       └── prove_maturita_seconda_prova/
 ├── fisica/
 │   └── materiali/
 │       ├── appunti-bea.md
@@ -136,6 +146,7 @@ Raccolta di appunti e materiali scolastici.
 │   │   ├── 30-01-26/
 │   │   ├── 30-04-26/
 │   │   ├── 31-03-26/
+│   │   ├── INDICE.md
 │   │   ├── raw/
 │   │   ├── studio/
 │   │   └── unknown/

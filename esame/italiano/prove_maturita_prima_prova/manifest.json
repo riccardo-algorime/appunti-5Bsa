@@ -1,0 +1,185 @@
+{
+  "files": [
+    {
+      "year": "2025",
+      "session": "ordinaria",
+      "title": "Sessione ordinaria",
+      "source": "https://www.istruzione.it/esame_di_stato/202425/Italiano/Ordinaria/P000_ORD25.pdf",
+      "filename": "P000_ORD25.pdf",
+      "type": "traccia ufficiale",
+      "file": "italiano/prove_maturita_prima_prova/2025/ordinaria/P000_ORD25.pdf",
+      "bytes": 329853
+    },
+    {
+      "year": "2025",
+      "session": "suppletiva",
+      "title": "Sessione suppletiva",
+      "source": "https://www.istruzione.it/esame_di_stato/202425/Italiano/Suppletiva/P000_SUP25.pdf",
+      "filename": "P000_SUP25.pdf",
+      "type": "traccia ufficiale",
+      "file": "italiano/prove_maturita_prima_prova/2025/suppletiva/P000_SUP25.pdf",
+      "bytes": 311401
+    },
+    {
+      "year": "2025",
+      "session": "straordinaria",
+      "title": "Sessione straordinaria",
+      "source": "https://www.istruzione.it/esame_di_stato/202425/Italiano/Straordinaria/P000_STR25.pdf",
+      "filename": "P000_STR25.pdf",
+      "type": "traccia ufficiale",
+      "file": "italiano/prove_maturita_prima_prova/2025/straordinaria/P000_STR25.pdf",
+      "bytes": 346154
+    },
+    {
+      "year": "2024",
+      "session": "ordinaria",
+      "title": "Sessione ordinaria",
+      "source": "https://www.istruzione.it/esame_di_stato/202324/Italiano/Ordinaria/P000_ORD24.pdf",
+      "filename": "P000_ORD24.pdf",
+      "type": "traccia ufficiale",
+      "file": "italiano/prove_maturita_prima_prova/2024/ordinaria/P000_ORD24.pdf",
+      "bytes": 282907
+    },
+    {
+      "year": "2024",
+      "session": "suppletiva",
+      "title": "Sessione suppletiva",
+      "source": "https://www.istruzione.it/esame_di_stato/202324/Italiano/Suppletiva/P000_SUP24.pdf",
+      "filename": "P000_SUP24.pdf",
+      "type": "traccia ufficiale",
+      "file": "italiano/prove_maturita_prima_prova/2024/suppletiva/P000_SUP24.pdf",
+      "bytes": 332233
+    },
+    {
+      "year": "2024",
+      "session": "straordinaria",
+      "title": "Sessione straordinaria",
+      "source": "https://www.istruzione.it/esame_di_stato/202324/Italiano/Straordinaria/P000_STR24.pdf",
+      "filename": "P000_STR24.pdf",
+      "type": "traccia ufficiale",
+      "file": "italiano/prove_maturita_prima_prova/2024/straordinaria/P000_STR24.pdf",
+      "bytes": 321789
+    },
+    {
+      "year": "2023",
+      "session": "ordinaria",
+      "title": "Sessione ordinaria",
+      "source": "https://www.istruzione.it/esame_di_stato/202223/Italiano/Ordinaria/P000_ORD23.pdf",
+      "filename": "P000_ORD23.pdf",
+      "type": "traccia ufficiale",
+      "file": "italiano/prove_maturita_prima_prova/2023/ordinaria/P000_ORD23.pdf",
+      "bytes": 333000
+    },
+    {
+      "year": "2023",
+      "session": "suppletiva",
+      "title": "Sessione suppletiva",
+      "source": "https://www.istruzione.it/esame_di_stato/202223/Italiano/Suppletiva/P000_SUP23.pdf",
+      "filename": "P000_SUP23.pdf",
+      "type": "traccia ufficiale",
+      "file": "italiano/prove_maturita_prima_prova/2023/suppletiva/P000_SUP23.pdf",
+      "bytes": 329972
+    },
+    {
+      "year": "2023",
+      "session": "straordinaria",
+      "title": "Sessione straordinaria",
+      "source": "https://www.istruzione.it/esame_di_stato/202223/Italiano/Straordinaria/P000_STR23.pdf",
+      "filename": "P000_STR23.pdf",
+      "type": "traccia ufficiale",
+      "file": "italiano/prove_maturita_prima_prova/2023/straordinaria/P000_STR23.pdf",
+      "bytes": 303350
+    },
+    {
+      "year": "2022",
+      "session": "ordinaria",
+      "title": "Sessione ordinaria",
+      "source": "https://www.istruzione.it/esame_di_stato/202122/Italiano/Ordinaria/P000_ORD22.pdf",
+      "filename": "P000_ORD22.pdf",
+      "type": "traccia ufficiale",
+      "file": "italiano/prove_maturita_prima_prova/2022/ordinaria/P000_ORD22.pdf",
+      "bytes": 408664
+    },
+    {
+      "year": "2022",
+      "session": "suppletiva",
+      "title": "Sessione suppletiva",
+      "source": "https://www.istruzione.it/esame_di_stato/202122/Italiano/Suppletiva/P000_SUP22.pdf",
+      "filename": "P000_SUP22.pdf",
+      "type": "traccia ufficiale",
+      "file": "italiano/prove_maturita_prima_prova/2022/suppletiva/P000_SUP22.pdf",
+      "bytes": 341872
+    },
+    {
+      "year": "2022",
+      "session": "straordinaria",
+      "title": "Sessione straordinaria",
+      "source": "https://www.istruzione.it/esame_di_stato/202122/Italiano/Straordinaria/P000_STR22.pdf",
+      "filename": "P000_STR22.pdf",
+      "type": "traccia ufficiale",
+      "file": "italiano/prove_maturita_prima_prova/2022/straordinaria/P000_STR22.pdf",
+      "bytes": 436143
+    },
+    {
+      "year": "2019",
+      "session": "ordinaria",
+      "title": "Sessione ordinaria",
+      "source": "https://www.istruzione.it/esame_di_stato/esempi/201920/Italiano/Pdf/P000_ORD19.pdf",
+      "filename": "P000_ORD19.pdf",
+      "type": "traccia ufficiale / simulazione",
+      "file": "italiano/prove_maturita_prima_prova/2019/ordinaria/P000_ORD19.pdf",
+      "bytes": 426212
+    },
+    {
+      "year": "2019",
+      "session": "suppletiva",
+      "title": "Sessione suppletiva",
+      "source": "https://www.istruzione.it/esame_di_stato/esempi/201920/Italiano/Pdf/P000_SUP19.pdf",
+      "filename": "P000_SUP19.pdf",
+      "type": "traccia ufficiale / simulazione",
+      "file": "italiano/prove_maturita_prima_prova/2019/suppletiva/P000_SUP19.pdf",
+      "bytes": 371568
+    },
+    {
+      "year": "2019",
+      "session": "straordinaria",
+      "title": "Sessione straordinaria",
+      "source": "https://www.istruzione.it/esame_di_stato/esempi/201920/Italiano/Pdf/P000_STR19.pdf",
+      "filename": "P000_STR19.pdf",
+      "type": "traccia ufficiale / simulazione",
+      "file": "italiano/prove_maturita_prima_prova/2019/straordinaria/P000_STR19.pdf",
+      "bytes": 379800
+    },
+    {
+      "year": "2019",
+      "session": "simulazione-2019-02",
+      "title": "Esempio febbraio 2019",
+      "source": "https://www.istruzione.it/esame_di_stato/esempi/201920/Italiano/Pdf/P000-Esempio_Febbraio19.pdf",
+      "filename": "P000-Esempio_Febbraio19.pdf",
+      "type": "traccia ufficiale / simulazione",
+      "file": "italiano/prove_maturita_prima_prova/2019/simulazione-2019-02/P000-Esempio_Febbraio19.pdf",
+      "bytes": 227165
+    },
+    {
+      "year": "2019",
+      "session": "simulazione-2019-03",
+      "title": "Esempio marzo 2019",
+      "source": "https://www.istruzione.it/esame_di_stato/esempi/201920/Italiano/Pdf/P000-Esempio_Marzo19.pdf",
+      "filename": "P000-Esempio_Marzo19.pdf",
+      "type": "traccia ufficiale / simulazione",
+      "file": "italiano/prove_maturita_prima_prova/2019/simulazione-2019-03/P000-Esempio_Marzo19.pdf",
+      "bytes": 273807
+    },
+    {
+      "year": "2019",
+      "session": "quadro-riferimento",
+      "title": "Quadro di riferimento prima prova",
+      "source": "https://mim.gov.it/documents/20182/0/QDR%20prima%20PROVA%2026%20novembre.pdf/caceeda3-0cce-434f-a1d6-c8aa4e30f71d",
+      "filename": "QDR prima PROVA 26 novembre.pdf",
+      "type": "quadro riferimento",
+      "file": "italiano/prove_maturita_prima_prova/2019/quadro-riferimento/QDR prima PROVA 26 novembre.pdf",
+      "bytes": 159717
+    }
+  ],
+  "errors": []
+}

@@ -54,6 +54,7 @@ Raccolta di appunti e materiali scolastici.
 │   ├── indice-scienze.md
 │   ├── indice-storia.md
 │   ├── italiano/
+│   │   ├── extra-ai-commit-8fdacbe/
 │   │   ├── italiano(appunti-studio-anno)/
 │   │   ├── prove_maturita_prima_prova/
 │   │   └── studio/

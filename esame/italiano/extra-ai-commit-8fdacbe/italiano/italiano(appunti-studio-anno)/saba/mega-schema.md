@@ -453,7 +453,54 @@ Il verso "**s'agita in esse, come in me, il Signore**" non va letto come confess
 
 Il "Signore" può essere inteso come riconoscimento di una presenza creaturale, di una dignità umana elementare che attraversa prostituta, marinaio, vecchio, soldato, giovane folle d'amore e poeta. Non è un discorso confessionale: è il modo con cui Saba dice che in quelle vite degradate si agita qualcosa di comune, vivo, sacro nel senso più umano del termine.
 
-Il collegamento proposto in lezione con **Pasolini** serve solo a chiarire questo sguardo sugli umili: anche Pasolini, nelle borgate romane, guarderà prostituzione, povertà, piccola criminalità e marginalità senza ridurle a semplice degrado morale, ma cercandovi autenticità. Il rimando a **De André** e alla sua *Città vecchia* può essere utile per confronto, soprattutto perché anche lì una città portuale diventa luogo di esclusi e di umanità marginale. Però in Saba il nucleo resta specifico: l'infinito viene trovato nell'umiltà, e il pensiero si purifica proprio dove la via è più turpe.
+Il collegamento proposto in lezione con **Pasolini** serve solo a chiarire questo sguardo sugli umili: anche Pasolini, nelle borgate romane, guarderà prostituzione, povertà, piccola criminalità e marginalità senza ridurle a semplice degrado morale, ma cercandovi autenticità.
+
+#### Confronto con Fabrizio De André, *La città vecchia*
+
+Il confronto con la canzone omonima di **Fabrizio De André** è indicato esplicitamente nel [programma d'esame](<../../../programma/italiano.md>) e ripreso nella [lezione del 28/05/2026](<../lezioni/28-05-26/transcription.txt>). È un confronto molto efficace all'orale perché permette di mostrare come uno stesso spazio — la **città vecchia portuale** — possa diventare in due linguaggi diversi il luogo degli esclusi.
+
+De André è legato a **Genova**, città di porto, vicoli, moli e quartieri popolari. La lezione insiste sul fatto che i suoi testi sono spesso costruiti con un vero lavoro sulle forme della **ballata** e con forti **reminiscenze letterarie**; per questo si può pensare che la sua *Città vecchia* nasca anche dalla suggestione della poesia di Saba. Non bisogna però appiattire i due testi: De André recupera immagini e tipi umani simili, ma li organizza con un andamento più narrativo e con una voce più esplicitamente polemica verso la società borghese.
+
+| Aspetto | Saba, *Città vecchia* | De André, *La città vecchia* |
+|---------|------------------------|-------------------------------|
+| **Città** | Trieste: città vecchia presso il porto, vie oscure, pozzanghere, fanali, osteria, lupanare | Genova: quartieri bassi, calate dei vecchi moli, portoni, osterie, odori di sale, vicoli popolari |
+| **Genere** | Lirica del *Canzoniere* | Canzone d'autore / ballata narrativa |
+| **Umanità rappresentata** | Prostituta, marinaio, vecchio che bestemmia, femmina che bega, dragone, giovane impazzita d'amore | Prostituta, pensionati ubriachi, vecchio professore ipocrita, ladri, assassini, "tipo strano", emarginati |
+| **Sguardo sugli esclusi** | Partecipazione diretta: il poeta sente in loro la stessa vita e lo stesso dolore che sono in lui | Comprensione morale e sociale: il cantautore invita a non giudicare da "buon borghese" |
+| **Nucleo religioso / morale** | "S'agita in esse, come in me, il Signore": dignità quasi sacra degli umili | Se non sono puri come "gigli", sono comunque "figli" e "vittime di questo mondo" |
+| **Rapporto con il basso** | Dove la via è più turpe, il pensiero si fa più puro | Nel "letame" dell'emarginazione possono nascere fiori: la vita non nasce dai diamanti della rispettabilità |
+| **Bersaglio implicito** | La separazione borghese tra rispettabilità e degrado viene superata dalla comunione con gli umili | La società borghese è denunciata apertamente per ipocrisia, giudizio e incapacità di capire |
+
+##### Somiglianze da ricordare
+
+1. **Ambientazione portuale e degradata.**  
+   In entrambi i testi la città vecchia non è il centro monumentale o turistico, ma la zona bassa del porto: vicoli, moli, osterie, portoni, lupanari, pozzanghere, odori, buio. È uno spazio dove la rispettabilità borghese non entra se non in modo ipocrita e clandestino.
+
+2. **Galleria di figure marginali.**  
+   Saba elenca figure come prostituta, marinaio, vecchio che bestemmia, soldato, giovane folle d'amore. De André costruisce una galleria analoga: prostitute, vecchi pensionati, ubriachi, ladri, assassini, personaggi bizzarri, professori che di giorno condannano ciò che di notte cercano. In entrambi i casi non siamo davanti a eroi, ma a vite scartate.
+
+3. **Rifiuto del moralismo.**  
+   Nessuno dei due autori guarda quella realtà con disgusto moralistico. Saba non dice: "io sono diverso da loro"; dice invece che in loro si agita lo stesso Signore che si agita in lui. De André invita a non giudicare con lo sguardo del "buon borghese", perché chi giudica da fuori condanna senza capire.
+
+4. **Poesia del basso.**  
+   Entrambi trovano valore poetico in ciò che la letteratura tradizionale o il decoro borghese considererebbero impoetico: prostituzione, bestemmia, ubriachezza, miseria, corpi venduti, vecchiaia, fame, piccoli crimini. Questo è molto sabiano: la poesia onesta non cerca il sublime lontano, ma la verità nella vita umile.
+
+##### Differenze decisive
+
+La differenza più importante riguarda la posizione dell'**io**.
+
+In **Saba**, l'io lirico è **dentro** quel mondo. Attraversa la via, vede gli umili e sente il proprio pensiero purificarsi in loro compagnia. La formula "come in me" è essenziale: prostituta, marinaio, vecchio, soldato e poeta partecipano della stessa vita e dello stesso dolore. Per questo la poesia arriva a una sorta di comunione: l'infinito si trova nell'umiltà, non al di sopra di essa.
+
+In **De André**, la voce sembra solidale, ma è più **narrativa e ammonitrice**. Il cantautore racconta, presenta personaggi, costruisce scene, poi invita chi ascolta a non giudicare. La canzone diventa quindi anche una denuncia dell'ipocrisia sociale: il "buon borghese" condanna ladri, prostitute e assassini, ma spesso non vede le cause sociali della loro condizione, né i propri vizi nascosti.
+
+Un'altra differenza è il tono:
+
+- Saba è più **lirico e spirituale**: parla di infinito, umiltà, purezza, Signore;
+- De André è più **narrativo, ironico e sociale**: mette in scena casi concreti, ipocrisie, pensioni, desideri, giudizi borghesi, vittime della società.
+
+##### Frase pronta per l'orale
+
+> Nel programma è previsto il confronto tra *Città vecchia* di Saba e la canzone omonima di De André. Il punto comune è la città portuale come spazio degli esclusi: Trieste per Saba, Genova per De André. Entrambi mostrano prostitute, vecchi, ubriachi, ladri, marinai, figure marginali, e rifiutano il giudizio moralistico. Però Saba partecipa interiormente a quel mondo: negli umili sente agitarsi lo stesso "Signore" che è in lui e trova "l'infinito nell'umiltà". De André invece costruisce una ballata più narrativa e sociale: denuncia l'ipocrisia borghese e invita a capire prima di condannare. In Saba il pensiero si purifica nella via più turpe; in De André gli esclusi non sono gigli, ma sono comunque figli e vittime di questo mondo.
 
 ```mermaid
 flowchart TD
@@ -465,16 +512,171 @@ flowchart TD
     F --> G["Poesia onesta:<br/>verità nel basso quotidiano"]
 ```
 
-### 6.6 Accenni dalla lezione: Lina e la sincerità
+### 6.6 *Ed amai nuovamente*
 
-La lezione accenna anche a *Ed amai nuovamente*, testo legato a Lina. Non serve farne un'analisi completa, ma vanno ricordati alcuni nuclei:
+*Ed amai nuovamente* è una poesia da studiare come testo autonomo, non solo come accenno biografico su Lina. È inserita nel programma tra le poesie del *Canzoniere* di Saba e nella [lezione del 14/05/2026](<../lezioni/14-05-26/transcription.txt>) viene letta come testo utile per capire la sua "**più ardita sincerità**": la capacità di dire senza maschere la verità dell'amore, della colpa, della fedeltà profonda e del dolore.
 
-- l'avvio con la congiunzione dà l'impressione di un discorso già iniziato;
-- Lina è associata al **rosso scialle**, immagine domestica di amore e dolore;
-- la figlia Linuccia appare come presenza accanto alla coppia;
-- Saba riconosce di aver conosciuto altri amori;
-- per Lina vorrebbe ricominciare una vita nuova;
-- Lina ha saputo amare tutto, ma non se stessa.
+Il testo è legato alla moglie **Lina**, ma non è una semplice poesia d'amore coniugale. È una lirica di bilancio: Saba guarda alla propria vita affettiva e riconosce che il centro resta Lina, anche se non tutto è stato limpido, lineare o fedele. La grandezza del testo sta proprio qui: l'amore non viene idealizzato; viene detto nella sua complessità, con una sincerità che non nasconde contraddizioni e ferite.
+
+#### Contesto nel *Canzoniere*
+
+Nel *Canzoniere* Lina è una figura fondamentale:
+
+- è la moglie, la donna della vita quotidiana;
+- è la madre di Linuccia;
+- è spesso avvicinata a una dimensione domestica, semplice, creaturale;
+- è anche una figura carica di dolore, gelosia, separazioni, ritorni, dipendenza affettiva.
+
+In *Ed amai nuovamente* Saba non parla dell'amore come sentimento astratto. Parla della propria storia con Lina, cioè di un amore reale, attraversato da altri amori, da infedeltà, da dolore e da un legame che tuttavia non si spezza.
+
+#### Titolo e attacco: un discorso già iniziato
+
+La poesia si apre con una congiunzione: "**Ed** amai nuovamente". Questo dettaglio è importante.
+
+L'attacco con "e" dà l'impressione che la poesia cominci **a discorso già avviato**. Non siamo davanti a un inizio solenne, ma a una ripresa: come se Saba stesse continuando un ragionamento interiore già in corso. "Amai nuovamente" significa: **tornai ad amare**.
+
+Questo avvio suggerisce due cose:
+
+1. l'amore non è unico, immobile, cristallizzato una volta per tutte;
+2. la vita affettiva di Saba è fatta di ritorni, riprese, scarti, nuove possibilità.
+
+L'amore per Lina non è quindi rappresentato come favola pura, ma come amore che resiste dentro una biografia complicata.
+
+#### Lina "dal rosso scialle"
+
+Lina è ricordata con un'immagine concreta: il **rosso scialle**.
+
+Lo **scialle** è un indumento semplice, familiare, quotidiano. Non appartiene al lusso aristocratico o all'eleganza dannunziana: richiama il mondo domestico, la casa, la vita comune. È perfettamente coerente con la poetica di Saba, che cerca la verità nelle cose umili.
+
+Il colore **rosso** ha invece un valore simbolico più intenso:
+
+| Elemento | Significato |
+|----------|-------------|
+| **Scialle** | Quotidianità, semplicità, casa, familiarità |
+| **Rosso** | Passione, amore, sangue, dolore |
+| **Rosso scialle** | Amore domestico ma doloroso, passione vissuta nella vita concreta |
+
+La lezione insiste proprio su questa doppia lettura: il rosso rimanda alla passione e all'amore, ma anche al **dolore**, perché la passione non è solo trasporto erotico; può essere anche sofferenza, come nella "passione" di Cristo.
+
+#### "Il più della mia vita"
+
+La costruzione "fu di Lina dal rosso scialle **il più della mia vita**" contiene un'anastrofe. L'ordine più normale sarebbe: **il più della mia vita fu di Lina dal rosso scialle**.
+
+"Il più della mia vita" può significare:
+
+- la **maggior parte** della vita di Saba;
+- ma anche la **parte migliore**, la parte più importante e più vera.
+
+Questa ambiguità è molto significativa. Saba non dice semplicemente che Lina è stata una presenza lunga nel tempo; dice che a lei appartiene il nucleo più alto e più decisivo della sua esistenza.
+
+#### Linuccia: la figlia "accanto a noi"
+
+Nel testo compare anche la figlia **Linuccia**, indicata come "quella che cresce accanto a noi". La lezione sottolinea la scelta di "**accanto a noi**", non "con noi".
+
+Questo dettaglio è sottile ma importante: la figlia è presente, amata, fondamentale, ma l'espressione sembra preservare l'unità della coppia Lina-Saba. Linuccia cresce vicino a loro, accanto alla loro storia, quasi come creatura più legata a Lina che al padre.
+
+La poesia quindi non è solo un testo su Lina come moglie, ma anche sulla famiglia: Lina, Saba e la figlia sono dentro una rete affettiva complessa, non pacificata.
+
+#### La "più ardita sincerità"
+
+Uno dei passaggi più importanti è quello in cui Saba collega Lina al libro della sua "**più ardita sincerità**".
+
+"Ardita" significa **coraggiosa**. La sincerità di Saba è ardita perché non consiste nel dire cose facili o edificanti: consiste nello scavare nelle zone più scomode dell'interiorità, là dove si trovano le verità dell'**inconscio**.
+
+Qui si vede il cuore della poetica sabiana:
+
+- non artificio;
+- non idealizzazione;
+- non maschera letteraria;
+- ma verità profonda dell'io, anche quando è dolorosa.
+
+Per questo *Ed amai nuovamente* è una poesia "onesta": Saba non finge di essere stato un marito perfetto, non cancella altri amori, non trasforma Lina in una donna angelicata. Dice invece una verità più difficile: altri amori ci sono stati, ma l'anima non si è mai veramente separata da Lina.
+
+#### "L'anima mia partita"
+
+Il verso in cui Saba dice che la sua anima non fu mai "partita" da quella di Lina contiene un termine arcaico: **partita** significa **separata**.
+
+Anche qui la lingua è tipicamente sabiana:
+
+- da una parte è semplice e comprensibile;
+- dall'altra inserisce parole desuete o letterarie, come "partita", che danno profondità al discorso.
+
+Il significato è centrale: nonostante le fratture, le crisi e gli altri amori, l'anima di Saba non si è mai davvero staccata da quella di Lina.
+
+#### "Ogni altro conobbi umano amore"
+
+La frase "**Ogni altro conobbi umano amore**" contiene una forte **anastrofe**. L'ordine normale sarebbe: **conobbi ogni altro umano amore**.
+
+Il senso, spiegato in lezione, è molto netto: Saba riconosce di aver conosciuto altri amori, cioè anche di non essere stato fedele a Lina. Questo è uno dei punti in cui emerge la sincerità più coraggiosa del testo.
+
+Il poeta non costruisce un'immagine idealizzata di sé. Non cancella la colpa, non la giustifica con enfasi romantica, non la nasconde. La include nel bilancio della vita.
+
+Subito dopo però compare l'avversativa **"ma"**: gli altri amori non annullano il primato di Lina.
+
+#### "Per Lina torrei un'altra vita"
+
+"Torrei" è un verbo aulico e significa **prenderei**, **accetterei**, **riprenderei in mano**. Quando Saba dice che per Lina "torrei un'altra vita", sta dicendo che per lei ricomincerebbe da capo.
+
+Questa è una dichiarazione fortissima:
+
+- non significa che la vita con Lina sia stata facile;
+- non significa che sia stata priva di dolore;
+- significa che, nonostante tutto, Lina resta il centro per cui varrebbe la pena rivivere.
+
+L'amore qui non è ingenuo: è un amore dopo la prova, dopo gli errori, dopo il dolore. Proprio per questo è più vero.
+
+#### "L'altezza del suo dolore"
+
+Saba dice di amare Lina per "**l'altezza del suo dolore**". La parola "altezza" sembra indicare qualcosa che sale verso l'alto, ma la lezione propone di leggerla anche come **profondità**: un'altezza rovesciata verso il basso, cioè la grandezza del dolore di Lina.
+
+Lina non è amata perché perfetta, decorativa o angelicata. È amata perché porta in sé un dolore alto/profondo, una sofferenza che la rende umana e vera.
+
+Questo punto collega *Ed amai nuovamente* a molti altri nuclei di Saba:
+
+- il dolore come via d'accesso alla verità;
+- la dignità delle creature ferite;
+- l'amore per ciò che è fragile e non trionfante;
+- la poesia come strumento per dire una verità interiore.
+
+#### "Tutto seppe amare e non se stessa"
+
+La poesia si chiude su una definizione molto intensa di Lina: sa amare tutto, ma non se stessa.
+
+Il verso significa che Lina è capace di dedizione, cura, amore per gli altri e per la vita, ma non possiede una vera capacità di amarsi, proteggersi, riconoscere il proprio valore. In questo c'è insieme elogio e dolore:
+
+- elogio, perché Lina appare generosa e non calcolatrice;
+- dolore, perché questa generosità coincide con una ferita interiore.
+
+La lezione spiega anche il valore di "**scaltra**": Lina non è scaltra perché non è calcolatrice, opportunista, capace di usare gli altri per convenienza. È quindi l'opposto della meschinità umana.
+
+| Espressione | Spiegazione |
+|-------------|-------------|
+| **Ed amai nuovamente** | Attacco con congiunzione: discorso già iniziato; ritorno dell'amore |
+| **Rosso scialle** | Immagine domestica; rosso come passione, amore e dolore |
+| **Il più della mia vita** | Maggior parte della vita, ma anche parte migliore |
+| **Accanto a noi** | Linuccia è vicina alla coppia, ma non cancella l'unità Lina-Saba |
+| **Più ardita sincerità** | Sincerità coraggiosa, scavo nell'inconscio e nelle verità scomode |
+| **Anima mia partita** | "Partita" = separata; l'anima non si è mai staccata da Lina |
+| **Ogni altro conobbi umano amore** | Confessione degli altri amori e dell'infedeltà |
+| **Torrei** | Verbo aulico: prenderei/riprenderei; per Lina ricomincerebbe una vita |
+| **Altezza del suo dolore** | Grandezza e profondità della sofferenza di Lina |
+| **Non mai scaltra** | Non calcolatrice, non opportunista |
+| **Tutto seppe amare e non se stessa** | Lina ama tutto, ma non riesce ad amare sé |
+
+#### Perché è una poesia importante
+
+*Ed amai nuovamente* è importante perché concentra molti aspetti decisivi di Saba:
+
+1. **Autobiografia poetica**: la poesia nasce dalla vita reale, dalla relazione con Lina e Linuccia.
+2. **Poesia onesta**: Saba non idealizza l'amore, ma confessa anche gli aspetti scomodi.
+3. **Centralità di Lina**: la moglie è il centro affettivo del *Canzoniere*, anche quando il rapporto è ferito.
+4. **Dolore e verità**: Lina è amata anche per la profondità del suo dolore.
+5. **Lingua semplice con inserti colti**: "partita", "torrei", anastrofi e lessico quotidiano convivono.
+6. **Psicoanalisi e interiorità**: la sincerità sabiana scava nelle zone più difficili dell'io.
+
+#### Cosa dire all'orale
+
+> *Ed amai nuovamente* è una poesia dedicata a Lina, ma va letta come testo autonomo perché mostra la "più ardita sincerità" di Saba. L'inizio con "Ed" sembra continuare un discorso già iniziato e indica un ritorno dell'amore. Lina è ricordata attraverso il "rosso scialle", immagine semplice e domestica, ma il rosso richiama anche passione e dolore. Saba riconosce che "il più" della sua vita appartiene a Lina: la maggior parte, ma anche la parte migliore. Confessa di aver conosciuto altri amori, quindi non idealizza se stesso; però dice che la sua anima non si è mai separata da quella di Lina e che per lei ricomincerebbe un'altra vita. La ama per "l'altezza del suo dolore", cioè per la profondità della sua sofferenza, e perché Lina seppe amare tutto ma non se stessa. È una poesia onesta perché non nasconde la contraddizione: amore, colpa, fedeltà profonda e dolore convivono nello stesso testo.
 
 ---
 

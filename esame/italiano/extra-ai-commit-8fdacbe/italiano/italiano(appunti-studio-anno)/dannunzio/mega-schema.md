@@ -115,6 +115,26 @@ I rapporti con Mussolini sono ambigui. D'Annunzio accetta le gratificazioni del 
 
 Negli ultimi anni, la cocaina ("la polvere folle") ha un ruolo devastante. La sessualità diventa maniacale, il deperimento fisico progressivo. Passa giorni interi recluso nella Prioria, scrivendo il *Libro segreto*, il suo unico vero tentativo autobiografico. Il 1 marzo 1938, alle 20:05, muore colpito da emorragia cerebrale al tavolo da lavoro.
 
+### 1.7 Documentario: *D’Annunzio, l’amante guerriero*
+
+Nel programma compare anche la **visione e il commento del documentario *D’Annunzio, l’amante guerriero* (Raiplay)**: va usato come supporto per tenere insieme le due grandi maschere pubbliche di D'Annunzio, cioè l'**amante** e il **guerriero**. Il titolo è già una sintesi efficace della sua identità:
+
+| Polo | Cosa mette in luce | Collegamenti nel programma |
+|------|-------------------|----------------------------|
+| **L'amante** | Estetismo, culto del piacere, seduzione mondana, rapporto con Elena Muti/Maria Ferres nel *Piacere* e con Eleonora Duse nella biografia | *Il Piacere*, *Canta la gioia!*, Eleonora Duse, "vita come opera d'arte" |
+| **Il guerriero** | Interventismo, spettacolarizzazione dell'azione militare, Volo su Vienna, Beffa di Buccari, Fiume, mito del capo carismatico | Superomismo, poeta-vate, "Memento Audere Semper", rapporti con il fascismo |
+
+Il documentario è utile perché mostra che in D'Annunzio **letteratura, vita privata, propaganda e autorappresentazione pubblica** non sono separabili. Il poeta costruisce se stesso come personaggio: la casa, gli amori, le imprese militari, i motti, gli oggetti del Vittoriale e perfino il modo di raccontare la propria vecchiaia diventano parte di una regia complessiva dell'io.
+
+> **Fonte locale:** voce del programma in [programma/italiano.md](../../../programma/italiano.md).
+
+#### Cosa dire all'orale
+
+- Il titolo *D’Annunzio, l’amante guerriero* mette insieme **Eros** e **azione**, i due nuclei fondamentali della sua immagine.
+- L'"amante" rimanda all'estetismo e alla vita come opera d'arte; il "guerriero" rimanda al superomismo, all'interventismo e alla teatralità della guerra.
+- Il documentario aiuta a non studiare D'Annunzio solo come autore di testi: è anche un grande **costruttore di sé**, quasi un personaggio mediatico ante litteram.
+- Collegamento forte: il fascismo riprenderà molti elementi della sua teatralità politica, ma D'Annunzio resta una figura più ambigua e non riducibile semplicemente al fascismo.
+
 ---
 
 ## 2. La poetica
@@ -168,13 +188,36 @@ L'**esaltazione dell'io**: Santagata, nel suo saggio, parla per D'Annunzio di **
 
 Il **volontarismo e l'audacia**: il messaggio di D'Annunzio è impregnato di esaltazione della forza, della lotta, del coraggio. "Memento audere semper" ne è la sintesi perfetta.
 
-### 2.5 L'ambivalenza dannunziana
+### 2.5 Testo critico: M. Santagata, *Il gigantismo dell’io*
+
+Il programma segnala il **saggio di M. Santagata, *Il gigantismo dell’io***: è il testo critico da usare per dare una formula sintetica alla differenza tra D'Annunzio e Pascoli. Se per Pascoli Santagata parla di **"piccolo Io"**, per D'Annunzio la categoria decisiva è il **"gigantismo dell'io"**.
+
+| Aspetto | Significato |
+|---------|-------------|
+| **Io smisurato** | L'io poetico non si ritrae, non si fa piccolo, non cerca rifugio nel nido: occupa la scena, vuole dominare, possedere, trasformare tutto in esperienza eccezionale. |
+| **Vita inimitabile** | L'esistenza stessa diventa materiale artistico: amori, case, imprese militari, motti, gesti pubblici sono costruiti come parti di un'opera totale. |
+| **Panismo e possesso della natura** | La fusione con la natura non è umile annullamento dell'io: è espansione. In *La pioggia nel pineto* l'io entra nello "spirto silvestre"; in *Stabat nuda Aestas* arriva a inseguire e possedere l'estate personificata. |
+| **Superomismo** | Il poeta si pensa come Vate, guida superiore, capace di esperienze negate all'uomo comune. |
+| **Opposizione a Pascoli** | Pascoli abbassa il tono, guarda il nido, il trauma, la fragilità; D'Annunzio innalza il tono, teatralizza l'io, esalta forza, sensualità e dominio. |
+
+La formula di Santagata è quindi utile perché evita di ridurre D'Annunzio a una sola etichetta. **Estetismo**, **superomismo**, **panismo**, **vitalismo**, **sensualità** e **teatralità pubblica** sono tutte manifestazioni dello stesso movimento: l'io che si dilata fino a diventare misura del mondo.
+
+> **Fonti locali:** voce del programma in [programma/italiano.md](../../../programma/italiano.md); ripasso in [lezioni/studio/dannunzio/ripasso.md](../lezioni/studio/dannunzio/ripasso.md).
+
+#### Cosa dire all'orale
+
+- Santagata definisce D'Annunzio attraverso il **"gigantismo dell'io"**: l'io non è dimesso, ma grandioso, scenografico, dominatore.
+- Il confronto più immediato è con Pascoli: **piccolo io** / **gigantismo dell'io**, **fanciullino** / **Vate**, **nido** / **vita inimitabile**.
+- Nei testi: in *La pioggia nel pineto* l'io si fonde con la natura; in *Stabat nuda Aestas* l'io arriva a congiungersi simbolicamente con l'estate; nel *Piacere* Andrea Sperelli tenta di fare della vita un'opera d'arte, ma fallisce.
+- La grandezza dell'io dannunziano è anche il suo limite: quando l'estetismo cancella la morale e la sincerità, produce vuoto, menzogna e fallimento.
+
+### 2.6 L'ambivalenza dannunziana
 
 Un aspetto cruciale, che attraversa tutta la produzione di D'Annunzio, è la costante **ambivalenza** tra celebrazione vitalistica e senso della caducità. Non troviamo mai una celebrazione *tout court* del vitalismo: accanto all'esaltazione del piacere nel momento in cui "il frutto è più maturo" c'è sempre la consapevolezza che proprio quel frutto contiene i germi della fine.
 
 In *Canta la gioia*, dopo l'inno alla gioia di vivere, D'Annunzio invita ad "adorare ogni fuggevole forma, ogni segno vago, ogni immagine vanante, ogni grazia caduca, ogni apparenza nell'ora breve" — una riflessione indiretta sulla brevità della vita e sulla morte. La parabola di Andrea Sperelli nel *Piacere* è l'incarnazione di questa ambiguità: l'estetismo conduce al fallimento esistenziale. La "favola bella" che illude oggi e illuse ieri è sempre il miraggio dell'amore destinato a svanire.
 
-### 2.6 Lo stile: la poesia di secondo grado
+### 2.7 Lo stile: la poesia di secondo grado
 
 La poesia dannunziana è **poesia di secondo grado**: letteratura fatta di altra letteratura, che si nutre di citazioni, recuperi stilistici, rielaborazioni della tradizione. D'Annunzio recupera tutto ciò che gli suona interessante — dalla poesia provenzale (il *senhal* per nascondere l'identità dell'amata) al *Cantico delle Creature* di San Francesco ("Laudata sii") — ma lo rilegge sempre in chiave puramente **estetica**, svuotandolo del significato religioso originario.
 
@@ -244,6 +287,29 @@ Il padre gli ha trasmesso "il gusto delle cose d'arte, il culto passionato della
 Un'altra massima paterna, in latino: **"Habere non haberi"** — **possedere, non essere posseduti**. Non posseduti dalle convenzioni, dall'omologazione, dal conformismo. E ancora: "il rimpianto è il vano pascolo d'uno spirito disoccupato" — chi vive appieno non ha tempo per rimuginare sul passato.
 
 Ma c'è il **rovescio della medaglia**: "l'espansione di quella sua forza era la distruzione in lui di un'altra forza: della forza morale". Come si accresce la volontà di sperimentare il bello, si deprime il discernimento tra bene e male. Anche il **sofisma** — il gusto per la parola vuota e lambiccata — fruttifica nell'animo di Andrea: "la menzogna, non tanto verso gli altri quanto verso se stesso, divenne un abito così aderente alla coscienza ch'egli giunse a non poter mai essere interamente sincero".
+
+#### *Quel nome!* (brano antologico da *Il Piacere*)
+
+Nel programma, accanto al *Ritratto di Andrea Sperelli*, compare il brano antologico **"*Quel nome!*"**. È il momento decisivo in cui l'esteta viene smascherato: Andrea, mentre è con **Maria Ferres**, pronuncia il nome di **Elena Muti**. Il titolo allude proprio al nome sbagliato, che interrompe la finzione e fa crollare il doppio gioco sentimentale.
+
+| Elemento | Spiegazione |
+|----------|-------------|
+| **Situazione narrativa** | Andrea ha tentato di sostituire Elena con Maria, ma non riesce davvero a separare le due donne: desidera la sensualità di Elena dentro la purezza di Maria. |
+| **Il lapsus** | Il nome di Elena emerge nel momento dell'intimità con Maria: non è un semplice errore, ma la rivelazione involontaria della verità profonda del personaggio. |
+| **Reazione di Maria** | Maria si sente umiliata e tradita: capisce di essere stata usata come schermo, come figura spirituale dentro cui Andrea continuava a inseguire l'altra donna. |
+| **Significato per Andrea** | Il suo progetto estetico fallisce perché pretende di manipolare sentimenti, corpi e identità come oggetti d'arte. La vita, però, non obbedisce alla regia dell'esteta. |
+| **Significato per il romanzo** | Il brano mostra la crisi dell'estetismo: il culto della bellezza, senza sincerità e senza morale, produce menzogna, sdoppiamento e rovina. |
+
+Il punto importante è che *Quel nome!* non va studiato come episodio isolato: è la **prova narrativa** di tutto ciò che il *Ritratto di Andrea Sperelli* aveva già annunciato. L'educazione estetica di Andrea gli ha insegnato a trasformare la vita in opera d'arte, ma ha indebolito la sua forza morale; per questo il protagonista non riesce a essere sincero né con Maria, né con Elena, né con se stesso.
+
+> **Fonti locali:** voce del programma in [programma/italiano.md](../../../programma/italiano.md); ripasso in [lezioni/studio/dannunzio/ripasso.md](../lezioni/studio/dannunzio/ripasso.md).
+
+#### Cosa dire all'orale
+
+- *Quel nome!* è il brano del *Piacere* in cui il **lapsus Elena/Maria** rende visibile il fallimento dell'esteta.
+- Elena rappresenta l'eros e la sensualità; Maria rappresenta l'amore puro e spirituale: Andrea vorrebbe possederle entrambe in un'unica figura.
+- Il nome sbagliato distrugge l'illusione perché rivela che Maria non è amata per se stessa, ma come sostituto o travestimento di Elena.
+- Collegamento alla poetica: l'estetismo promette dominio sulla vita, ma nel romanzo si rovescia in **autoinganno**, **menzogna** e **fallimento esistenziale**.
 
 #### Paralleli
 

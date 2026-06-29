@@ -184,6 +184,53 @@ Emilio idealizza **Angiolina**, ragazza del popolo che lui trasforma in creatura
 > [!note] Dalla lezione
 > La senilità del titolo non rimanda all'età, ma a una condizione interiore: vivere nella rinuncia, nella fiacchezza, nei propri pensieri, invece che nella realtà.
 
+### 5.3 Brano: **La scoperta del tradimento** da *Senilità*
+
+**Etichetta del programma:** ***Senilità*, "La scoperta del tradimento"**.  
+Fonti locali: [programma di Italiano](../../../programma/italiano.md), [lezione del 16/04/2026](../lezioni/16-04-26/transcription.txt).
+
+Questo brano va studiato come momento rivelatore dell'intero romanzo: Emilio scopre che **Angiolina non coincide con l'immagine idealizzata** che lui ha costruito. Lei non è la creatura pura, fedele, quasi angelica che Emilio vuole vedere; è una donna concreta, sensuale, libera nei comportamenti e capace di tradirlo in modo anche evidente.
+
+La "scoperta" è quindi duplice:
+
+| Che cosa scopre Emilio | Perché è importante |
+|------------------------|--------------------|
+| **Il tradimento di Angiolina** | La realtà contraddice l'immagine pura che lui aveva inventato |
+| **La propria cecità** | Emilio capisce, almeno per un momento, di avere vissuto più nell'illusione che nei fatti |
+| **La vitalità di Angiolina** | Angiolina appartiene al mondo dei lottatori: vive, desidera, agisce, non si lascia rinchiudere nell'idea di Emilio |
+| **La propria senilità interiore** | Emilio è giovane, ma interiormente vecchio: osserva, fantastica, giudica, soffre, senza riuscire a stare davvero nella vita |
+
+Il punto decisivo non è soltanto che Angiolina tradisce Emilio. Il punto è che Emilio **aveva bisogno di non vedere**. La sua relazione nasce già come autoinganno: egli trasforma una ragazza reale in una figura letteraria, morale, angelicata. Per questo il tradimento non distrugge solo un rapporto sentimentale, ma distrugge una costruzione mentale.
+
+#### Perché Emilio si autoinganna
+
+Emilio non ama Angiolina per ciò che è: ama l'immagine che egli stesso proietta su di lei. Questo meccanismo è tipicamente sveviano:
+
+```mermaid
+flowchart LR
+    A["Realtà: Angiolina concreta e infedele"] --> B["Filtro di Emilio"]
+    B --> C["Immagine idealizzata: donna pura e fedele"]
+    C --> D["Tradimento"]
+    D --> E["Crollo dell'illusione"]
+    E --> F["Ritorno dell'autoinganno"]
+```
+
+Emilio è un **contemplatore**: pensa, interpreta, fantastica. Angiolina è invece una **lottatrice**: appartiene alla vita, al desiderio, all'azione. Per questo la loro relazione è squilibrata fin dall'inizio. Emilio cerca di possedere Angiolina trasformandola in un'idea; Angiolina sfugge perché non è un'idea, ma una persona viva.
+
+#### Lessico e temi da ricordare
+
+| Parola chiave | Spiegazione |
+|--------------|-------------|
+| **Tradimento** | Non è solo infedeltà amorosa: è tradimento dell'immagine costruita da Emilio |
+| **Autoinganno** | Emilio vede ciò che desidera vedere, non ciò che accade |
+| **Senilità** | Fiacchezza interiore, rinuncia, incapacità di vivere nella realtà |
+| **Idealizzazione** | Angiolina viene trasformata in una creatura pura, mentre è vitale e concreta |
+| **Inettitudine** | Emilio non riesce né ad agire né a conoscere lucidamente se stesso |
+
+#### Cosa dire all'orale
+
+> In *Senilità*, "La scoperta del tradimento" mostra il crollo dell'illusione di Emilio Brentani. Emilio ha idealizzato Angiolina, vedendola come donna pura e fedele, ma la realtà la rivela diversa: concreta, sensuale, infedele, appartenente al mondo dei lottatori. Il tradimento è quindi importante non solo sul piano sentimentale, ma perché smaschera l'autoinganno del protagonista. Emilio è un inetto e un contemplatore: vive più nei propri pensieri che nella realtà. La senilità del titolo non è vecchiaia anagrafica, ma incapacità interiore di aderire alla vita.
+
 ---
 
 ## 6. *La coscienza di Zeno*: struttura generale
@@ -331,6 +378,56 @@ Zeno arriva infatti a definirla una **salute malata**. È un ossimoro: Augusta �
 > [!note] Dalla lezione
 > Per chi si fa domande, chi possiede certezze incontrovertibili può sembrare spaventoso. Il senso della vita sta nel dubbio, non in risposte immobili.
 
+### 11.2 Brano: **Una strana proposta di matrimonio**
+
+**Etichetta del programma:** ***La coscienza di Zeno*, "Una strana proposta di matrimonio"**.  
+Fonti locali: [programma di Italiano](../../../programma/italiano.md), [lezione del 16/04/2026](../lezioni/16-04-26/transcription.txt), [lezione del 20/04/2026](../lezioni/20-04-26/transcription.txt).
+
+Il brano appartiene al blocco narrativo **Storia del mio matrimonio**. Zeno frequenta la famiglia **Malfenti**, attratto soprattutto dal capofamiglia, che diventa per lui un **padre elettivo**: un uomo d'affari solido, sicuro, borghese, cioè tutto ciò che Zeno sente di non essere.
+
+La proposta è "strana" perché non nasce come scelta lineare e romantica. Zeno desidera **Ada**, la più bella e la più affascinante; quando lei lo rifiuta, chiede la mano ad **Alberta**; infine arriva ad **Augusta**, la sorella meno avvenente, che accetta e diventa sua moglie.
+
+| Passaggio | Che cosa succede | Significato |
+|----------|------------------|-------------|
+| **Zeno desidera Ada** | Ada rappresenta la bellezza, l'eleganza, l'ideale borghese desiderabile | Zeno vuole ciò che lo confermerebbe socialmente e narcisisticamente |
+| **Ada lo rifiuta** | La proposta fallisce | Zeno sperimenta l'inadeguatezza |
+| **Zeno si rivolge ad Alberta** | Anche questa possibilità non si realizza: Alberta vuole studiare e non accetta | Il matrimonio appare sempre meno scelta amorosa e sempre più tentativo di sistemazione |
+| **Zeno chiede Augusta** | Augusta accetta | Il caso, più che la volontà, decide la vita di Zeno |
+
+L'episodio rivela la natura **amorale** di Zeno. Non significa che egli sia malvagio in senso tradizionale; significa che non possiede un orientamento morale stabile. Passa da una sorella all'altra con una logica opportunistica, incerta, quasi automatica, lasciandosi trascinare dalle circostanze.
+
+#### Perché l'episodio è centrale
+
+La proposta di matrimonio mette insieme molti nuclei della *Coscienza*:
+
+| Tema | Come emerge nel brano |
+|------|----------------------|
+| **Inettitudine** | Zeno non domina la situazione: reagisce agli eventi, non li governa |
+| **Caso** | Il matrimonio riuscito nasce da una sequenza casuale di rifiuti |
+| **Autoanalisi ironica** | Zeno racconta a distanza di tempo una scena imbarazzante, deformandola con ironia |
+| **Narratore inaffidabile** | Il lettore deve chiedersi quanto Zeno stia confessando e quanto stia giustificando |
+| **Salute / malattia** | Augusta, scelta quasi per caso, diventa il simbolo della salute borghese |
+
+Il paradosso è che Zeno sbaglia tutto e tuttavia ottiene l'esito migliore per lui. Non sposa Ada, che idealizza; sposa Augusta, che non desiderava davvero, ma che si rivela stabile, affettuosa, capace di offrirgli una forma di equilibrio. È uno dei punti in cui Svevo mostra che l'inettitudine di Zeno non produce soltanto sconfitta: può trasformarsi in **successo paradossale**.
+
+#### Augusta: salute o salute malata?
+
+Augusta incarna la salute perché crede in ciò che fa: matrimonio, famiglia, messa domenicale, abitudini, certezze. Zeno però percepisce questa salute come **salute malata**, perché gli sembra inconsapevole. Augusta è sana perché non dubita; ma proprio il non dubitare, agli occhi di Zeno, è una forma di malattia spirituale.
+
+```mermaid
+flowchart TD
+    A["Ada: desiderio e idealizzazione"] --> B["Rifiuto"]
+    B --> C["Alberta: seconda possibilità"]
+    C --> D["Nuovo rifiuto / altra strada"]
+    D --> E["Augusta: scelta non progettata"]
+    E --> F["Matrimonio riuscito"]
+    F --> G["Successo paradossale dell'inetto"]
+```
+
+#### Cosa dire all'orale
+
+> In "Una strana proposta di matrimonio", Zeno frequenta la famiglia Malfenti e vorrebbe sposare Ada, la figlia più bella. Dopo il rifiuto di Ada, chiede la mano ad Alberta e poi ad Augusta, che accetta. La scena è comica e insieme rivelatrice: Zeno appare amorale, incapace di scegliere in modo coerente, guidato più dal caso che dalla volontà. Tuttavia il caso lo favorisce, perché Augusta diventa la moglie più adatta a lui. Il brano mostra l'inettitudine nuova di Zeno: non è l'inetto tragico di *Una vita*, ma un personaggio che, pur sbagliando, riesce talvolta a sopravvivere grazie all'ironia, all'adattamento e al caso.
+
 ---
 
 ## 12. Guido Speier e l'atto mancato
@@ -477,7 +574,8 @@ Testi centrali emersi dalle lezioni:
 - *La coscienza di Zeno*, **Preambolo**
 - *La coscienza di Zeno*, **Il fumo / Ultima sigaretta**
 - *La coscienza di Zeno*, **La morte di mio padre / schiaffo del padre**
-- *La coscienza di Zeno*, **La proposta di matrimonio** da leggere sul libro
+- *Senilità*, **La scoperta del tradimento**
+- *La coscienza di Zeno*, **Una strana proposta di matrimonio**
 - *La coscienza di Zeno*, **finale / Psicanalisi**
 
 ---

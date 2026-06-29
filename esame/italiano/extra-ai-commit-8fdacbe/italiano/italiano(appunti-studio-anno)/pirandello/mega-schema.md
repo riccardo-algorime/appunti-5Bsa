@@ -270,9 +270,11 @@ flowchart TD
     L --> M["Nessuna identità possibile: il fu Mattia Pascal"]
 ```
 
-#### La Lanterninosofia
+#### La Lanterninosofia (cap. XIII)
 
-Durante la convalescenza di Adriano Meis, Anselmo Paleari espone la **Lanterninosofia**:
+**Etichetta del programma:** ***Il fu Mattia Pascal*, "La lanterninosofia" (cap. XIII)**.
+
+Durante la convalescenza di Adriano Meis, nel **capitolo XIII**, Anselmo Paleari espone la **Lanterninosofia**:
 
 - ogni individuo porta con sé un **lanternino**, che illumina una piccola zona della realtà
 - quel lanternino mostra soprattutto il buio che lo circonda
@@ -280,6 +282,40 @@ Durante la convalescenza di Adriano Meis, Anselmo Paleari espone la **Lanternino
 - nei periodi di crisi i lanternoni si spengono e resta il caos
 
 La Lanterninosofia esprime il **relativismo gnoseologico** pirandelliano: ogni uomo vede la realtà attraverso il proprio piccolo lume. Una realtà oggettiva, unica e stabile non è garantita; quando i lanternoni collettivi si spengono, l'individuo resta senza orientamento.
+
+#### Brano: **Pascal porta i fiori alla propria tomba** (cap. XVIII)
+
+**Etichetta del programma:** ***Il fu Mattia Pascal*, "Pascal porta i fiori alla propria tomba" (cap. XVIII)**.  
+Fonti locali: [programma di Italiano](../../../programma/italiano.md), [lezione del 28/04/2026](../lezioni/28-04-26/transcription.txt).
+
+Il brano appartiene al **capitolo XVIII**, cioè al finale del romanzo. Dopo il fallimento dell'identità di **Adriano Meis**, Mattia inscena un secondo suicidio lasciando cappello e bastone sul Tevere e torna a **Miragno**. Ma la fuga non gli restituisce la vita precedente: la moglie si è risposata, il paese è cambiato, i rapporti sociali non lo riaccolgono.
+
+Il gesto di portare i fiori alla propria tomba è il simbolo più chiaro della sua condizione:
+
+| Elemento | Significato |
+|----------|-------------|
+| **La tomba di Mattia Pascal** | La società lo considera morto; la vecchia identità è finita |
+| **I fiori** | Gesto funebre paradossale: Mattia compie il rito per se stesso |
+| **Il ritorno a Miragno** | Non è ritorno alla vita, ma constatazione dell'esclusione |
+| **Il "fu"** | Mattia è definito da ciò che non è più: un'identità postuma |
+| **La biblioteca polverosa** | Luogo di sospensione, immobilità, vita separata dal flusso |
+
+Qui Pirandello mostra che l'evasione dalle forme sociali è impossibile. Mattia voleva liberarsi da moglie, suocera, povertà e ruolo sociale; diventando Adriano Meis, però, scopre che senza documenti non si può vivere. Quando torna a essere Mattia, scopre che la Vita è andata avanti senza di lui. Il risultato non è libertà, ma esclusione.
+
+```mermaid
+flowchart LR
+    A["Mattia Pascal"] --> B["Finta morte"]
+    B --> C["Adriano Meis"]
+    C --> D["Identità senza documenti"]
+    D --> E["Secondo finto suicidio"]
+    E --> F["Ritorno a Miragno"]
+    F --> G["Tomba di Mattia Pascal"]
+    G --> H["Il fu Mattia Pascal"]
+```
+
+#### Cosa dire all'orale
+
+> In "Pascal porta i fiori alla propria tomba", capitolo XVIII del *Fu Mattia Pascal*, il protagonista torna a Miragno dopo il fallimento dell'identità di Adriano Meis. Scopre però che la sua vecchia vita non esiste più: la moglie si è risposata, i legami sono spezzati, la società lo considera morto. Portare i fiori alla propria tomba significa riconoscere di essere vivo biologicamente ma morto socialmente. Mattia non può più essere se stesso e non può essere un altro: resta "il fu Mattia Pascal". Il brano dimostra la tesi pirandelliana secondo cui evadere dalle forme è impossibile.
 
 #### Tecniche e significato
 
@@ -311,6 +347,38 @@ Da lì inizia il rifiuto di ogni forma: beni, ruolo sociale, nome, identità. Mo
 
 Il finale richiama il **panismo**, ma in modo rovesciato rispetto a **D'Annunzio**. Nel panismo dannunziano l'io si fonde con la natura in senso eroico e superomistico; in Pirandello, invece, il fondersi con albero, sasso, foglia significa **annullamento dell'io**, rifiuto del nome e della forma. Non è trionfo dell'io, ma dissoluzione.
 
+#### Brano: **Nessun nome**
+
+**Etichetta del programma:** ***Uno, nessuno, centomila*, "Nessun nome"**.  
+Fonti locali: [programma di Italiano](../../../programma/italiano.md), [lezione del 28/04/2026](../lezioni/28-04-26/transcription.txt).
+
+"**Nessun nome**" è il brano conclusivo di *Uno, nessuno e centomila* e va studiato come punto estremo della riflessione pirandelliana sull'identità. Dopo avere scoperto di non coincidere con l'immagine che gli altri hanno di lui, **Vitangelo Moscarda** arriva a rifiutare non solo il ruolo sociale, ma anche il nome.
+
+Per Pirandello il nome è una **forma**: sembra dirci chi siamo, ma in realtà ci fissa, ci irrigidisce, ci separa dal movimento della Vita. Dire "Vitangelo Moscarda" significa chiudere il flusso vitale dentro un'etichetta stabile; ma la vita, per Pirandello, non è mai stabile.
+
+| Formula | Nel romanzo | Nel brano "Nessun nome" |
+|---------|-------------|--------------------------|
+| **Uno** | L'identità che Moscarda credeva di possedere | Viene distrutta dalla scoperta del naso e dagli sguardi altrui |
+| **Centomila** | Le immagini diverse che gli altri hanno di lui | Ogni sguardo produce un Moscarda diverso |
+| **Nessuno** | Il rifiuto di ogni forma fissa | Moscarda rinuncia al nome e si dissolve nel flusso della Vita |
+
+Il finale ha un andamento quasi liberatorio, ma non va confuso con una vittoria eroica. Moscarda non conquista un'identità più forte: rinuncia all'identità. Vuole vivere senza concludersi in un nome, senza riconoscersi in un ruolo, aderendo di momento in momento alla natura, alle cose, al fluire dell'esistenza.
+
+#### Panismo rovesciato
+
+Il confronto con **D'Annunzio** è utilissimo all'orale:
+
+| D'Annunzio | Pirandello |
+|-----------|------------|
+| Fusione con la natura come potenziamento dell'io | Fusione con la natura come annullamento dell'io |
+| Panismo vitalistico e superomistico | Panismo rovesciato, dissoluzione della persona |
+| L'io si espande | L'io scompare |
+| La natura esalta il soggetto | La natura cancella il nome e la forma |
+
+#### Cosa dire all'orale
+
+> "Nessun nome" è il finale di *Uno, nessuno e centomila*. Moscarda porta alle estreme conseguenze la scoperta iniziale: non esiste un io unico, perché ciascuno di noi vive nelle immagini che gli altri si fanno di noi. Per liberarsi dalle forme, Moscarda rifiuta beni, ruolo sociale e soprattutto il nome. Il nome, in Pirandello, conclude e irrigidisce; la Vita invece è flusso continuo. Perciò Moscarda sceglie di essere "nessuno", dissolvendosi nella natura. È un panismo rovesciato rispetto a D'Annunzio: non trionfo dell'io, ma annullamento dell'identità.
+
 ---
 
 ## 7. Il teatro
@@ -321,9 +389,16 @@ Pirandello arriva al teatro in età matura. Dopo i romanzi, soprattutto dopo *Un
 
 Il teatro pirandelliano non vuole pacificare lo spettatore: vuole **mettere in crisi**, costringere a pensare, distruggere l'illusione teatrale tradizionale.
 
-### 7.2 *Così è (se vi pare)*
+### 7.2 *Così è (se vi pare)* (Atto III) e **La signora Frola e il signor Ponza, suo genero**
 
-***Così è (se vi pare)***, del 1917, nasce dalla novella *La signora Frola e il signor Ponza suo genero*. In un paese arrivano il signor Ponza, sua moglie e la signora Frola. La comunità vuole sapere chi sia davvero la donna: figlia della signora Frola o seconda moglie del signor Ponza?
+**Etichette del programma:**
+
+- ***Novelle per un anno*, "La signora Frola e il signor Ponza, suo genero" (cenni)**
+- ***Maschere nude*, *Così è (se vi pare)* (Atto III)**
+
+Fonti locali: [programma di Italiano](../../../programma/italiano.md), [lezione del 04/05/2026](../lezioni/04-05-26/transcription.txt).
+
+***Così è (se vi pare)***, del 1917, nasce dalla novella ***La signora Frola e il signor Ponza, suo genero***. In un paese arrivano il signor Ponza, sua moglie e la signora Frola. La comunità vuole sapere chi sia davvero la donna: figlia della signora Frola o seconda moglie del signor Ponza?
 
 Le due versioni sono inconciliabili:
 
@@ -339,6 +414,24 @@ La conclusione è la formula perfetta del **relativismo gnoseologico**, cioè l'
 > "Io sono colei che mi si crede."
 
 La verità non è unica, assoluta, oggettiva: esistono tante verità quanti sono i punti di vista.
+
+#### La novella: "La signora Frola e il signor Ponza, suo genero" (cenni)
+
+Nella novella il centro non è la soluzione dell'enigma, ma l'atteggiamento della comunità. Gli abitanti vogliono sapere chi sia pazzo e chi dica il vero; però la loro curiosità diventa una forma di violenza. Pirandello mette in scena la crudeltà sociale di chi pretende una verità semplice e non vede il dolore altrui.
+
+Il rapporto tra Frola e Ponza è fondato su una possibile **pietà reciproca**: ciascuno sembra assecondare la verità dell'altro per permettergli di sopravvivere a un lutto. La follia, allora, non è soltanto patologia individuale; è anche il nome che la società assegna a ciò che non riesce a comprendere.
+
+#### L'Atto III di *Così è (se vi pare)*
+
+Nell'**Atto III** del dramma viene chiamata in scena la donna che dovrebbe sciogliere il mistero: è la figlia della signora Frola o la seconda moglie del signor Ponza? La risposta è volutamente paradossale:
+
+> "Io sono, sì, la figlia della signora Frola, e la seconda moglie del signor Ponza. [...] Per me, io sono colei che mi si crede."
+
+La donna non restituisce una verità oggettiva; mostra che l'identità dipende dallo sguardo degli altri. Per la signora Frola è figlia; per il signor Ponza è moglie; per se stessa è "nessuna", cioè non riducibile a una definizione stabile.
+
+#### Cosa dire all'orale
+
+> La novella "La signora Frola e il signor Ponza, suo genero" e l'Atto III di *Così è (se vi pare)* mostrano il relativismo gnoseologico di Pirandello. La signora Frola sostiene che la donna sia sua figlia e che Ponza sia pazzo; Ponza sostiene invece che la figlia di Frola sia morta e che la donna sia la sua seconda moglie. La comunità vuole una verità unica e infierisce sui personaggi, senza cogliere la pietà e il dolore che li legano. Nell'Atto III la donna dice: "Io sono colei che mi si crede". La verità non viene risolta: Pirandello mostra che esistono tante verità quanti sono i punti di vista.
 
 ### 7.3 *Sei personaggi in cerca d'autore*
 
@@ -632,9 +725,9 @@ Mattia vive a **Miragno**, paese immaginario della Liguria. La sua vita è una t
 
 Qui nasce il grande esperimento: se la società lo crede morto, può provare a vivere senza la vecchia forma. Diventa **Adriano Meis**, viaggia, poi si stabilisce a Roma nella pensione di **Anselmo Paleari**. Anche il corpo deve cambiare: per cancellare un segno della vecchia identità, si sottopone a un intervento all'**occhio strabico**. Il difetto fisico ha valore simbolico perché indica una visione obliqua, laterale, tangenziale della vita.
 
-#### Anselmo Paleari e la Lanterninosofia
+#### Anselmo Paleari e la Lanterninosofia (cap. XIII)
 
-Anselmo Paleari è appassionato di **teosofia** e **spiritismo**, pratiche diffuse all'inizio del Novecento. Durante la convalescenza di Adriano Meis, al buio dopo l'intervento all'occhio, gli espone la **Lanterninosofia**.
+Anselmo Paleari è appassionato di **teosofia** e **spiritismo**, pratiche diffuse all'inizio del Novecento. Durante la convalescenza di Adriano Meis, al buio dopo l'intervento all'occhio, gli espone nel **capitolo XIII** la **Lanterninosofia**.
 
 La teoria dice che ogni individuo porta davanti a sé un piccolo **lanternino**. Questo illumina solo una zona ristretta e, proprio illuminandola, rende visibile il buio circostante. Non vediamo la realtà com'è: vediamo ciò che il nostro lanternino ci permette di vedere. Ogni uomo ha il proprio sentimento della vita, mutevole secondo tempi, casi e fortuna.
 
@@ -648,7 +741,9 @@ La nuova identità fallisce per una ragione concreta: senza documenti non si viv
 
 Allora inscena un suicidio lasciando cappello e bastone sul Tevere e torna a Miragno. Ma la Vita, intesa come flusso inarrestabile, è andata avanti: la moglie si è risposata, il paese non lo reintegra, i legami sono spezzati. Non può più essere Mattia Pascal; non può essere Adriano Meis. Gli resta una condizione paradossale: essere **il fu Mattia Pascal**, cioè un uomo definito dalla propria morte.
 
-Il finale della biblioteca polverosa e della visita alla propria tomba mostra l'esclusione definitiva. La biblioteca è luogo fermo, polveroso, non frequentato: immagine di una vita sospesa, separata dal flusso. Il titolo significa proprio questo: Mattia non è più un vivo pienamente riconosciuto, ma il "fu", colui che era.
+#### "Pascal porta i fiori alla propria tomba" (cap. XVIII)
+
+Nel **capitolo XVIII**, il finale della biblioteca polverosa e della visita alla propria tomba mostra l'esclusione definitiva. La biblioteca è luogo fermo, polveroso, non frequentato: immagine di una vita sospesa, separata dal flusso. Il gesto di **portare i fiori alla propria tomba** rende visibile il paradosso di Mattia: è vivo come individuo biologico, ma morto come identità sociale. Il titolo significa proprio questo: Mattia non è più un vivo pienamente riconosciuto, ma il "fu", colui che era.
 
 #### Tecnica narrativa e romanzo del Novecento
 
@@ -680,11 +775,13 @@ Da qui parte una crisi radicale:
 
 Moscarda arriva a rifiutare beni, proprietà, ruolo sociale, nome. Cede i suoi averi in beneficenza e non vuole più riconoscersi in una figura stabile. La prima trappola è proprio il nome: quando diciamo chi siamo, partiamo da nome e cognome, ma per Pirandello il nome "conclude", mentre la vita non conclude.
 
-Il finale richiama il **panismo**, ma in modo rovesciato rispetto a D'Annunzio. In D'Annunzio la fusione con la natura è esperienza eroica, superomistica, potenziamento dell'io. In Pirandello, invece, riconoscersi nell'albero, nel sasso, nella foglia significa annullare l'io, rinunciare alla forma personale. Non c'è gigantismo dell'io: c'è dissoluzione nella Vita.
+#### "Nessun nome"
+
+Il finale, studiabile con l'etichetta **"Nessun nome"**, richiama il **panismo**, ma in modo rovesciato rispetto a D'Annunzio. In D'Annunzio la fusione con la natura è esperienza eroica, superomistica, potenziamento dell'io. In Pirandello, invece, riconoscersi nell'albero, nel sasso, nella foglia significa annullare l'io, rinunciare alla forma personale e soprattutto al nome, che fissa l'individuo in una forma. Non c'è gigantismo dell'io: c'è dissoluzione nella Vita.
 
 ### 10.10 Teatro: crisi dello spettatore e verità soggettiva
 
-Pirandello arriva al teatro in età matura e lo trasforma in uno strumento per mettere in crisi il pubblico. Il teatro non deve congedare lo spettatore pacificato: deve costringerlo a interrogarsi. Prima dei *Sei personaggi*, un'opera fondamentale è ***Così è (se vi pare)*** del 1917, nata dalla novella *La signora Frola e il signor Ponza suo genero*.
+Pirandello arriva al teatro in età matura e lo trasforma in uno strumento per mettere in crisi il pubblico. Il teatro non deve congedare lo spettatore pacificato: deve costringerlo a interrogarsi. Prima dei *Sei personaggi*, un'opera fondamentale è ***Così è (se vi pare)*** del 1917, nata dalla novella ***La signora Frola e il signor Ponza, suo genero***. Il passaggio da ricordare per il programma è l'**Atto III**.
 
 La vicenda ruota attorno a una doppia verità. In paese arrivano il signor Ponza, sua moglie e la signora Frola. I cittadini vogliono sapere chi sia davvero la donna:
 

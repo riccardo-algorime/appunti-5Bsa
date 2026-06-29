@@ -32,8 +32,8 @@ Cartella principale:
 | Area | File principale | Stato |
 |---|---|---|
 | Classicismo, Romanticismo, Leopardi | [leopardi/mega-schema.md](<italiano/italiano(appunti-studio-anno)/leopardi/mega-schema.md>) | Completo come scheda lunga |
-| Pasolini | [pasolini/mega-schema.md](<italiano/italiano(appunti-studio-anno)/pasolini/mega-schema.md>) | Completo come scheda lunga; integrazione su *Mamma Roma* mantenuta |
-| Positivismo, Naturalismo, Verismo, Verga | [naturalismo-verismo-verga/mega-schema.md](<italiano/italiano(appunti-studio-anno)/naturalismo-verismo-verga/mega-schema.md>) | Completo come scheda lunga; integrazione su *Mastro-don Gesualdo* mantenuta |
+| Pasolini | [pasolini/mega-schema.md](<italiano/italiano(appunti-studio-anno)/pasolini/mega-schema.md>) | Completo come scheda lunga |
+| Positivismo, Naturalismo, Verismo, Verga | [naturalismo-verismo-verga/mega-schema.md](<italiano/italiano(appunti-studio-anno)/naturalismo-verismo-verga/mega-schema.md>) | Completo come scheda lunga |
 | Neorealismo cinematografico | [mega-schema](<italiano/italiano(appunti-studio-anno)/neorealismo-cinematografico/mega-schema.md>) | Pronto |
 | Neorealismo letterario | [mega-schema](<italiano/italiano(appunti-studio-anno)/neorealismo-letterario/mega-schema.md>) | Pronto |
 | Decadentismo e Simbolismo | [mega-schema](<italiano/italiano(appunti-studio-anno)/decadentismo-simbolismo/mega-schema.md>) | Pronto |
@@ -45,8 +45,8 @@ Cartella principale:
 | Pirandello | [mega-schema](<italiano/italiano(appunti-studio-anno)/pirandello/mega-schema.md>) | Pronto |
 | Ungaretti | [mega-schema](<italiano/italiano(appunti-studio-anno)/ungaretti/mega-schema.md>) | Pronto |
 | Saba | [mega-schema](<italiano/italiano(appunti-studio-anno)/saba/mega-schema.md>) | Pronto |
-| Montale | [mega-schema](<italiano/italiano(appunti-studio-anno)/montale/mega-schema.md>) | Integrazione su *Meriggiare pallido e assorto* mantenuta; ripasso breve presente |
-| Educazione civica Italiano | [mega-schema](<italiano/italiano(appunti-studio-anno)/educazione-civica/mega-schema.md>) | Scheda extra mantenuta perché mancava una fonte ordinata |
+| Montale | [mega-schema](<italiano/italiano(appunti-studio-anno)/montale/mega-schema.md>) | Pronto |
+| Educazione civica Italiano | [mega-schema](<italiano/italiano(appunti-studio-anno)/educazione-civica/mega-schema.md>) | Completo come scheda lunga |
 
 ---
 
@@ -79,18 +79,24 @@ Questi materiali restano utili, ma non sono più il punto di partenza per studia
 
 ---
 
-## Buchi mantenuti dal commit extra
+## Stato dopo il potenziamento
 
-Ho tenuto nel percorso principale solo le integrazioni che erano davvero buchi o parti deboli:
+Le mancanze principali sono state coperte nei mega-schema o in una nuova scheda autonoma.
 
-| Priorità | Cosa ora c'è | Dove |
+| Area | Dove | Intervento |
 |---|---|---|
-| Alta | *Mamma Roma* | [pasolini/mega-schema.md](<italiano/italiano(appunti-studio-anno)/pasolini/mega-schema.md>) |
-| Alta | *Meriggiare pallido e assorto* + ripasso breve | [montale](<italiano/italiano(appunti-studio-anno)/montale>) |
-| Media | Educazione civica Italiano | [educazione-civica/mega-schema.md](<italiano/italiano(appunti-studio-anno)/educazione-civica/mega-schema.md>) |
-| Media | *Mastro-don Gesualdo* più completo | [naturalismo-verismo-verga/mega-schema.md](<italiano/italiano(appunti-studio-anno)/naturalismo-verismo-verga/mega-schema.md>) |
+| Educazione civica Italiano | [educazione-civica/mega-schema.md](<italiano/italiano(appunti-studio-anno)/educazione-civica/mega-schema.md>) | Nuova scheda completa. |
+| Leopardi | [leopardi/mega-schema.md](<italiano/italiano(appunti-studio-anno)/leopardi/mega-schema.md>) | *Zibaldone* numerato, *Ginestra* per versi richiesti, *Il giovane favoloso*. |
+| Pasolini | [pasolini/mega-schema.md](<italiano/italiano(appunti-studio-anno)/pasolini/mega-schema.md>) | *Mamma Roma*, *Contro i capelli lunghi*, *Blu Notte*. |
+| Verga | [naturalismo-verismo-verga/mega-schema.md](<italiano/italiano(appunti-studio-anno)/naturalismo-verismo-verga/mega-schema.md>) | *Mastro-don Gesualdo* e Santagata. |
+| Montale | [montale/mega-schema.md](<italiano/italiano(appunti-studio-anno)/montale/mega-schema.md>) | *Meriggiare pallido e assorto*; creato anche [ripasso](<italiano/italiano(appunti-studio-anno)/montale/ripasso.md>). |
+| Neorealismo | [cinema](<italiano/italiano(appunti-studio-anno)/neorealismo-cinematografico/mega-schema.md>) / [letteratura](<italiano/italiano(appunti-studio-anno)/neorealismo-letterario/mega-schema.md>) | Film fragili, titoli Fenoglio/Pavese, raccordo Pasolini. |
+| Pascoli | [pascoli/mega-schema.md](<italiano/italiano(appunti-studio-anno)/pascoli/mega-schema.md>) | *La tovaglia*, Santagata, *L'assiuolo* in *Myricae*. |
+| D'Annunzio | [dannunzio/mega-schema.md](<italiano/italiano(appunti-studio-anno)/dannunzio/mega-schema.md>) | *Quel nome!*, documentario, Santagata. |
+| Svevo/Pirandello | [Svevo](<italiano/italiano(appunti-studio-anno)/svevo/mega-schema.md>) / [Pirandello](<italiano/italiano(appunti-studio-anno)/pirandello/mega-schema.md>) | Brani del programma resi autonomi e cercabili. |
+| Saba | [saba/mega-schema.md](<italiano/italiano(appunti-studio-anno)/saba/mega-schema.md>) | De André e *Ed amai nuovamente*. |
 
-Le aggiunte grosse rollbackate dal percorso principale sono state copiate in [italiano/extra-ai-commit-8fdacbe](<italiano/extra-ai-commit-8fdacbe>) per poterle guardare senza sporcare gli appunti buoni.
+Rifinitura non bloccante: creare riassunti/ripassi veloci per le nuove schede lunghe, se serve ripasso rapido.
 
 ---
 
@@ -99,4 +105,4 @@ Le aggiunte grosse rollbackate dal percorso principale sono state copiate in [it
 - **Studio orale:** molto più ordinato; la prima parte del programma ora è dentro cartelle dedicate.
 - **Indice principale utile:** [italiano/italiano(appunti-studio-anno)/INDICE.md](<italiano/italiano(appunti-studio-anno)/INDICE.md>).
 - **Vecchio indice interrogazioni maggio:** rimosso dalla cartella perché non deve più guidare lo studio.
-- **Rischio rimasto:** non quantità di materiale, ma gli ex buchi principali sono stati mantenuti; il materiale AI non essenziale è stato isolato in extra.
+- **Rischio rimasto:** non quantità di materiale, ma alcuni buchi mirati: *Mamma Roma*, *Meriggiare pallido e assorto*, educazione civica, *Mastro-don Gesualdo*.

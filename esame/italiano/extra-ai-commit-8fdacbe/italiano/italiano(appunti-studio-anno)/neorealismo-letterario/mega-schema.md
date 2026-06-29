@@ -2,6 +2,15 @@
 
 ---
 
+## Fonti locali principali
+
+- [Lezione 22-01-26 — passaggio dal cinema alla letteratura neorealista](../lezioni/22-01-26/transcription.txt)
+- [Lezione 02-02-26 — Fenoglio, Milton e la questione privata](../lezioni/02-02-26/transcription.txt)
+- [Neorealismo cinematografico — raccordi con Rossellini, De Sica, Visconti](../neorealismo-cinematografico/mega-schema.md)
+- [Pasolini — mega-schema, cinema, interviste e collegamenti](../pasolini/mega-schema.md)
+
+---
+
 ## Quadro cronologico
 
 | Anno | Evento |
@@ -15,6 +24,17 @@
 | **1950** | Pavese pubblica *La luna e i falò*; si suicida all'Hotel Roma di Torino |
 | **1963** | Fenoglio pubblica postumo *Una questione privata* (muore nel febbraio 1963) |
 | **1964** | Calvino ripubblica *Il sentiero dei nidi di ragno* con la celebre Prefazione |
+
+---
+
+## Titoli di programma da riconoscere subito
+
+Questi titoli possono comparire nel programma, nelle domande o negli appunti come **titoli di brani antologici**: vanno collegati all'opera e all'autore giusti.
+
+| Titolo da riconoscere | Autore | Opera / contesto | Nucleo da dire all'orale |
+|---|---|---|---|
+| ***Ci sono giorni…*** | **Cesare Pavese** | Brano da *La casa in collina* | Corrado, intellettuale isolato, sente la guerra come qualcosa da cui vorrebbe restare fuori; il ricordo della collina e la formula «niente accade» fanno emergere senso di colpa e alienazione. |
+| ***Una partita di verità*** | **Beppe Fenoglio** | Brano da *Una questione privata* | Milton, partigiano innamorato di Fulvia, lascia irrompere la verità privata dentro la guerra pubblica; il campo da tennis, Fulvia e Giorgio fanno scattare il flashback e l'ossessione. |
 
 ---
 
@@ -295,7 +315,9 @@ Le opere più apertamente ascrivibili al Neorealismo formano un'ideale trilogia:
 
 La **collina** diventa il simbolo dell'**isolamento** e della **solitudine** dell'intellettuale incapace di agire. Alla vicenda storica si intreccia una vicenda privata: Corrado, tornato nei luoghi dell'infanzia, incontra **Cate**, una donna con cui aveva avuto una relazione, che ha un figlio piccolo, **Dino**. Non può fare a meno di chiedersi se quel figlio sia suo — e resta sospeso in un'inerzia investigativa che lo paralizza ulteriormente.
 
-### 5.6 Analisi del brano: «Niente è accaduto»
+### 5.6 Analisi del brano: ***Ci sono giorni…*** / «Niente è accaduto»
+
+Nel programma il brano pavese può essere riconosciuto con il titolo antologico ***Ci sono giorni…***. Va collegato a *La casa in collina* e alla figura di **Corrado**, l'intellettuale che assiste alla guerra da una posizione laterale, isolata, senza riuscire a trasformare la propria coscienza in azione.
 
 Il brano letto in classe si apre con una formula che condensa l'intero atteggiamento del protagonista: **«Niente è accaduto»**. Corrado si trova in una posizione di **marginalità** rispetto agli orrori della storia: li sente, ma lontani. A lui personalmente la guerra procura «soltanto qualche fastidio»:
 
@@ -308,6 +330,14 @@ L'immobilità del protagonista favorisce il ricordo: «Adesso che la campagna è
 E poi un'immagine bellissima che descrive l'intera parabola del personaggio:
 
 > «M'accorgo che ho vissuto un solo **lungo isolamento**, una **futile vacanza**, come un ragazzo che giocando a nascondersi entra dentro un cespuglio e ci sta bene, guarda il cielo da sotto le foglie e si dimentica di uscire mai più.»
+
+#### Perché il titolo ***Ci sono giorni…*** è importante
+
+Il titolo antologico segnala la dimensione **intermittente e memoriale** del brano: ci sono giorni in cui la collina, il passato e la guerra tornano a premere sulla coscienza di Corrado. Non è una pagina d'azione, ma di bilancio interiore. Pavese mostra un personaggio che vorrebbe restare fuori dalla storia, ma scopre che la guerra arriva comunque a chiedere conto delle scelte non fatte.
+
+#### Cosa dire all'orale
+
+> Nel brano ***Ci sono giorni…*** di Pavese, tratto da *La casa in collina*, Corrado rappresenta l'intellettuale che non combatte. La formula «niente è accaduto» non indica vera pace, ma rimozione: la guerra sembra lontana, però produce senso di colpa. La collina diventa il luogo dell'isolamento e del ricordo, fino alla riflessione decisiva: «ogni guerra è una guerra civile».
 
 ### 5.7 «Ogni guerra è una guerra civile»
 
@@ -350,7 +380,7 @@ flowchart TD
 
 ---
 
-## 6. Beppe Fenoglio e *Una questione privata*
+## 6. Beppe Fenoglio, *Una questione privata* e ***Una partita di verità***
 
 ### 6.1 Il romanzo
 
@@ -360,7 +390,9 @@ Il protagonista è **Milton**, un giovane partigiano colto, magro, poetico, foll
 
 > «Non ne posso più (...) il fatto è che più niente mi importa, di colpo più niente: la guerra, la libertà, i compagni, i nemici. Solo più quella verità.»
 
-### 6.2 L'intreccio di pubblico e privato
+### 6.2 Il brano ***Una partita di verità***: l'intreccio di pubblico e privato
+
+Il titolo antologico ***Una partita di verità*** va ricondotto al cuore di *Una questione privata*: Milton non sta combattendo solo una battaglia partigiana, ma anche una **partita interiore** per sapere la verità su Fulvia e Giorgio. La parola "partita" richiama anche il **campo da tennis** del flashback: Fulvia e Giorgio giocavano insieme, mentre Milton restava ai margini, povero, innamorato, a disagio.
 
 Il titolo stesso del romanzo è programmatico: la "questione privata" — cioè l'ossessione amorosa — irrompe prepotentemente nella dimensione pubblica della guerra e della Resistenza. Le due dimensioni si intrecciano inestricabilmente. Milton, incaricato dal comandante **Leo** di fare ricognizioni, risponde meccanicamente alle domande sulla situazione militare, ma i suoi pensieri sono tutti per Fulvia. Basta un dettaglio — un campo da tennis, un luogo fisico — perché scatti il ricordo:
 
@@ -397,6 +429,10 @@ Lo stile di Fenoglio in *Una questione privata* si caratterizza per:
 - L'uso sapiente del **flashback** per intrecciare passato e presente, dimensione privata e dimensione pubblica
 - Un registro che sa passare dalla crudezza («crepassi», «creperei») alla delicatezza del ricordo amoroso
 
+### 6.6 Cosa dire all'orale su ***Una partita di verità***
+
+> ***Una partita di verità*** è un brano da collegare a *Una questione privata* di Fenoglio. Milton è un partigiano, ma la guerra viene attraversata da un'ossessione amorosa: sapere se Fulvia ha avuto una relazione con Giorgio. La verità privata diventa più urgente della guerra stessa. Fenoglio alterna dialogo realistico, flashback e pensieri del protagonista, mostrando che pubblico e privato non sono separabili.
+
 ---
 
 ## 7. *L'Agnese va a morire* di Renata Viganò
@@ -404,16 +440,50 @@ Lo stile di Fenoglio in *Una questione privata* si caratterizza per:
 Il romanzo di **Renata Viganò** è il primo testo neorealista affrontato dalla classe. Racconta la storia di Agnese, una staffetta partigiana nella Romagna della Resistenza. È stato trasposto in un film diretto da **Giuliano Montaldo**, con **Ingrid Thulin** nel ruolo della protagonista.
 
 > [!note] Dalla lezione
-> La lezione del 22 gennaio si apre con l'ascolto della **testimonianza diretta** di una ex staffetta partigiana romagnola, che racconta la propria esperienza: il trasporto di notizie e armi in bicicletta tra Taglio Corelli e Lavezzola, l'incontro con un uomo travestito da donna sull'argine del Reno, la granata che le è caduta vicino, la partecipazione alle riprese del film di Montaldo. La testimone racconta anche la miseria della vita contadina sotto il fascismo — sei persone in due stanze, mezzo pulcino diviso in sei — e l'episodio del padre, bracciante forzato a iscriversi al Fascio, picchiato dai fascisti per aver tentato di partecipare al funerale del primo maggio. La professoressa sottolinea la precisione dei ricordi a distanza di decenni: luoghi, nomi, momenti, emozioni.
+> La lezione del 22 gennaio si apre con l'ascolto della **testimonianza diretta** di una ex staffetta partigiana romagnola, che racconta la propria esperienza: il trasporto di notizie e armi in bicicletta tra Taglio Corelli e Lavezzola, l'incontro con un uomo travestito da donna sull'argine del Reno, la granata che le è caduta vicino, la partecipazione alle riprese del film di Montaldo. La testimone racconta anche la miseria della vita contadina sotto il fascismo — sei persone in due stanze, mezzo pulcino diviso in sei — e l'episodio del padre, bracciante forzato a iscriversi al Fascio, picchiato dai fascisti per aver tentato di partecipare al funerale del primo maggio. La professoressa sottolinea la precisione dei ricordi a distanza di decenni: luoghi, nomi…
 
 ---
 
-## 8. Quadro sinottico degli autori
+## 8. Raccordo con Pasolini: realismo, cinema e dibattito sui mezzi
+
+Pasolini serve come collegamento finale perché eredita dal neorealismo l'interesse per gli **umili**, per i corpi marginali e per gli ambienti reali, ma sposta il problema su un piano nuovo: negli anni del boom economico, della televisione e del consumismo, il rischio non è solo non rappresentare il popolo, ma **rappresentarlo attraverso mezzi che lo deformano o lo omologano**.
+
+Nel [mega-schema pasoliniano](../pasolini/mega-schema.md), il collegamento con il neorealismo è esplicito:
+
+- **attori non professionisti**
+- **ambienti reali**
+- interesse per **poveri e periferie**
+- superamento del neorealismo attraverso **sacralizzazione figurativa** e **sineciosi**
+
+### Pasolini continua il neorealismo
+
+| Elemento neorealista | In Pasolini |
+|---|---|
+| Popolo, poveri, esclusi | Sottoproletariato romano, borgate, ragazzi di vita |
+| Lingua non letteraria | Romanesco, gerghi, parlato vivo |
+| Ambienti reali | Periferie, strade, baracche |
+| Rifiuto della retorica ufficiale | Critica della borghesia, del consumismo, del nuovo fascismo |
+
+### Pasolini lo supera
+
+Pasolini non si limita al documentarismo. Il suo realismo è attraversato da una tensione **sacrale**: i sottoproletari sono filmati come figure ieratiche, quasi pittoriche; la miseria delle borgate può essere accompagnata da musica colta; il basso e l'alto vengono accostati. Questo è diverso dal neorealismo più strettamente documentario di Rossellini o De Sica.
+
+### Intervista / dibattito: il mezzo non è neutro
+
+Nell'[intervista di Enzo Biagi del 1971](../pasolini/mega-schema.md#91-intervista-di-enzo-biagi-1971), Pasolini riflette sulla televisione: il video dà autorità, crea un rapporto dall'alto verso il basso, può trasformare la parola in messaggio deformato. Questo è un raccordo utile con il neorealismo letterario perché anche Calvino distingue tra **documentare** ed **esprimere**: non basta registrare la realtà, bisogna capire quale forma la realtà assume quando passa attraverso un linguaggio.
+
+#### Cosa dire all'orale
+
+> Pasolini può essere collegato al neorealismo perché riprende poveri, periferie, attori non professionisti e lingua viva; però non è un semplice neorealista. Il suo realismo diventa sacro e figurativo, e nelle interviste riflette sul fatto che cinema e televisione non sono mezzi neutrali. Per questo Pasolini sposta il dibattito dal contenuto sociale alla forma della rappresentazione.
+
+---
+
+## 9. Quadro sinottico degli autori
 
 | | **Calvino** | **Vittorini** | **Pavese** | **Fenoglio** | **Viganò** |
 |---|---|---|---|---|---|
 | **Tipo di realismo** | Fiabesco | Lirico | Mitico-simbolico | Crudo, asciutto | Documentaristico |
-| **Opera chiave** | *Il sentiero dei nidi di ragno* (1947) | *Conversazione in Sicilia* (1941) | *La casa in collina* (1948) | *Una questione privata* (1963) | *L'Agnese va a morire* (1949) |
+| **Opera chiave** | *Il sentiero dei nidi di ragno* (1947) | *Conversazione in Sicilia* (1941) | *La casa in collina* (1948) — brano ***Ci sono giorni…*** | *Una questione privata* (1963) — brano ***Una partita di verità*** | *L'Agnese va a morire* (1949) |
 | **Paesaggio** | Liguria | Sicilia | Langhe (Piemonte) | Langhe (Piemonte) | Romagna |
 | **Punto di vista** | Bambino (Pin) | Intellettuale in crisi (Silvestro) | Intellettuale che non combatte (Corrado) | Partigiano innamorato (Milton) | Staffetta partigiana (Agnese) |
 | **Tema dominante** | Resistenza e solitudine infantile | Inerzia e astratti furori | Senso di colpa, isolamento | Ossessione privata nella guerra | Lotta partigiana dal basso |
@@ -422,39 +492,43 @@ Il romanzo di **Renata Viganò** è il primo testo neorealista affrontato dalla 
 
 ---
 
-## 9. I nodi concettuali per l'esame
+## 10. I nodi concettuali per l'esame
 
-### 9.1 Il Neorealismo non fu una scuola
+### 10.1 Il Neorealismo non fu una scuola
 
 Concetto ribadito sia da Calvino sia da Carlo Bo: non esistono canoni condivisi, ma personalità diverse unite da un comune impegno civile e dalla smania di raccontare.
 
-### 9.2 Ogni autore ha il proprio realismo
+### 10.2 Ogni autore ha il proprio realismo
 
 Calvino è fiabesco, Vittorini è lirico, Pavese è mitico. Questa diversità non è un'eccezione: è la regola del Neorealismo letterario.
 
-### 9.3 La smania di raccontare
+### 10.3 La smania di raccontare
 
 L'esperienza della guerra genera un bisogno collettivo di condivisione. La scrittura neorealista nasce da questo impulso — non come documentarismo freddo, ma come bisogno di *esprimere*.
 
-### 9.4 Il superamento dell'Ermetismo
+### 10.4 Il superamento dell'Ermetismo
 
 Gli scrittori neorealisti recuperano il rapporto tra scrittore e popolo, abbandonando la poesia oscura e d'élite degli anni Trenta.
 
-### 9.5 L'Italia periferica
+### 10.5 L'Italia periferica
 
 La letteratura neorealista è un'esplorazione delle «diverse Italie»: le Langhe, la Liguria, la Sicilia, la Romagna. Il paesaggio è sempre specifico, locale, regionale.
 
-### 9.6 Ogni guerra è una guerra civile
+### 10.6 Ogni guerra è una guerra civile
 
 La frase di Pavese è una delle più importanti del Novecento italiano. Il nemico morto perde la sua qualità di nemico e diventa un essere umano uguale a noi: «ogni caduto somiglia a chi resta, e gliene chiede ragione».
 
-### 9.7 La questione privata dentro la storia
+### 10.7 La questione privata dentro la storia
 
-In Fenoglio la dimensione privata (l'ossessione amorosa) irrompe nella dimensione pubblica (la guerra). Le due sfere non si possono separare: la vita degli uomini non si divide in compartimenti stagni.
+In Fenoglio la dimensione privata (l'ossessione amorosa) irrompe nella dimensione pubblica (la guerra). Nel brano ***Una partita di verità***, questa irruzione è resa dal campo da tennis, dal ricordo di Fulvia e Giorgio e dalla frase «Solo più quella verità». Le due sfere non si possono separare: la vita degli uomini non si divide in compartimenti stagni.
 
-### 9.8 L'autonomia dell'arte
+### 10.8 L'autonomia dell'arte
 
 Vittorini rivendica l'indipendenza dell'arte dalla politica: l'arte non deve «suonare il piffero della rivoluzione». È naturalmente impegnata, ma non può essere strumento di propaganda.
+
+### 10.9 Il problema della rappresentazione: da Calvino a Pasolini
+
+Calvino distingue tra **documentare** ed **esprimere**; Pasolini, più tardi, mostra che anche il mezzo tecnico — cinema o televisione — condiziona il modo in cui la realtà arriva al pubblico. Perciò il neorealismo non va studiato come semplice copia del reale, ma come ricerca di una forma capace di dire la verità storica, sociale e umana.
 
 ```mermaid
 flowchart LR
@@ -468,4 +542,7 @@ flowchart LR
     F --> I[Mitico — Pavese]
     C --> J[Da documentare a esprimere]
     E --> K[Langhe, Liguria, Sicilia, Romagna]
+    A --> L[Raccordo con Pasolini]
+    L --> M[Mezzo non neutro]
+    L --> N[Realismo + sacralizzazione]
 ```

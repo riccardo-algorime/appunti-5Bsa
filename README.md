@@ -12,7 +12,7 @@ Raccolta di appunti e materiali scolastici.
 | Cartella | Contenuto | Entrata consigliata |
 |---|---|---|
 | `chimica/` | 2 cartelle, 0 file | `-` |
-| `esame/` | 3 cartelle, 0 file | `-` |
+| `esame/` | 5 cartelle, 4 file | `indice-italiano.md` |
 | `fisica/` | 1 cartelle, 0 file | `-` |
 | `italiano/` | 13 cartelle, 4 file | `INDICE.md` |
 | `mate/` | 0 cartelle, 0 file | `-` |
@@ -49,12 +49,29 @@ Raccolta di appunti e materiali scolastici.
 ├── esame/
 │   ├── daccampo/
 │   │   └── scienze/
+│   ├── indice-italiano.md
+│   ├── indice-materiali.md
+│   ├── indice-scienze.md
+│   ├── indice-storia.md
 │   ├── italiano/
+│   │   ├── italiano(appunti-studio-anno)/
 │   │   ├── prove_maturita_prima_prova/
 │   │   └── studio/
-│   └── matematica/
-│       ├── ord_page1.png
-│       └── prove_maturita_seconda_prova/
+│   ├── matematica/
+│   │   ├── local_raw_pdf_text/
+│   │   ├── ord_page1.png
+│   │   └── prove_maturita_seconda_prova/
+│   ├── programma/
+│   │   ├── 5B sa.pdf
+│   │   ├── italiano.md
+│   │   ├── matematica.md
+│   │   ├── Programma di Italiano per esame (2).pdf
+│   │   ├── PROGRAMMA SVOLTO DI MATEMATICA 2.pdf
+│   │   ├── PROGRAMMA_SVOLTO_SCIENZE_NATURALI_CHIMICHE_BIOLOGICHE_5BSA_D'ACCAMPO A.S. 2025-2026.pdf
+│   │   ├── scienze.md
+│   │   └── storia.md
+│   └── storia/
+│       └── materiale/
 ├── fisica/
 │   └── materiali/
 │       ├── appunti-bea.md

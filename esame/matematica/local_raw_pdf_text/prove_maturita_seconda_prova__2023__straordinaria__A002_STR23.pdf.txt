@@ -1,0 +1,135 @@
+--- PAGINA 1 ---
+Pag. 1/3
+Sessione straordinaria 2023
+Seconda prova scritta
+Ministero dell’istruzione e del merito
+A002 - ESAME DI STATO CONCLUSIVO DEL SECONDO CICLO DI ISTRUZIONE
+Testo valevole per tutti i seguenti indirizzi:
+LI02, LI03, LI15, LI1S, LI22, LI23, LI31, LI32, LIA2, LIAO,
+LIB2, LIC2, LID2, LII2, LII3, LII4, LIIS, LIS2, EA02, EA10
+Disciplina: MATEMATICA
+Il candidato risolva uno dei due problemi e risponda a 4 quesiti del questionario.
+PROBLEMA 1
+3 3
+Si consideri la famiglia di funzioni 𝑓 (𝑥) = 2 − + con 𝑛 ∈ ℕ e 𝑛 > 1.
+𝑛 𝑥 𝑥𝑛
+a) Verificare che tutte le curve rappresentate dalle funzioni della famiglia 𝑓 (𝑥) passano per uno
+𝑛
+stesso punto e scrivere le sue coordinate. Determinare, in funzione del parametro n, le
+ascisse degli estremi e dei flessi e calcolarne il limite, con n→ ∞. Scrivere le equazioni degli
+asintoti e tracciare i grafici delle funzioni 𝑓 , evidenziando le differenze tra i casi in cui n è
+𝑛
+pari da quelli in cui n è dispari.
+b) Si assuma 𝑛 = 3 , studiare la funzione 𝑓 (𝑥) e si tracciare un suo grafico rappresentativo,
+3
+dimostrando che ammette un unico zero di segno negativo. Discutere, al variare del
+parametro 𝑘 ∈ ℝ, il numero e il segno delle soluzioni dell’equazione 𝑓 (𝑥) = 𝑘.
+3
+3
+c) Si consideri la funzione 𝑔(𝑥) = 2 − e verificare che, ∀𝑥 > 0, vale la disuguaglianza
+𝑥
+𝑓 (𝑥) > 𝑔(𝑥), indipendentemente dal valore di 𝑛. Si consideri l’integrale
+𝑛
+𝑡
+𝐼(𝑡) = ׬ (𝑓 (𝑥) − 𝑔(𝑥))𝑑𝑥 ,
+1 𝑛
+che esprime l’area della regione delimitata dai grafici delle funzioni 𝑓 𝑒 𝑔 e dalle rette di
+𝑛
+equazioni 𝑥 = 1 e 𝑥 = 𝑡, 𝑡 > 1. Si calcolino 𝐼(𝑡) e il lim 𝐼(𝑡), fornendo
+𝑡→+∞
+un’interpretazione geometrica del risultato ottenuto.
+𝑓 (𝑥)−2
+d) Calcolare il lim 𝑛
+𝑥→∞ 𝑔(𝑥)−2
+e verificare che il risultato non dipende da 𝑛 ∈ 𝑁, 𝑛 > 1.
+PROBLEMA 2
+1 1
+Si considerino le famiglie di funzioni 𝑓 (𝑥) = (𝑒𝑎𝑥 − 𝑒−𝑎𝑥) e 𝑔 (𝑥) = (𝑒𝑎𝑥 + 𝑒−𝑎𝑥) con
+𝑎 𝑎
+2 2
+a parametro reale positivo.
+a) Si traccino, al variare del parametro, i grafici rappresentativi 𝛾 𝑒 𝛾 delle funzioni 𝑓 (𝑥) e 𝑔 (𝑥)
+𝑓 𝑔 𝑎 𝑎
+evidenziando simmetrie, estremi e flessi.
+b) Siano 𝑃 𝑒 𝑄 due punti, rispettivamente su 𝛾 𝑒 𝛾 , aventi la stessa ascissa positiva, 𝑃′ 𝑒 𝑄′
+𝑓 𝑔
+le loro proiezioni sull’asse delle ordinate. Si individui il valore del parametro 𝑎 in
+corrispondenza del quale la massima area del rettangolo 𝑃𝑄𝑄′𝑃′ vale 𝑒−1 .
+D’ora in avanti, si assuma 𝑎 = 1.
+
+--- PAGINA 2 ---
+Pag. 2/3
+Sessione straordinaria 2023
+Seconda prova scritta
+Ministero dell’istruzione e del merito
+A002 - ESAME DI STATO CONCLUSIVO DEL SECONDO CICLO DI ISTRUZIONE
+Testo valevole per tutti i seguenti indirizzi:
+LI02, LI03, LI15, LI1S, LI22, LI23, LI31, LI32, LIA2, LIAO,
+LIB2, LIC2, LID2, LII2, LII3, LII4, LIIS, LIS2, EA02, EA10
+Disciplina: MATEMATICA
+c) Verificare l’identità 𝑔2(𝑥) − 𝑓2(𝑥) = 1 e determinare il numero intero per cui
+50 ≤ 𝑔(𝑥) − 𝑓(𝑥) ≤ 100. Specificare quale, tra 𝑓(𝑥) e 𝑔(𝑥), è una funzione invertibile in
+ℝ e ricavare l’espressione analitica della funzione inversa.
+d) Determinare l’equazione 𝑦 = 𝑃(𝑥) della parabola 𝛾 avente il vertice nel punto di minimo
+assoluto della funzione 𝑔(𝑥) e retta tangente, per 𝑥 = 1, parallela alla retta di equazione
+2𝑥 + 𝑦 = 0. Calcolare l’area della regione finita R delimitata da 𝛾, dal grafico di 𝑔(𝑥) e dalle
+rette di equazione 𝑥 = ±1. Verificare che l’area di R può essere approssimata con quella
+del triangolo isoscele inscritto nel segmento parabolico delimitato da 𝛾 e dall’asse delle
+ascisse.
+QUESITI
+1. Nel triangolo ABC, l’ampiezza di uno dei tre angoli è la metà di un secondo angolo del
+triangolo ed è pari al triplo del terzo angolo. Detti A', B', C' i punti di tangenza tra i lati di ABC
+ed il suo cerchio inscritto, determinare le ampiezze degli angoli del triangolo A'B'C'.
+2. Una classe è formata da 18 studenti; durante la lezione di musica, vengono creati (in modo
+completamente casuale) tre gruppi formati rispettivamente da 5, 6 e 7 studenti. Se Alice,
+Barbara e Chiara sono tre studentesse della classe, determinare la probabilità che solo due
+di loro facciano parte di uno stesso gruppo.
+𝑥 = 1 + 𝑡
+𝑥 = 1
+3. Assegnate le rette 𝑟 ∶ { 𝑦 = 𝑡 , 𝑠 ∶ { con t parametro reale, determinare
+2𝑦 − 𝑧 = 3
+𝑧 = 1 + 4𝑡
+l’equazione cartesiana del piano 𝜋 contenente 𝑟 e parallelo ad 𝑠.
+4. Tra tutti i parallelepipedi rettangoli a base quadrata di diagonale fissata d, dimostrare che il
+cubo è quello di volume massimo.
+
+--- PAGINA 3 ---
+Pag. 3/3
+Sessione straordinaria 2023
+Seconda prova scritta
+Ministero dell’istruzione e del merito
+A002 - ESAME DI STATO CONCLUSIVO DEL SECONDO CICLO DI ISTRUZIONE
+Testo valevole per tutti i seguenti indirizzi:
+LI02, LI03, LI15, LI1S, LI22, LI23, LI31, LI32, LIA2, LIAO,
+LIB2, LIC2, LID2, LII2, LII3, LII4, LIIS, LIS2, EA02, EA10
+Disciplina: MATEMATICA
+5. Determina l’equazione della funzione dispari che ha un solo flesso a tangente orizzontale e
+la cui derivata seconda è 𝑓′′ = −10𝑥3 + 12𝑥.
+𝑥
+6. Si consideri la funzione 𝐹(𝑥) = ׬ 𝑓(𝑡)𝑑𝑡 con
+−2
+𝑥 ∈ [−2; 5], dove f è la funzione rappresentata in
+figura, ottenuta dall’unione di una semicirconferenza
+e due segmenti.
+Calcolare 𝐹(−2), 𝐹(2), 𝐹(3) e 𝐹(5).
+𝑥 𝑥+1
+7. Determinare il dominio della funzione 𝑓(𝑥) = e stabilire la tipologia delle sue
+𝑥3−𝑥
+discontinuità.
+8. Si considerino le seguenti affermazioni sulla funzione 𝑦 = 𝑓(𝑥).
+A: “𝑓(𝑥) è derivabile per 𝑥 = 𝑥 ”
+0
+B: “𝑓(𝑥) è continua per 𝑥 = 𝑥 ”
+0
+Indicare quali, tra le seguenti affermazioni, non costituisce un teorema. Spiegare la scelta
+effettuata anche attraverso opportuni controesempi.
+A ⟹ B (Se A allora B)
+B ⟹ A (Se B allora A)
+A ⟺ B (B se e solo se A)
+_______________________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di calcolatrici scientifiche e/o grafiche purché non siano dotate di capacità di calcolo simbolico. (Nota
+MIM n. 9305 del 20 marzo 2023).
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di
+madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla consegna della traccia.

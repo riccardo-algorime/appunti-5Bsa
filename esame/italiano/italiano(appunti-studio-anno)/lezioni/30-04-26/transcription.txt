@@ -1,0 +1,159 @@
+Deve avere un riferimento S', al fine di vedere le due particelle muoversi l'una verso l'altra con la stessa velocità. Uno verso l'altra. Allora, vediamo questo caso, se mi ricordo bene l'oggetto come funziona.
+
+Quindi, io in pratica ho un sistema di riferimento S, dove le particelle si muovono, non lo so, in questa direzione o in quest'altra, e però vede le due particelle spostarsi l'una contro l'altra non con la stessa velocità. Vabbè. Allora, vediamo un po', quindi la v primo uno sarebbe uguale alla v uno, la v uno è quella rispetto a questo S, quindi questa qui meno u fratto uno meno beta di v uno per beta di u. La v primo due è la v due che è zero, vabbè, meno u fratto uno meno beta di v due per questa, così.
+
+Quindi so che v primo due è uguale a meno v primo uno. Quindi: meno v uno meno u fratto uno meno beta di v uno per beta di u uguale a meno u. Metto il meno qui, uguale meno u.
+
+Allora, io ho impostato questo sistema qui, ed è la cosa più interessante. Vedete, questa è la v primo uno vista da S' e questa è la v primo due vista da S'. Ovviamente la v due era zero, vabbè, quindi se faccio questa qui verrebbe soltanto meno u. E poi so che le due velocità sono uguali ed opposte, quindi hanno il fattore beta con segno diverso. Poi ho fatto l'uguaglianza, ho messo il meno davanti a questa espressione qua e l'ho uguagliata a meno u. Quindi dopo avrei meno con meno e diventano tutti e due più. E adesso devo ricavare la u, vediamo che cosa viene fuori.
+
+Quindi: v uno meno u uguale u che moltiplica uno meno v uno per u fratto c quadro. Quindi: v uno meno u uguale u meno v uno u quadro fratto c quadro. Quindi adesso porto tutti i termini con u da una sola parte, tipo questa qua, quindi ho: v uno u quadro su c quadro meno due u più v uno uguale zero. **È diventata un'equazione di secondo grado**, quindi la porto di qua. Cambio i segni. È diventata un'equazione di secondo grado: u due meno due u fratto v uno per c quadro più c quadro uguale zero.
+
+Quindi: delta quarti, quindi uno meno quattro... no, uno fratto c quadro per v uno. Quindi faccio: b mezzi alla seconda, uno, meno a c. Uno meno c quadro su v uno... sarà positivo perché sarebbe uguale a c quadro meno v uno quadro fratto c quadro, la v uno è sempre minore di c, quindi comunque questa roba qui diventa maggiore di zero. Quindi qui ho due soluzioni.
+
+Quindi ho u uno due uguale meno b mezzi, quindi uno, più o meno la radice di delta quarti fratto a, a è v uno fratto c quadro. Quindi uguale uno meno questa radice di questo, sotto radice fratto v uno su c quadro, e l'altra è uno più radice di questo, così. Adesso vedo se riesco a... ovviamente il risultato era più semplice. Lo esprimeva in termini beta, cioè tipo u uguale beta per c.
+
+Ok, allora questa è radice di uno meno v uno, zero virgola quarantasette al quadrato, fratto zero virgola quarantasette c su c quadro, quindi c se ne va. E sarebbe per c sopra. Mentre per questa verrà uno più radice di questo, così.
+
+Questa qui viene zero venticinque c. Questa non è possibile perché verrebbe quattro c. Quindi l'unica soluzione è quella: più zero virgola venticinque c.
+
+[DOMANDA STUDENTE: E qui qual era il dubbio, questo?]
+
+Sì, eh, facciamo troppa difficoltà su questi problemi così. Ah, cioè, non avevi capito il meno o non avevi capito che questa...?
+
+[DOMANDA STUDENTE: Non avevo capito che dovevo trovare la u. Ah, ok. E quella che dovevo trovare era la velocità di S primo. Cioè, non... ci ho pensato muovendo la due... no, tipo... cioè, sì, io avevo scritto v uno uguale zero virgola quarantasette c ed S primo ok, v due uguale meno zero virgola quarantasette c. Ah, no, ok, quindi per te già questo era l'S primo e già questa era la velocità.]
+
+Il problema è che non ti viene detto che questa velocità qui, che in questo sistema S' effettivamente devono essere le velocità devono essere zero quarantasette c o meno zero quarantasette c. E invece no, qui ti dice: in questo sistema di riferimento una si muove con zero quarantasette, l'altra con zero, quindi questo non può essere il sistema di riferimento che stai cercando, deve essere per forza un altro. E si doveva capire da lì, l'unica. Non può essere un sistema concorde, insomma, solidale con una delle due particelle perché in pratica questo SR era solidale con la particella due. In questo modo io ho SR che comunque vede due ferma.
+
+Ecco la trascrizione fedele della lezione:
+
+Vedi SR' lo vedi andare di là perché abbiamo trovato una velocità tale che permette a SR' di vederlo andare di là. In pratica questo SR qui è già solidale con 2, ok? Che è ferma. Quindi è come se dicessi: 2 vede la particella 1 venirgli incontro con 0.47 c. Quindi un sistema che sta cercando di raccogliere l'una con l'altra, cioè diciamo un accordo, quindi non può essere SR'. E non riesci neanche a... no, non riesci neanche a piazzarlo su una delle due, SR' non riesci a piazzarlo per lo stesso motivo, perché questo è solidale con SR'. Direi che è dunque un sistema estraneo a entrambi, non solidale con nessuno dei due.
+
+Va bene, devo correggere qualcos'altro? No. Allora adesso venite voi a finire l'esercizio di ieri, chi viene? Devo chiamare sempre io? Va bene, allora viene [nome proprio: Pastieri]. 
+
+[NOTA: Rumori di spostamento banchi e sedie mentre lo studente si avvicina alla lavagna]
+
+Si può usare il pennarello? Sì, sì, lo fa [nome proprio: Pastieri], puoi farlo lì. Possiamo anche cambiare pennarello? Sì, certo, vai a prenderlo, grazie. Qualcuno vada a prendere i pennarelli. Due neri o due blu, comunque scuri. 
+
+Allora, io ti avevo detto che avevi un **elettrone** che era in moto con velocità **v = 0.80 c**. La prima cosa che dovevamo fare era calcolare l'energia e la quantità di moto con questa velocità. Poi, se non ricordo male, eravamo arrivati a dire che c'è un **sistema di riferimento SR'** che si muove in **verso opposto** rispetto all'elettrone con una velocità di **0.70 c**. E ti chiedevo di calcolare la quantità di moto e l'energia di quell'elettrone in questo sistema di riferimento.
+
+[DOMANDA STUDENTE: La quantità di moto si misura massa per velocità?]
+Sì, però relativisticamente, quindi cosa dobbiamo mettere? Bisogna mettere anche il **fattore di Lorentz**. 
+
+[ESEMPIO: Quantità di moto relativistica p = γ · m · v]. Quindi c'è la massa, massa per velocità per fattore di Lorentz. 
+
+[DOMANDA STUDENTE: Quindi prendiamo la massa dell'elettrone e come velocità devo prendere quale? Quella del sistema di riferimento?]
+Devi misurarla nel sistema di riferimento 1. Rifletti bene: tu hai un elettrone che qui, in questo sistema SR, si muove con 0.80 c. In SR', che si muove anch'esso di 0.70 c, qual è la velocità con cui si muove questo elettrone? 
+
+Bisogna ricordarsi questa espressione, se no come fate? Il quattordici avete la verifica di relatività e non sappiamo, siamo troppo pieni, siamo troppo carichi... oh, è un'espressione. Come si fa? **u' = (v - u) / (1 - vu/c²)**. Non è u₁ qui, è u, ok? Non c'è la u₁ qua. O metti v₁ e v.
+
+Allora, l'elettrone si muove con 0.80 c, il sistema di riferimento SR' si muove in **verso opposto** con 0.70 c. Calcoliamo questa v'. 
+
+[DOMANDA STUDENTE: Quindi 0.80 c meno 0.70 c diviso...]
+Attenzione, perché ti ho detto che l'SR' si muove in verso opposto rispetto all'elettrone. Si muovono entrambi sull'asse x, ok, però uno è in verso opposto all'altro. Quindi che cosa dobbiamo sistemare? **I segni di queste velocità**. 
+
+[DOMANDA STUDENTE: Prendo positivo quello dell'elettrone e negativo quello della u?]
+Meno e meno diventa più. Ok, meno e meno. Poi dopo fai i calcoli, togli il più lassù, lasci meno e poi adesso scrivi i calcoli come dovrebbero essere fatti. 
+
+[NOTA: Lungo silenzio mentre lo studente scrive i calcoli alla lavagna]
+
+Quanto ti viene? 2.88 per dieci alla... No, esprimilo in funzione di c. Questi sono calcoli che solitamente si fanno in funzione di c. Quindi tu calcoli la costante beta e poi la moltiplichi per c, la lasci espressa la moltiplicazione in funzione di c, come ti ho dato tutte le altre velocità. Questa c la posso portare fuori, quindi bisogna fare i calcoli esclusivamente su questi valori qua, senza c.
+
+Ecco la trascrizione fedele della lezione:
+
+0,96 c? Positivo o negativo? [DOMANDA STUDENTE: Positivo.] Ok, quindi sia più 0,96 c per gamma, sia 0,96 c per beta. Bene, adesso che abbiamo trovato questo, come facciamo a calcolare la quantità di moto e l’energia visti per l’elettrone da questo sistema di riferimento?
+
+[DOMANDA STUDENTE: Massa dell’elettrone per questa velocità per il fattore di Lorentz che è radice di 1 meno la velocità al quadrato...] 1 fratto radice di... perché C se ne va via... Sì, ma il fattore di Lorentz è 1 su radice di 1 meno beta quadro, che è comunque quello che dici te, però non è uno sotto la radice di, è 1 fratto la radice di 1 meno v quadro su c quadro. Ok, quindi calcoliamo il fattore di Lorentz. Come ce lo aspettiamo il fattore di Lorentz? Positivo, negativo, minore di 1, maggiore di 1? [DOMANDA STUDENTE: Negativo... No, la radice no, è positivo per forza.] E possiamo quindi dire che è maggiore di 0, ma possiamo dire magari maggiore di 1, minore di 1? [DOMANDA STUDENTE: Maggiore di 0 sicuro... ma anche minore di 1? Vabbè, perché se è v quadro e con velocità prendo questa qui rimane C, ne semplifico solo uno, dopo sarebbe grande di quella della velocità...] Però è velocità al quadrato, di C se ne vanno tutti e due. [DOMANDA STUDENTE: Ah, ok, allora può essere maggiore di 1.]
+
+È **solo maggiore di 1**, perché se la velocità fosse zero, questo viene 1. Se questo è diverso da zero, questo 1 meno è ancora più piccolo, quindi 1 diviso roba più piccola fa più grande di 1. Calcoliamo il fattore gamma. 3,57. Vediamo quanto viene a me... Sì, sì, a me veniva 3,64, ma è lo stesso, va bene, andiamo con 3,57. Poi faccio 3,57 per la massa dell’elettrone, 9,1 per 10 alla meno 31 chili, per 0,96 c.
+
+9,87 per 10 alla meno 22. Unità di misura della quantità di moto? [DOMANDA STUDENTE: Kilogrammi per metro al secondo.] Esatto, sarebbe Newton... è massa per velocità, gamma non ha unità di misura. Qual è l’energia di questo elettrone in SR primo?
+
+Espressione dell’**energia relativistica** qual è ragazzi? [DOMANDA STUDENTE: Gamma per mc quadro.] Esatto, gamma per mc quadro. Quindi energia uguale gamma per mc quadro. Che tipo di energia è? Dentro questa E che tipo di energie sono racchiuse? [DOMANDA STUDENTE: Cinetica... di massa...] **Energia a riposo**, che è la massa, e la **cinetica**. Quindi E uguale gamma mc quadro. Gamma era 3,57, m era questa e moltiplico solo per c quadro. 2,92 per 10 alla meno 13 Joule.
+
+Allora, adesso ti dico questo. Ti dico che questo elettrone viene accelerato da una forza costante, una forza di 10 alla meno 12 Newton per un tempo di 5 nanosecondi. Ho sparato proprio dei numeri tristi. Considera un tempo delta t che è riferito al sistema di riferimento SR, quindi non siamo in SR primo, siamo tornati dentro SR. Mi chiedi di calcolare la velocità finale dell’elettrone.
+
+[NOTA: Il docente si rivolge a uno studente che è appena entrato o ha finito un colloquio] Buongiorno. Ah, ti ha già salutato per primo? Ti ha interrogato mezz’ora? Ti ha spremuto? No, allora ci ha messo un po’ ad arrivare lei... quindi sono stato interrogato venti minuti. In mezz’ora ti ha fatto domande di qualunque tipo.
+
+Allora, come facciamo a calcolare la velocità? Possiamo usare la relazione F = m per a? No, perché a forza costante corrisponde accelerazione costante in relatività ristretta? **No**. Posso usare la relazione, visto che forza e velocità sono parallele, posso usare la relazione F = m per a per gamma al cubo? No. Perché no? [DOMANDA STUDENTE: Ah, perché non sono più in SR...] No, in realtà sono in SR, però per l'attività stessa. Perché non posso usare m gamma al cubo per a? La forza è costante, l’accelerazione si mantiene costante? Abbiamo detto prima: **no**. Quindi io non posso ricavare l'accelerazione da questa espressione.
+
+Ecco la trascrizione accurata della lezione:
+
+Perché la velocità aumenta, il **fattore gamma** cambia e, istante per istante, l'accelerazione è diversa. Cioè, se anche la forza rimane costante, l'accelerazione non è costante. Non importa... cioè, $F = m \cdot \gamma^3 \cdot a$ mi può dare al limite l'**accelerazione istantanea**, cioè quando la velocità è tot, l'accelerazione data da quella forza vale tot, ma non è l'accelerazione che sarà la stessa quando la velocità è diversa. **Quindi non è un moto uniformemente accelerato.**
+
+Quindi qual è il caposaldo della fisica che ci aiuta quando il moto non è uniformemente accelerato? L'**equazione dell'impulso**, cioè la seconda legge della dinamica però rivista in termini dell'impulso. Invece di scrivere $F = m \cdot a$ oppure quest'altra, lo scrivo come forza per delta t ($F \cdot \Delta t$), che è l'impulso, uguale a... cos'è? È uguale a... l'impulso è uguale a un delta di quantità di moto.
+
+[DOMANDA STUDENTE: Sì, il tempo, però di quanto? Perché c'è un delta di qua e devo metterne uno anche di qua...] 
+Delta, ma di che cosa? Di quantità di moto. Sì, fila. 
+
+[DOMANDA STUDENTE: Quantità di moto iniziale e finale?] 
+La velocità iniziale è quella lassù perché sei in S-R-F, e quella è la velocità finale. Quindi proviamo a vedere se ci si rifà matematicamente. Questa è la legge che dobbiamo usare: non posso usare più $F = m \cdot a$, sicuro, ma neanche $m \cdot \gamma^3 \cdot a$ perché l'accelerazione non rimane costante. Punto. La forza rimane costante, l'accelerazione no.
+
+Ora, può esserci il caso in cui il moto viene accelerato con accelerazione costante per arrivare a una velocità $v$? Sì, però deve essere espresso. Cioè, mi devono dire che il corpo subisce un'accelerazione costante di tot, allora il moto è uniformemente accelerato, però c'è il problema che poi la forza non sarà costante perché più aumenta la velocità, più il $\gamma^3$ aumenta e quindi la forza durante tutta l'accelerazione non rimane costante. Quindi se poi dopo vi viene chiesta qual è la forza agente sul corpo, non posso comunque sfruttare $F = m \cdot \gamma^3 \cdot a$ perché quella forza lì è una forza istantanea quando la velocità vale tot. 
+
+Allora, delta quantità di moto, come lo scriviamo? Sarà quantità di moto finale meno iniziale. Però vi chiedo: è solo la velocità che cambia? Cambia anche gamma perché cambia la velocità. Quindi c'è un gamma finale e un gamma iniziale. Allora, il gamma iniziale l'avevamo già calcolato, quindi quello quando servirà ve lo posso dare. Ricaviamo la velocità finale. 
+
+[DOMANDA STUDENTE: E come la ricavo?]
+Ora pensaci bene, la velocità finale c'è anche dentro il gamma. Se tu mi metti il gamma finale, mi stai esprimendo la velocità finale in funzione della velocità finale. Quindi bisogna che prima espliciti per tutto la velocità finale e poi la puoi ricavare.
+
+[DOMANDA STUDENTE: Se ora io faccio però $v_{finale} \cdot m \cdot$ tiro fuori la velocità finale dal gamma finale e poi quella che non mi serve la porto di là?] 
+Esatto, quindi la prima cosa che dobbiamo scrivere è com'è fatto il gamma. Gamma finale è uguale a uno su radice di uno meno velocità al quadrato fratto c al quadrato, e la velocità è quella finale. Esatto. Uguale a quella roba lassù: $F \cdot \Delta t$ più massa eccetera fratto la massa. Non solo la radice, tutto quanto... velocità finale per... perché dopo questo lo porti di qua, si semplifica. No, prima eliminerei la radice. 
+
+[DOMANDA STUDENTE: Se devo tirare fuori dalla radice questo?] 
+Non puoi, c'è sotto una sottrazione, una somma, non puoi farlo se non è un prodotto. Allora eleviamo al quadrato. Esatto, facciamo così. La quantità di moto iniziale l'avevamo già, quindi quella quando serve ce l'abbiamo. Cioè $F \cdot \Delta t$ e... no, lascialo scritto. Questa sarà la quantità di moto iniziale, ce l'avevamo già fatta da ieri, quindi quella quando servirà ce l'hai. Mettilo in un cerchio perché sembra un meno o un'altra cosa, lascia il meno che tanto ci capiamo, andiamo avanti. Allora, devo elevare al quadrato la radice... tutto quanto elevi al quadrato, membro a membro. Se vuoi togliere quella radice devi elevare al quadrato tutto quanto quello che c'è a sinistra. 
+
+[DOMANDA STUDENTE: Se faccio il denominatore comune non faccio prima?] 
+Sì, ma dopo ti rimane la radice anche di qua e come fai a toglierla? Devi comunque elevare al quadrato. Per avere una radice singola di qua non ti importa... [inaudibile] ...elevi tutto al quadrato. 
+
+$v_{finale}$ alla quarta... no, alla seconda. Uguale a quella roba lì, chiamiamola K che tanto è tutto noto, è un numero. $F$, delta t, massa, $v_{iniziale}$ fratto la massa... quello ce l'abbiamo già tutto, la massa dell'elettrone ce l'abbiamo, tutto quello è una costante. Chiamala K e poi elevi al quadrato. Quando saremo in un momento calcoleremo la K. K al quadrato. Adesso cerchiamo di ricavare la velocità finale, che è più complicato che calcolare tutta quella roba lì. Questo lo porto di là, lo porto... dove lo porto? Velocità finale al quadrato... [inaudibile] ...forse mi conviene portarlo...
+
+Ragazzi, [inaudibile]
+
+Allora, guardiamo la formula. $v_{finale}$ al quadrato fratto $c$ al quadrato uguale... allora, $K_c$, $K$ al quadrato, $c$ al quadrato fratto $c$ al quadrato meno... questo fratto questo rimane... rimane solo **$K$ al quadrato**. $v_{finale}$ al quadrato uguale $K$ al quadrato, poi hai meno questo termine fratto $v_{finale}$ al quadrato fratto $c$ al quadrato... [inaudibile] per $K$ al quadrato.
+
+**Adesso cerchiamo di trovare la $v_{finale}$.** Io porterei tutti i termini con $v_{finale}$ al quadrato dalla stessa parte. Poi, vogliamo isolare la $v_{finale}$ al quadrato, quindi raccogliamo la $v_{finale}$ al quadrato. [ESEMPIO: raccogliendo otteniamo $v_{finale}^2$ che moltiplica $1 + K^2/c^2$]. Adesso faccio $K^2$ fratto tutto questo...
+
+Allora, come formula finale io scriverei: **$v_{finale}$ uguale più o meno**, perché ricordate che **quando si fa la radice quadrata ci vuole sempre il più o meno**, radice di $K^2$ fratto uno più $K^2$ su $c^2$.
+
+Adesso vi dico quanto valevano i pezzi della $K$. I dati erano: la forza era $10^{-12}$, il $\Delta t$ era $5 \times 10^{-9}$. La quantità di moto era $3,64 \times 10^{-22}$ diviso la massa dell'elettrone, quindi $9,1 \times 10^{-31}$. [NOTA: il docente sta scrivendo i calcoli alla lavagna mentre i ragazzi copiano].
+
+Allora, a me come risultato era venuto $0,987c$. Perché a voi non torna la $K$? 
+
+[DOMANDA STUDENTE: A me per la $K$ viene un valore un po' diverso... mi viene $5,89 \times 10^9$].
+
+[inaudibile] ...però comunque secondo me dopo mi torna lo stesso il risultato finale perché ho fatto la radice. 
+
+[NOTA: segue una fase di lavoro individuale e brusio in classe mentre gli studenti confrontano i risultati dei calcoli].
+
+Fra', dimmi se è uguale. È uguale fra', è letteralmente uguale, il colore è lo stesso. Ma che cosa? Mi si è impastato tutto. [NOTA: conversazione privata tra studenti non inerente alla lezione]. 
+
+[inaudibile] ...speriamo che questa sia la soluzione, ma non penso proprio. No, infatti. [inaudibile] ...ma tu avevi fatto il conto laggiù? Sicuro che per il $\Delta t$ sia quello? Perché io qui ho scritto il calcolo ma non ho scritto quel valore. [termine incerto: relativisticamente]. 
+
+[Il resto dell'audio presenta rumore di fondo, spostamento di banchi e conversazioni frammentate tra gli studenti fino alla fine della registrazione].
+
+[Inizio audio - rumore di fondo di studenti che si sistemano, sedie che si spostano e voci indistinte]
+
+Allora, prendete posto e fate silenzio, per favore. Oggi iniziamo ad affrontare uno degli argomenti centrali del nostro programma: il passaggio dal **Dolce Stil Novo** alla maturità di **Dante Alighieri**.
+
+Come abbiamo visto la scorsa settimana, lo Stilnovo non è solo un modo di scrivere, ma una vera e propria filosofia. Quando parliamo di questa corrente, la parola chiave è **gentilezza**, che però, attenzione, non significa essere gentili o educati nel senso moderno del termine. Per questi poeti, la gentilezza è la **nobiltà d'animo**, qualcosa che si ha nel cuore e non che si eredita per titolo nobiliare. 
+
+**Questo è un punto fondamentale:** ricordate che per lo stilnovista l'amore può risiedere solo in un "cor gentil". [ESEMPIO:] Ad esempio, nella celebre canzone di [nome proprio: Guido Guinizzelli], "Al cor gentil rempaira sempre amore", viene spiegato proprio questo legame indissolubile tra la capacità di amare e la nobiltà spirituale.
+
+[DOMANDA STUDENTE: Prof, ma quindi un nobile di sangue poteva non essere gentile?]
+
+Esattamente. Potevi essere un principe o un barone, ma se il tuo animo era rozzo, non avresti mai potuto provare il vero amore stilnovista. Dante riprende questo concetto e lo porta alle estreme conseguenze nella **Vita Nuova**. In quest'opera, che è un prosimetro — ovvero un insieme di testi in prosa e testi in versi — Dante descrive il suo amore per Beatrice.
+
+La figura di Beatrice è l'evoluzione massima della **Donna Angelo**. La donna non è più soltanto un oggetto del desiderio o una creatura terrena, ma diventa un vero e proprio miracolo, un tramite tra l'uomo e Dio. **Ricordate che** la funzione della donna nello Stilnovo è quella di "salutare", che in latino ha il doppio significato di dare il saluto ma anche di portare la **salvezza**.
+
+[NOTA: Ragazzi, per l'esame di stato questo è un concetto che chiedono spesso: il valore salvifico della donna nella letteratura del Duecento.]
+
+Passiamo ora a un'altra figura retorica che Dante usa spessissimo: l'**anafora**. [ESEMPIO:] Ad esempio, pensate all'inizio del terzo canto dell'Inferno, con la ripetizione di "Per me si va...". Questa ripetizione serve a dare solennità e a sottolineare l'ineluttabilità della condanna eterna. 
+
+[termine incerto: petroso]... Ecco, anche nelle rime cosiddette "petrose", Dante sperimenta un linguaggio più aspro, lontano dalla "dolcezza" dello stile precedente, per descrivere un amore difficile e non corrisposto. Ma la sua opera massima resta ovviamente la **Divina Commedia**, che lui definisce "Commedia" perché, nonostante l'inizio tragico nell'Inferno, ha un lieto fine, ovvero la visione di Dio nel Paradiso.
+
+[DOMANDA STUDENTE: Ma perché si chiama Divina se lui l'aveva chiamata solo Commedia?]
+
+Ottima osservazione. L'aggettivo "Divina" è stato aggiunto successivamente da **Giovanni Boccaccio**, proprio per sottolineare l'eccellenza e la sacralità dell'opera, e poi è rimasto nel titolo che usiamo ancora oggi.
+
+**All'esame potrebbero chiedere** anche le differenze tra Dante e **Petrarca**. Se Dante è il poeta dell'oggettività e della totalità, Petrarca sarà il poeta dell'interiorità e del dissidio amoroso. Ma di questo parleremo più approfonditamente nella prossima lezione.
+
+[Fine audio - rumore di fogli e campanella in sottofondo]

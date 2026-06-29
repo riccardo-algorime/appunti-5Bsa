@@ -1,0 +1,146 @@
+--- PAGINA 1 ---
+Pag. 1/4
+Sessione suppletiva 2019
+Seconda prova scritta
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: LI02, EA02 – SCIENTIFICO
+LI03 - SCIENTIFICO - OPZIONE SCIENZE APPLICATE
+LI15 - SCIENTIFICO - SEZIONE AD INDIRIZZO SPORTIVO
+(Testo valevole anche per le corrispondenti sperimentazioni internazionali e quadriennali)
+Tema di: MATEMATICA e FISICA
+Il candidato risolva uno dei due problemi e risponda a 4 quesiti.
+PROBLEMA 1
+Al variare di 𝑎 ∈ ℝ, si consideri la famiglia di funzioni:
+9
+(1 + 𝑥𝑒𝑎−𝑥) per 𝑥 ≥ 0
+2
+𝑓 (𝑥) =
+𝑎
+9𝑎
+per 𝑥 < 0
+{4(𝑥 − 1)4
+▪ Discutere segno e continuità della funzione 𝑓 al variare del parametro 𝑎. Dimostrare che, qualunque sia
+𝑎
+𝑎 ∈ ℝ, la funzione 𝑓 ammette un punto di massimo assoluto di ascissa 1.
+𝑎
+▪ Indicata con 𝑓 la funzione ottenuta da 𝑓 per 𝑎 = 2, stabilire se 𝑓 è derivabile in 𝑥 = 0. Studiare
+𝑎
+l’andamento della funzione 𝑓 specificandone gli asintoti, i punti di flesso e l’ampiezza in gradi
+dell’angolo formato dalle tangenti sinistra e destra nel punto di non derivabilità. Determinare i valori
+delle costanti positive h e k tali che, considerata la funzione
+𝑔(𝑥) = ℎ[1 + (3 − 𝑘𝑥)𝑒𝑘𝑥−1]
+si abbia 𝑔(3 − 𝑥) = 𝑓(𝑥) per 𝑥 ≥ 0.
+▪ Con un acceleratore di particelle si prepara un fascio di protoni aventi energia cinetica pari a 42 MeV.
+Per indirizzare tale fascio verso un bersaglio desiderato, si utilizza un campo magnetico uniforme,
+ortogonale alla traiettoria dei protoni, di intensità 0,24 T. Trascurando gli effetti relativistici, descrivere
+il moto di ciascun protone all’interno del campo e calcolare il raggio di curvatura della traiettoria.
+▪ Il fascio di protoni, all’uscita della zona in cui è presente 𝐵⃗ , viene fatto penetrare in acqua. Si indichi
+con ℇ(𝑥) l’energia del protone, espressa in megaelettronvolt (MeV), dopo x centimetri (cm) di cammino
+in acqua e sia 𝑑ℇ l’energia ceduta all’acqua dal protone nel tratto 𝑑𝑥. Supponendo che la funzione
+𝑑ℇ
+𝑦 = − possa essere approssimata con la funzione 𝑦 = 𝑔(𝑥), ponendo ℎ = 9⁄2 e 𝑘 = 1, calcolare
+𝑑𝑥
+l’energia ℇ assorbita dall’acqua nei primi 3 centimetri di cammino del protone.
+
+--- PAGINA 2 ---
+Pag. 2/4
+Sessione suppletiva 2019
+Seconda prova scritta
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+PROBLEMA 2
+Due cariche elettriche puntiformi 𝑄 = 𝑞 (con 𝑞 positivo) e 𝑄 = −𝑞 sono collocate rispettivamente nei
+1 2
+punti 𝐴 e 𝐵, posti ad una distanza 2𝑘. Le cariche sono espresse in coulomb (C) e le distanze in metri (m).
+Si indichi con 𝑟 la retta passante per i punti 𝐴 e 𝐵.
+▪ Determinare, in un punto 𝐶 della retta 𝑟, l’intensità del campo elettrico generato dalle cariche 𝑄 e 𝑄 ,
+1 2
+al variare di 𝐶 su 𝑟. Esistono, su tale retta, dei punti nei quali il campo elettrico è nullo? Giustificare la
+risposta.
+▪ Dimostrare che l’intensità del campo elettrico generato da 𝑄 e 𝑄 in un punto 𝑃 posto sull’asse del
+1 2
+segmento 𝐴𝐵 decresce quando 𝑃 si allontana dal punto medio di 𝐴𝐵. Indicata con 𝑥 la distanza di 𝑃 dal
+punto medio di 𝐴𝐵, esprimere l’intensità del campo elettrico in 𝑃 in funzione di 𝑥.
+▪ Fissati i parametri reali positivi ℎ e 𝑘, studiare l’andamento della funzione
+ℎ
+𝑓(𝑥) =
+(𝑥2 + 𝑘2)3/2
+individuandone, in particolare, simmetrie, asintoti, estremi e punti di flesso.
+▪ Tra le funzioni del tipo
+𝑏𝑥
+𝑔(𝑥) =
+(𝑥2 + 𝑘2)𝑎
+con 𝑎, 𝑏 ∈ ℝ, determinare le primitive di 𝑓.
+Dimostrare che, se ℎ = 𝑘2, la funzione 𝑓 rappresenta la densità di probabilità di una variabile aleatoria
+sull’intervallo [0; +∞). Quali sono i valori della media e della mediana di tale variabile aleatoria?
+
+--- PAGINA 3 ---
+Pag. 3/4
+Sessione suppletiva 2019
+Seconda prova scritta
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+QUESITI
+1. Fissati i numeri reali positivi 𝑎 e 𝑏, con 𝑎 ≥ 𝑏, provare che
+lim log (𝑥𝑎 + 𝑥𝑏) = 𝑎
+𝑥
+𝑥→+∞
+2. È assegnata la funzione 𝑓: ℝ → ℝ così definita:
+𝑥
+𝑓(𝑥) = ∫
+𝑒𝑡2
+𝑑𝑡
+1
+Studiare il segno della funzione 𝑓 e provare che essa è crescente. Determinare il valore di
+1 𝑓′′(𝑥)
+∫ 𝑑𝑥
+𝑓′(𝑥)
+0
+3. Dimostrare che il quadrilatero avente per vertici i punti medi dei lati di un rombo è un rettangolo.
+4. Considerati i punti 𝐴(2, 3, 6), 𝐵(6, 2, −3), 𝐶(3, −6, 2) nello spazio tridimensionale, verificare che i
+segmenti 𝑂𝐴, 𝑂𝐵, 𝑂𝐶 (dove il punto 𝑂 indica l’origine degli assi) costituiscono tre spigoli di un cubo.
+Determinare il centro e il raggio della sfera 𝑆 circoscritta a tale cubo.
+5. Una persona lancia simultaneamente due dadi da gioco, con facce numerate da 1 a 6, poi trascrive su un
+foglio il massimo dei due numeri usciti. Ripetendo molte volte la procedura, quale ci si può attendere
+che sarà la media dei valori trascritti?
+6. Consideriamo un’astronave in moto che viaggia rispetto alla terra a velocità 𝑣 = 0,90 𝑐. Supponiamo
+che a bordo dell'astronave sia presente una scatola di dimensioni 𝑎 = 40 cm, 𝑏 = 50 cm e ℎ = 20 cm,
+con il lato 𝑏 disposto parallelamente alla direzione del moto dell'astronave. Per un osservatore posto
+sulla terra, che volume avrà la scatola? Se l'astronauta lancia la scatola con una velocità 𝑣 = 0,50 𝑐
+𝑠
+nella direzione del moto dell'astronave, quale velocità misura l’osservatore sulla terra?
+7. Una bobina è costituita da N spire quadrate di lato l, ha una resistenza elettrica R ed è montata su un
+carrello che può muoversi con attrito trascurabile su un piano orizzontale. Il carrello viene tirato con
+velocità costante 𝑣 ed entra in una zona in cui è presente un campo magnetico 𝐵⃗ , uscente dalla pagina
+come in figura. Spiegare perché la bobina si riscalda e determinare l’espressione della potenza dissipata.
+Cosa accade se in carrello viene lanciato con velocità 𝑣 verso la stessa regione?
+
+--- PAGINA 4 ---
+Pag. 4/4
+Sessione suppletiva 2019
+Seconda prova scritta
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+8. Una bobina compatta è costituita da 130 spire di raggio 𝑅 = 15 cm.
+Si pone un ago magnetico, le cui dimensioni sono trascurabili rispetto a 𝑅, al centro della bobina, come
+in figura.
+Il piano della bobina viene orientato in modo da contenere l’ago che, a sua volta, è orientato nella direzione
+della componente orizzontale del campo magnetico terrestre. Quando la bobina è attraversata da corrente,
+l’ago devia di un angolo α. Spiegare la causa di questa deviazione.
+In tabella sono riportati alcuni valori, misurati sperimentalmente, di α e della corrispondente corrente nella
+bobina. Utilizzando questi dati, misurare l’intensità della componente orizzontale del campo magnetico
+terrestre, con la relativa incertezza.
+Deviazione α 10° 20° 30° 40° 50°
+Intensità di corrente 11,4 mA 23,3 mA 36,8 mA 52,4 mA 73,9 mA
+COSTANTI FISICHE
+carica elementare 𝑒 1,602 · 10−19 C
+massa del protone 𝑚 1,673 · 10−27 kg
+𝑝
+permeabilità magnetica del vuoto 𝜇 4π · 10−7 N/A2
+0
+velocità della luce nel vuoto c 2,998 · 108 m/s
+elettronvolt eV 1,602 · 10−19 J
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di calcolatrici scientifiche e/o grafiche purché non siano dotate di capacità di calcolo simbolico
+(O.M. n. 205 Art. 17 comma 9).
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.

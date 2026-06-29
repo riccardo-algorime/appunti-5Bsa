@@ -1,0 +1,110 @@
+--- PAGINA 1 ---
+Pag. 1/2
+Sessione straordinaria 2024
+Seconda prova scritta
+Ministero dell’istruzione e del merito
+A002 - ESAME DI STATO CONCLUSIVO DEL SECONDO CICLO DI ISTRUZIONE
+Testo valevole per tutti i seguenti indirizzi:
+LI02, LI03, LI15, LI1S, LI22, LI23, LI31, LI32, LIA2, LIAO,
+LIB2, LIC2, LID2, LII2, LII3, LII4, LIIS, LIS2, EA02, EA10
+Disciplina: MATEMATICA
+Il candidato risolva uno dei due problemi e risponda a 4 quesiti del questionario.
+PROBLEMA 1
+Sia data la seguente funzione parametrica:
+𝑦 = 𝑥3 + 𝑎𝑥2 + 𝑐
+a) Si dimostri che per ogni valore dei parametri reali a e c (a ≠ 0), il flesso coincide con il punto
+medio del segmento che ha per estremi i punti di massimo e di minimo relativi.
+b) Si determinino i valori dei parametri affinché la funzione abbia il massimo in 𝑥 = −2 e abbia un
+flesso di ordinata 6.
+c) Si disegni quindi il grafico della funzione 𝑓(𝑥) = 𝑥3 + 3𝑥2 + 4, e si calcoli l’area della regione
+finita di piano compresa tra la funzione, l’asse delle ascisse, l’asse delle ordinate e la retta di
+equazione 𝑥 = −2.
+d) Si dimostri infine che la funzione 𝑓(𝑥) è simmetrica rispetto al suo punto di flesso.
+Successivamente, si applichi alla funzione 𝑓(𝑥) la traslazione di vettore 𝑣⃗ (𝛼, 𝛽). Determinare
+𝛼, 𝛽 ∈ ℝ, affinché la funzione traslata risulti dispari.
+PROBLEMA 2
+Si consideri la funzione 𝑓(𝑥) =
+𝑒−𝑥2
+.
+a) Tracciare, nel medesimo sistema di riferimento, il grafico 𝛾 della funzione 𝑓(𝑥) e il grafico 𝛾
+1 2
+della sua funzione derivata, individuando i loro asintoti, estremi e flessi. Successivamente
+scrivere le coordinate del punto P in cui 𝛾 e 𝛾 si intersecano.
+1 2
+b) La retta di equazione 𝑥 = 𝑡, 𝑡 ∊ ℝ, incontra 𝛾 e 𝛾 , rispettivamente, nei punti 𝑃 e 𝑃 .
+1 2 1 2
+Determinare il valore del parametro 𝑡, in modo che la misura del segmento che unisce i due
+punti abbia misura massima e calcolare il valore di tale misura.
+c) Sia 𝛾 il grafico rappresentativo della funzione 𝑓′′(𝑥). Calcolare l’area della regione finita
+3
+delimitata da 𝛾 e 𝛾 .
+2 3
+d) Posto 𝐹(𝑥) = ∫
+𝑥 𝑒−𝑡2
+𝑑𝑡, calcolare il lim
+𝐹(𝑥)
+spiegando perché, in 𝑥 = 0, le funzioni 𝐹(𝑥) ed
+0 𝑥→0 𝑓′(𝑥)
+𝑓′(𝑥) sono infinitesime dello stesso ordine.
+A002 - ESAME DI STATO CONCLUSIVO DEL SECONDO CICLO DI ISTRUZIONE
+
+--- PAGINA 2 ---
+Pag. 2/2
+Sessione straordinaria 2024
+Seconda prova scritta
+Ministero dell’istruzione e del merito
+Testo valevole per tutti i seguenti indirizzi:
+LI02, LI03, LI15, LI1S, LI22, LI23, LI31, LI32, LIA2, LIAO,
+LIB2, LIC2, LID2, LII2, LII3, LII4, LIIS, LIS2, EA02, EA10
+Disciplina: MATEMATICA
+QUESITI
+1. Sia data una circonferenza Γ e siano
+𝐴𝐶̂𝐵
+e
+𝐴𝐷̂𝐵
+angoli alla circonferenza che insistono
+sull’arco AB, con AC parallelo a DB. Detto O il punto di intersezione di BC e AD, dimostrare che
+i triangoli ACO e BOD sono isosceli e simili fra di loro.
+2. Lanciando due dadi regolari a sei facce, qual è la probabilità di:
+- ottenere somma 10;
+- ottenere per somma un numero multiplo di 2 o di 3;
+- ottenere per somma un numero multiplo di 2 e di 3.
+3. Il centro di una superficie sferica S è il punto di intersezione tra la retta r individuata dalle
+equazioni
+𝑥 + 𝑦 − 2𝑧 = 0
+{
+3𝑥 + 2𝑦 − 1 = 0
+e la retta t passante per i punti 𝐴(−2,3,0) e 𝐵(2, −1, 2). La superficie S è inoltre tangente al
+piano α di equazione 4𝑥 − 2𝑦 − 4𝑧 + 1 = 0. Qual è l’equazione di S?
+4. Determinare il valore del parametro reale 𝑘 > 1 in modo che il valor medio della funzione
+3𝑥 − 3
+𝑓(𝑥) = ln(𝑥3) +
+𝑥
+5
+sull’intervallo [1, 𝑘] sia uguale a 1 − ln ( ).
+2
+5. Individuare e classificare i punti in cui la funzione 𝑓(𝑥) = |𝑥 − 1| + 3 √𝑥3 + 𝑥2 è continua ma
+non derivabile.
+6. Determinare l’equazione di una funzione polinomiale di primo grado 𝑦 = 𝑓(𝑥) tale che
+1
+𝑖) ∫ 𝑓(𝑥)𝑑𝑥 = 1;
+0
+2
+𝑖𝑖) ∫ 𝑓(𝑥)𝑑𝑥 = 2.
+1
+7. In un sistema di riferimento cartesiano Oxy, l’equazione 𝑥𝑦 = 𝑘, con k parametro reale non
+nullo, rappresenta un’iperbole equilatera riferita ai propri asintoti. Si dimostri che le rette tangenti
+nei suoi vertici sono perpendicolari alle bisettrici dei quadranti del sistema di riferimento
+considerato.
+8. Scrive Paolo Giordano ne La solitudine dei numeri primi: «I numeri primi sono divisibili soltanto
+per 1 e per sé stessi. Se ne stanno al loro posto nell'infinita serie dei numeri naturali, schiacciati
+come tutti fra due, ma un passo in là rispetto agli altri».
+Si considerino la funzione 𝑓(𝑥) = 𝑥𝑝 e la sua derivata (𝑝 − 1)-esima 𝑓𝑝−1. Si può dimostrare
+che, se p è un numero primo, allora p divide 𝑓𝑝−1 + 1. Verificare la correttezza di tale
+affermazione per tutti i numeri primi minori di 10.
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di calcolatrici scientifiche o grafiche purché non siano dotate della capacità di elaborazione simbolica
+algebrica e non abbiano la disponibilità di connessione a Internet.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di
+madrelingua non italiana. Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla consegna della traccia.

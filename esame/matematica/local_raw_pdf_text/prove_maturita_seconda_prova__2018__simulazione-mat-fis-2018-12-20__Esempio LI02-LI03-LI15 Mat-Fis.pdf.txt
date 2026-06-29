@@ -1,0 +1,162 @@
+--- PAGINA 1 ---
+Ministero dell’Istruzione dell’’Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+SECONDA PROVA SCRITTA - ESEMPIO
+Indirizzi: LI02 – SCIENTIFICO
+LI03 - SCIENTIFICO - OPZIONE SCIENZE APPLICATE
+LI15 – SCIENTIFICO – SEZIONE AD INDIRIZZO SPORTIVO
+Tema di:
+MATEMATICA
+FISICA
+Il candidato risolva uno dei due problemi e risponda a 4 quesiti del questionario.
+PROBLEMA 1
+Hai giocato con il tuo fratellino con un trenino elettrico da lui ricevuto in regalo per il compleanno.
+Osservandolo, più volte ti sei chiesto quale sia il principio di funzionamento delle varie parti. In
+particolare hai osservato che quando un vagone viene immesso in un binario morto, nei pressi del
+respingente finale il vagone subisce un forte rallentamento fino quasi a fermarsi; questo consente al
+vagone di raggiungere il respingente finale con velocità molto bassa e quindi di colpirlo senza
+conseguenze. Per capire il funzionamento di questo freno, hai analizzato in dettaglio il binario morto
+e un vagone; hai notato che sulla parte finale del binario morto è presente un piccolo magnete
+permanente di forma quadrata di lato 𝐿 = 5,0𝑐𝑚 fissato tra le due rotaie del binario. Inoltre sul fondo
+del vagone è presente una cornice quadrata di dimensione uguale al magnete su cui è avvolto un filo
+a formare una spira quadrata di resistenza elettrica 𝑅 = 0,020Ω. Analizzando il moto del vagone hai
+compreso che quando il vagone passa sopra il magnete, anche la spira passa sopra il magnete (come
+mostrato in figura) e che in questo passaggio il vagone rallenta.
+Pag. 1/6
+
+--- PAGINA 2 ---
+1. Spiega qualitativamente l’origine della azione frenante dovuta al passaggio della spira sopra
+al magnete.
+2. Assumendo che il magnete permanente generi sopra di sé un campo magnetico
+𝐵 = 0,85𝑇 uniforme, perpendicolare al magnete stesso (e quindi anche alla spira) e
+trascurando tutti gli effetti di bordo, dimostra che l’equazione del moto della spira durante il
+passaggio sul magnete è:
+𝑑𝑣 𝐵2𝐿2
+𝑚 = − 𝑣
+𝑑𝑡 𝑅
+dove 𝑚 = 50𝑔 è la massa del vagone.
+3. Verifica che l’equazione del moto ha come soluzione 𝑣 = 𝑣 𝑒−𝑡⁄𝜏 dove 𝑣 è la velocità del
+0 0
+vagone (e quindi della spira) quando entra nel campo del magnete permanente, esprimendo la
+costante 𝜏 in termini delle altre grandezze presenti nell’equazione del moto e calcolandone il
+valore numerico.
+𝑚
+4. Assumendo per la velocità iniziale il valore 𝑣
+0
+= 0,20 ⁄𝑠 , determina il tempo che la spira
+impiega ad attraversare completamente il magnete e la velocità che essa ha dopo aver
+attraversato il magnete.
+5. Dimostra che se la velocità iniziale 𝑣 è inferiore ad un valore limite, la spira non riesce a
+0
+superare il magnete permanente: in queste condizioni il freno agisce come un blocco
+insormontabile per il vagone. Determina il valore numerico della velocità limite.
+PROBLEMA 2
+Il 14 ottobre 2012 Felix Baumgartner ha
+realizzato un lancio storico ottenendo tre record
+mondiali:
+ la maggiore altezza raggiunta da un uomo
+in una ascesa con un pallone (39045 m);
+ il lancio più alto in caduta libera;
+ la più alta velocità in caduta libera
+(1341,9 km/h).
+Dopo l’ascesa in un pallone gonfiato a elio, si è
+lanciato verso la Terra, protetto da una tuta
+speciale, e ha aperto il suo paracadute dopo 4
+minuti e 20 secondi di caduta libera. Il lancio è durato in totale 9 minuti e 3 secondi.
+Nelle figure seguenti sono riportati gli andamenti della velocità e della quota di Baumgartner durante
+il lancio, a partire dall’istante del lancio 𝑡 = 0.
+Pag. 2/6
+
+--- PAGINA 3 ---
+Per realizzare l’ascesa è stato necessario utilizzare un enorme pallone deformabile: ciò per fare in
+modo che all’aumentare della quota e al diminuire della densità dell’aria il volume del pallone possa
+aumentare, mantenendo così costante la spinta verso l’alto (spinta di Archimede). Su un giornale
+veniva riportato “Per assicurare una velocità d’ascesa sufficiente la spinta verso l’alto era circa
+doppia di quella necessaria per tenere in equilibrio il sistema. In pratica, aggiungendo alla massa di
+Baumgartner quella del pallone riempito ad elio, era necessario sollevare una massa di circa 3
+tonnellate”. La massa di Baumgartner e della sua tuta è pari a circa 120 kg.
+Pag. 3/6
+
+--- PAGINA 4 ---
+Fase di ascesa
+1. Disegna il diagramma delle forze subito dopo il decollo, trascurando la forza di attrito. Non è
+necessario che il disegno sia in scala, deve però essere coerente con la situazione fisica.
+2. Dopo qualche minuto di ascensione il moto può essere considerato rettilineo uniforme. In
+questa situazione, calcola approssimativamente il valore della forza di attrito con l’aria.
+Fase di lancio
+Scegli un sistema di riferimento e studia la caduta verticale del sistema S costituito da Baumgartner
+e dalla tuta. In questa fase, si può ritenere trascurabile l’effetto della spinta di Archimede.
+3. Utilizzando i grafici, determina l’accelerazione di S per 𝑡 < 20𝑠 e commenta il risultato
+ottenuto.
+4. Il sistema S ha raggiunto velocità supersoniche durante la caduta? Tieni presente la seguente
+tabella, che riporta la velocità del suono in aria ad altezze diverse:
+Altezza (km) 10 20 30 40
+Velocità del suono (m/s) 305 297 301 318
+5. Calcola la variazione di energia meccanica ∆𝐸 tra il momento in cui Baumgartner salta e il
+𝑚
+momento in cui raggiunge la massima velocità; fornisci la tua interpretazione del risultato.
+6. Nella figura seguente vengono riportati i diagrammi delle forze applicate al sistema S durante
+la fase di lancio. 𝑃⃗ rappresenta la forza peso e 𝑓⃗⃗⃗ la forza di attrito con l’aria. Poni in
+corrispondenza i diagrammi con i tre istanti 𝑡 = 40𝑠, 𝑡 = 50𝑠, 𝑡 = 60𝑠.
+1 2 3
+7. Determina a quale altitudine Baumgartner ha aperto il paracadute. Ricordando che il lancio è
+durato in totale 9 minuti e 3 secondi, calcola la velocità media di discesa dopo l’apertura del
+paracadute, fino all’arrivo al suolo. Ti appare ragionevole considerare il moto in quest’ultima
+fase come un moto rettilineo uniforme?
+8. Per valutare il rischio di traumi derivanti dall’impatto dell’arrivo al suolo, fornisci una stima
+dell’altezza da cui Baumgartner sarebbe dovuto saltare, senza paracadute, per giungere al
+suolo con la stessa velocità.
+Pag. 4/6
+
+--- PAGINA 5 ---
+QUESTIONARIO
+1. Una spira a forma di parabola di equazione 𝑦 = 𝑎𝑥2 è immersa in un campo magnetico
+uniforme B perpendicolare al piano xy della parabola. All’istante 𝑡 = 0 una barretta inizia a
+traslare lungo la parabola partendo dal suo vertice con accelerazione costante come indicato
+in figura. Determinare la forza elettromotrice indotta sulla spira in funzione della y.
+2. La posizione di una particella varia con il tempo secondo l’equazione:
+𝑥 = 𝛼𝑡(1 − 𝛽𝑡), dove 𝛼 e 𝛽 sono due costanti, con 𝛽 > 0.
+Determina:
+a) la velocità e l’accelerazione della particella in funzione del tempo;
+b) l’intervallo di tempo necessario alla particella, che parte dall’origine, per ritornare
+nell’origine e lo spazio percorso in questo intervallo di tempo.
+3. Tre cariche puntiformi di valore q sono poste ai vertici del triangolo equilatero ABC, i cui lati
+misurano 1m.
+a) Determina l’energia potenziale del sistema.
+b) La carica collocata in C viene spostata verso il segmento AB lungo la perpendicolare ad
+AB; traccia il grafico dell’andamento dell’energia potenziale del sistema in funzione
+della distanza della carica dal segmento AB.
+4. Un punto materiale si muove nel piano xy secondo la legge oraria:
+𝑥 = 𝑎 ∙ 𝑠𝑒𝑛(𝜔𝑡), 𝑦 = 𝑎(1 − 𝑐𝑜𝑠(𝜔𝑡)),
+con a e 𝜔 costanti positive. Determina la distanza del punto dall’origine al tempo 𝑡 = 𝜏 e le
+direzioni dei vettori velocità e accelerazione all’istante 𝑡 = 0.
+Pag. 5/6
+
+--- PAGINA 6 ---
+5. Un elettrone si muove, partendo da fermo, in un campo elettrico uniforme di intensità
+𝐸 = 10
+𝑘𝑉⁄
+𝑐𝑚. Descrivi il procedimento che adotteresti per determinare l’istante in cui
+l’energia cinetica dell’elettrone sarà uguale alla sua energia a riposo.
+6. Quanto tempo impiegherà un’onda sonora a percorrere la distanza l tra i punti A e B se la
+temperatura dell’aria tra di essi varia linearmente da T1 a T2? Tieni presente che la velocità
+di propagazione nell’aria varia in funzione della temperatura secondo la legge:
+𝑣 = 𝑎√𝑇
+dove a è una costante.
+7. Il grafico riportato nella figura seguente potrebbe rappresentare l’andamento della velocità
+con cui una carica puntiforme si allontana per repulsione elettrostatica da un’altra carica
+puntiforme, fissa, di eguale segno? Motiva la tua risposta.
+8. Un punto si muove lungo l’asse x secondo la legge:
+𝜋
+𝑥 = 𝑎 ∙ 𝑠𝑒𝑛2 (3𝑡 − )
+4
+con a costante positiva. Determina:
+a) l’ampiezza e il periodo di oscillazione;
+b) l’istante t in cui il punto raggiunge per la prima volta la massima distanza dall’origine.
+__________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di calcolatrici scientifiche e/o grafiche purché non siano dotate di capacità di calcolo
+simbolico (O.M. n. 350 Art. 18 comma 8).
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di
+madrelingua non italiana.
+Pag. 6/6

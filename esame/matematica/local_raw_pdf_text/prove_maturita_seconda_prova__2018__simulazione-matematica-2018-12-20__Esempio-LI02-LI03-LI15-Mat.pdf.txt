@@ -1,0 +1,134 @@
+--- PAGINA 1 ---
+Ministero dell’Istruzione dell’’Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+SECONDA PROVA SCRITTA - ESEMPIO
+Indirizzi: LI02 – SCIENTIFICO
+LI03 - SCIENTIFICO - OPZIONE SCIENZE APPLICATE
+LI15 – SCIENTIFICO – SEZIONE AD INDIRIZZO SPORTIVO
+Tema di: MATEMATICA
+Il candidato risolva uno dei due problemi e risponda a 4 quesiti del questionario.
+PROBLEMA 1
+Fissati due parametri reali 𝑆 > 0, 𝑘 > 0, considera la funzione:
+𝑆
+𝑓 (𝑥) =
+𝑘 1 + 𝑒−𝑘𝑥
+il cui grafico viene indicato con Γ .
+𝑘
+La funzione 𝑓 (𝑥) può essere adoperata per studiare la possibile evoluzione nel tempo di una
+𝑘
+popolazione che abbia capacità di riprodursi, nell’ipotesi in cui la limitatezza delle risorse disponibili
+causi l’esistenza di una “soglia di sostenibilità” al di sotto della quale la popolazione è costretta a
+mantenersi.
+1. Dimostra che i valori assunti dalla funzione 𝑓 (𝑥) si mantengono all’interno dell’intervallo
+𝑘
+aperto delimitato inferiormente dal valore 0 e superiormente dal valore S, dove quest’ultimo
+rappresenta tale soglia di sostenibilità.
+2. Osservando Γ , individua la trasformazione geometrica da applicare a Γ per farlo diventare
+𝑘 𝑘
+il grafico di una funzione dispari, e determina l’espressione analitica di tale funzione.
+3. Individua graficamente o analiticamente il valore della x corrispondente alla massima velocità
+di crescita di una popolazione secondo il modello rappresentato dalla funzione 𝑓 (𝑥) ;
+𝑘
+determina quindi, in funzione dei parametri S e k, il valore di tale velocità massima.
+Dovendo effettuare lo studio di una coltura batterica in un ambiente a risorse limitate, puoi pensare,
+al fine di semplificare i calcoli, di approssimare la funzione 𝑓 (𝑥) con una funzione come 𝑔 (𝑥), il
+𝑘 𝑘
+cui grafico è riportato nella figura seguente:
+Pag. 1/5
+
+--- PAGINA 2 ---
+Il valore di 𝑔 (𝑥) passa da 0 a S con una rampa lineare, di pendenza pari alla pendenza di Γ nel
+𝑘 𝑘
+punto di ascissa 0.
+4. Determina, in funzione dei parametri S e k, l’espressione analitica della funzione 𝑔 (𝑥).
+𝑘
+5. Illustra il procedimento che adotteresti per valutare la accettabilità dell’approssimazione di
+𝑓 (𝑥) fornita da 𝑔 (𝑥).
+𝑘 𝑘
+6. All’aumentare di k, tale approssimazione diventa migliore? Motiva la tua risposta.
+PROBLEMA 2
+Il tuo liceo, nell'ambito dell'alternanza scuola lavoro, ha organizzato per gli studenti del quinto anno
+un’attività presso lo stabilimento ICE EXPRESS sito nella tua regione. All'arrivo siete stati divisi in
+vari gruppi. Il tuo, dopo aver visitato lo stabilimento e i laboratori, partecipa ad una riunione legata
+ai processi di produzione.
+Un cliente ha richiesto una fornitura di blocchi di ghiaccio a forma di parallelepipedo a base quadrata,
+di volume 10 dm3, che abbiano il minimo scambio termico con l’ambiente esterno, in modo da
+resistere più a lungo possibile prima di liquefarsi.
+Al tuo gruppo viene richiesto di determinare le caratteristiche geometriche dei blocchi da produrre,
+sapendo che gli scambi termici tra questi e l’ambiente avvengono attraverso la superficie dei blocchi
+stessi.
+1. Determina il valore del lato b della base quadrata che consente di minimizzare lo scambio
+termico e il corrispondente valore dell’altezza h, tenendo presente la necessità che il volume
+sia 10 dm3.
+Pag. 2/5
+
+--- PAGINA 3 ---
+Il blocco di ghiaccio al termine del processo produttivo si trova alla temperatura di -18°C. Esso viene
+posto su un nastro trasportatore che lo porta a un camion frigorifero, attraversando per due minuti un
+ambiente che viene mantenuto alla temperatura di 10°C; esso pertanto tende a riscaldarsi, con velocità
+progressivamente decrescente, in funzione della differenza di temperatura rispetto all’ambiente, e
+inizia a fondere se lungo il percorso raggiunge la temperatura di 0°C.
+2. Scegli, motivando la tua scelta, quale delle seguenti funzioni è più idonea per rappresentare il
+processo di riscaldamento prima dell’inizio della liquefazione (T = temperatura ambiente,
+a
+T = temperatura del ghiaccio all’istante t = 0, T(t) = temperatura del ghiaccio all’istante t,
+g
+dove t è il tempo trascorso dall’inizio del riscaldamento, in minuti):
+𝑇(𝑡) = (𝑇 − 𝑇 )𝑒−𝐾𝑡
+𝑎 𝑔
+𝑇(𝑡) = (𝑇 − 𝑇 ). (1 − 𝑒−𝐾𝑡) + 𝑇
+𝑎 𝑔 𝑔
+𝑇(𝑡) = (𝑇 − 𝑇 )𝑒𝐾𝑡 − 𝑇
+𝑎 𝑔 𝑎
+e determina il valore che deve avere il parametro K perché il blocco di ghiaccio non inizi a
+fondere durante il percorso verso il camion frigorifero.
+3. Poiché il parametro K varia in funzione di diversi fattori produttivi, c’è un’incertezza del 10%
+sul suo effettivo valore. Ritieni che questo determini una incertezza del 10% anche sul valore
+della temperatura T del blocco di ghiaccio all’istante in cui raggiunge il camion frigorifero?
+Motiva la tua risposta, in modo qualitativo o quantitativo.
+L’azienda solitamente adopera, per contenere l'acqua necessaria a produrre un singolo blocco di
+ghiaccio, un recipiente cilindrico, con raggio della base eguale a 1,5 dm, e altezza eguale a 2 dm.
+4. Sapendo che nel passaggio da acqua a ghiaccio il volume aumenta del 9,05%, stabilisci se il
+suddetto recipiente è in grado di contenere l'acqua necessaria a produrre il blocco richiesto e,
+in tal caso, a quale altezza dal fondo del recipiente arriverà l'acqua.
+Pag. 3/5
+
+--- PAGINA 4 ---
+QUESTIONARIO
+1) In figura è riportato il grafico della funzione 𝑓′(𝑥), derivata della funzione 𝑓(𝑥). Il grafico
+presenta un asintoto verticale per 𝑥 = 0. Supponendo che la funzione 𝑓 sia definita in ℝ,
+descrivi la derivabilità della funzione nel punto di ascissa nulla e fornisci un grafico probabile
+della funzione in un intorno di zero.
+2) Individua il valore di k per cui la tangente nell’origine al grafico della funzione
+𝑥
+𝑓(𝑥) =
+𝑥 − 𝑘
+forma un angolo di 𝜋⁄6 radianti con l’asse delle ascisse.
+3) Risolvi esclusivamente per via grafica la disequazione:
+|𝑥 − 2| > |𝑥 − 6|
+4) Il cerchio di raggio R centrato nel vertice in basso a sinistra del quadrato in figura ne ricopre
+metà della superficie; il cerchio di raggio r centrato nel centro del quadrato ne occupa metà
+della superficie. Sapendo che i quadrati sono equivalenti, determina il rapporto R/r.
+Pag. 4/5
+
+--- PAGINA 5 ---
+5) Presi due punti 𝐴(𝑎, 𝑎2) e 𝐵(𝑏, 𝑏2) sulla parabola 𝑦 = 𝑥2 , traccia la retta OC, parallela alla
+retta AB e passante per l’origine e per il punto 𝐶(𝑐, 𝑐2).
+Dimostra che 𝑎 + 𝑏 = 𝑐.
+Traccia un’altra parallela DE, passante per due punti D ed E appartenenti alla parabola, e
+mostra che i punti medi delle tre parallele giacciono su una retta.
+6) Il grafico della funzione polinomiale cubica 𝑦 = 𝑓(𝑥) intercetta l’asse x nei punti di ascissa
+10, 100 e 1000. È sufficiente questa informazione per individuare le coordinate del punto di
+flesso? Se sì, determinale. Se no, spiega per quale motivo.
+7) Una sfera, il cui centro è il punto 𝐾(1, 0, 1) , è tangente al piano Π avente equazione
+𝑥 − 2𝑦 + 𝑧 + 1 = 0. Qual è il punto di tangenza? Qual è il raggio della sfera?
+8) Se si lancia una moneta 2 volte, la probabilità di ottenere una testa e una croce (in qualsiasi
+ordine) è pari al 50%. Se la moneta viene lanciata 4 volte, la probabilità di ottenere due teste
+e due croci, in qualsiasi ordine, è ancora pari al 50%? Motiva la tua risposta.
+__________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di calcolatrici scientifiche e/o grafiche purché non siano dotate di capacità di calcolo
+simbolico (O.M. n. 350 Art. 18 comma 8).
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di
+madrelingua non italiana.
+Pag. 5/5

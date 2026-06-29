@@ -1,0 +1,114 @@
+--- PAGINA 1 ---
+Pag. 1/3
+Sessione suppletiva 2023
+Seconda prova scritta
+Ministero dell’istruzione e del merito
+A002 - ESAME DI STATO CONCLUSIVO DEL SECONDO CICLO DI ISTRUZIONE
+Testo valevole per tutti i seguenti indirizzi:
+LI02, LI03, LI15, LI1S, LI22, LI23, LI31, LI32, LIA2, LIAO,
+LIB2, LIC2, LID2, LII2, LII3, LII4, LIIS, LIS2, EA02, EA10
+Disciplina: MATEMATICA
+Il candidato risolva uno dei due problemi e risponda a 4 quesiti del questionario.
+PROBLEMA 1
+Assegnata la funzione
+3
+𝑓(𝑥) = 𝑎 𝑥 𝑙𝑛 (𝑥) − 𝑥
+2
+a) determinare il valore del parametro reale 𝑎 in modo che 𝑓 abbia un punto di minimo assoluto in
+𝑥 = √𝑒. Si studi la funzione ottenuta e se ne disegni il grafico.
+Si ponga, d’ora in avanti, 𝑎 = 1.
+b) Si verifichi che esiste una sola retta tangente 𝑡 alla curva di equazione 𝑦 = 𝑓(𝑥), condotta dal
+punto 𝑄(0, −1). Determinare l’equazione di 𝑡 e le coordinate del corrispondente punto di
+tangenza.
+c) Determinare i parametri reali ℎ, 𝑘 in modo che le curve di equazioni
+𝑥+ℎ
+𝑦 = 𝑓(𝑥) e 𝑦 =
+𝑥+𝑘
+risultino tangenti nel loro punto comune di ascissa 1.
+d) Studiare la funzione
+𝑥
+𝑔(𝑥) = ∫ 𝑓(𝑡) 𝑑𝑡
+1
+dopo averne scritta l’espressione analitica. Determinare l’equazione della retta tangente al
+grafico di 𝑔 nel suo punto di ascissa 𝑥 = 𝑒.
+PROBLEMA 2
+Sono assegnate due funzioni polinomiali 𝑦 = 𝑃(𝑥) e 𝑦 = 𝑄(𝑥) = 𝑘𝑃(𝑥), con 𝑘 parametro reale, i
+cui grafici rappresentativi sono mostrati in figura in fondo al problema.
+È noto che:
+- 𝑃′′(𝑥) = 12𝑥2 − 24𝑥
+- hanno entrambe nell’origine degli assi un flesso a tangente orizzontale
+27
+- il valore massimo assunto dalla funzione 𝑄 è uguale a .
+4
+a) Determinare l’espressione analitica delle funzioni 𝑃(𝑥) e 𝑄(𝑥).
+
+--- PAGINA 2 ---
+Pag. 2/3
+Sessione suppletiva 2023
+Seconda prova scritta
+Ministero dell’istruzione e del merito
+A002 - ESAME DI STATO CONCLUSIVO DEL SECONDO CICLO DI ISTRUZIONE
+Testo valevole per tutti i seguenti indirizzi:
+LI02, LI03, LI15, LI1S, LI22, LI23, LI31, LI32, LIA2, LIAO,
+LIB2, LIC2, LID2, LII2, LII3, LII4, LIIS, LIS2, EA02, EA10
+Disciplina: MATEMATICA
+b) Determinare dominio, zeri, segno, estremi e flessi delle funzioni
+1
+𝑦 = 𝑃(𝑥) ∙ 𝑄(𝑥) e 𝑦 =
+𝑃(𝑥)
+D’ora in avanti, si assuma che 𝑃(𝑥) = 𝑥4 − 4𝑥3.
+c) Calcolare l’area della regione 𝑅 delimitata dal grafico della funzione 𝑃 e dall’asse delle ascisse.
+1 𝑥−4 𝑥2
+d) Verificare che, per 𝑥 > 4, la funzione 𝐹(𝑥) = 𝑙𝑛 ( ) è una primitiva di . Esprimere, in
+4 𝑥 𝑃(𝑥)
+𝑡 𝑥2
+funzione di 𝑡, con 𝑡 ≥ 5, l’integrale ∫ 𝑑𝑥 e calcolarne il limite per 𝑡 → +∞ fornendo
+5 𝑃(𝑥)
+un’interpretazione geometrica del risultato ottenuto.
+
+--- PAGINA 3 ---
+Pag. 3/3
+Sessione suppletiva 2023
+Seconda prova scritta
+Ministero dell’istruzione e del merito
+A002 - ESAME DI STATO CONCLUSIVO DEL SECONDO CICLO DI ISTRUZIONE
+Testo valevole per tutti i seguenti indirizzi:
+LI02, LI03, LI15, LI1S, LI22, LI23, LI31, LI32, LIA2, LIAO,
+LIB2, LIC2, LID2, LII2, LII3, LII4, LIIS, LIS2, EA02, EA10
+Disciplina: MATEMATICA
+QUESITI
+1. Dato un triangolo ABC, sia P un punto del lato BC e siano G' e G'' i baricentri dei triangoli ABP
+e ACP. Dimostrare che il segmento G'G'' è parallelo a BC.
+2. Un dado regolare a 6 facce viene lanciato 8 volte. Qual è la probabilità di ottenere tre volte la
+faccia “5”? Qual è la probabilità di ottenere la faccia “5” per la terza volta all’ottavo lancio?
+3. Determinare le equazioni delle superfici sferiche di raggio 𝑟 = 5√2 tangenti nel punto
+𝑃(−1,2,3) al piano di equazione 3𝑥 + 4𝑦 − 5𝑧 + 10 = 0.
+4. Una sfera, di raggio r fissato, è inscritta nel cono S di volume minimo. Qual è la distanza del
+vertice del cono dalla superficie della sfera?
+5. Determinare il valore del parametro reale 𝑘 in modo che la retta di equazione cartesiana
+𝑦 = 𝑥 − 2 risulti tangente alla curva 𝑦 = 𝑥3 + 𝑘𝑥.
+6. Scrivere una funzione polinomiale 𝑦 = 𝑝(𝑥) di terzo grado che si annulli solo per 𝑥 = 0 e per
+𝑥 = 3, il cui grafico sia tangente all’asse x in un punto e passi per 𝑃(1, −4). Determinare
+l’area della regione piana limitata compresa tra l’asse x ed il grafico della funzione polinomiale
+individuata.
+7. Calcolare
+∫ 𝑥 (𝑡2 − 1) ∙ 𝑒2𝑡𝑑𝑡
+lim 1
+𝑥→1 (𝑥 − 1)2
+8. Sia 𝑓 una funzione reale di variabile reale continua e derivabile in un intervallo (𝑎, 𝑏).
+Si considerino le seguenti affermazioni 𝐴: “𝑓 ha un punto di massimo o di minimo locale in
+𝑥 ∈ (𝑎, 𝑏)” e 𝐵: “∃ 𝑥 ∈ (𝑎, 𝑏) tale che 𝑓′(𝑥 ) = 0”. Stabilire quali fra le seguenti affermazioni
+0 0 0
+sono vere per ogni 𝑓 funzione continua e derivabile in un intervallo (𝑎, 𝑏).
+1. 𝐴 ⟹ 𝐵
+2. 𝐵 ⟹ 𝐴
+3. 𝐴 ⟺ 𝐵
+4. 𝐵 ⟺ 𝐴
+Motivare opportunamente la risposta facendo riferimento a teoremi o controesempi.
+_______________________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di calcolatrici scientifiche e/o grafiche purché non siano dotate di capacità di calcolo
+simbolico. (Nota MIM n. 9305 del 20 marzo 2023).
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di
+madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla consegna della traccia.

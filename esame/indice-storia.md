@@ -1,0 +1,152 @@
+# Indice Storia
+
+Indice operativo dei materiali di Storia per l'esame. Il confronto è fatto su [programma/storia.md](<programma/storia.md>) e sul programma ufficiale nel PDF di classe [5B sa.pdf](<programma/5B sa.pdf>), controllando i materiali di Storia dal file [STORIA-3.1.md](<storia/materiale/STORIA-3.1.md>) fino al file [STORIA-3.12.md](<storia/materiale/STORIA-3.12.md>) e le relative schede di studio.
+
+## Quadro materiali presenti
+
+### Programma
+
+| Materiale | Uso | Note |
+|---|---|---|
+| [programma/storia.md](<programma/storia.md>) | Programma di riferimento in Markdown | È il file più comodo per controllare capitoli e paragrafi effettivamente richiesti. |
+| [5B sa.pdf](<programma/5B sa.pdf>) | PDF ufficiale di classe con programma e presentazione | Contiene lo stesso programma di Storia dentro il documento generale della classe. |
+
+### Materiali di studio in Storia
+
+| Area | Materiali trovati | Valutazione pratica |
+|---|---|---|
+| Manuale locale, Volume 3 capitoli 1-12 | File Markdown e PDF da [STORIA-3.1.md](<storia/materiale/STORIA-3.1.md>) a [STORIA-3.12.md](<storia/materiale/STORIA-3.12.md>) | Copertura molto buona per il Novecento fino agli anni Trenta. Sono i materiali principali da usare. |
+| Schede studio | Per ogni capitolo 3.1-3.12 esistono schede `studio`, `studio_riassunto` e `ripasso`, per esempio [capitolo_3.1_studio.md](<storia/materiale/studio/capitolo_3.1_studio.md>), [capitolo_3.1_studio_riassunto.md](<storia/materiale/studio/capitolo_3.1_studio_riassunto.md>) e [capitolo_3.1_ripasso.md](<storia/materiale/studio/capitolo_3.1_ripasso.md>) | Ottime per studiare davvero: partire da `studio`, poi `studio_riassunto`, poi `ripasso`. |
+| Schede brevi | Presenti solo per i capitoli 3.10, 3.11, 3.12: [capitolo_3.10_studio_breve.md](<storia/materiale/studio/capitolo_3.10_studio_breve.md>), [capitolo_3.11_studio_breve.md](<storia/materiale/studio/capitolo_3.11_studio_breve.md>), [capitolo_3.12_studio_breve.md](<storia/materiale/studio/capitolo_3.12_studio_breve.md>) | Disomogeneo: utile per gli ultimi capitoli, ma non esiste per 3.1-3.9. |
+| File tecnico residuo | [compare.py](<storia/materiale/studio/compare.py>) | Non è materiale da studiare; sembra un controllo locale sui concetti mancanti del capitolo 3.7. Va ignorato durante lo studio. |
+
+### Indice dei capitoli locali disponibili
+
+| Capitolo locale | Argomento | Testo base | PDF | Schede studio |
+|---|---|---|---|---|
+| 3.1 | Urbanizzazione del mondo e società di massa | [STORIA-3.1.md](<storia/materiale/STORIA-3.1.md>) | [STORIA-3.1.pdf](<storia/materiale/STORIA-3.1.pdf>) | [studio](<storia/materiale/studio/capitolo_3.1_studio.md>), [riassunto](<storia/materiale/studio/capitolo_3.1_studio_riassunto.md>), [ripasso](<storia/materiale/studio/capitolo_3.1_ripasso.md>) |
+| 3.2 | Lotta per il potere mondiale | [STORIA-3.2.md](<storia/materiale/STORIA-3.2.md>) | [STORIA-3.2.pdf](<storia/materiale/STORIA-3.2.pdf>) | [studio](<storia/materiale/studio/capitolo_3.2_studio.md>), [riassunto](<storia/materiale/studio/capitolo_3.2_studio_riassunto.md>), [ripasso](<storia/materiale/studio/capitolo_3.2_ripasso.md>) |
+| 3.3 | Italia di Giolitti | [STORIA-3.3.md](<storia/materiale/STORIA-3.3.md>) | [STORIA-3.3.pdf](<storia/materiale/STORIA-3.3.pdf>) | [studio](<storia/materiale/studio/capitolo_3.3_studio.md>), [riassunto](<storia/materiale/studio/capitolo_3.3_studio_riassunto.md>), [ripasso](<storia/materiale/studio/capitolo_3.3_ripasso.md>) |
+| 3.4 | Europa alla vigilia della Grande guerra | [STORIA-3.4.md](<storia/materiale/STORIA-3.4.md>) | [STORIA-3.4.pdf](<storia/materiale/STORIA-3.4.pdf>) | [studio](<storia/materiale/studio/capitolo_3.4_studio.md>), [riassunto](<storia/materiale/studio/capitolo_3.4_studio_riassunto.md>), [ripasso](<storia/materiale/studio/capitolo_3.4_ripasso.md>) |
+| 3.5 | Prima guerra mondiale | [STORIA-3.5.md](<storia/materiale/STORIA-3.5.md>) | [STORIA-3.5.pdf](<storia/materiale/STORIA-3.5.pdf>) | [studio](<storia/materiale/studio/capitolo_3.5_studio.md>), [riassunto](<storia/materiale/studio/capitolo_3.5_studio_riassunto.md>), [ripasso](<storia/materiale/studio/capitolo_3.5_ripasso.md>) |
+| 3.6 | Conflitto che inaugurò il XX secolo | [STORIA-3.6.md](<storia/materiale/STORIA-3.6.md>) | [STORIA-3.6.pdf](<storia/materiale/STORIA-3.6.pdf>) | [studio](<storia/materiale/studio/capitolo_3.6_studio.md>), [riassunto](<storia/materiale/studio/capitolo_3.6_studio_riassunto.md>), [ripasso](<storia/materiale/studio/capitolo_3.6_ripasso.md>) |
+| 3.7 | Rivoluzione russa e nascita dell'URSS | [STORIA-3.7.md](<storia/materiale/STORIA-3.7.md>) | PDF non trovato | [studio](<storia/materiale/studio/capitolo_3.7_studio.md>), [riassunto](<storia/materiale/studio/capitolo_3.7_studio_riassunto.md>), [ripasso](<storia/materiale/studio/capitolo_3.7_ripasso.md>) |
+| 3.8 | Conseguenze geopolitiche della Grande guerra | [STORIA-3.8.md](<storia/materiale/STORIA-3.8.md>) | PDF non trovato | [studio](<storia/materiale/studio/capitolo_3.8_studio.md>), [riassunto](<storia/materiale/studio/capitolo_3.8_studio_riassunto.md>), [ripasso](<storia/materiale/studio/capitolo_3.8_ripasso.md>) |
+| 3.9 | Fascismo in Italia | [STORIA-3.9.md](<storia/materiale/STORIA-3.9.md>) | [STORIA-3.9.pdf](<storia/materiale/STORIA-3.9.pdf>) | [studio](<storia/materiale/studio/capitolo_3.9_studio.md>), [riassunto](<storia/materiale/studio/capitolo_3.9_studio_riassunto.md>), [ripasso](<storia/materiale/studio/capitolo_3.9_ripasso.md>) |
+| 3.10 | Anni ruggenti, crisi e New Deal | [STORIA-3.10.md](<storia/materiale/STORIA-3.10.md>) | [STORIA-3.10.pdf](<storia/materiale/STORIA-3.10.pdf>) | [studio](<storia/materiale/studio/capitolo_3.10_studio.md>), [riassunto](<storia/materiale/studio/capitolo_3.10_studio_riassunto.md>), [breve](<storia/materiale/studio/capitolo_3.10_studio_breve.md>), [ripasso](<storia/materiale/studio/capitolo_3.10_ripasso.md>) |
+| 3.11 | Germania nazista | [STORIA-3.11.md](<storia/materiale/STORIA-3.11.md>) | [STORIA-3.11.pdf](<storia/materiale/STORIA-3.11.pdf>) | [studio](<storia/materiale/studio/capitolo_3.11_studio.md>), [riassunto](<storia/materiale/studio/capitolo_3.11_studio_riassunto.md>), [breve](<storia/materiale/studio/capitolo_3.11_studio_breve.md>), [ripasso](<storia/materiale/studio/capitolo_3.11_ripasso.md>) |
+| 3.12 | Anni Trenta: totalitarismi e revisionismi | [STORIA-3.12.md](<storia/materiale/STORIA-3.12.md>) | [STORIA-3.12.pdf](<storia/materiale/STORIA-3.12.pdf>) | [studio](<storia/materiale/studio/capitolo_3.12_studio.md>), [riassunto](<storia/materiale/studio/capitolo_3.12_studio_riassunto.md>), [breve](<storia/materiale/studio/capitolo_3.12_studio_breve.md>), [ripasso](<storia/materiale/studio/capitolo_3.12_ripasso.md>) |
+
+## Tabella di copertura programma → materiale → stato
+
+Legenda: **Coperto** = materiale locale specifico e studiabile; **Parziale** = materiale locale solo indiretto o incompleto; **Mancante** = nel programma ma senza materiale locale specifico trovato; **Extra** = presente nei materiali ma non richiesto esplicitamente o richiesto meno estesamente.
+
+| Programma | Dove studiare | Stato | Note operative |
+|---|---|---|---|
+| Volume 2, cap. 15: Europa e mondo in cerca di nuovi assetti geopolitici | Solo programma: [programma/storia.md](<programma/storia.md>) e [5B sa.pdf](<programma/5B sa.pdf>) | Mancante | Non ho trovato in Storia un capitolo locale dedicato a 1848, Crimea, Reich, imperi asiatici, USA ottocenteschi. |
+| Volume 2, cap. 16: nascita del Regno d'Italia | Solo programma: [programma/storia.md](<programma/storia.md>) e [5B sa.pdf](<programma/5B sa.pdf>) | Mancante | Mancano materiali locali su Cavour, Seconda guerra d'indipendenza, Mille, completamento dell'unificazione e questione romana. |
+| Volume 2, cap. 17: era dell'industrializzazione | Solo programma; richiamo indiretto in [STORIA-3.1.md](<storia/materiale/STORIA-3.1.md>) e [capitolo_3.1_studio.md](<storia/materiale/studio/capitolo_3.1_studio.md>) | Parziale | Il capitolo 3.1 riprende industrializzazione, società di massa, urbanizzazione e consumi, ma non sostituisce il capitolo ottocentesco. |
+| Volume 2, cap. 18: Europa degli imperi al centro del mondo | Solo programma; richiami indiretti in [STORIA-3.2.md](<storia/materiale/STORIA-3.2.md>) e [capitolo_3.2_studio.md](<storia/materiale/studio/capitolo_3.2_studio.md>) | Parziale | I materiali 3.2 coprono imperialismo e nuovi protagonisti a inizio Novecento, non tutto il capitolo sugli imperi ottocenteschi. |
+| Volume 2, cap. 19: Regno d'Italia | Solo programma; richiami in [STORIA-3.3.md](<storia/materiale/STORIA-3.3.md>) e [STORIA-3.9.md](<storia/materiale/STORIA-3.9.md>) | Parziale | Giolitti e fascismo presuppongono l'Italia postunitaria, ma mancano materiali locali specifici su Destra/Sinistra storica, Crispi e politica estera post-1870. |
+| Volume 3, cap. 1: urbanizzazione e società di massa | [STORIA-3.1.md](<storia/materiale/STORIA-3.1.md>), [capitolo_3.1_studio.md](<storia/materiale/studio/capitolo_3.1_studio.md>), [capitolo_3.1_studio_riassunto.md](<storia/materiale/studio/capitolo_3.1_studio_riassunto.md>), [capitolo_3.1_ripasso.md](<storia/materiale/studio/capitolo_3.1_ripasso.md>) | Coperto | Copre tutti i paragrafi del programma: società di massa, città, politica di massa, reazioni alla modernità. |
+| Volume 3, cap. 2: lotta per il potere mondiale | [STORIA-3.2.md](<storia/materiale/STORIA-3.2.md>), [capitolo_3.2_studio.md](<storia/materiale/studio/capitolo_3.2_studio.md>), [capitolo_3.2_studio_riassunto.md](<storia/materiale/studio/capitolo_3.2_studio_riassunto.md>), [capitolo_3.2_ripasso.md](<storia/materiale/studio/capitolo_3.2_ripasso.md>) | Coperto | Copre Germania, USA, Russia/corridoio eurasiatico, Estremo Oriente. |
+| Volume 3, cap. 3: Italia di Giolitti | [STORIA-3.3.md](<storia/materiale/STORIA-3.3.md>), [capitolo_3.3_studio.md](<storia/materiale/studio/capitolo_3.3_studio.md>), [capitolo_3.3_studio_riassunto.md](<storia/materiale/studio/capitolo_3.3_studio_riassunto.md>), [capitolo_3.3_ripasso.md](<storia/materiale/studio/capitolo_3.3_ripasso.md>) | Coperto | Copre via italiana alla modernità, sistema giolittiano, guerra di Libia, suffragio, crisi del giolittismo. |
+| Volume 3, cap. 4: Europa alla vigilia della Grande guerra | [STORIA-3.4.md](<storia/materiale/STORIA-3.4.md>), [capitolo_3.4_studio.md](<storia/materiale/studio/capitolo_3.4_studio.md>), [capitolo_3.4_studio_riassunto.md](<storia/materiale/studio/capitolo_3.4_studio_riassunto.md>), [capitolo_3.4_ripasso.md](<storia/materiale/studio/capitolo_3.4_ripasso.md>) | Coperto | Copre blocchi, Balcani e crisi verso la guerra. |
+| Volume 3, cap. 5: Prima guerra mondiale | [STORIA-3.5.md](<storia/materiale/STORIA-3.5.md>), [capitolo_3.5_studio.md](<storia/materiale/studio/capitolo_3.5_studio.md>), [capitolo_3.5_studio_riassunto.md](<storia/materiale/studio/capitolo_3.5_studio_riassunto.md>), [capitolo_3.5_ripasso.md](<storia/materiale/studio/capitolo_3.5_ripasso.md>) | Coperto | Copre scoppio, società europee, operazioni, Italia, dimensione mondiale, 1917, sconfitta Imperi centrali. |
+| Volume 3, cap. 6: conflitto che inaugurò il XX secolo | [STORIA-3.6.md](<storia/materiale/STORIA-3.6.md>), [capitolo_3.6_studio.md](<storia/materiale/studio/capitolo_3.6_studio.md>), [capitolo_3.6_studio_riassunto.md](<storia/materiale/studio/capitolo_3.6_studio_riassunto.md>), [capitolo_3.6_ripasso.md](<storia/materiale/studio/capitolo_3.6_ripasso.md>) | Coperto | Copre guerra moderna, guerra totale, nemico interno, tecniche della violenza; utile anche per tema memoria della Grande guerra. |
+| Volume 3, cap. 7: Rivoluzione russa e URSS | [STORIA-3.7.md](<storia/materiale/STORIA-3.7.md>), [capitolo_3.7_studio.md](<storia/materiale/studio/capitolo_3.7_studio.md>), [capitolo_3.7_studio_riassunto.md](<storia/materiale/studio/capitolo_3.7_studio_riassunto.md>), [capitolo_3.7_ripasso.md](<storia/materiale/studio/capitolo_3.7_ripasso.md>) | Coperto | PDF locale del capitolo non trovato, ma i Markdown e le schede sono completi e studiabili. |
+| Volume 3, cap. 8: conseguenze geopolitiche della Grande guerra | [STORIA-3.8.md](<storia/materiale/STORIA-3.8.md>), [capitolo_3.8_studio.md](<storia/materiale/studio/capitolo_3.8_studio.md>), [capitolo_3.8_studio_riassunto.md](<storia/materiale/studio/capitolo_3.8_studio_riassunto.md>), [capitolo_3.8_ripasso.md](<storia/materiale/studio/capitolo_3.8_ripasso.md>) | Coperto | Il programma richiede i paragrafi 2-7 e il documento F14 sui 14 punti di Wilson; il materiale locale contiene anche parti extra. |
+| F14: i 14 punti di Wilson | [STORIA-3.8.md](<storia/materiale/STORIA-3.8.md>) e [capitolo_3.8_studio.md](<storia/materiale/studio/capitolo_3.8_studio.md>) | Parziale | Il tema Wilson è presente nel capitolo sulle paci, ma verificare se serve il testo integrale della fonte F14: non ho trovato un file fonte separato. |
+| Volume 3, cap. 9: fascismo in Italia | [STORIA-3.9.md](<storia/materiale/STORIA-3.9.md>), [capitolo_3.9_studio.md](<storia/materiale/studio/capitolo_3.9_studio.md>), [capitolo_3.9_studio_riassunto.md](<storia/materiale/studio/capitolo_3.9_studio_riassunto.md>), [capitolo_3.9_ripasso.md](<storia/materiale/studio/capitolo_3.9_ripasso.md>) | Coperto | Copre crisi dopoguerra, ascesa fascista, regime, caratteri, antifascismo; il materiale include anche politica estera come extra. |
+| F16: Discorso del bivacco | [STORIA-3.9.md](<storia/materiale/STORIA-3.9.md>) e [capitolo_3.9_studio.md](<storia/materiale/studio/capitolo_3.9_studio.md>) | Parziale | Il contesto del 1922-23 è coperto, ma non ho trovato un file fonte separato con il testo integrale del discorso. |
+| Volume 3, cap. 10: anni ruggenti, crisi e New Deal | [STORIA-3.10.md](<storia/materiale/STORIA-3.10.md>), [capitolo_3.10_studio.md](<storia/materiale/studio/capitolo_3.10_studio.md>), [capitolo_3.10_studio_riassunto.md](<storia/materiale/studio/capitolo_3.10_studio_riassunto.md>), [capitolo_3.10_studio_breve.md](<storia/materiale/studio/capitolo_3.10_studio_breve.md>), [capitolo_3.10_ripasso.md](<storia/materiale/studio/capitolo_3.10_ripasso.md>) | Coperto | Il programma richiede paragrafi 2-5; il materiale contiene anche il paragrafo 1 come contesto. |
+| Volume 3, cap. 11: Germania nazista | [STORIA-3.11.md](<storia/materiale/STORIA-3.11.md>), [capitolo_3.11_studio.md](<storia/materiale/studio/capitolo_3.11_studio.md>), [capitolo_3.11_studio_riassunto.md](<storia/materiale/studio/capitolo_3.11_studio_riassunto.md>), [capitolo_3.11_studio_breve.md](<storia/materiale/studio/capitolo_3.11_studio_breve.md>), [capitolo_3.11_ripasso.md](<storia/materiale/studio/capitolo_3.11_ripasso.md>) | Coperto | Copre Weimar, ascesa Hitler, conquista potere, natura del regime, politiche economiche/sociali, grande Germania. |
+| Volume 3, cap. 12: anni Trenta, totalitarismi e revisionismi | [STORIA-3.12.md](<storia/materiale/STORIA-3.12.md>), [capitolo_3.12_studio.md](<storia/materiale/studio/capitolo_3.12_studio.md>), [capitolo_3.12_studio_riassunto.md](<storia/materiale/studio/capitolo_3.12_studio_riassunto.md>), [capitolo_3.12_studio_breve.md](<storia/materiale/studio/capitolo_3.12_studio_breve.md>), [capitolo_3.12_ripasso.md](<storia/materiale/studio/capitolo_3.12_ripasso.md>) | Coperto | Il programma richiede paragrafi 1, 2, 3, 5, 6; il materiale contiene anche guerra di Spagna come extra utile. |
+| Cap. 13: Seconda guerra mondiale 1939-41, nuclei fondanti | Solo programma: [programma/storia.md](<programma/storia.md>) e [5B sa.pdf](<programma/5B sa.pdf>) | Mancante | Il programma dice che è stato affrontato tramite presentazioni QR del libro. Non ho trovato file locali del capitolo 13 o presentazioni QR in Storia. |
+| Cap. 13, punti più esaustivi: Italia dalla non-belligeranza alla guerra; fallimenti militari; dossier Shoah pp. 432-437 | Richiami preliminari in [STORIA-3.12.md](<storia/materiale/STORIA-3.12.md>) e [capitolo_3.12_studio.md](<storia/materiale/studio/capitolo_3.12_studio.md>) | Parziale | Il capitolo 3.12 arriva all'apertura della guerra e alle leggi razziste, ma non copre il dossier Shoah e la guerra 1940-41 in modo sufficiente. |
+| Cap. 14: Seconda guerra mondiale 1941-45, nuclei fondanti | Solo programma: [programma/storia.md](<programma/storia.md>) e [5B sa.pdf](<programma/5B sa.pdf>) | Mancante | Mancano materiali locali specifici su 1941-45. |
+| Cap. 14, punti più esaustivi: crollo fascismo, collasso Italia, guerra in Italia 1943-45 | Richiami indiretti in [STORIA-3.9.md](<storia/materiale/STORIA-3.9.md>) e [capitolo_3.9_studio.md](<storia/materiale/studio/capitolo_3.9_studio.md>) | Parziale | L'antifascismo e la crisi del regime sono presenti come antecedenti, ma manca il capitolo dedicato a 25 luglio, 8 settembre, RSI, Resistenza e guerra in Italia. |
+| Cap. 15: guerra fredda, scontro in Europa | Solo programma: [programma/storia.md](<programma/storia.md>) e [5B sa.pdf](<programma/5B sa.pdf>) | Mancante | Nessun materiale locale trovato sulla guerra fredda. |
+| Cap. 21: repubblica dei partiti in Italia | Solo programma: [programma/storia.md](<programma/storia.md>) e [5B sa.pdf](<programma/5B sa.pdf>) | Mancante | Mancano materiali locali su unità nazionale, scelta repubblicana, primi anni della Repubblica, ricostruzione e miracolo economico. |
+| Educazione civica: leggi elettorali in Italia 1861-1946 | Richiami in [STORIA-3.1.md](<storia/materiale/STORIA-3.1.md>), [capitolo_3.1_studio.md](<storia/materiale/studio/capitolo_3.1_studio.md>), [STORIA-3.3.md](<storia/materiale/STORIA-3.3.md>), [STORIA-3.9.md](<storia/materiale/STORIA-3.9.md>) | Parziale | Sono presenti suffragio di massa, suffragio giolittiano, legge Acerbo e sistema fascista, ma manca una scheda unica 1861-1946. |
+| Educazione civica: diritti civili e politici delle donne | Richiami in [STORIA-3.1.md](<storia/materiale/STORIA-3.1.md>) e [capitolo_3.1_studio.md](<storia/materiale/studio/capitolo_3.1_studio.md>) | Parziale | Ci sono tabelle e contesto sul suffragio femminile, ma non una scheda dedicata al percorso italiano fino al 1946. |
+| Educazione civica: persecuzioni razziali, fisiche e politiche; Shoah | [STORIA-3.12.md](<storia/materiale/STORIA-3.12.md>), [capitolo_3.12_studio.md](<storia/materiale/studio/capitolo_3.12_studio.md>), [capitolo_3.12_studio_riassunto.md](<storia/materiale/studio/capitolo_3.12_studio_riassunto.md>) | Parziale | Ottimi materiali sulle leggi razziste del 1938 e sul razzismo fascista; manca il dossier specifico sulla Shoah nei campi di sterminio. |
+| Educazione civica: guerra e memoria, caduti I e II guerra mondiale, visite a Ravenna | Richiami in [STORIA-3.6.md](<storia/materiale/STORIA-3.6.md>) e [capitolo_3.6_studio.md](<storia/materiale/studio/capitolo_3.6_studio.md>) | Parziale | Il tema memoria della Grande guerra è presente; non ho trovato materiali locali sulle visite alla Cappella della Pace e della Vittoria o al Ravenna War Cemetery. |
+
+## Copertura per argomento
+
+### Ben coperto e pronto allo studio
+
+- Società di massa, urbanizzazione, consumi e politica di massa: [capitolo_3.1_studio.md](<storia/materiale/studio/capitolo_3.1_studio.md>) più [capitolo_3.1_ripasso.md](<storia/materiale/studio/capitolo_3.1_ripasso.md>).
+- Imperialismo, Germania guglielmina, USA, Russia, Estremo Oriente: [capitolo_3.2_studio.md](<storia/materiale/studio/capitolo_3.2_studio.md>) più [capitolo_3.2_ripasso.md](<storia/materiale/studio/capitolo_3.2_ripasso.md>).
+- Età giolittiana: [capitolo_3.3_studio.md](<storia/materiale/studio/capitolo_3.3_studio.md>) più [capitolo_3.3_ripasso.md](<storia/materiale/studio/capitolo_3.3_ripasso.md>).
+- Cause e dinamiche della Prima guerra mondiale: [capitolo_3.4_studio.md](<storia/materiale/studio/capitolo_3.4_studio.md>), [capitolo_3.5_studio.md](<storia/materiale/studio/capitolo_3.5_studio.md>) e [capitolo_3.6_studio.md](<storia/materiale/studio/capitolo_3.6_studio.md>).
+- Rivoluzione russa e costruzione dell'URSS: [capitolo_3.7_studio.md](<storia/materiale/studio/capitolo_3.7_studio.md>) più [capitolo_3.7_ripasso.md](<storia/materiale/studio/capitolo_3.7_ripasso.md>).
+- Dopoguerra e trattati di pace: [capitolo_3.8_studio.md](<storia/materiale/studio/capitolo_3.8_studio.md>) più [capitolo_3.8_ripasso.md](<storia/materiale/studio/capitolo_3.8_ripasso.md>).
+- Fascismo italiano: [capitolo_3.9_studio.md](<storia/materiale/studio/capitolo_3.9_studio.md>) più [capitolo_3.9_ripasso.md](<storia/materiale/studio/capitolo_3.9_ripasso.md>).
+- USA anni Venti, crisi del 1929, New Deal: [capitolo_3.10_studio_breve.md](<storia/materiale/studio/capitolo_3.10_studio_breve.md>) o [capitolo_3.10_studio.md](<storia/materiale/studio/capitolo_3.10_studio.md>), poi [capitolo_3.10_ripasso.md](<storia/materiale/studio/capitolo_3.10_ripasso.md>).
+- Nazismo: [capitolo_3.11_studio_breve.md](<storia/materiale/studio/capitolo_3.11_studio_breve.md>) o [capitolo_3.11_studio.md](<storia/materiale/studio/capitolo_3.11_studio.md>), poi [capitolo_3.11_ripasso.md](<storia/materiale/studio/capitolo_3.11_ripasso.md>).
+- Stalinismo, fascismo anni Trenta, Etiopia, leggi razziste, revisionismo hitleriano, Giappone-Cina: [capitolo_3.12_studio_breve.md](<storia/materiale/studio/capitolo_3.12_studio_breve.md>) o [capitolo_3.12_studio.md](<storia/materiale/studio/capitolo_3.12_studio.md>), poi [capitolo_3.12_ripasso.md](<storia/materiale/studio/capitolo_3.12_ripasso.md>).
+
+### Coperto solo in parte
+
+- Ottocento del Volume 2: i materiali del Volume 3 riprendono alcuni concetti, ma non coprono davvero i capitoli 15-19 del programma. Per questi serve recuperare libro, appunti o schede.
+- Fonti F14 e F16: il contesto è presente in [STORIA-3.8.md](<storia/materiale/STORIA-3.8.md>) e [STORIA-3.9.md](<storia/materiale/STORIA-3.9.md>), ma non ho trovato file separati con le fonti integrali.
+- Educazione civica su suffragio e voto alle donne: ci sono pezzi utili in [capitolo_3.1_studio.md](<storia/materiale/studio/capitolo_3.1_studio.md>), [capitolo_3.3_studio.md](<storia/materiale/studio/capitolo_3.3_studio.md>) e [capitolo_3.9_studio.md](<storia/materiale/studio/capitolo_3.9_studio.md>), ma manca una traccia unica 1861-1946.
+- Shoah: [capitolo_3.12_studio.md](<storia/materiale/studio/capitolo_3.12_studio.md>) copre leggi razziste e persecuzione italiana fino al 1943; manca il dossier sui campi di sterminio indicato dal programma.
+- Guerra e memoria: [capitolo_3.6_studio.md](<storia/materiale/studio/capitolo_3.6_studio.md>) aiuta sul milite ignoto e sulla memoria della Grande guerra, ma mancano i materiali sulle visite a Ravenna e sulla memoria della Seconda guerra mondiale.
+
+### Scoperto o da recuperare
+
+- Volume 2 capitoli 15-16 completi e buona parte dei capitoli 17-19.
+- Seconda guerra mondiale 1939-45 come percorso autonomo: capitoli 13 e 14.
+- Guerra fredda in Europa: capitolo 15.
+- Italia repubblicana: capitolo 21.
+- Dossier Shoah pp. 432-437.
+- Presentazioni QR citate dal programma per i capitoli 13, 14 e 15.
+- Eventuali materiali sulle visite: Cappella della Pace e della Vittoria in Sant'Apollinare Nuovo e Ravenna War Cemetery.
+
+## Dove studiare ogni cosa: percorso pratico
+
+1. **Per i capitoli 3.1-3.9:** usare prima le schede `studio`, poi `studio_riassunto`, infine `ripasso`. Esempio: per il fascismo partire da [capitolo_3.9_studio.md](<storia/materiale/studio/capitolo_3.9_studio.md>), comprimere con [capitolo_3.9_studio_riassunto.md](<storia/materiale/studio/capitolo_3.9_studio_riassunto.md>) e ripetere con [capitolo_3.9_ripasso.md](<storia/materiale/studio/capitolo_3.9_ripasso.md>).
+2. **Per i capitoli 3.10-3.12:** se il tempo è poco, partire dalle versioni brevi: [capitolo_3.10_studio_breve.md](<storia/materiale/studio/capitolo_3.10_studio_breve.md>), [capitolo_3.11_studio_breve.md](<storia/materiale/studio/capitolo_3.11_studio_breve.md>), [capitolo_3.12_studio_breve.md](<storia/materiale/studio/capitolo_3.12_studio_breve.md>). Se qualcosa non torna, aprire la versione lunga corrispondente.
+3. **Per controllare il dettaglio del manuale:** usare i file [STORIA-3.1.md](<storia/materiale/STORIA-3.1.md>) fino a [STORIA-3.12.md](<storia/materiale/STORIA-3.12.md>). I PDF servono soprattutto se il Markdown ha impaginazione o immagini poco chiare.
+4. **Per gli argomenti mancanti:** non perdere tempo a cercare dentro le schede già presenti: recuperare direttamente libro, QR o appunti sui capitoli 13, 14, 15 e 21, più Volume 2 capitoli 15-19.
+
+## Materiali disordinati / da sistemare
+
+- Nelle schede di studio, per esempio [capitolo_3.1_studio.md](<storia/materiale/studio/capitolo_3.1_studio.md>), le versioni `studio_breve` esistono solo per 3.10, 3.11 e 3.12: se si vuole un set uniforme, creare versioni brevi anche per 3.1-3.9 oppure ignorare la categoria `breve` e usare solo `studio_riassunto`.
+- [compare.py](<storia/materiale/studio/compare.py>) è un file tecnico dentro la cartella di studio: non va studiato e rischia di confondere. Andrebbe spostato o rimosso solo dopo l'esame, non ora.
+- Mancano PDF locali per [STORIA-3.7.md](<storia/materiale/STORIA-3.7.md>) e [STORIA-3.8.md](<storia/materiale/STORIA-3.8.md>), mentre gli altri capitoli hanno anche PDF. Non è grave perché i Markdown e le schede sono utilizzabili.
+- Alcuni materiali contengono parti extra rispetto al programma: [STORIA-3.8.md](<storia/materiale/STORIA-3.8.md>) include anche paragrafo 1, [STORIA-3.9.md](<storia/materiale/STORIA-3.9.md>) include anche politica estera, [STORIA-3.10.md](<storia/materiale/STORIA-3.10.md>) include il paragrafo 1, [STORIA-3.12.md](<storia/materiale/STORIA-3.12.md>) include anche guerra di Spagna. Sono utili per capire, ma non sono il primo bersaglio se si studia in emergenza.
+- I materiali indicati dal programma come presentazioni QR per capitoli 13, 14 e 15 non sono stati trovati come file locali nella cartella Storia; se servono, vanno aperti dal libro o recuperati dal docente/registro.
+
+## Mancanze / da sistemare
+
+### Mancanze critiche
+
+1. **Seconda guerra mondiale:** recuperare materiali specifici per cap. 13 e cap. 14. Priorità ai nuclei indicati dal programma: Italia non belligerante e guerra parallela, fallimenti militari di Mussolini, crollo del fascismo, 8 settembre, guerra in Italia 1943-45.
+2. **Shoah:** recuperare il dossier fonti “La Shoah: vivere e morire nei campi di sterminio”, indicato nel programma per le pp. 432-437. Le leggi razziste in [capitolo_3.12_studio.md](<storia/materiale/studio/capitolo_3.12_studio.md>) non bastano da sole.
+3. **Guerra fredda:** recuperare il capitolo 15 o almeno la presentazione QR sullo scontro in Europa.
+4. **Italia repubblicana:** recuperare il capitolo 21 su governi di unità nazionale, referendum/repubblica, primi anni, ricostruzione e miracolo economico.
+5. **Volume 2:** recuperare materiali per capitoli 15-19, soprattutto unità d'Italia, industrializzazione, imperialismo ottocentesco e Regno d'Italia postunitario.
+
+### Mancanze medie
+
+1. **Fonti F14 e F16:** recuperare il testo integrale dei 14 punti di Wilson e del Discorso del bivacco, oppure preparare una scheda con contesto, contenuto, significato storico.
+2. **Educazione civica sulle leggi elettorali 1861-1946:** creare una linea del tempo unica da Statuto Albertino, allargamento del suffragio, legge Acerbo, plebisciti/lista unica fascista, voto alle donne e 1946.
+3. **Educazione civica su guerra e memoria:** aggiungere una scheda sulle visite alla Cappella della Pace e della Vittoria e al Ravenna War Cemetery; collegarla a milite ignoto, caduti, memoria pubblica, Prima e Seconda guerra mondiale.
+
+### Cosa sistemare senza spostare file ora
+
+- Preparare una lista di recupero esterna per i materiali mancanti, senza rinominare né spostare ciò che c'è già.
+- Durante lo studio, segnare nel programma [programma/storia.md](<programma/storia.md>) quali righe sono coperte da file locali e quali no, ma non modificare il programma se deve restare copia fedele.
+- Usare i file `ripasso` come checklist finale: se su un capitolo non si riesce a rispondere alle domande del ripasso, tornare alla scheda `studio` dello stesso capitolo.
+
+## Priorità pratiche per rendere Storia pronta allo studio
+
+1. **Mettere in sicurezza il blocco già coperto:** studiare e ripetere 3.1-3.12 dalle schede in [storia/materiale/studio/capitolo_3.1_studio.md](<storia/materiale/studio/capitolo_3.1_studio.md>) fino a [storia/materiale/studio/capitolo_3.12_studio.md](<storia/materiale/studio/capitolo_3.12_studio.md>), usando i `ripasso` come verifica orale.
+2. **Recuperare subito Seconda guerra mondiale e Shoah:** sono nel programma e pesano molto all'orale; ora sono il buco più pericoloso.
+3. **Recuperare guerra fredda e Italia repubblicana:** cap. 15 e cap. 21 sono totalmente scoperti nei materiali locali.
+4. **Fare una scheda breve di Educazione civica:** leggi elettorali 1861-1946, voto alle donne, persecuzioni/Shoah, memoria dei caduti. Deve collegare i pezzi già presenti nei capitoli 3.1, 3.3, 3.6, 3.9 e 3.12.
+5. **Solo dopo, colmare il Volume 2:** i capitoli 15-19 sono importanti per programma e collegamenti, ma se il tempo è poco vengono dopo i buchi del Novecento avanzato.

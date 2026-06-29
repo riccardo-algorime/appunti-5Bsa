@@ -1,0 +1,125 @@
+--- PAGINA 1 ---
+Pag. 1/3
+Sessione suppletiva 2025
+Seconda prova scritta
+Ministero dell’istruzione e del merito
+A002 - ESAME DI STATO CONCLUSIVO DEL SECONDO CICLO DI ISTRUZIONE
+Testo valevole per tutti i seguenti indirizzi:
+LI02, LI03, LI15, LI1S, LI22, LI23, LI31, LI32, LIA2, LIAO,
+LIB2, LIC2, LID2, LII2, LII3, LII4, LIIS, LIS2, EA02, EA10
+Disciplina: MATEMATICA
+Il candidato risolva uno dei due problemi e risponda a 4 quesiti del questionario.
+PROBLEMA 1
+Si consideri la famiglia di funzioni 𝑓 (𝑥) = (𝑥2 + 1)𝑒𝑎𝑥+1, con 𝑎 parametro reale non nullo, e si
+𝑎
+indichi con 𝛾 il grafico di 𝑓 .
+𝑎 𝑎
+a) Al variare di 𝑎, stabilire il numero degli estremi relativi e dei flessi. Determinare il valore positivo
+di 𝑎 in modo che il grafico abbia un flesso a tangente orizzontale.
+b) Studiare la funzione 𝑓 e tracciare 𝛾 . Spiegare perché 𝑓 è invertibile in ℝ e indicare con 𝑔 la
+1 1 1
+sua funzione inversa. Specificare il dominio di 𝑔 e determinare 𝑔′(𝑒).
+0
+c) Si consideri la funzione 𝐹(𝑡) = ∫ 𝑓 (𝑥)𝑑𝑥, con 𝑡 ≤ 0. Fornire il significato geometrico della
+𝑡 1
+funzione 𝐹(𝑡) e verificare che lim 𝐹(𝑡) = 3𝑒.
+𝑡→−∞
+d) Sia 𝑃 un punto sulla curva 𝛾 , di ascissa 𝑥 < 0, nonché 𝑄 ed 𝑅 le sue proiezioni sugli assi
+𝑎 𝑎 𝑎 𝑎
+coordinati. Determinare, se esiste, il valore del parametro 𝑎 in corrispondenza del quale l’area
+del rettangolo 𝑃 𝑄 𝑂𝑅 assume valore massimo se 𝑥 = −2 .
+𝑎 𝑎 𝑎
+PROBLEMA 2
+
+--- PAGINA 2 ---
+Pag. 2/3
+Sessione suppletiva 2025
+Seconda prova scritta
+Ministero dell’istruzione e del merito
+A002 - ESAME DI STATO CONCLUSIVO DEL SECONDO CICLO DI ISTRUZIONE
+Il grafico 𝛾 in figura rappresenta la funzione 𝑓 così definita:
+ln(𝑃 (𝑥)) 𝑠𝑒 𝑥 < 0
+𝑓(𝑥) = { 2
+𝑃 (𝑥) 𝑠𝑒 𝑥 ≥ 0
+3
+dove 𝑃 (𝑥) e 𝑃 (𝑥) sono, rispettivamente, polinomi di 2° e di 3° grado.
+2 3
+a) Utilizzando le informazioni desumibili dal grafico e tenendo conto che 𝛾 è tangente alla retta
+𝑦 = 𝑥 nell’origine e all’asse delle ascisse in 𝑥 = 1, individuare i polinomi 𝑃 (𝑥) e 𝑃 (𝑥).
+2 3
+D’ora in avanti, si assuma che
+ln(𝑥2 + 𝑥 + 1) 𝑠𝑒 𝑥 < 0
+𝑓(𝑥) = {
+𝑥3 − 2𝑥2 + 𝑥 𝑠𝑒 𝑥 ≥ 0
+b) Determinare le coordinate dei punti stazionari e le ascisse dei punti di flesso di 𝑓. Al variare
+del parametro reale 𝑘, stabilire il numero delle soluzioni dell’equazione 𝑓(𝑥) = 𝑘.
+𝑓(𝑥) 𝑓(𝑥)
+c) Per 𝑛 intero positivo, determinare lim e lim . Verificare, inoltre, che esiste un unico
+𝑥→−∞ 𝑥𝑛 𝑥→+∞ 𝑥𝑛
+𝑓(𝑥)
+valore di 𝑛 tale che il lim assuma un valore finito non nullo.
+𝑥→0 𝑥𝑛
+d) Determinare il rapporto tra le aree delle regioni limitate di piano 𝑅 e 𝑅 contenute nel I
+1 2
+quadrante e così definite:
+- 𝑅 compresa tra 𝛾 e la retta di equazione 𝑦 = 𝑥 ;
+1
+- 𝑅 compresa tra 𝛾 e l’asse delle ascisse.
+2
+QUESITI
+1. Un rettangolo si dice aureo se il rapporto fra i suoi lati è
+1+√5
+uguale a 𝜑 = . Sia dato un foglio la cui forma è un
+2
+rettangolo aureo e lo si indichi con 𝐴𝐵𝐶𝐷. Dopo aver
+piegato il foglio come mostrato in figura, verificare che
+anche il rettangolo 𝐴𝐵𝑃𝐶′ è aureo. Successivamente,
+determinare la lunghezza di 𝐴𝐷, sapendo che 𝐴𝐶′ = 40 cm.
+2. Zoe sfida Eva al seguente gioco: lanciando un dado regolare a sei facce, Zoe segna un punto
+quando esce il 5 oppure il 6, in caso contrario è Eva a segnare un punto. Vince chi arriva prima
+a 3 punti. Qual è la probabilità che Zoe vinca con il punteggio 3 - 1?
+3. Ci sono 9 matite di 9 colori diversi e 3 cassetti indicati con A, B, C. Se 4 matite devono essere
+messe nel cassetto A, 2 nel cassetto B e 3 nel cassetto C, quante sono le possibili collocazioni?
+
+--- PAGINA 3 ---
+Pag. 3/3
+Sessione suppletiva 2025
+Seconda prova scritta
+Ministero dell’istruzione e del merito
+A002 - ESAME DI STATO CONCLUSIVO DEL SECONDO CICLO DI ISTRUZIONE
+4. Nello spazio con riferimento cartesiano ortogonale O𝑥𝑦𝑧 sono date le equazioni di due rette:
+𝑥 = 1 + 2𝑡
+𝑦 − 𝑧 − 1 = 0
+𝑟: { 𝑠: {𝑦 = 𝑡
+𝑥 − 𝑧 = 4
+𝑧 = 3 − 𝑡
+Dopo aver dimostrato che le due rette sono incidenti, determinare l’equazione del piano che le
+contiene. Verificare che la sfera di centro 𝐶 = (5, −7, 2) passante per il punto 𝑃 = (1, −1, 0)
+è tangente al piano suddetto.
+5. Il triangolo di Reuleaux è una figura utilizzata come elemento architettonico in diverse chiese
+gotiche. Si costruisce a partire da un triangolo equilatero di lato 𝐿, puntando il compasso in
+ogni suo vertice e tracciando l’arco minore di circonferenza che ha per estremi gli altri due
+vertici. Il triangolo di Reuleaux è la regione di piano delimitata dai tre archi tracciati.
+Dimostrare che il suo contorno ha lunghezza 𝜋𝐿 ed esprimere la sua area in funzione di 𝐿.
+6. Sapendo che 𝑓(𝑥) = 𝑠𝑒𝑛2(𝑥) − 𝑠𝑒𝑛(𝑥)𝑐𝑜𝑠(𝑥) , determinare gli zeri della funzione
+𝑒𝑓(𝑥)−1
+𝑔(𝑥) = nell’intervallo [−𝜋; 𝜋],
+𝑥2
+7. Determinare le coordinate del punto 𝑇 sulla parabola 𝑝 di equazione 𝑦 = 𝑥2 + 𝑥 + 3, nel
+quale la retta tangente a 𝑝 risulta parallela alla retta 𝑟 di equazione 3𝑥 + 2𝑦 − 1 = 0. Spiegare
+perché, sulla parabola 𝑝, il punto 𝑇 è quello che si trova alla minima distanza dalla retta 𝑟.
+𝑏 1
+8. Sia data la funzione 𝑓(𝑥) = 𝑎𝑥𝑙𝑛(𝑥) + + 𝑐 sin ( ), con 𝑎, 𝑏, 𝑐 ∈ ℝ. Determinare i parametri
+𝑥4 𝑥
+𝑎, 𝑏, 𝑐 in modo che:
+- il lim 𝑓(𝑥) esista ed abbia un valore finito;
+𝑥→0+
+𝑒
+- ∫ 𝑓(𝑥)𝑑𝑥 = 1.
+1
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di calcolatrici scientifiche o grafiche purché non siano dotate della capacità di elaborazione simbolica
+algebrica e non abbiano la disponibilità di connessione a Internet.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di
+madrelingua non italiana. Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla consegna della traccia.

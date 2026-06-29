@@ -1,0 +1,97 @@
+--- PAGINA 1 ---
+Pag. 1/3
+Sessione straordinaria 2025
+Seconda prova scritta
+Ministero dell’istruzione e del merito
+A002 - ESAME DI STATO CONCLUSIVO DEL SECONDO CICLO DI ISTRUZIONE
+Testo valevole per tutti i seguenti indirizzi:
+LI02, LI03, LI15, LI1S, LI22, LI23, LI31, LI32, LIA2, LIAO,
+LIB2, LIC2, LID2, LII2, LII3, LII4, LIIS, LIS2, EA02, EA10
+Disciplina: MATEMATICA
+Il candidato risolva uno dei due problemi e risponda a 4 quesiti del questionario.
+PROBLEMA 1
+Si consideri la famiglia di funzioni 𝑓(𝑥) = 𝑎𝑥 + 𝑏√𝑥 + 𝑐 , con 𝑎, 𝑏, 𝑐 ∈ ℝ .
+a) Determinare i valori dei parametri 𝑎, 𝑏, 𝑐 in corrispondenza dei quali la funzione abbia il punto
+di massimo assoluto di coordinate (4, 8) e uno zero in 𝑥 = 16.
+D’ora in avanti, si assuma 𝑎 = −2 , 𝑏 = 8 , 𝑐 = 0.
+b) Studiare 𝑓 e tracciare un suo grafico rappresentativo 𝛾 , dopo averne analizzato il segno, la
+derivabilità, la monotonia e la concavità. Verificare che la funzione non presenta asintoti. Al
+variare del parametro reale 𝑘 , stabilire il numero di soluzioni dell’equazione 𝑓(𝑥) = 𝑘.
+c) Spiegare perché 𝑓 non è invertibile nel suo dominio e individuare l’intervallo limitato [𝛼; 𝛽], di
+massima ampiezza, in cui può essere definita una funzione inversa 𝑔. Esprimere
+analiticamente la funzione 𝑔, specificare il suo dominio, le coordinate del punto a tangente
+verticale e tracciare un suo grafico rappresentativo.
+d) Scrivere l’equazione della retta 𝑟 , tangente a 𝛾 nel suo punto di ascissa 1. Calcolare l’area
+della regione delimitata da 𝑟, da 𝛾 e dall’asse delle ordinate. Dimostrare che la funzione
+𝑥
+𝐹(𝑥) = ∫ 𝑓(𝑡)𝑑𝑡 , definita per 𝑥 > 0, presenta esattamente uno zero, un punto stazionario e
+0
+un punto di flesso.
+PROBLEMA 2
+𝑥
+Si consideri la funzione integrale 𝐹(𝑥) = ∫ 𝑃(𝑡)𝑑𝑡, con −2 ≤ 𝑥 ≤ 2 , in cui 𝑃(𝑡) indica un
+0
+polinomio di terzo grado. I grafici 𝛾 e 𝛾" , in figura, sono rappresentativi di 𝐹 ed 𝐹", derivata
+seconda della funzione 𝐹.
+
+--- PAGINA 2 ---
+Pag. 2/3
+Sessione straordinaria 2025
+Seconda prova scritta
+Ministero dell’istruzione e del merito
+A002 - ESAME DI STATO CONCLUSIVO DEL SECONDO CICLO DI ISTRUZIONE
+a) Utilizzare le informazioni che si possono ricavare da 𝛾 per determinare 𝑃(𝑡), considerando che
+𝐹 è una funzione pari e 𝐹(2) = 12.
+D’ora in avanti, si ponga 𝑃(𝑡) = 4𝑡3 − 2𝑡 .
+b) Ricavare l’espressione analitica della funzione 𝐹(𝑥) e determinare le coordinate dei punti di
+minimo assoluto e dei punti di flesso. Utilizzare le informazioni ottenute su 𝐹 per tracciare il
+grafico 𝛾′, rappresentativo della funzione 𝐹′, derivata della funzione 𝐹 .
+𝐹(𝑥) 𝐹(𝑥)
+c) Al variare dei parametri reali 𝛼, 𝛽, calcolare lim e lim .
+𝑥→0 𝑥𝛼 𝑥→±1 (𝑥±1)𝛽
+d) Sia 𝑃 un punto di 𝛾", di ascissa positiva, e sia 𝑟 la retta tangente a 𝛾" in 𝑃. Determinare le
+𝑃
+coordinate di 𝑃 in modo che 𝑟 formi con gli assi coordinati un triangolo di area minima.
+𝑃
+Successivamente, determinare le coordinate di 𝑃 affinchè 𝑟 formi con gli assi coordinati un
+𝑃
+triangolo isoscele.
+
+--- PAGINA 3 ---
+Pag. 3/3
+Sessione straordinaria 2025
+Seconda prova scritta
+Ministero dell’istruzione e del merito
+A002 - ESAME DI STATO CONCLUSIVO DEL SECONDO CICLO DI ISTRUZIONE
+QUESITI
+1. Determinare il perimetro e l’area di un poligono regolare di lato 4 cm, sapendo che gli angoli
+interni sono ampi 150°.
+2. Un’urna contiene 16 palline, numerate da 1 a 16. Vengono estratte in blocco 5 palline dall'urna;
+qual è la probabilità che il numero più grande tra quelli usciti sia maggiore di 9?
+3. Quanti sono i numeri naturali di tre cifre tali che la cifra “8” compare almeno una volta? Quanti
+quelli in cui la cifra “0” compare almeno una volta?
+4. Mostrare che, nello spazio tridimensionale, il piano di equazione 𝑥 + 2𝑦 − 3𝑧 − 7 = 0 è
+tangente alla superficie sferica 𝑆 di equazione 𝑥2 + 𝑦2 + 𝑧2 − 2𝑥 + 2𝑦 − 4𝑧 − 8 = 0 e
+stabilire le coordinate del punto di tangenza 𝑇. Scrivere, inoltre, l’equazione di una retta che sia
+tangente alla superficie 𝑆 nel punto 𝑇.
+5. Si consideri la famiglia di funzioni 𝑓 (𝑥) = ln(1 − 𝑘𝑥) + 𝑘𝑥2, dove 𝑘 è un parametro reale non
+𝑘
+nullo. Determinare il valore di 𝑘 in modo che il grafico della funzione abbia un punto di flesso a
+tangente orizzontale.
+6. Sia 𝛾 il grafico rappresentativo della curva di equazione 𝑥𝑦 = 3. Determinare le coordinate del
+punto in cui la retta di equazione 𝑦 = 3𝑥 − 8 è normale a 𝛾.
+2𝑒
+𝑥2−𝑥
++ 𝑎 per 𝑥 ≤ 1
+7. Data la funzione 𝑓(𝑥) = { , determinare il valore dei parametri reali
+𝑏𝑥2 + 𝑥 + 2 per 𝑥 > 1
+𝑎, 𝑏, affinché la funzione sia continua e derivabile in tutto ℝ.
+2𝑥+1
+8. Dimostrare che la curva di equazione 𝑦 = è simmetrica rispetto al suo punto di flesso.
+𝑥2+𝑥
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di calcolatrici scientifiche o grafiche purché non siano dotate della capacità di elaborazione simbolica
+algebrica e non abbiano la disponibilità di connessione a Internet.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di
+madrelingua non italiana. Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla consegna della traccia.

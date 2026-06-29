@@ -1,0 +1,134 @@
+--- PAGINA 1 ---
+Pag. 1/4
+Sessione straordinaria 2019
+Seconda prova scritta
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: LI02, EA02 – SCIENTIFICO
+LI03 - SCIENTIFICO - OPZIONE SCIENZE APPLICATE
+LI15 - SCIENTIFICO - SEZIONE AD INDIRIZZO SPORTIVO
+(Testo valevole anche per le corrispondenti sperimentazioni internazionali e quadriennali)
+Tema di: MATEMATICA e FISICA
+Il candidato risolva uno dei due problemi e risponda a 4 quesiti.
+PROBLEMA 1
+Dato 𝑘 > 0, si consideri la funzione 𝑓: [0, +∞) → ℝ così definita:
+𝑘𝑥 se 0 ≤ 𝑥 ≤ 1
+𝑓(𝑥) = {
+𝑘
+se 𝑥 > 1
+𝑥2
+▪ Dimostrare che, qualunque sia 𝑘 > 0, la funzione 𝑓 è continua ma non ovunque derivabile. Studiare
+l’andamento di tale funzione, specificandone il punto di massimo assoluto. Per quali valori di 𝑘 le tangenti
+destra e sinistra nel punto di non derivabilità formano un angolo acuto 𝛾 tale che tan 𝛾 = 3 ?
+▪ Posto 𝑘 = 1, sia 𝑟 una retta di equazione 𝑦 = 𝑡, con 0 < 𝑡 < 1. Detti 𝑆 e 𝑇 i punti d’intersezione
+tra 𝑟 ed il grafico della funzione 𝑓, siano 𝑆′ e 𝑇′ le rispettive proiezioni ortogonali sull’asse 𝑥. Come deve
+essere scelto il valore di 𝑡, in modo che sia massima l’area del rettangolo 𝑆𝑆′𝑇′𝑇?
+Nel vuoto, si consideri una distribuzione sferica di carica elettrica, positiva e di raggio 𝑅, espresso in metri
+(𝑚). La densità di carica, indicata con 𝜌 ed espressa in coulomb al metro cubo (𝐶/𝑚3), è uniforme.
+▪ Indicata con 𝑥 la distanza di un punto 𝑃 dal centro della sfera, provare che l’intensità del campo
+elettrico generato da tale distribuzione di carica è data da
+𝑘𝑥 se 0 ≤ 𝑥 ≤ 𝑅
+𝐸(𝑥) = {
+𝑘 𝑅3
+se 𝑥 > 𝑅
+𝑥2
+dove 𝑘 è un’opportuna costante, di cui si chiede l’espressione in funzione della densità di carica 𝜌 e la
+dimensione fisica.
+▪ Sia 𝑞 una carica elementare positiva collocata nel centro della sfera. Determinare l’espressione del
+lavoro compiuto dalla forza elettrica per portare la carica 𝑞 a distanza 2𝑅 dal centro della sfera. Quale
+dovrebbe essere il lavoro compiuto dalla stessa forza elettrica per portare la carica 𝑞 a distanza infinita dal
+centro della sfera?
+
+--- PAGINA 2 ---
+Pag. 2/4
+Sessione straordinaria 2019
+Seconda prova scritta
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+PROBLEMA 2
+In un laboratorio di fisica, si vuole verificare sperimentalmente che un filo rettilineo percorso da corrente,
+immerso in un campo magnetico uniforme, è soggetto a una forza. A questo scopo, un filo di rame RS
+rettilineo, rigido, di lunghezza l, misurata in metri (m), di massa m, misurata in chilogrammi (Kg), viene
+appeso alle estremità di due fili conduttori. Tali fili, verticali e di massa trascurabile, sono liberi di ruotare,
+senza attrito, intorno a due ganci metallici, P e Q, posizionati alle altre estremità. Attraverso un interruttore,
+i ganci P e Q vengono collegati a un generatore di corrente continua e il filo di rame viene posto in un
+campo magnetico 𝐵⃗ , uniforme e costante, perpendicolare al filo (fig. 1) e la cui intensità è misurata in
+tesla (T). Quando si chiude l’interruttore, il circuito è percorso da una corrente di intensità i, misurata in
+ampere (A) e il filo RS si sposta in una nuova posizione di equilibrio, in cui PR forma un angolo θ con la
+direzione verticale (fig. 2).
+Fig.1 Fig.2
+▪ Descrivere in direzione, verso e intensità, la forza con cui il campo 𝐵⃗ agisce sulla corrente che
+attraversa il tratto RS. Come varia la posizione di equilibrio del filo di rame al variare dell’intensità e del
+verso della corrente?
+▪ Rappresentare tutte le forze agenti sul filo RS. Considerando costanti 𝐵⃗ , la massa m e la lunghezza l
+del filo RS, verificare che l’ampiezza dell’angolo θ in funzione dell’intensità di corrente i è data
+𝐵𝑙
+da 𝜃(𝑖) = arctan ( ⋅ 𝑖), in cui g è l’accelerazione di gravità
+𝑚𝑔
+▪ Posto 𝜃(𝑥) = arctan (𝑘𝑥), si considerino, in un sistema di riferimento cartesiano Oxy, le funzioni
+𝑦 = 𝜃(𝑥) e la sua inversa 𝑦 = 𝜃−1(𝑥). Determinare il valore di 𝑘 > 0, affinché i grafici delle suddette
+funzioni siano tangenti nell’origine. Successivamente, determinare i valori di k in corrispondenza dei quali
+le rette tangenti ai grafici delle due funzioni formano un angolo di 30° nell’origine.
+▪ Posto 𝑘 = 1, determinare l’equazione della funzione 𝐹(𝑥), primitiva di 𝜃(𝑥) e passante per l’origine
+del sistema di riferimento. Tracciare il grafico della funzione 𝑦 = 𝜃(𝑥) e da esso dedurre il grafico
+di 𝑦 = 𝐹(𝑥).
+
+--- PAGINA 3 ---
+Pag. 3/4
+Sessione straordinaria 2019
+Seconda prova scritta
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+QUESITI
+1
+1. Determinare il valore di questo limite: lim (1 − sen 𝑥) 𝑥 .
+𝑥→0
+2. Data la funzione 𝑓(𝑥) = 𝑥 sen 𝑥 e fissato un numero 𝑘 > 0, provare che il valore di
+𝑥0
+∫ 𝑘 ∙ 𝑓(𝑘𝑥) 𝑑𝑥
+0
+(dove 𝑥 indica il minimo numero reale positivo per cui 𝑓(𝑘𝑥 ) = 0) non dipende dalla scelta di 𝑘.
+0 0
+3. Dato un triangolo 𝐴𝐵𝐶, sia 𝑀 il punto medio del lato 𝐵𝐶. Dimostrare che, se la lunghezza di 𝐴𝑀 è la
+metà di 𝐵𝐶, allora 𝐴𝐵𝐶 è un triangolo rettangolo.
+4. Dopo aver verificato che il punto 𝑇(1, 0, 1) appartiene al piano 𝜋: 𝑥 − 2𝑦 + 2𝑧 = 3, determinare
+l’equazione della superficie sferica passante per il punto 𝑃(1, 0, 5) e tangente in 𝑇 al piano 𝜋.
+5. Da un mazzo di 40 carte da gioco, vengono estratte 6 carte contemporaneamente.
+▪ Qual è la probabilità che nessuna delle carte estratte sia rossa?
+▪ Qual è la probabilità che, tra le carte estratte, vi siano esattamente 2 assi?
+6. Un condensatore piano, costituito da due armature quadrate di lato 𝑙 = 4.0𝑐𝑚, distanti 𝑑 = 3.0𝑐𝑚, è
+soggetto a una d.d.p. ∆𝑉 = 15𝑉. Un elettrone vi entra perpendicolarmente al campo elettrico, come in
+figura, con una velocità 𝑣 = 2.5 ⋅ 106 𝑚 . A quale distanza dall’ingresso del condensatore deve essere
+0
+𝑠
+posto uno schermo, affinché la deflessione verticale totale sia 20𝑐𝑚?
+7. Un protone viene sparato su una particella 𝛼 (due protoni e due neutroni) da una distanza di 10cm
+(considerare le particelle puntiformi), alla velocità 𝑣 = 5,00 ⋅ 103 𝑚 . Calcolare la distanza di massimo
+0
+𝑠
+avvicinamento.
+
+--- PAGINA 4 ---
+Pag. 4/4
+Sessione straordinaria 2019
+Seconda prova scritta
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+8. Un elettrone entra in una regione di spazio, sede di un campo magnetico di intensità 𝐵 = 0.20𝑇, con
+velocità di modulo 𝑣 = 1,5 ⋅ 104 𝑚 , che forma un angolo di 10° con la direzione di 𝐵⃗ . Determinare
+0
+𝑠
+modulo, direzione e verso del campo elettrico necessario affinché l’elettrone non subisca deflessione.
+carica elementare e 1,602·10-19 C
+massa dell’elettrone me 9,109·10-31 kg
+massa del protone m 1.673·10-27 kg
+p
+massa particella alfa m 6,645 ∙10 –27 kg
+α
+costante dielettrica del vuoto ε 8.854·10-12 F/m
+0
+permeabilità magnetica del vuoto μ 4π·10-7 H/m
+0
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di calcolatrici scientifiche e/o grafiche purché non siano dotate di capacità di calcolo simbolico
+(O.M. n. 205 Art. 17 comma 9).
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.

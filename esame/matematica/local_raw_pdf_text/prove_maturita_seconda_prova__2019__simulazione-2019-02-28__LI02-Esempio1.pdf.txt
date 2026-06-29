@@ -1,0 +1,123 @@
+--- PAGINA 1 ---
+Pag. 1/3
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: LI02, EA02 – SCIENTIFICO
+LI03 - SCIENTIFICO - OPZIONE SCIENZE APPLICATE
+LI15 - SCIENTIFICO - SEZIONE AD INDIRIZZO SPORTIVO
+(Testo valevole anche per le corrispondenti sperimentazioni internazionali e quadriennali)
+Tema di: MATEMATICA e FISICA
+Il candidato risolva uno dei due problemi e risponda a 4 quesiti.
+PROBLEMA 1
+Assegnate due costanti reali a e b (con 𝑎 > 0), si consideri la funzione 𝑞(𝑡) così definita:
+𝑞(𝑡) = 𝑎𝑡 ∙ 𝑒𝑏𝑡
+1. A seconda dei possibili valori di a e b, discutere se nel grafico della funzione 𝑞 è presente un punto di
+massimo o di minimo. Determinare i valori di a e b in corrispondenza dei quali il grafico della funzione
+8
+𝑞(𝑡), in un piano cartesiano di coordinate (𝑡, 𝑦), ha un massimo nel punto 𝐵 (2, ).
+𝑒
+1
+2. Assumendo, d’ora in avanti, di avere 𝑎 = 4 e 𝑏 = − , studiare la funzione
+2
+𝑡
+𝑞(𝑡) = 4𝑡 ∙ 𝑒− 2
+16
+verificando, in particolare, che si ha un flesso nel punto 𝐹 (4, ).
+𝑒2
+Determinare l’equazione della retta tangente al grafico nel punto F.
+3. Supponendo che la funzione 𝑞(𝑡) rappresenti, per 𝑡 ≥ 0, la carica elettrica (misurata in C) che attraversa
+all’istante di tempo t (misurato in s) la sezione di un certo conduttore, determinare le dimensioni fisiche
+1
+delle costanti 𝑎 e 𝑏 sopra indicate. Sempre assumendo 𝑎 = 4 e 𝑏 = − , esprimere l’intensità di
+2
+corrente 𝑖(𝑡) che fluisce nel conduttore all’istante t; determinare il valore massimo ed il valore minimo
+di tale corrente e a quale valore essa si assesta col trascorrere del tempo.
+4. Indicando, per 𝑡 ≥ 0, con 𝑄(𝑡 ) la carica totale che attraversa la sezione del conduttore in un dato
+0 0
+intervallo di tempo [0, 𝑡 ], determinare a quale valore tende 𝑄(𝑡 ) per 𝑡 → +∞.
+0 0 0
+Supponendo che la resistenza del conduttore sia 𝑅 = 3Ω, scrivere (senza poi effettuare il calcolo), un
+integrale che fornisca l’energia dissipata nell’intervallo di tempo [0, 𝑡 ].
+0
+
+--- PAGINA 2 ---
+Pag. 2/3
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+PROBLEMA 2
+Una carica elettrica puntiforme 𝑄 = 4𝑞 (con 𝑞 positivo) è fissata nell’origine 𝑂 di un sistema di riferimento
+1
+nel piano 𝑂𝑥𝑦 (dove x e y sono espressi in m). Una seconda carica elettrica puntiforme 𝑄 = 𝑞 è vincolata
+2
+a rimanere sulla retta 𝑟 di equazione 𝑦 = 1.
+1. Supponendo che la carica 𝑄 sia collocata nel punto 𝐴(0, 1), provare che esiste un unico punto 𝑃 del
+2
+piano nel quale il campo elettrostatico generato dalle cariche 𝑄 e 𝑄 è nullo. Individuare la posizione
+1 2
+del punto 𝑃 e discutere se una terza carica collocata in 𝑃 si trova in equilibrio elettrostatico stabile oppure
+instabile.
+2. Verificare che, se la carica 𝑄 si trova nel punto della retta 𝑟 avente ascissa 𝑥, l’energia potenziale
+2
+elettrostatica del sistema costituito da 𝑄 e 𝑄 è data da
+1 2
+4𝑞2
+𝒰(𝑥) = 𝑘
+√1 + 𝑥2
+dove 𝑘 è una costante positiva (unità di misura: N ∙ m2/C2).
+3. Studiare la funzione 𝒰(𝑥) per 𝑥 ∈ ℝ, specificandone eventuali simmetrie, asintoti, massimi o minimi,
+flessi. Quali sono i coefficienti angolari delle tangenti nei punti di flesso?
+4. A partire dal grafico della funzione 𝒰, tracciare il grafico della funzione 𝒰′, specificandone le eventuali
+𝑚
+proprietà di simmetria. Determinare il valore di ∫ 𝒰′(𝑥) 𝑑𝑥 (dove 𝑚 > 0 indica l’ascissa del punto di
+−𝑚
+minimo di 𝒰′).
+QUESITI
+1. Determinare i valori di 𝑎 e 𝑏 in modo che la funzione 𝑔: ℝ − {3} → ℝ
+3 − 𝑎 𝑥2 per 𝑥 ≤ 1
+𝑔(𝑥) = {
+𝑏
+per 𝑥 > 1
+𝑥 − 3
+sia derivabile in tutto il suo dominio. Tracciare i grafici delle funzioni 𝑔 e 𝑔′.
+2. Sia ℛ la regione piana compresa tra l'asse 𝑥 e la curva di equazione 𝑦 = 2𝑒1−|𝑥|. Provare che, tra i rettangoli
+inscritti in ℛ e aventi un lato sull'asse 𝑥, quello di area massima ha perimetro minimo ed è un quadrato.
+3. Una scatola contiene 16 palline numerate da 1 a 16.
+- Se ne estraggono 3, una alla volta, rimettendo ogni volta nella scatola la pallina estratta. Qual è la
+probabilità che il primo numero estratto sia 10 e gli altri due minori di 10?
+- Se ne estraggono 5 contemporaneamente. Qual è la probabilità che il più grande dei numeri estratti sia
+uguale a 13?
+
+--- PAGINA 3 ---
+Pag. 3/3
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+𝑠(𝑥)
+4. Scrivere, giustificando la scelta effettuata, una funzione razionale 𝑦 = , dove 𝑠(𝑥) e 𝑡(𝑥) sono
+𝑡(𝑥)
+polinomi, tale che il grafico della funzione:
+- incontri l'asse 𝑥 nei punti di ascissa −1 e 2 e sia ad esso tangente in quest'ultimo punto;
+- abbia asintoti verticali di equazioni 𝑥 = −3 e 𝑥 = 1;
+- passi per il punto 𝑃(7, 10).
+Rappresentare, qualitativamente, il grafico della funzione trovata.
+5. Si consideri la superficie sferica 𝑆 di equazione 𝑥2 + 𝑦2 + 𝑧2 − 2𝑥 + 6𝑧 = 0.
+- Dopo aver determinato le coordinate del centro e la misura del raggio, verificare che il piano 𝜋 di
+equazione 3𝑥 − 2𝑦 + 6𝑧 + 1 = 0 e la superficie S sono secanti.
+- Determinare il raggio della circonferenza ottenuta intersecando 𝜋 e 𝑆.
+6. Un punto materiale si muove di moto rettilineo, secondo la legge oraria espressa, per 𝑡 ≥ 0, da
+𝑥(𝑡) = 1 𝑡2 ( 1 𝑡 + 2), dove 𝑥(𝑡) indica (in m) la posizione occupata dal punto all’istante 𝑡 (in s). Si tratta
+9 3
+di un moto uniformemente accelerato? Calcolare la velocità media nei primi 9 secondi di moto e
+determinare l’istante in cui il punto si muove a questa velocità.
+7. Una sfera di massa 𝑚 urta centralmente a velocità 𝑣 una seconda sfera, avente massa 3𝑚 ed inizialmente
+ferma.
+a. Stabilire le velocità delle due sfere dopo l'urto, nell'ipotesi che tale urto sia perfettamente elastico.
+b. Stabilire le velocità delle due sfere dopo l'urto, nell'ipotesi che esso sia completamente anelastico.
+Esprimere, in questo caso, il valore dell'energia dissipata.
+8. Un campo magnetico, la cui intensità varia secondo la legge 𝐵(𝑡) = 𝐵 (2 + sen(𝜔𝑡)), dove 𝑡 indica il tempo,
+0
+attraversa perpendicolarmente un circuito quadrato di lato 𝑙. Detta 𝑅 la resistenza presente nel circuito,
+determinare la forza elettromotrice e l’intensità di corrente indotte nel circuito all’istante 𝑡. Specificare le
+unità di misura di tutte le grandezze coinvolte.
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di calcolatrici scientifiche e/o grafiche purché non siano dotate di capacità di calcolo simbolico
+(O.M. n. 350 Art. 18 comma 8).
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.

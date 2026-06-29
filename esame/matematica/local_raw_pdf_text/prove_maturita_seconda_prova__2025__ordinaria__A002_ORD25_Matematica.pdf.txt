@@ -1,0 +1,154 @@
+--- PAGINA 1 ---
+Pag. 1/4
+Sessione ordinaria 2025
+Seconda prova scritta
+Ministero dell’istruzione e del merito
+A002 - ESAME DI STATO CONCLUSIVO DEL SECONDO CICLO DI ISTRUZIONE
+Testo valevole per tutti i seguenti indirizzi:
+LI02, LI03, LI15, LI1S, LI22, LI23, LI31, LI32, LIA2, LIAO,
+LIB2, LIC2, LID2, LII2, LII3, LII4, LIIS, LIS2, EA02, EA10
+Disciplina: MATEMATICA
+Il candidato risolva uno dei due problemi e risponda a 4 quesiti del questionario.
+PROBLEMA 1
+«La ragione non è nulla senza l’immaginazione» - Cartesio
+Dati 𝑟 > 0 e 𝑘 < 0, si considerino la circonferenza 𝐶 , di centro l’origine e raggio 𝑟, e la funzione
+𝑟
+𝑓 (𝑥) = 𝑘|𝑥| .
+𝑘
+a) Verificare che 𝑓 è continua ma non derivabile in 𝑥 = 0 qualunque sia il valore di 𝑘.
+𝑘
+Individuare i due valori di 𝑟 in corrispondenza dei quali 𝐶 delimita con il grafico di 𝑓 , per
+𝑟 𝑘
+opportuni valori di 𝑘, un settore circolare nel semipiano 𝑦 ≤ 0 di area 𝜋 e contorno di
+lunghezza 4 + 𝜋. Stabilito che 𝑟 = 2 è il maggiore di tali valori, in uno stesso riferimento
+cartesiano 𝑂𝑥𝑦, tracciare la circonferenza 𝐶 e il grafico della funzione 𝑓 .
+2 −1
+b) Studiare la funzione 𝑔(𝑥) = √4 − 𝑥2 , specificandone dominio, simmetrie, punti di non
+derivabilità, intervalli di monotonia ed insieme immagine. Verificare che il grafico di 𝑔 coincide
+con la parte di 𝐶 che si trova nel semipiano 𝑦 ≥ 0. Spiegare perché 𝑔 non è invertibile nel
+2
+suo dominio ed esplicitare l’intervallo [𝑎; 𝑏] di ampiezza massima, con 𝑏 > 0, nel quale 𝑔
+ammette una funzione inversa ℎ. Qual è l’espressione analitica di ℎ?
+c) Sia 𝐴 un punto del grafico di 𝑔, situato nel I quadrante, e siano 𝑀 e 𝑅 le sue proiezioni
+ortogonali sugli assi del riferimento. Determinare le coordinate di 𝐴 in modo che il quadrilatero
+𝐴𝑀𝑂𝑅 abbia area massima. Dopo aver verificato che tale quadrilatero è un quadrato,
+dimostrare che è anche quello di perimetro massimo.
+𝑥
+d) Si consideri la funzione 𝐹(𝑥) = ∫ √4 − 𝑡2 𝑑𝑡, con 𝑥 ∈ [−2; 2]. Determinare 𝐹(2) e
+−2
+tracciare un grafico di 𝐹, dopo averne studiato monotonia e concavità. Scrivere, inoltre,
+l’equazione della retta tangente al grafico di 𝐹 nel suo punto di flesso.
+
+--- PAGINA 2 ---
+Pag. 2/4
+Sessione ordinaria 2025
+Seconda prova scritta
+Ministero dell’istruzione e del merito
+A002 - ESAME DI STATO CONCLUSIVO DEL SECONDO CICLO DI ISTRUZIONE
+PROBLEMA 2
+«La bellezza è mescolare, in giuste proporzioni, il finito e l’infinito» - attribuita a Platone
+I grafici 𝛾 e 𝛾 rappresentano, rispettivamente, le funzioni 𝑓 e 𝑔, definite su ℝ, le cui espressioni
+1 2
+analitiche sono
+𝑓(𝑥) = 𝑝(𝑥) ∙ 𝑒𝑝(𝑥) , 𝑔(𝑥) = 𝑞(𝑥) ∙ 𝑒𝑝(𝑥)
+con 𝑝(𝑥) e 𝑞(𝑥) polinomi di secondo grado.
+a) Determinare i polinomi 𝑝(𝑥) e 𝑞(𝑥) utilizzando le informazioni deducibili dai grafici in figura,
+1+√5
+considerando che 𝜑 = è ascissa di un punto stazionario di 𝑓 e che −𝜑, ascissa del
+2
+punto 𝐴, è uno zero di 𝑔.
+b) Posto che 𝑝(𝑥) = 𝑥 − 𝑥2, studiare la funzione 𝑓 specificando l’equazione dell’asintoto, le
+1
+ascisse dei punti stazionari e di flesso. Verificare che la retta di equazione 𝑥 = è asse di
+2
+simmetria per 𝛾 . Determinare l’insieme immagine di 𝑓 e indicare, al variare del parametro
+1
+reale 𝑘, il numero di soluzioni dell’equazione 𝑓(𝑥) = 𝑘.
+c) Stabilito altresì che 𝑞(𝑥) = 1 − 𝑥 − 𝑥2, verificare che 1 è l’ulteriore zero di 𝑔 e che il
+𝜑
+triangolo 𝐴𝐵𝐶 è rettangolo. Dimostrare che 𝛾 e 𝛾 hanno un unico punto di intersezione, del
+1 2
+quale si chiedono le coordinate. Considerati su 𝛾 e 𝛾 , rispettivamente, i punti 𝑃 e 𝑃 aventi
+1 2 1 2
+1
+uguale ascissa 𝑥 ≥ , calcolare la lunghezza massima che può assumere il segmento 𝑃 𝑃 .
+1 2
+2
+d) Calcolare l’area della regione limitata 𝑅 compresa tra 𝛾 , 𝛾 e l’asse delle ordinate. Individuare,
+1 2
+1
+successivamente, il valore di 𝑡 ≥ affinché la retta 𝑥 = 𝑡 delimiti con i due grafici una regione
+2
+𝑅′ equivalente ad 𝑅.
+
+--- PAGINA 3 ---
+Pag. 3/4
+Sessione ordinaria 2025
+Seconda prova scritta
+Ministero dell’istruzione e del merito
+A002 - ESAME DI STATO CONCLUSIVO DEL SECONDO CICLO DI ISTRUZIONE
+QUESITI
+1. Dato un triangolo 𝐴𝐵𝐶, sia 𝑀 il punto medio del lato 𝐵𝐶 e siano 𝐵′ e 𝐶′ due punti,
+rispettivamente, sul lato 𝐴𝐵 e sul lato 𝐴𝐶, in modo tale che 𝐴𝐵′ = 1 𝐴𝐵 e 𝐴𝐶′ = 1 𝐴𝐶.
+3 3
+Dimostrare che, se i segmenti 𝑀𝐵′ e 𝑀𝐶′ sono tra loro congruenti, allora lo sono anche i lati
+𝐴𝐵 e 𝐴𝐶.
+2. Si considerino la superficie sferica di equazione (𝑥 − 1)2 + (𝑦 − 2)2 + 𝑧2 = 1 e il piano 𝜋
+di equazione 𝑥 − 2𝑦 − 2𝑧 + 𝑑 = 0. Discutere, al variare del parametro reale 𝑑, se il piano 𝜋
+è secante, tangente o esterno alla superficie sferica. Determinare il valore del parametro 𝑑 in
+modo che 𝜋 divida la sfera in due parti uguali.
+3. L’opera futurista di Boccioni “Forme uniche della
+continuità nello spazio” del 1913, riportata sulla
+moneta da 20 centesimi, descrive un uomo che
+avanza velocemente nello spazio. Una parte del
+profilo evidenziato in figura, in un opportuno sistema
+di riferimento, può essere approssimato dalla
+funzione
+−4𝑥2 − 8𝑥, − 1 ≤ 𝑥 ≤ 0
+𝑓(𝑥) = {
+3
+1 + tan (𝑥 + 𝜋) , 0 < 𝑥 ≤ 2
+4
+Tracciare il grafico di 𝑓, dopo averne analizzato la
+continuità e la derivabilità nell’intervallo [−1; 2].
+4. Assegnata una funzione 𝑔, derivabile in ℝ e tale che 𝑔 ( 𝜋 ) = 𝑔′ ( 𝜋 ) = 2, determinare
+4 4
+l’equazione della retta normale alla curva 𝑦 = 𝑔(𝑥) 𝑠𝑒𝑛2𝑥 nel suo punto di ascissa 𝜋 .
+4
+5. Determinare il valore del parametro reale 𝑘 in modo che le due curve 𝑦 = 𝑒𝑥, 𝑦 = 6 − 𝑘𝑒−𝑥
+risultino tangenti tra loro, individuando le coordinate del punto di contatto.
+6. Scrivere una funzione polinomiale 𝑓 in modo tale che la retta di equazione 𝑦 = 2𝑥 + 3 sia
+3
+tangente al grafico di 𝑓 nel suo punto di ascissa 0 e si abbia ∫ 𝑓(𝑥)𝑑𝑥 = 9.
+0
+
+--- PAGINA 4 ---
+Pag. 4/4
+Sessione ordinaria 2025
+Seconda prova scritta
+Ministero dell’istruzione e del merito
+A002 - ESAME DI STATO CONCLUSIVO DEL SECONDO CICLO DI ISTRUZIONE
+7. Siccome mi sembrava che per puro caso alcuni fatti fossero avvenuti così com’erano stati
+predetti dagl’indovini, tu hai parlato a lungo del caso, e hai detto, per esempio, che si può
+ottenere il “colpo di Venere” lanciando a caso quattro dadi […].
+Cicerone, De divinatione, II, 21, 48 - traduzione e cura di S. Timpanaro, Garzanti, Milano 1999.
+Testo originale - Nam cum mihi quaedam casu viderentur sic evenire ut praedicta essent a
+divinantibus, dixisti multa de casu, ut Venerium iaci posse casu quattuor talis iactis […].
+Cicerone, nel dialogo con il fratello Quinto, parla del colpo di Venere, che consiste nel lanciare
+4 dadi a 4 facce ottenendo 4 risultati diversi. Supponendo che le facce di ciascun dado siano
+equiprobabili, determinare:
+- la probabilità di ottenere il colpo di Venere nel lancio di 4 dadi;
+- la probabilità di ottenere 4 numeri tutti uguali.
+8. Quanti sono gli anagrammi, anche senza significato, della parola “STUDIARE”? In quanti di
+tali anagrammi si può leggere consecutivamente la parola “ARTE”, come ad esempio in
+“SUARTEDI”?
+Quanti sono gli anagrammi, anche senza significato, della parola “VACANZA”?
+«La matematica non conosce razze o confini geografici;
+per la matematica, il mondo culturale è una singola nazione»
+D. Hilbert
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di calcolatrici scientifiche o grafiche purché non siano dotate della capacità di elaborazione simbolica
+algebrica e non abbiano la disponibilità di connessione a Internet.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di
+madrelingua non italiana. Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla consegna della traccia.

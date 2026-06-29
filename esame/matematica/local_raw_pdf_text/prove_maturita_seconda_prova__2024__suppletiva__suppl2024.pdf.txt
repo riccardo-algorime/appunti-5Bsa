@@ -1,0 +1,121 @@
+--- PAGINA 1 ---
+Pag. 1/3
+Sessione suppletiva 2024
+Seconda prova scritta
+Ministero dell’istruzione e del merito
+A002 - ESAME DI STATO CONCLUSIVO DEL SECONDO CICLO DI ISTRUZIONE
+Testo valevole per tutti i seguenti indirizzi:
+LI02, LI03, LI15, LI1S, LI22, LI23, LI31, LI32, LIA2, LIAO,
+LIB2, LIC2, LID2, LII2, LII3, LII4, LIIS, LIS2, EA02, EA10
+Disciplina: MATEMATICA
+Il candidato risolva uno dei due problemi e risponda a 4 quesiti del questionario.
+PROBLEMA 1
+𝐴(𝑥)
+Si consideri il grafico 𝛾 in figura, rappresentativo di una funzione 𝑓(𝑥) = , dove 𝐴(𝑥) e 𝐵(𝑥)
+𝐵(𝑥)
+sono dei polinomi, definita nel dominio 𝐷 = (−∞; 0) ∪ (0; 2) ∪ (2; +∞).
+
+--- PAGINA 2 ---
+Pag. 2/3
+Sessione suppletiva 2024
+Seconda prova scritta
+Ministero dell’istruzione e del merito
+A002 - ESAME DI STATO CONCLUSIVO DEL SECONDO CICLO DI ISTRUZIONE
+Testo valevole per tutti i seguenti indirizzi:
+LI02, LI03, LI15, LI1S, LI22, LI23, LI31, LI32, LIA2, LIAO,
+LIB2, LIC2, LID2, LII2, LII3, LII4, LIIS, LIS2, EA02, EA10
+Disciplina: MATEMATICA
+a) Analizzando il grafico, si deducano lo zero, l’insieme immagine e gli estremi relativi di 𝑓.
+𝑓(𝑥)
+Determinare i valori dei limiti agli estremi del dominio e i valori di lim e lim (𝑓(𝑥) − 𝑥).
+𝑥→±∞ 𝑥 𝑥→±∞
+Scrivere le equazioni degli asintoti di 𝑓.
+b) Supponendo che la funzione 𝑓 abbia equazione
+𝑎(𝑥−𝑏)2(𝑥−𝑐)
+𝑦 =
+𝑥(𝑥−𝑑)
+determinare i valori dei parametri 𝑎, 𝑏, 𝑐, 𝑑.
+c) Dal grafico 𝛾, dedurre i grafici delle funzioni 𝑓(|𝑥|) e ln(𝑓(𝑥)) specificando, per ciascuna,
+dominio, asintoti, estremi e insieme immagine.
+𝑥
+d) Si consideri la funzione 𝐹(𝑥) = ∫ 𝑓 (𝑡)𝑑𝑡, definita nell’intervallo [3; 8]. Tracciare un suo grafico
+3
+rappresentativo 𝛤, specificando l’ascissa del punto di flesso e il coefficiente angolare della retta
+tangente in tale punto.
+PROBLEMA 2
+𝑥2−1
+Si consideri la famiglia di curve 𝑓 (𝑥) = , con 𝑎 parametro reale non nullo, e si indichi con 𝛤 il
+𝑎 𝑒𝑎𝑥 𝑎
+grafico di 𝑓 .
+𝑎
+a) Verificare che tutti i grafici 𝛤 hanno tre punti in comune e scrivere le loro coordinate.
+𝑎
+b) Al variare del parametro 𝑎, individuare gli intervalli di monotonia di 𝛤 , le ascisse degli estremi
+𝑎
+relativi e dei flessi.
+c) Determinare i valori del parametro 𝑎 in modo che il punto 𝐹, intersezione di 𝛤 con l’asse delle
+𝑎
+ordinate, sia un punto di flesso. In corrispondenza di tali valori, scrivere le equazioni delle rette
+tangenti in 𝐹.
+d) Dimostrare che, per ogni valore di 𝑎 ≠ 0, le curve 𝛤 e 𝛤 sono simmetriche tra loro rispetto
+𝑎 −𝑎
+all’asse delle ordinate. Determinare l’area della regione finita di piano delimitata dai grafici 𝛤 e
+1
+𝛤 .
+−1
+
+--- PAGINA 3 ---
+Pag. 3/3
+Sessione suppletiva 2024
+Seconda prova scritta
+Ministero dell’istruzione e del merito
+A002 - ESAME DI STATO CONCLUSIVO DEL SECONDO CICLO DI ISTRUZIONE
+Testo valevole per tutti i seguenti indirizzi:
+LI02, LI03, LI15, LI1S, LI22, LI23, LI31, LI32, LIA2, LIAO,
+LIB2, LIC2, LID2, LII2, LII3, LII4, LIIS, LIS2, EA02, EA10
+Disciplina: MATEMATICA
+QUESITI
+1. È dato un triangolo 𝐴𝐵𝐶 di lati 𝐴𝐵 = 𝑎 e 𝐵𝐶 = √3𝑎. Quale delle seguenti affermazioni è corretta?
+- Se 𝐴𝐶̂𝐵 = 𝜋 , allora il triangolo è rettangolo;
+6
+- Se il triangolo è rettangolo, allora 𝐴𝐶̂𝐵 = 𝜋 .
+6
+Motivare le risposte.
+2. In un salvadanaio ci sono 15 monete, di cui 9 sono da 1 euro e le altre 6 da 2 euro. Se ne
+estraggono 6 contemporaneamente.
+- Qual è la probabilità che il valore totale delle monete estratte sia esattamente 10 euro?
+- Qual è la probabilità che il valore totale delle monete estratte sia al massimo 10 euro?
+3. Verificare che i punti 𝑂(0,0,0), 𝐴(1,4,8), 𝐵(−6,0,12) e 𝐶(−7, −4,4) sono complanari. Calcolare
+area e perimetro del quadrilatero 𝑂𝐴𝐵𝐶 e classificarlo.
+𝑎𝑥−7
+4. Determinare il dominio della funzione 𝑓(𝑥) = ln ( ), con 𝑎 parametro reale positivo.
+𝑥2
+Successivamente, individuare il valore di 𝑎 in corrispondenza del quale risultano soddisfatte le
+ipotesi del teorema di Rolle nell’intervallo [1; 7] e le coordinate del punto che ne verifica la tesi.
+𝑎𝑥2+𝑏𝑥+3
+5. Determinare i valori dei parametri reali 𝑎 e 𝑏 della funzione 𝑓(𝑥) = in modo che essa
+2𝑥2+5𝑥−1
+abbia la retta 𝑦 = 2 come asintoto orizzontale e un punto stazionario per 𝑥 = 1. In
+corrispondenza dei valori trovati, stabilire se 𝑓(𝑥) presenta ulteriori asintoti.
+6. In un sistema di assi cartesiani 𝑂𝑥𝑦, si consideri l’iperbole equilatera di equazione 𝑥𝑦 = 𝑘, con
+𝑘 parametro reale non nullo. Sia 𝑡 la retta tangente all’iperbole in un suo punto 𝑃. Detti 𝐴 e 𝐵 i
+punti in cui 𝑡 interseca gli assi del riferimento, dimostrare che i triangoli 𝐴𝑃𝑂 e 𝐵𝑃𝑂 sono
+equivalenti e che la loro area non dipende dalla scelta di 𝑃.
+7. Un resistore di resistenza 𝑅 è percorso da una corrente variabile nel tempo di intensità
+𝑎
+𝐼(𝑡) = 𝐼 , con 𝑡 > 0 e le costanti positive 𝐼 e 𝑎 espresse, rispettivamente, in ampère e in
+0 0
+𝑡
+secondi. Sapendo che la potenza dissipata nel resistore per effetto Joule è 𝑃(𝑡) = 𝑅𝐼2(𝑡),
+determinarne il valor medio nell’intervallo [2𝑎; 3𝑎].
+8. Scrive Leonardo Sinisgalli, in un brano tratto da Furor Mathematicus: «Avevo in mente un
+capitolo sulle leggi del caso: volevo trovare le parentele tra il triangolo di Tartaglia, relativo ai
+coefficienti del polinomio (𝑎 + 𝑏)𝑛 e il triangolo aritmetico di Pascal, che ci dà la probabilità di
+fare 𝑚 volte croce in 𝑛 partite giuocate a testa e croce».
+Descrivere il legame esistente tra i coefficienti binomiali ed il calcolo delle probabilità.
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di calcolatrici scientifiche o grafiche purché non siano dotate della capacità di elaborazione simbolica
+algebrica e non abbiano la disponibilità di connessione a Internet.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di
+madrelingua non italiana. Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla consegna della traccia.

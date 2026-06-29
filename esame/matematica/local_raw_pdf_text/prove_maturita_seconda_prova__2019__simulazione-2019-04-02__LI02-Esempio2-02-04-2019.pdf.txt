@@ -1,0 +1,144 @@
+--- PAGINA 1 ---
+Pag. 1/4
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: LI02, EA02 – SCIENTIFICO
+LI03 - SCIENTIFICO - OPZIONE SCIENZE APPLICATE
+LI15 - SCIENTIFICO - SEZIONE AD INDIRIZZO SPORTIVO
+(Testo valevole anche per le corrispondenti sperimentazioni internazionali e quadriennali)
+Tema di: MATEMATICA e FISICA
+Il candidato risolva uno dei due problemi e risponda a 4 quesiti.
+PROBLEMA 1
+Due fili rettilinei paralleli vincolati a rimanere nella loro posizione, distanti 1 m l’uno dall’altro e di lunghezza
+indefinita, sono percorsi da correnti costanti di pari intensità ma verso opposto; si indichi con i l’intensità di
+corrente, espressa in ampere (A). Si consideri un piano perpendicolare ai due fili sul quale è fissato un sistema
+di riferimento ortogonale Oxy, dove le lunghezze sono espresse in metri (m), in modo che i due fili passino
+uno per l’origine O e l’altro per il punto 𝐷(1, 0), come mostrato in figura.
+Verso della corrente uscente dalla pagina Verso della corrente entrante nella pagina
+1. Verificare che l’intensità del campo magnetico 𝐵⃗ , espresso in tesla (T), in un punto 𝑃(𝑥, 0), con
+1 1
+0 < 𝑥 < 1, è data dalla funzione 𝐵(𝑥) = 𝐾 ( + ), dove 𝐾 è una costante positiva della quale si
+𝑥 1−𝑥
+richiede l’unità di misura. Stabilire quali sono la direzione e il verso del vettore 𝐵⃗ al variare di 𝑥
+nell’intervallo (0, 1). Per quale valore di 𝑥 l’intensità di 𝐵⃗ è minima?
+2. Nella zona di spazio sede del campo 𝐵⃗ , una carica puntiforme q transita, ad un certo istante, per il punto
+1 1
+𝐶 ( , 0), con velocità di modulo 𝑣 nella direzione della retta di equazione 𝑥 = . Descriverne il moto
+0
+2 2
+in presenza del solo campo magnetico generato dalle due correnti, giustificando le conclusioni.
+Stabilire intensità, direzione e verso del campo magnetico 𝐵⃗ nei punti dell’asse 𝑥 esterni al segmento
+𝑂𝐷. Esistono punti sull’asse 𝑥 dove il campo magnetico 𝐵⃗ è nullo?
+1 1
+3. Indipendentemente da ogni riferimento alla fisica, studiare la funzione 𝑓(𝑥) = 𝐾 ( + ) dimostrando,
+𝑥 1−𝑥
+in particolare, che il grafico di tale funzione non possiede punti di flesso. Scrivere l’equazione della retta
+1
+𝑟 tangente al grafico di 𝑓 nel suo punto di ascissa e determinare le coordinate dell’ulteriore punto
+3
+d’intersezione tra 𝑟 e il grafico di 𝑓.
+
+--- PAGINA 2 ---
+Pag. 2/4
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+4. Calcolare il valore dell’integrale
+3/4
+∫ 𝑓(𝑥) 𝑑𝑥
+1/4
+ed interpretare geometricamente il risultato ottenuto. Esprimere, per 𝑡 ≥ 2, l’integrale
+𝑡
+𝑔(𝑡) = ∫ |𝑓(𝑥)| 𝑑𝑥
+2
+e calcolare lim 𝑔(𝑡). Qual è il significato di tale limite?
+𝑡→+∞
+PROBLEMA 2
+Assegnato un numero reale positivo 𝑘, considerare le funzioni 𝑓 e 𝑔 così definite:
+𝑓(𝑥) = √𝑥 (𝑘 − 𝑥) 𝑔(𝑥) = 𝑥2(𝑥 − 𝑘).
+1. Provare che, qualunque sia 𝑘 > 0, nell’intervallo [0, 𝑘] il grafico di 𝑓 ha un unico punto di massimo
+𝐹(𝑥 , 𝑦 ) ed il grafico di 𝑔 ha un unico punto di minimo 𝐺(𝑥 , 𝑦 ). Verificare che si ha 𝑥 = 2𝑥
+𝐹 𝐹 𝐺 𝐺 𝐺 𝐹
+e 𝑦 = −(𝑦 )2.
+𝐺 𝐹
+2. Verificare che, qualunque sia 𝑘 > 0, i grafici delle due funzioni sono ortogonali nell’origine, vale a dire
+che le rispettive rette tangenti in tale punto sono tra loro ortogonali. Determinare per quale valore
+positivo di 𝑘 i due grafici si intersecano ortogonalmente anche nel loro ulteriore punto comune.
+D’ora in avanti, assumere 𝑘 = 1. In un riferimento cartesiano, dove le lunghezze sono espresse in metri
+(m), l’unione degli archi di curva di equazioni 𝑦 = 𝑓(𝑥) e 𝑦 = 𝑔(𝑥), per 𝑥 ∈ [0, 1], rappresenta il profilo
+di una spira metallica. Sia 𝑆 la regione piana delimitata da tale spira.
+3. Supponendo che nella regione 𝑆 sia presente un campo magnetico uniforme, perpendicolare al piano di
+𝑆, avente intensità 𝐵 = 2,0 ∙ 10−2 T, verificare che il valore assoluto del flusso di tale campo attraverso
+0
+𝑆 è pari a 7,0 ∙ 10−3 Wb.
+4. Supporre che la spira abbia resistenza elettrica 𝑅 pari a 70 Ω e che il campo magnetico, rimanendo
+perpendicolare al piano di 𝑆, a partire dall’istante 𝑡 = 0 s, inizi a variare secondo la legge:
+0
+𝐵(𝑡) = 𝐵 𝑒−𝜔𝑡 cos(𝜔𝑡), con 𝜔 = 𝜋 rad/s
+0
+e 𝑡 ≥ 0 espresso in secondi (s). Esprimere l’intensità della corrente indotta nella spira in funzione di 𝑡,
+specificando in quale istante per la prima volta la corrente cambia verso.
+Qual è il valore massimo di tale corrente per 𝑡 ≥ 0 ? Spiegare quale relazione esiste tra la variazione del
+campo che induce la corrente e il verso della corrente indotta.
+
+--- PAGINA 3 ---
+Pag. 3/4
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+QUESITI
+(𝑘−1)𝑥3+𝑘𝑥2−3
+1. Assegnato 𝑘 ∈ ℝ, si consideri la funzione così definita: 𝑔(𝑥) = .
+𝑥−1
+▪ Come va scelto il valore di 𝑘 affinché il grafico di 𝑔 non abbia asintoti?
+▪ Come va scelto il valore di 𝑘 affinché il grafico di 𝑔 abbia un asintoto obliquo?
+Giustificare le risposte e rappresentare, nei due casi, i grafici delle funzioni ottenute.
+2. Sia 𝑓 una funzione pari e derivabile in ℝ, sia 𝑔 una funzione dispari e derivabile in ℝ. Dimostrare che
+la funzione 𝑓′ è dispari e che la funzione 𝑔′ è pari. Fornire un esempio per la funzione 𝑓 ed un esempio
+per la funzione 𝑔, verificando quanto sopra.
+3. Si consideri la funzione 𝑓: (0, +∞) → ℝ così definita:
+𝑥 𝜋
+cos ( 𝑡)
+3
+𝑓(𝑥) = ∫ 𝑑𝑡
+𝑡
+1
+Determinare l’equazione della retta tangente al grafico di 𝑓 nel suo punto di ascissa 1.
+4. Nello spazio tridimensionale, sia 𝑟 la retta passante per i punti 𝐴(−2, 0, 1) e 𝐵(0, 2, 1). Determinare
+le coordinate di un punto appartenente alla retta 𝑟 che sia equidistante rispetto ai punti 𝐶(5, 1, −2) e
+𝐷(1, 3, 4).
+5. Emma fa questo gioco: lancia un dado con facce numerate da 1 a 6; se esce il numero 3 guadagna 3
+punti, altrimenti perde 1 punto. Il punteggio iniziale è 0.
+▪ Qual è la probabilità che, dopo 4 lanci, il suo punteggio sia ancora 0?
+▪ Qual è la probabilità che, in una sequenza di 6 lanci, il punteggio non scenda mai sotto lo 0?
+6. Ai vertici di un quadrato 𝐴𝐵𝐶𝐷, di lato 2 m, sono fissate quattro cariche elettriche. La carica in 𝐴 è pari
+a 9 nC, la carica in 𝐵 è pari a 2 nC, la carica in 𝐶 è pari a 4 nC, la carica in 𝐷 è pari a −3 nC. Supponendo
+che le cariche si trovino nel vuoto, determinare intensità, direzione e verso del campo elettrostatico
+generato dalle quattro cariche nel centro del quadrato.
+7. Un protone, inizialmente in quiete, viene accelerato da una d.d.p. di 400 V ed entra, successivamente, in
+una regione che è sede di un campo magnetico uniforme e perpendicolare alla sua velocità.
+La figura illustra un tratto semicircolare della traiettoria descritta dal
+protone (i quadretti hanno lato 1,00 m). Determinare l’intensità di 𝐵⃗ .
+
+--- PAGINA 4 ---
+Pag. 4/4
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+8. Si vuole ottenere l'emissione di elettroni da lastre metalliche di materiali diversi su cui incide una
+radiazione di frequenza 7,80 ∙ 1014 Hz. Determinare, motivando la risposta, quale tra i materiali in
+elenco è l’unico adatto allo scopo.
+Materiale Lavoro di estrazione
+Argento 4,8 eV
+Cesio 1,8 eV
+Platino 5,3 eV
+Individuato il materiale da utilizzare, determinare la velocità massima che può avere un elettrone al
+momento dell'emissione.
+COSTANTI FISICHE
+carica elementare e 1,602 ∙ 10−19 C
+costante di Planck h 6,626 ∙ 10−34 J · s
+costante dielettrica nel vuoto 𝜀 8,854 ∙ 10−12 F/m
+0
+massa dell’elettrone m 9,109 ∙ 10−31 kg
+e
+massa del protone m 1,673 ∙ 10−27 kg
+p
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di calcolatrici scientifiche e/o grafiche purché non siano dotate di capacità di calcolo simbolico
+(O.M. n. 350 Art. 18 comma 8).
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.

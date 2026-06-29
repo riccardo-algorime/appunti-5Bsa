@@ -2,9 +2,9 @@
 
 ## Fonti usate
 
-- Fonte madre: [`ITA_FINAL_2.md`](<../studio/disordinato%28gioele%29/ITA_FINAL_2.md>).
-- Integrazioni su *A se stesso*, *La ginestra*, parafrasi e blocchi più estesi: [`ITA2_finale.md`](<../studio/disordinato%28gioele%29/ITA2_finale.md>).
-- Controllo del contesto classicisti/romantici: [`Il Contesto Culturale_ Classicisti e Romantici.md`](<../studio/disordinato%28gioele%29/Il Contesto Culturale_ Classicisti e Romantici.md>).
+- Fonte madre: [`ITA_FINAL_2.md`](<../../studio/disordinato%28gioele%29/ITA_FINAL_2.md>).
+- Integrazioni su *A se stesso*, *La ginestra*, parafrasi e blocchi più estesi: [`ITA2_finale.md`](<../../studio/disordinato%28gioele%29/ITA2_finale.md>).
+- Controllo del contesto classicisti/romantici: [`Il Contesto Culturale_ Classicisti e Romantici.md`](<../../studio/disordinato%28gioele%29/Il Contesto Culturale_ Classicisti e Romantici.md>).
 
 > **Nota di metodo**  
 > Questa scheda riordina i materiali disordinati in una forma studiabile: non è un riassunto veloce, ma una guida completa per preparare il capitolo Leopardi all’orale. Le opere sono sempre trattate con: **contesto**, **contenuto**, **temi**, **stile**, **perché conta**, **cosa dire all’orale**.

@@ -2,8 +2,8 @@
 
 ## Fonti usate
 
-- Fonte madre: [`PASOLINI_Studio_Completo.md`](<../studio/disordinato%28gioele%29/PASOLINI_Studio_Completo.md>).
-- Integrazioni mirate: [`APPUNTI-PASOLINI-MEGA.md`](<../studio/disordinato%28gioele%29/APPUNTI-PASOLINI-MEGA.md>), usato soprattutto per **poesia friulana**, **testi scolastici**, **Le ceneri di Gramsci**, **Ragazzi di vita**, **La ricotta**, **Il PCI ai giovani!**.
+- Fonte madre: [`PASOLINI_Studio_Completo.md`](<../../studio/disordinato%28gioele%29/PASOLINI_Studio_Completo.md>).
+- Integrazioni mirate: [`APPUNTI-PASOLINI-MEGA.md`](<../../studio/disordinato%28gioele%29/APPUNTI-PASOLINI-MEGA.md>), usato soprattutto per **poesia friulana**, **testi scolastici**, **Le ceneri di Gramsci**, **Ragazzi di vita**, **La ricotta**, **Il PCI ai giovani!**.
 
 > **Nota sulle fonti**  
 > Questa scheda usa solo i due materiali indicati sopra. Non usa lo `schema.md` delle lezioni. Quando un argomento richiesto dal programma non è sviluppato nei materiali assegnati, viene segnalato esplicitamente come **materiale insufficiente**, senza aggiungere ricostruzioni esterne.

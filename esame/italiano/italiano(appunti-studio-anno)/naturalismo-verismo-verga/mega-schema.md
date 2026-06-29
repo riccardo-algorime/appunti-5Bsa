@@ -2,8 +2,8 @@
 
 ## Fonti usate
 
-- Fonte madre: [APPUNTI-NATURALISMO-VERISMO-VERGA-MEGA.md](../studio/disordinato%28gioele%29/APPUNTI-NATURALISMO-VERISMO-VERGA-MEGA.md)
-- Fonte di controllo e chiarimento teorico: [Naturalismo, Verismo e Giovanni Verga.md](../studio/disordinato%28gioele%29/Naturalismo%2C%20Verismo%20e%20Giovanni%20Verga.md)
+- Fonte madre: [APPUNTI-NATURALISMO-VERISMO-VERGA-MEGA.md](../../studio/disordinato%28gioele%29/APPUNTI-NATURALISMO-VERISMO-VERGA-MEGA.md)
+- Fonte di controllo e chiarimento teorico: [Naturalismo, Verismo e Giovanni Verga.md](../../studio/disordinato%28gioele%29/Naturalismo%2C%20Verismo%20e%20Giovanni%20Verga.md)
 
 > **Nota di metodo**  
 > Questa scheda ricompone e ordina i materiali disordinati indicati nelle fonti. Non è pensata come riassunto veloce: è una scheda completa da usare per sostituire gli appunti sparsi nello studio del capitolo su Positivismo, Naturalismo, Verismo e Verga.

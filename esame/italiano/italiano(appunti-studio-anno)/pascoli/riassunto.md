@@ -371,3 +371,10 @@ flowchart TD
     E1 --> F1[Arano, Lavandare, X Agosto, Temporale]
     E2 --> F2[Nebbia, L'assiuolo, Il gelsomino notturno, La tovaglia]
 ```
+
+---
+
+## Saggio critico da ricordare
+
+- **M. Santagata, *Un piccolo Io*:** Pascoli va contrapposto al gigantismo dannunziano. Il suo io poetico non si espande eroicamente nel mondo, ma si ritrae nel nido, nelle piccole cose, nei simboli minimi e nelle ferite familiari.
+

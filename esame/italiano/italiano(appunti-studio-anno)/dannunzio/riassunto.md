@@ -231,3 +231,11 @@ flowchart TD
 **Con il Fascismo**: il fascismo attinge dal repertorio dannunziano — il saluto, l'"Eia Eia Alalà", il "Memento Audere Semper". Ma D'Annunzio non è propriamente fascista: è un "anarca" superomista che si sente superiore alla politica, in un rapporto di reciproca diffidenza con Mussolini.
 
 **Con Ungaretti**: D'Annunzio considera l'aspetto eroico e glorioso della guerra; Ungaretti, che pure è interventista all'inizio, racconta dalla trincea la sofferenza e la solitudine. Sono due visioni complementari della stessa esperienza.
+
+---
+
+## Checklist dei materiali del programma
+
+- ***Quel nome!* da *Il piacere*:** brano da collegare al culto della parola, dell'immagine sociale e della seduzione estetica di Andrea Sperelli.
+- ***D’Annunzio, l’amante guerriero*:** documentario da usare per collegare vita inimitabile, mito pubblico, guerra, Fiume, Vittoriale e costruzione spettacolare dell'io.
+

@@ -345,3 +345,15 @@ Che il piacere sta nell’attesa, non nel possesso. Il sabato è la giovinezza; 
 
 **Perché *La ginestra* è il testamento di Leopardi?**  
 Perché riassume critica del progresso, anti-antropocentrismo, natura nemica, rifiuto delle illusioni e proposta della social catena. La ginestra è fragile ma dignitosa: come l’uomo, resiste senza superbia.
+
+---
+
+## Checklist dei passi indicati dal programma
+
+- ***Zibaldone*, teoria del piacere (165-172):** il piacere desiderato dall'uomo è infinito, ma i piaceri reali sono finiti; da qui nasce l'insoddisfazione strutturale.
+- ***Zibaldone*, parole poetiche (1798):** sono poetiche le parole vaghe, antiche, indefinite, capaci di aprire immaginazione e memoria.
+- ***Zibaldone*, suoni indefiniti (4293):** rumori lontani, echi e suoni non localizzabili producono piacere perché lasciano spazio all'immaginazione.
+- ***Zibaldone*, doppia visione (4418):** il poeta vede insieme la realtà concreta e l'immagine interiore che la fantasia sovrappone.
+- ***Zibaldone*, giardino fiorito (4177):** anche nel luogo apparentemente più bello domina la sofferenza naturale: ogni essere vive a danno di altri.
+- ***Il giovane favoloso* di M. Martone:** da ricordare come supporto biografico e visivo, soprattutto per Recanati, la tensione verso la vita e la recitazione finale della *Ginestra*.
+

@@ -280,3 +280,10 @@ L'esercizio pratico svolto in classe mostra come le regole del *Manifesto tecnic
 7. Aggiungere onomatopee, disegni, linee e variazioni grafiche.
 
 Il risultato è una pagina in cui il significato non dipende più solo dalla frase ordinata, ma da suono, immagine, posizione, ritmo e analogia: cioè dalla trasformazione della poesia in oggetto visivo e dinamico.
+
+---
+
+## Testo del programma da ricordare
+
+- ***Lettera contro i professori*:** testo da collegare al rifiuto futurista della scuola tradizionale, del culto del passato e dell'autorità culturale accademica.
+

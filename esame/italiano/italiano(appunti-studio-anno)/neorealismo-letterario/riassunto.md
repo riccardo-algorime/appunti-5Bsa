@@ -261,3 +261,11 @@ flowchart LR
     C --> J[Da documentare a esprimere]
     E --> K[Langhe, Liguria, Sicilia, Romagna]
 ```
+
+---
+
+## Titoli esatti del programma
+
+- **B. Fenoglio, *Una partita di verità* da *Una questione privata*:** va collegato al nodo Milton-Fulvia-Giorgio, alla guerra partigiana e alla verità privata che invade la Storia.
+- **C. Pavese, *Ci sono giorni…* da *La casa in collina*:** da collegare alla crisi morale dell'intellettuale davanti alla guerra, alla colpa di chi resta ai margini e al tema della responsabilità.
+

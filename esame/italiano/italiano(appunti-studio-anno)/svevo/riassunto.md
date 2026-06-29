@@ -222,3 +222,14 @@ flowchart TD
 - *La coscienza di Zeno*, **Storia del mio matrimonio**: Ada, Alberta, Augusta, salute malata.
 - *La coscienza di Zeno*, **funerale di Guido**: atto mancato e inconscio.
 - *La coscienza di Zeno*, **Psicanalisi / finale**: vita come malattia, civiltà malata, ordigno, apocalisse o palingenesi.
+
+---
+
+## Titoli esatti dei brani del programma
+
+- ***Le ali del gabbiano* da *Una vita*:** Alfonso Nitti sogna un'elevazione impossibile; il titolo rimanda al desiderio di fuga e alla sua inettitudine.
+- ***La scoperta del tradimento* da *Senilità*:** Emilio scopre il tradimento e rivela la propria autoillusione sentimentale.
+- ***Una strana proposta di matrimonio* da *La coscienza di Zeno*:** va collegata alla sequenza Ada-Alberta-Augusta e al caso che guida la vita di Zeno.
+- ***La morte e lo schiaffo del padre* da *La coscienza di Zeno*:** coincide con il nucleo della morte del padre: lo schiaffo ambiguo è filtrato dal senso di colpa di Zeno e mostra l'inaffidabilità della coscienza.
+- ***La profezia di un'apocalisse cosmica*:** il finale allarga la malattia individuale alla civiltà intera, fino all'immagine dell'ordigno e della distruzione finale.
+

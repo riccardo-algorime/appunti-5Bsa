@@ -72,7 +72,8 @@ Raccolta di appunti e materiali scolastici.
 │   │   ├── scienze.md
 │   │   └── storia.md
 │   └── storia/
-│       └── materiale/
+│       ├── materiale/
+│       └── TRASCRIZIONI-MANCANTI.md
 ├── fisica/
 │   └── materiali/
 │       ├── appunti-bea.md

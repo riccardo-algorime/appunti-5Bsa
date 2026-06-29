@@ -682,3 +682,12 @@ Se all’orale chiedono “Parlami di Pasolini”, puoi seguire questa sequenza:
 
 > **Chiusura forte**  
 > Pasolini resta attuale perché ha capito che il potere moderno non agisce solo con la violenza politica, ma attraverso consumi, immagini, desideri, linguaggi e corpi. La sua opera denuncia la perdita delle differenze e la trasformazione del popolo in massa omologata.
+
+---
+
+## Checklist dei nuclei del programma
+
+- **Leopardi-Pasolini: poeti civili:** entrambi smascherano le illusioni del proprio tempo; Leopardi critica il mito del progresso ottocentesco, Pasolini lo sviluppo consumistico del boom.
+- **Essere e apparire:** Pasolini denuncia una società in cui l'apparenza televisiva e borghese sostituisce l'identità reale dei corpi, dei dialetti e delle culture popolari.
+- **Sviluppo e progresso:** il progresso è miglioramento umano e sociale; lo sviluppo è crescita economica e consumistica che produce omologazione.
+

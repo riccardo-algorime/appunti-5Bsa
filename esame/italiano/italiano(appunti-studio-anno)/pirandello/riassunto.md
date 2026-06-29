@@ -417,3 +417,12 @@ mindmap
 ```
 
 Pirandello mostra che l'uomo non possiede un'identità unica: vive dentro forme sociali necessarie ma soffocanti, indossa maschere, viene definito dagli sguardi altrui e non può raggiungere una verità oggettiva stabile. L'umorismo nasce proprio da questa frattura: ciò che sembra comico rivela una sofferenza. Le novelle, i romanzi e il teatro portano sempre allo stesso nodo: la Vita è flusso, la Forma è prigione, e l'uomo moderno è costretto a oscillare tra il bisogno di una maschera e il desiderio impossibile di liberarsene.
+
+---
+
+## Titoli esatti dei testi del programma
+
+- ***Pascal porta i fiori alla propria tomba* (cap. XVIII):** momento conclusivo del *Fu Mattia Pascal*, in cui il protagonista prende atto di essere socialmente morto.
+- ***Il naso* da *Uno, nessuno e centomila*:** Moscarda scopre che gli altri lo vedono diversamente da come lui si immagina; da qui nasce la crisi dell'identità.
+- ***Nessun nome* da *Uno, nessuno e centomila*:** approdo finale alla dissoluzione dell'identità personale e al rifiuto di una forma stabile.
+

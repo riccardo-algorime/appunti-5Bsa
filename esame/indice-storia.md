@@ -2,6 +2,9 @@
 
 Indice operativo dei materiali di Storia per l'esame. Il confronto è fatto su [programma/storia.md](<programma/storia.md>) e sul programma ufficiale nel PDF di classe [5B sa.pdf](<programma/5B sa.pdf>), controllando i materiali di Storia dal file [STORIA-3.1.md](<storia/materiale/STORIA-3.1.md>) fino al file [STORIA-3.12.md](<storia/materiale/STORIA-3.12.md>) e le relative schede di studio.
 
+> **Lista recupero trascrizioni mancanti:** [storia/TRASCRIZIONI-MANCANTI.md](<storia/TRASCRIZIONI-MANCANTI.md>).  
+> Contiene l'elenco completo dei capitoli/fonti da recuperare dal libro: Volume 2 cap. 15-19, Volume 3 cap. 13-15 e 21, dossier Shoah, F14 e F16. Nota importante: il programma dice esplicitamente che i cap. 13-15 sono stati svolti per nuclei fondanti tramite presentazioni QR.
+
 ## Quadro materiali presenti
 
 ### Programma

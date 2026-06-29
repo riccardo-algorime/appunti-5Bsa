@@ -151,3 +151,10 @@ mindmap
       Paisà → Montaldo → Viganò
       Modello per Calvino, Pavese, Fenoglio
 ```
+
+---
+
+## Riferimento critico da ricordare
+
+- **Intervista/dibattito sul Neorealismo di P. P. Pasolini:** serve per spiegare che il Neorealismo non è semplice fotografia della realtà; ogni mezzo e ogni autore trasformano la realtà attraverso uno sguardo e una forma.
+

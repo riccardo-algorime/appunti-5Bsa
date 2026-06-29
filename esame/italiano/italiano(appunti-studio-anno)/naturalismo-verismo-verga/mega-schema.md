@@ -886,6 +886,52 @@ Padron ’Ntoni afferma:
 
 Tragicamente morirà in ospedale, lontano da casa.
 
+### M. Santagata, *La nobiltà dei Malavoglia*
+
+Il saggio di **Marco Santagata**, ***La nobiltà dei Malavoglia***, è una voce critica da tenere separata dalla semplice trama del romanzo. Il titolo è volutamente provocatorio: i Malavoglia non sono nobili per nascita, denaro o prestigio sociale, ma possiedono una **nobiltà morale**.
+
+Fonti locali di appoggio:
+
+- [lezione 08-01-26, schema](../lezioni/08-01-26/schema.md), dove la “nobiltà” viene collegata al desiderio non egoistico del giovane ’Ntoni;
+- [lezione 08-01-26, trascrizione](../lezioni/08-01-26/transcription.txt), che esplicita la tesi di Santagata: onestà, dedizione al lavoro e desiderio di migliorare la condizione dell’intera famiglia;
+- [fonte disordinata Verga](../../studio/disordinato%28gioele%29/APPUNTI-NATURALISMO-VERISMO-VERGA-MEGA.md), che parla di “nobiltà di sentimenti” dei Malavoglia.
+
+#### Tesi del saggio
+
+Santagata usa “nobiltà” in senso **etico**, non sociale. La nobiltà dei Malavoglia consiste in:
+
+| Aspetto | Significato |
+|---|---|
+| **Onestà** | Non cercare scorciatoie, non vivere di inganno o sopraffazione |
+| **Lavoro** | Accettare la fatica come fondamento della dignità |
+| **Sacrificio** | Mettere il bene della famiglia prima dell’interesse individuale |
+| **Religione della famiglia** | Considerare il nucleo familiare come valore supremo |
+| **Desiderio non egoistico** | Voler “stare meglio” non solo per sé, ma per tutti |
+
+Il punto decisivo riguarda il giovane ’Ntoni: il suo desiderio di cambiare stato è pericoloso, perché lo spinge fuori dallo “scoglio”; però non nasce come puro egoismo. Quando dice **“Voglio cambiare stato, io e tutti voi”**, pensa ancora alla famiglia. Per Santagata, proprio qui si vede una forma di nobiltà: ’Ntoni non sogna soltanto il proprio vantaggio personale, ma immagina un miglioramento collettivo.
+
+#### Padron ’Ntoni e giovane ’Ntoni: due nobiltà diverse
+
+| Padron ’Ntoni | Giovane ’Ntoni |
+|---|---|
+| Nobiltà della **tradizione** | Nobiltà del **desiderio generoso** |
+| Vuole restare nello scoglio | Vorrebbe uscire dalla povertà |
+| Difende famiglia, lavoro, paese | Vuole migliorare la sorte di tutti |
+| Sa che il mondo esterno è pericoloso | Si illude che altrove la vita sia più facile |
+| È tragico perché morirà lontano da casa | È tragico perché non potrà più rientrare davvero |
+
+Santagata non trasforma ’Ntoni in un eroe positivo senza colpa: la sua inquietudine resta una forza distruttiva dentro il sistema verghiano. Però impedisce di leggerlo come semplice egoista. La sua colpa è voler cambiare stato; la sua nobiltà è desiderarlo inizialmente anche per i suoi.
+
+#### Collegamento con il finale
+
+Nel finale, quando ’Ntoni torna alla Casa del Nespolo e capisce di non poter restare, la tesi di Santagata diventa ancora più chiara. ’Ntoni ha tradito l’unità familiare, ma conserva il senso del legame: chiede notizie del nonno e della sorella, guarda la casa, riconosce il valore di ciò che ha perduto. La sua uscita definitiva non cancella la nobiltà dei Malavoglia; la mostra come un valore ferito, non più recuperabile per chi si è staccato dallo scoglio.
+
+### Cosa dire all’orale su Santagata
+
+All’orale puoi dire:
+
+> Per Santagata la “nobiltà” dei Malavoglia non è sociale, ma morale. I Malavoglia sono nobili perché fondano la propria vita su onestà, lavoro, sacrificio e religione della famiglia. Anche il giovane ’Ntoni, pur sbagliando e rompendo l’equilibrio familiare, non parte da un desiderio puramente egoistico: vuole cambiare stato “io e tutti voi”. Per questo il suo fallimento è ancora più tragico: non perde solo ricchezza o reputazione, ma la possibilità di appartenere a quel mondo moralmente nobile.
+
 ### La metafora della mano
 
 > **“Per menare il remo bisogna che le cinque dita s’aiutino l’un l’altro.”**
@@ -1013,46 +1059,244 @@ All’orale puoi dire:
 
 ---
 
-## 7.6 *Mastro-don Gesualdo* — materiale parziale
+## 7.6 *Mastro-don Gesualdo* (1889)
 
-> **Materiale parziale**  
-> Le fonti forniscono una sintesi utile ma non un’analisi estesa del romanzo. Per questo la sezione segnala chiaramente ciò che emerge dagli appunti senza inventare trama o dettagli non presenti.
+### Fonti locali usate
 
-### Contesto
+Questa sezione rafforza la parte sul romanzo a partire soprattutto da:
 
-***Mastro-don Gesualdo* (1889)** è il secondo romanzo completato del **Ciclo dei Vinti**. Dopo i bisogni materiali dei *Malavoglia*, Verga passa a un livello sociale superiore: quello dell’arricchito, del **parvenu**, del nuovo ricco.
+- [lezione 01-12-25, schema](../lezioni/01-12-25/schema.md) e [trascrizione](../lezioni/01-12-25/transcription.txt), per il posto di *Mastro-don Gesualdo* nel **Ciclo dei Vinti**, la **fiumana del progresso**, la **roba** e la “forma inerente al soggetto”;
+- [lezione 08-01-26, schema](../lezioni/08-01-26/schema.md) e [trascrizione](../lezioni/08-01-26/transcription.txt), per arrampicatore sociale, titolo ossimorico, conflitto interiorizzato, Bianca Trao, Isabella, Diodata e morte solitaria;
+- [fonte disordinata Verga](../../studio/disordinato%28gioele%29/Naturalismo%2C%20Verismo%20e%20Giovanni%20Verga.md), per il collegamento con *La roba* e Mazzarò.
 
-### Contenuto essenziale dalle fonti
+### Contesto nel *Ciclo dei Vinti*
 
-Il protagonista, **Gesualdo**, è un manovale che si è arricchito enormemente grazie al proprio lavoro instancabile. È diventato proprietario di latifondi, bestiame, operai e mezzi agricoli.
+***Mastro-don Gesualdo* (1889)** è il secondo romanzo completato del **Ciclo dei Vinti**, dopo ***I Malavoglia* (1881)**.
 
-La sua bramosia dominante è l’**avidità di ricchezze**, cioè l’ossessione per la **roba**.
+Nel progetto della Prefazione ai *Malavoglia*, Verga sale progressivamente dalle “basse sfere” alle classi più alte:
 
-### Temi
+| Romanzo | Classe / ambiente | Bramosia dominante |
+|---|---|---|
+| ***I Malavoglia*** | Pescatori poveri | Bisogni materiali, desiderio di “stare meglio” |
+| ***Mastro-don Gesualdo*** | Borghesia provinciale, arricchiti | **Avidità di ricchezze**, culto della **roba** |
+| ***La Duchessa de Leyra*** | Aristocrazia | Vanità aristocratica |
+| ***L’Onorevole Scipioni*** | Politica | Ambizione politica |
+| ***L’uomo di lusso*** | Esteti / intellettuali | Somma delle bramosie precedenti |
 
-- ascesa sociale;
-- accumulo;
-- isolamento;
-- sacrificio degli affetti;
-- ossessione per i beni materiali;
-- sconfitta dentro il successo;
-- solitudine finale.
+Gesualdo appartiene quindi a un livello sociale più alto rispetto ai Malavoglia: non è più il pescatore povero che lotta per i bisogni primari, ma il **borghese arricchito** che ha accumulato terre, case, bestiame, operai e mezzi agricoli. Tuttavia anche lui è un **vinto**, perché il successo economico non coincide con una vera vittoria umana.
 
-Le fonti sottolineano che Gesualdo sacrifica **affetti, relazioni e umanità** sull’altare dell’accumulo. Muore **solo**, abbandonato dalla figlia, dalla moglie e persino dalla servitù.
+### Trama essenziale
+
+L’azione si svolge nella prima metà dell’Ottocento, tra gli anni **1820-21** e **1848-49**, in un orizzonte più ampio rispetto al villaggio dei *Malavoglia*: dalla provincia di Catania fino a quella di Palermo. Il romanzo è diviso in **quattro parti** e segue per episodi decisivi la vita di Gesualdo Motta.
+
+Gesualdo nasce in una condizione umile: è un **muratore**, un uomo del lavoro manuale. Grazie a energia, calcolo, sacrificio e durezza verso se stesso e verso gli altri, riesce ad accumulare una ricchezza enorme. Diventa proprietario, imprenditore agricolo, uomo rispettato per il denaro.
+
+Per completare la propria ascesa sociale sposa **Bianca Trao**, giovane appartenente a una famiglia nobile decaduta. Il matrimonio però è fondato sull’interesse, non sull’amore: Bianca accetta Gesualdo per la sua ricchezza, mentre lui cerca attraverso di lei il riconoscimento della nobiltà.
+
+La figlia **Isabella**, educata in ambiente aristocratico, si vergogna delle origini del padre. Sposa il **Duca di Leyra**, aristocratico in declino interessato soprattutto alla dote e alla ricchezza di Gesualdo. Isabella diventerà il centro del terzo romanzo progettato da Verga, ***La Duchessa de Leyra***.
+
+Gesualdo si ammala e viene accolto nel palazzo nobiliare della figlia e del genero. Qui, invece di trovare affetto, trova estraneità: la figlia è distante, i servi lo disprezzano, l’ambiente aristocratico lo tollera senza riconoscerlo davvero. Muore solo, circondato da indifferenza.
+
+### Il titolo: un ossimoro sociale
+
+Il titolo ***Mastro-don Gesualdo*** contiene già il conflitto del protagonista.
+
+| Termine | Significato |
+|---|---|
+| **Mastro** | Artigiano, muratore, lavoratore manuale: origine umile |
+| **Don** | Appellativo onorifico meridionale, riservato a uomini distinti o socialmente autorevoli |
+
+Gesualdo è contemporaneamente **mastro** e **don**: ha conquistato il rispetto economico, ma non riesce a cancellare la propria origine. Il titolo è quindi una specie di marchio: dice insieme l’ascesa e il limite dell’ascesa.
+
+### Gesualdo Motta: arrampicatore sociale e *parvenu*
+
+Gesualdo Motta è un **arrampicatore sociale**: cerca di elevarsi dalla condizione di muratore alla borghesia proprietaria e poi di farsi riconoscere dall’aristocrazia.
+
+È anche un ***parvenu***, cioè un “nuovo ricco”:
+
+- parte dal basso;
+- accumula ricchezza con lavoro e intelligenza pratica;
+- entra nell’alta società provinciale;
+- imita o desidera i segni della nobiltà;
+- però resta percepito come un estraneo.
+
+Il termine *parvenu* ha una sfumatura dispregiativa: indica chi possiede denaro, ma non ha ancora prestigio, educazione, eleganza e legittimazione sociale. Gesualdo può comprare terre e matrimoni, ma non può comprare davvero il riconoscimento aristocratico.
+
+### Ascesa sociale e fallimento
+
+Gesualdo riesce in ciò che i Malavoglia non riescono a fare: **si arricchisce davvero**. Da questo punto di vista è un uomo eccezionale:
+
+- lavora senza risparmiarsi;
+- sopporta fatica e sacrifici;
+- rischia e investe;
+- domina il mondo economico circostante;
+- incarna il mito borghese del **self-made man**.
+
+Ma il romanzo mostra che nel mondo verghiano anche il successo è una forma di sconfitta. Gesualdo vince economicamente e perde affettivamente:
+
+| Vittoria esterna | Sconfitta interna |
+|---|---|
+| Accumula terre e beni | Perde rapporti autentici |
+| Entra nell’alta società | Resta disprezzato dai nobili |
+| Sposa Bianca Trao | Non è amato dalla moglie |
+| Ha una figlia aristocratizzata | Isabella si vergogna di lui |
+| Muore ricchissimo | Muore solo |
+
+La sua tragedia sta proprio qui: tutto ciò che conquista non riesce a trasformarsi in felicità, riconoscimento o affetto.
+
+### La roba
+
+La **roba** è il centro simbolico del romanzo. Come in *La roba*, non indica il denaro astratto, ma beni concreti, visibili, toccabili:
+
+- terre;
+- case;
+- bestiame;
+- raccolti;
+- strumenti;
+- braccianti;
+- proprietà agricole.
+
+Per Gesualdo la roba è:
+
+1. **segno di riscatto**, perché prova che è uscito dalla miseria;
+2. **strumento di potere**, perché gli permette di trattare con nobili e borghesi;
+3. **ossessione**, perché assorbe tutte le energie della vita;
+4. **condanna**, perché sostituisce gli affetti e lo isola.
+
+La roba non è soltanto posseduta da Gesualdo: alla fine è Gesualdo a essere posseduto dalla roba. La sua identità si riduce a ciò che ha accumulato.
+
+### Isolamento e fallimento affettivo
+
+Il romanzo interiorizza il conflitto che nei *Malavoglia* era più visibile tra famiglia e comunità. Nei *Malavoglia* da una parte c’è la religione della famiglia, dall’altra il cinismo del paese e dell’interesse. In *Mastro-don Gesualdo* il conflitto entra dentro il protagonista:
+
+| Dentro Gesualdo | Effetto |
+|---|---|
+| Desiderio di ricchezza | Sacrifica tempo, relazioni, umanità |
+| Desiderio di riconoscimento sociale | Si lega a una nobiltà che lo disprezza |
+| Desiderio di affetto sincero | Non sa scegliere chi lo ama davvero |
+| Scrupolo finale | Arriva troppo tardi per riparare |
+
+Le relazioni principali mostrano il fallimento affettivo:
+
+| Personaggio | Rapporto con Gesualdo | Significato |
+|---|---|---|
+| **Bianca Trao** | Moglie nobile decaduta | Matrimonio di interesse; distanza emotiva |
+| **Isabella** | Figlia educata aristocraticamente | Vergogna delle origini paterne; incomunicabilità |
+| **Diodata** | Domestica fedele, unico affetto sincero | Possibilità di amore autentico sacrificata all’ascesa |
+| **Figli avuti da Diodata** | Non riconosciuti | Colpa rimossa che riaffiora vicino alla morte |
+| **Duca di Leyra** | Genero aristocratico | Nobiltà decaduta che usa la ricchezza borghese |
+| **Servitù del palazzo** | Presenza fredda e sprezzante | Esclusione finale dal mondo nobiliare |
+
+L’unica figura davvero legata a Gesualdo è **Diodata**, ma proprio lei è sacrificata: appartiene al mondo umile da cui Gesualdo vuole uscire. Scegliendo Bianca, Gesualdo sceglie la promozione sociale; rinuncia però all’unico legame non fondato sull’interesse.
+
+### Brano del programma: *La dura vita di un arrampicatore sociale*
+
+Il titolo antologico ***La dura vita di un arrampicatore sociale*** va studiato come sintesi della condizione di Gesualdo.
+
+#### Che cosa mettere a fuoco
+
+| Elemento | Spiegazione |
+|---|---|
+| **Durezza del lavoro** | Gesualdo non eredita la ricchezza: la costruisce con fatica, calcolo e sacrificio |
+| **Ascesa sociale** | Da muratore diventa proprietario e imprenditore agricolo |
+| **Titolo ossimorico** | “Mastro” ricorda l’origine umile, “don” il riconoscimento economico |
+| ***Parvenu*** | È un arricchito: ha denaro, ma non piena legittimazione sociale |
+| **Roba** | La ricchezza concreta diventa il centro della vita |
+| **Doppia esclusione** | Non appartiene più davvero al popolo, ma non viene accolto dai nobili |
+
+Il brano serve a capire che l’ascesa di Gesualdo non è presentata in modo celebrativo. Verga non costruisce un eroe borghese vincente, ma un uomo divorato dalla lotta per salire. La vita di Gesualdo è “dura” non solo perché fatta di fatica fisica, ma perché ogni passo verso l’alto produce maggiore isolamento.
+
+#### Interpretazione
+
+Gesualdo è grande nella volontà e nel lavoro, ma è tragico perché non sa trasformare la ricchezza in vita piena. L’arrampicatore sociale ha sempre davanti a sé un gradino ulteriore:
+
+1. dalla povertà alla ricchezza;
+2. dalla ricchezza al titolo;
+3. dal titolo al riconoscimento;
+4. dal riconoscimento all’amore.
+
+I primi passaggi sembrano riuscire; l’ultimo fallisce totalmente. Per questo Gesualdo è un **vinto della propria vittoria**.
+
+### Brano del programma: *La morte di Gesualdo*
+
+***La morte di Gesualdo*** è il punto conclusivo e più tragico del romanzo. Il protagonista muore nel palazzo aristocratico della figlia Isabella e del genero, lontano dal mondo del lavoro e della roba che aveva dominato.
+
+#### Situazione del brano
+
+Gesualdo è malato e dipende dagli altri. Si trova in un ambiente che dovrebbe rappresentare il coronamento della sua ascesa sociale: il palazzo nobiliare. In realtà quel luogo diventa lo spazio della sua esclusione definitiva.
+
+| Presenza nel brano | Che cosa rivela |
+|---|---|
+| **Isabella** | Non riesce a stabilire un vero rapporto filiale con il padre |
+| **Servi** | Lo assistono senza pietà autentica; lo guardano come un intruso |
+| **Palazzo aristocratico** | Simbolo del mondo a cui Gesualdo aspirava ma che non lo accoglie |
+| **Ricordo della roba** | Anche alla fine Gesualdo pensa ai beni, all’eredità, ai figli non riconosciuti |
+| **Diodata assente / ricordata** | L’affetto vero è lontano, sacrificato in passato |
+
+#### Temi del brano
+
+- **Solitudine finale**: Gesualdo muore senza affetto sincero.
+- **Incomunicabilità con Isabella**: padre e figlia non riescono a parlarsi davvero; li separano educazione, classe sociale e vergogna.
+- **Disprezzo sociale**: la servitù del palazzo nobiliare non lo riconosce come signore autentico.
+- **Fallimento della roba**: i beni accumulati non possono seguirlo nella morte e non gli danno consolazione.
+- **Rimorso**: riaffiora il pensiero di Diodata e dei figli non riconosciuti, cioè della vita affettiva sacrificata.
+- **Sconfitta del self-made man**: l’uomo che si era fatto da sé non può salvarsi da solo.
+
+#### Perché è tragica
+
+La morte di Mazzarò in *La roba* è **grottesca**: c’è insieme tragicità e assurdo comico nel gesto di uccidere gli animali gridando “Roba mia, vienitene con me!”. La morte di Gesualdo invece è soprattutto **tragica**: non c’è liberazione, non c’è ironia consolatoria, non c’è riconciliazione.
+
+Gesualdo muore dove avrebbe voluto essere riconosciuto, ma proprio lì appare più estraneo. La nobiltà che ha cercato attraverso il matrimonio e la figlia lo circonda come un apparato freddo; la roba resta fuori dalla camera; l’affetto vero è stato respinto troppo a lungo.
+
+### Confronto con Mazzarò e *La roba*
+
+Mazzarò anticipa Gesualdo, ma i due personaggi non sono identici.
+
+| Aspetto | Mazzarò, *La roba* | Gesualdo, *Mastro-don Gesualdo* |
+|---|---|---|
+| Genere | Novella | Romanzo |
+| Livello narrativo | Figura esemplare, quasi concentrata in un caso unico | Personaggio più complesso e psicologicamente articolato |
+| Origine | Umilissima | Umile, muratore |
+| Ricchezza | Terre, bestiame, proprietà immense | Terre, case, mezzi agricoli, posizione borghese |
+| Ossessione | Possesso materiale puro | Possesso + riconoscimento sociale |
+| Rapporti affettivi | Quasi annullati | Presenti, ma sacrificati o falliti |
+| Finale | Grottesco e tragicomico | Tragico e solitario |
+| Frase-simbolo | “Roba mia, vienitene con me!” | La roba non salva dalla morte né dall’isolamento |
+
+#### Somiglianze
+
+Entrambi:
+
+- partono dal basso;
+- accumulano grazie a lavoro, astuzia e durezza;
+- identificano il valore della vita con la proprietà;
+- diffidano del denaro astratto e puntano sui beni concreti;
+- diventano “vinti” perché sono dominati da ciò che possiedono.
+
+#### Differenze
+
+Mazzarò è soprattutto il simbolo dell’**accumulo assoluto**. È quasi assorbito dalla terra: possiede tutto, ma il suo corpo resta piccolo e mortale. La sua tragedia esplode nel gesto assurdo finale.
+
+Gesualdo, invece, è più complesso: non vuole solo possedere; vuole anche **essere riconosciuto**. Per questo il suo dramma è sociale e affettivo. Non gli basta la roba: desidera entrare in un altro mondo, ma quel mondo non lo accetta. La sua sconfitta è quindi più profonda, perché riguarda insieme ricchezza, classe, famiglia e amore.
 
 ### Tecnica e stile
 
-Secondo il principio della **forma inerente al soggetto**, lo stile di *Mastro-don Gesualdo* è più elevato rispetto ai *Malavoglia*. Il protagonista appartiene a un ceto più alto rispetto ai pescatori di Aci Trezza, quindi il linguaggio si avvicina a un italiano “medio”.
+Secondo il principio della **forma inerente al soggetto**, lo stile di *Mastro-don Gesualdo* è più elevato rispetto ai *Malavoglia*:
+
+- nei *Malavoglia* domina un linguaggio corale, popolare, vicino alla sintassi dialettale;
+- in *Mastro-don Gesualdo* il livello sociale è più alto e lo stile si avvicina a un italiano medio;
+- il punto di vista resta impersonale, ma il conflitto è più interno al personaggio;
+- la narrazione è più frammentata, perché segue momenti decisivi della vita di Gesualdo.
 
 ### Perché conta
 
-Il romanzo mostra che anche chi riesce ad arricchirsi è comunque un **vinto**. La promozione sociale non porta felicità: produce isolamento, perdita degli affetti, disumanizzazione.
+*Mastro-don Gesualdo* dimostra che il pessimismo verghiano non riguarda solo i poveri. Anche chi sale socialmente e accumula ricchezza resta travolto dalla **fiumana del progresso**. La società moderna promette successo, ma produce nuovi vinti: individui isolati, incapaci di trasformare il possesso in felicità.
 
 ### Cosa dire all’orale
 
 All’orale puoi dire:
 
-> *Mastro-don Gesualdo* è il secondo romanzo del Ciclo dei Vinti. Gesualdo è un manovale arricchito, dominato dall’ossessione per la roba. Rispetto ai *Malavoglia*, Verga sale di livello sociale e adatta lo stile al soggetto. Anche Gesualdo però è un vinto: possiede molto, ma muore solo, svuotato di affetti e umanità.
+> *Mastro-don Gesualdo* è il secondo romanzo del Ciclo dei Vinti e rappresenta il livello dell’avidità di ricchezze. Gesualdo Motta è un muratore diventato proprietario: un arrampicatore sociale, un *parvenu*, un self-made man. Il titolo è ossimorico perché unisce “mastro”, origine umile, e “don”, riconoscimento sociale. La sua vita ruota intorno alla roba, cioè ai beni materiali concreti, ma proprio la roba lo isola dagli affetti. Sposa Bianca Trao per entrare nella nobiltà, sacrifica Diodata, non è amato dalla figlia Isabella e muore solo nel palazzo aristocratico. Rispetto a Mazzarò, Gesualdo è più complesso: non vuole solo possedere, vuole essere riconosciuto; ma fallisce sia socialmente sia affettivamente.
 
 ---
 
@@ -1272,6 +1516,26 @@ Perché la barca si chiama Provvidenza, ma non salva la famiglia: naufraga e dà
 ### Che cosa rappresenta la roba?
 
 La roba rappresenta i beni materiali concreti: terre, bestiame, case, strumenti, proprietà. In *La roba* e in *Mastro-don Gesualdo* diventa ossessione che disumanizza.
+
+### Perché Santagata parla di “nobiltà” dei Malavoglia?
+
+Perché la nobiltà non è sociale, ma morale. I Malavoglia sono poveri pescatori, però vivono secondo onestà, lavoro, sacrificio e religione della famiglia. Anche il giovane ’Ntoni, quando vuole “cambiare stato”, all’inizio non pensa solo a sé: vuole migliorare la condizione di tutti. La sua inquietudine resta pericolosa, ma non nasce come egoismo puro.
+
+### Perché Gesualdo è un arrampicatore sociale?
+
+Perché parte da una condizione umile di muratore e, attraverso lavoro, calcolo e accumulo, diventa un ricco proprietario. Il titolo *Mastro-don Gesualdo* riassume questa tensione: “mastro” ricorda l’origine manuale e popolare, “don” il riconoscimento economico e sociale. Tuttavia resta un *parvenu*: possiede ricchezza, ma non viene davvero accolto dall’aristocrazia.
+
+### Che cosa mostra il brano *La dura vita di un arrampicatore sociale*?
+
+Mostra che l’ascesa di Gesualdo non è una favola di successo. La ricchezza nasce da fatica, durezza, sacrificio e ossessione per la roba. Gesualdo sale socialmente, ma ogni passo verso l’alto lo separa dagli affetti e lo rende più isolato.
+
+### Che cosa mostra il brano *La morte di Gesualdo*?
+
+Mostra il fallimento conclusivo della vita del protagonista. Gesualdo muore nel palazzo aristocratico della figlia, cioè nel mondo a cui aveva aspirato, ma vi muore come un estraneo: Isabella è distante, i servi lo disprezzano, Diodata e gli affetti autentici sono lontani. La roba accumulata non gli dà consolazione e non può salvarlo dalla solitudine.
+
+### Come si confrontano Mazzarò e Gesualdo?
+
+Mazzarò e Gesualdo sono entrambi ossessionati dalla roba e partono da una condizione umile. Mazzarò però è una figura più concentrata e simbolica: rappresenta l’accumulo puro, con un finale grottesco. Gesualdo è più complesso: oltre alla roba cerca riconoscimento sociale e affetto, ma fallisce su entrambi i piani. Per questo il suo finale è più tragico.
 
 ## 10.5 Collegamenti
 

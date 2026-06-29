@@ -5,6 +5,8 @@
 - Fonte madre: [`ITA_FINAL_2.md`](<../../studio/disordinato%28gioele%29/ITA_FINAL_2.md>).
 - Integrazioni su *A se stesso*, *La ginestra*, parafrasi e blocchi più estesi: [`ITA2_finale.md`](<../../studio/disordinato%28gioele%29/ITA2_finale.md>).
 - Controllo del contesto classicisti/romantici: [`Il Contesto Culturale_ Classicisti e Romantici.md`](<../../studio/disordinato%28gioele%29/Il Contesto Culturale_ Classicisti e Romantici.md>).
+- Controllo dei blocchi della *Ginestra* svolti in classe: [`lezione 14-10-25/schema.md`](<../lezioni/14-10-25/schema.md>) e [`lezione 14-10-25/transcription.txt`](<../lezioni/14-10-25/transcription.txt>).
+- Controllo del quadro filosofico su *Zibaldone*, teoria del piacere e pessimismo cosmico: [`lezione 17-11-25/schema.md`](<../lezioni/17-11-25/schema.md>).
 
 > **Nota di metodo**  
 > Questa scheda riordina i materiali disordinati in una forma studiabile: non è un riassunto veloce, ma una guida completa per preparare il capitolo Leopardi all’orale. Le opere sono sempre trattate con: **contesto**, **contenuto**, **temi**, **stile**, **perché conta**, **cosa dire all’orale**.
@@ -357,6 +359,139 @@ La conclusione è durissima: il giardino è un **“vasto ospitale”**, più do
 
 > **Perché conta**  
 > Il giardino fiorito mostra il rovesciamento della natura: ciò che sembra armonia e bellezza è in realtà un sistema di sofferenza, consumo e distruzione.
+
+## 3.9 Passi dello *Zibaldone* da riconoscere per numero
+
+Questa sezione serve per rispondere rapidamente se la prof chiede: “Che cosa c’è nello *Zibaldone* al numero…?”. I numeri non vanno studiati come dati isolati: ogni passo è una **formula teorica** che illumina un testo poetico.
+
+| Numero dello *Zibaldone* | Etichetta da ricordare | Nucleo | Testi collegabili |
+| --- | --- | --- | --- |
+| **165-172** | **Teoria del piacere** | L’uomo desidera il piacere infinito, ma incontra solo piaceri finiti; da qui nascono infelicità, immaginazione, vago e indefinito. | *L’infinito*, *Il sabato del villaggio*, *Dialogo di un venditore di almanacchi* |
+| **1798** | **Notte, oscurità, profondo** | Le parole e le immagini notturne sono poeticissime perché confondono i contorni e producono un’immagine vaga. | *L’infinito*, *Alla luna*, *Canto notturno* |
+| **4293** | **Suoni lontani** | Una voce o un suono lontano, decrescente o echeggiante piace perché crea vastità e indeterminatezza. | *L’infinito*, paesaggi sonori degli idilli |
+| **4418** | **Doppia visione** | L’uomo sensibile vede e sente due realtà: quella fisica e quella immaginativa; nel secondo livello sta il bello. | *L’infinito*, *Alla luna*, teoria dell’immaginazione |
+| **4177** | **Giardino fiorito / sofferenza universale** | Anche il giardino, che sembra luogo di vita e bellezza, è un “vasto ospitale”: ogni essere vivente patisce. | Pessimismo cosmico, *Dialogo della Natura e di un Islandese*, *La ginestra* |
+
+### 3.9.1 *Zibaldone* 165-172: la teoria del piacere
+
+**Formula breve:** l’uomo desidera non un singolo piacere, ma **il piacere in sé**, quindi lo desidera come qualcosa di illimitato.
+
+Il passo parte dal “sentimento della nullità di tutte le cose” e dall’“insufficienza di tutti i piaceri”. Leopardi spiega questa condizione in modo materialistico: ogni essere vivente tende al piacere, cioè alla felicità, ma il desiderio umano non ha limiti.
+
+| Punto del ragionamento | Spiegazione |
+| --- | --- |
+| **Il desiderio è infinito per durata** | Finché l’uomo vive, continua a desiderare piacere. Nessun piacere concreto dura per sempre. |
+| **Il desiderio è infinito per estensione** | L’uomo non vuole solo “questo” piacere particolare: vuole il piacere assoluto, senza misura. |
+| **La realtà è finita** | Tutto ciò che esiste ha confini, durata limitata, misura determinata. |
+| **Nasce l’infelicità** | Il desiderio infinito non può essere riempito da oggetti finiti. |
+| **Interviene l’immaginazione** | L’immaginazione crea piaceri vaghi, indefiniti, non completamente posseduti: per questo sembrano più grandi. |
+| **Nascono vago e indefinito** | Siepi, lontananze, nebbia, notte, suoni lontani non danno un oggetto chiuso: lasciano spazio alla mente. |
+
+**Esempio semplice da usare all’orale:** se desidero un oggetto concreto, mi sembra di desiderare solo quell’oggetto; in realtà lo desidero perché lo carico dell’idea astratta di felicità. Quando lo ottengo, però, scopro che è limitato: quindi il piacere si consuma e torna il desiderio.
+
+**Collegamenti immediati:**
+
+- ***L’infinito***: la siepe limita la vista reale, ma proprio per questo libera l’immaginazione dell’infinito.
+- ***Il sabato del villaggio***: il piacere sta nell’attesa della festa, non nella festa posseduta.
+- ***Dialogo di un venditore di almanacchi***: il futuro piace perché non è ancora conosciuto e quindi può essere immaginato.
+- **Pessimismo cosmico**: se il desiderio infinito è strutturale, l’infelicità non dipende solo dalla storia o dalla società, ma dall’esistenza stessa.
+
+**Cosa dire all’orale**
+
+> Nello *Zibaldone* 165-172 Leopardi formula la teoria del piacere. L’uomo desidera un piacere infinito per durata ed estensione, ma la realtà offre solo piaceri finiti. Da questa sproporzione nasce l’infelicità. L’immaginazione diventa allora una consolazione parziale, perché attraverso il vago e l’indefinito fa intuire qualcosa che somiglia all’infinito.
+
+### 3.9.2 *Zibaldone* 1798: notte, oscurità e parole poeticissime
+
+**Formula breve:** la notte è poetica perché **confonde gli oggetti**.
+
+In questo passo Leopardi osserva che parole come **notte**, **notturno**, **oscurità**, **profondo** sono poeticissime. Il motivo non è decorativo: la notte non lascia vedere chiaramente i confini delle cose. Se i contorni non sono netti, l’immaginazione interviene e completa ciò che i sensi non determinano.
+
+| Elemento | Effetto poetico |
+| --- | --- |
+| **Notte / notturno** | Gli oggetti non sono pienamente distinguibili; nasce un’immagine vaga e incompleta. |
+| **Oscurità** | Riduce la precisione della vista e aumenta il lavoro dell’immaginazione. |
+| **Profondo** | Suggerisce spazio non misurabile fino in fondo. |
+| **Indistinto** | Non blocca la mente su un dato chiuso, ma apre possibilità. |
+
+**Collegamenti immediati:**
+
+- ***Alla luna***: il paesaggio lunare è filtrato dal ricordo e dal pianto, quindi non è mai nitido.
+- ***Canto notturno***: la notte e la luna creano uno spazio cosmico, interrogativo, non domestico.
+- ***L’infinito***: il piacere nasce da ciò che non si vede del tutto.
+
+**Cosa dire all’orale**
+
+> Lo *Zibaldone* 1798 spiega perché la notte è così importante nella poetica leopardiana. Di notte gli oggetti perdono i contorni precisi: l’animo non riceve un’immagine chiusa, ma vaga, indistinta, incompleta. Proprio questa indeterminatezza produce piacere poetico, perché mette in moto l’immaginazione.
+
+### 3.9.3 *Zibaldone* 4293: suoni lontani, decrescenti, echeggianti
+
+**Formula breve:** un suono lontano piace perché dà un’idea di **vastità**.
+
+Nel passo Leopardi dice che una **voce lontana**, un suono che si allontana a poco a poco o un suono che echeggia con apparenza di vastità è piacevole per il “vago dell’idea”. Esempi possibili: il tuono, un colpo di cannone in campagna, il canto degli agricoltori, degli uccelli, il muggito dei buoi.
+
+| Tipo di suono | Perché è poetico |
+| --- | --- |
+| **Lontano** | Non si possiede completamente; suggerisce uno spazio oltre il punto in cui siamo. |
+| **Decrescente** | Sembra perdersi nello spazio e quindi apre l’immaginazione. |
+| **Echeggiante** | Fa percepire un ambiente vasto: valle, campagna, lontananza. |
+| **Naturale o campestre** | Richiama un mondo non artificiale, più vicino alla poetica dell’immaginazione. |
+
+**Collegamento con *L’infinito***: il vento tra le piante è un suono reale, ma diventa occasione per pensare all’“infinito silenzio” e alle “morte stagioni”. Il suono non chiude l’esperienza: la dilata.
+
+**Cosa dire all’orale**
+
+> Nello *Zibaldone* 4293 Leopardi lega il piacere poetico ai suoni lontani o echeggianti. Un suono vicino e netto è determinato; un suono lontano, invece, lascia immaginare uno spazio più ampio. Per questo è piacevole: non offre un dato chiuso, ma un’impressione vaga, aperta, quasi infinita.
+
+### 3.9.4 *Zibaldone* 4418: la doppia visione
+
+**Formula breve:** l’uomo immaginoso vede **due mondi insieme**.
+
+Leopardi scrive che per l’uomo “sensibile e immaginoso” il mondo e gli oggetti sono in certo modo doppi. Egli vede con gli occhi una torre, una campagna, sente con le orecchie una campana; nello stesso tempo, con l’immaginazione, vede **un’altra torre**, **un’altra campagna**, ode **un altro suono**.
+
+| Livello | Che cosa accade | Valore |
+| --- | --- | --- |
+| **Primo livello: sensazione** | Occhi e orecchi percepiscono un oggetto reale. | È il dato fisico. |
+| **Secondo livello: immaginazione** | La mente sovrappone un’immagine ulteriore. | Qui sta “tutto il bello e il piacevole”. |
+
+La conclusione è decisiva: una vita che vede e sente solo gli oggetti semplici, senza immaginazione, è una vita triste. La poesia nasce proprio dal secondo livello.
+
+**Collegamenti immediati:**
+
+- ***L’infinito***: il colle e la siepe sono reali; l’infinito è immaginativo.
+- ***Alla luna***: la luna vista nel presente si sovrappone alla luna ricordata dell’anno precedente.
+- **Poetica leopardiana**: il poeta non inventa a caso; trasforma un dato sensibile in un’esperienza interiore più ampia.
+
+**Cosa dire all’orale**
+
+> Lo *Zibaldone* 4418 contiene la teoria della doppia visione. L’uomo sensibile non si ferma all’oggetto reale: vede una torre, una campagna, sente una campana, ma nello stesso tempo immagina un’altra torre, un’altra campagna, un altro suono. Il bello non è nel dato oggettivo, ma nella seconda visione prodotta dall’immaginazione.
+
+### 3.9.5 *Zibaldone* 4177: il giardino fiorito come “vasto ospitale”
+
+**Formula breve:** anche dove sembra esserci bellezza, la natura produce **sofferenza**.
+
+Questo passo conclude la riflessione sul giardino fiorito, iniziata nelle pagine immediatamente precedenti. Leopardi rovescia un’immagine tradizionalmente positiva: il giardino sembra un luogo di vita, colori, profumi e armonia, ma se lo osserviamo davvero scopriamo dolore ovunque.
+
+| Immagine | Significato |
+| --- | --- |
+| **Fiori strappati dalle api** | Anche la produzione del miele implica distruzione di fibre delicate. |
+| **Alberi feriti, morsi, infestati** | La vita vegetale non è pacifica: è continuamente offesa. |
+| **Erbe calpestate** | Anche il semplice passaggio umano schiaccia e uccide. |
+| **Giardiniere che taglia** | Ciò che chiamiamo cura può essere mutilazione per la pianta. |
+| **Giardino come “vasto ospitale”** | Il luogo che sembra gioioso è in realtà un grande ospedale di esseri sofferenti. |
+
+La frase decisiva è che **il non essere sarebbe meglio dell’essere** per questi viventi, se potessero sentire. Qui si vede il cuore del pessimismo cosmico: la sofferenza non riguarda solo l’uomo, ma tutta la natura.
+
+**Attenzione per l’orale:** nella stessa zona dello *Zibaldone* compaiono anche altri appunti, ma nel programma questo numero va collegato soprattutto al **giardino fiorito** e alla sofferenza universale.
+
+**Collegamenti immediati:**
+
+- ***Dialogo della Natura e di un Islandese***: la natura non è madre provvidente; produce e distrugge.
+- ***La ginestra***: sul Vesuvio la natura annienta uomini, città e paesaggi senza curarsi di loro.
+- **Pessimismo cosmico**: il male non è un incidente, ma una legge dell’esistenza.
+
+**Cosa dire all’orale**
+
+> Nello *Zibaldone* 4177 Leopardi mostra che anche un giardino fiorito, apparentemente bello e vitale, è in realtà un luogo di sofferenza. Piante, fiori, erbe, alberi sono feriti, strappati, calpestati, consumati. Il giardino diventa un “vasto ospitale”. Questo passo è fondamentale per il pessimismo cosmico, perché dimostra che il dolore non è solo umano, ma universale.
 
 ---
 
@@ -843,6 +978,238 @@ La ginestra non vive in un giardino armonioso, ma su una terra devastata. È “
 
 La frase è ironica: proprio sulle pendici del Vesuvio, dove città e vite sono state annientate, si vede quanto siano fragili le pretese dell’uomo.
 
+### Blocchi di versi da saper riconoscere
+
+I blocchi qui sotto servono per rispondere a una domanda precisa sul testo: non basta dire “parla della natura” o “parla della ginestra”; bisogna collocare il passo, parafrasarlo e spiegarne la funzione nel ragionamento.
+
+> **Nota sui numeri di verso**  
+> Le edizioni possono avere piccole oscillazioni di numerazione. Nei materiali di lezione il blocco finale viene richiamato come **vv. 302 e seguenti**, e la prof ha insistito su “E tu, lenta ginestra” come apostrofe conclusiva. Qui si segue la numerazione richiesta dal programma.
+
+#### Versi 1-7: il paesaggio del Vesuvio e la prima apparizione della ginestra
+
+> Qui su l’arida schiena  
+> Del formidabil monte  
+> Sterminator Vesevo,  
+> La qual null’altro allegra arbor né fiore,  
+> Tuoi cespi solitari intorno spargi,  
+> Odorata ginestra,  
+> Contenta dei deserti.
+
+| Elemento | Spiegazione |
+| --- | --- |
+| **“arida schiena”** | Il Vesuvio è presentato come corpo sterile, bruciato, inospitale. |
+| **“formidabil monte / Sterminator Vesevo”** | Il vulcano è terribile perché ha distrutto città e vite; non è paesaggio romantico decorativo, ma prova della potenza naturale. |
+| **“null’altro allegra arbor né fiore”** | Il luogo è quasi privo di vita: la ginestra risalta perché vive dove altro non vive. |
+| **“cespi solitari”** | Solitudine e fragilità del fiore; isolamento della creatura davanti alla natura. |
+| **“odorata ginestra”** | Il profumo è un gesto di dolcezza in un deserto ostile. |
+| **“contenta dei deserti”** | Non significa felicità ingenua: indica adattamento umile al proprio destino. |
+
+**Parafrasi:** sulle pendici aride del Vesuvio, monte terribile e distruttore, dove nessun altro albero o fiore rallegra il paesaggio, la ginestra sparge i suoi cespi solitari e profumati, accontentandosi di vivere nel deserto.
+
+**Funzione nel componimento:** l’inizio mette subito in contrasto **natura distruttiva** e **fragile resistenza**. La ginestra non elimina il deserto, ma lo consola; non vince il Vesuvio, ma mostra dignità dentro una condizione disperata.
+
+**Cosa dire all’orale**
+
+> Nei versi 1-7 Leopardi apre la poesia sul paesaggio del Vesuvio. Il monte è “sterminatore”, quindi simbolo della natura distruttiva. In questo luogo arido appare la ginestra, fiore solitario e profumato, “contenta dei deserti”: è il primo simbolo della condizione umana, fragile ma capace di dignità.
+
+#### Versi 34-53: il fiore gentile, l’“amante natura” e le “magnifiche sorti e progressive”
+
+> Dove tu siedi, o fior gentile, e quasi  
+> I danni altrui commiserando, al cielo  
+> Di dolcissimo odor mandi un profumo,  
+> Che il deserto consola. A queste piagge  
+> Venga colui che d’esaltar con lode  
+> Il nostro stato ha in uso, e vegga quanto  
+> È il gener nostro in cura  
+> All’amante natura. E la possanza  
+> Qui con giusta misura  
+> Anco estimar potrà dell’uman seme,  
+> Cui la dura nutrice, ov’ei men teme,  
+> Con lieve moto in un momento annulla  
+> In parte, e può con moti  
+> Poco men lievi ancor subitamente  
+> Annichilare in tutto.  
+> Dipinte in queste rive  
+> Son dell’umana gente  
+> Le magnifiche sorti e progressive.
+
+| Passaggio | Significato |
+| --- | --- |
+| **“fior gentile”** | La ginestra è nobile non perché potente, ma perché mite, umile, solidale. |
+| **“i danni altrui commiserando”** | Il fiore sembra provare compassione per le sofferenze prodotte dalla natura. |
+| **“il deserto consola”** | La ginestra non salva, ma offre un segno minimo di conforto. |
+| **“amante natura”** | Formula sarcastica: Leopardi finge di chiamare la natura “amante” proprio mentre mostra che distrugge. |
+| **“dura nutrice”** | La natura genera e nutre, ma è dura, indifferente, capace di annientare. |
+| **“lieve moto”** | Basta un piccolo movimento naturale, come un’eruzione o un terremoto, per cancellare l’uomo. |
+| **“magnifiche sorti e progressive”** | Citazione ironica contro l’ottimismo progressista dell’Ottocento. |
+
+**Parafrasi:** chi esalta la condizione umana venga sulle pendici del Vesuvio e veda quanto la natura “ami” davvero l’uomo: basta un minimo moto della “dura nutrice” per distruggerlo in parte o completamente. In questi luoghi è scritta la verità sulle pretese dell’umanità e sulle sue presunte magnifiche sorti progressive.
+
+**Funzione nel componimento:** questo blocco unisce tre nuclei fondamentali:
+
+1. la **nobiltà mite** della ginestra;
+2. la critica dell’idea di natura benevola;
+3. l’attacco all’ottimismo del progresso.
+
+**Cosa dire all’orale**
+
+> Nei versi 34-53 la ginestra diventa “fior gentile”, perché consola il deserto con il suo profumo. Subito dopo Leopardi attacca chi esalta la grandezza dell’uomo: il Vesuvio mostra quanto il genere umano sia davvero “in cura all’amante natura”. L’espressione è ironica, perché la natura è una “dura nutrice” che può annientare l’uomo con un lieve moto. Da qui nasce la polemica contro le “magnifiche sorti e progressive”.
+
+#### Versi 63-69: il “secol superbo e sciocco”
+
+> Qui mira e qui ti specchia,  
+> Secol superbo e sciocco,  
+> Che il calle insino allora  
+> Dal risorto pensier segnato innanti  
+> Abbandonasti, e volti addietro i passi,  
+> Del ritornar ti vanti,  
+> E proceder il chiami.
+
+| Espressione | Spiegazione |
+| --- | --- |
+| **“Qui mira e qui ti specchia”** | Il secolo deve guardarsi nel paesaggio vesuviano come in uno specchio: lì vedrà la verità della condizione umana. |
+| **“secol superbo e sciocco”** | L’Ottocento è superbo perché crede nel proprio progresso; sciocco perché non vede la fragilità reale dell’uomo. |
+| **“risorto pensier”** | È il pensiero razionale moderno, nato contro superstizione e barbarie. |
+| **“abbandonasti”** | Il secolo tradisce la ragione quando torna a illusioni spiritualistiche o progressiste. |
+| **“Del ritornar ti vanti, / E proceder il chiami”** | Leopardi accusa l’età moderna di chiamare “progresso” ciò che in realtà è regressione. |
+
+**Parafrasi:** guarda qui e rifletti su te stesso, secolo arrogante e stupido: hai abbandonato la via aperta dal pensiero razionale, torni indietro, eppure ti vanti di questo ritorno chiamandolo progresso.
+
+**Funzione nel componimento:** è una vera **invettiva civile**. Leopardi non critica la ragione in sé: critica il falso progresso, cioè una modernità che si crede avanzata ma si rifugia ancora in illusioni, spiritualismo, antropocentrismo e retorica ottimistica.
+
+**Cosa dire all’orale**
+
+> Nei versi 63-69 Leopardi si rivolge direttamente al suo secolo, definendolo “superbo e sciocco”. È superbo perché crede alle proprie promesse di progresso; è sciocco perché non guarda la verità della fragilità umana. Il punto polemico è che il secolo chiama “procedere” ciò che per Leopardi è un ritorno indietro, perché abbandona la ragione e il vero.
+
+#### Versi 110-117: la “nobil natura”
+
+> Nobil natura è quella  
+> Che a sollevar s’ardisce  
+> Gli occhi mortali incontra  
+> Al comun fato, e che con franca lingua,  
+> Nulla al ver detraendo,  
+> Confessa il mal che ci fu dato in sorte,  
+> E il basso stato e frale.
+
+| Espressione | Spiegazione |
+| --- | --- |
+| **“Nobil natura”** | Non è l’uomo potente, ottimista o illuso; è l’uomo coraggioso e vero. |
+| **“sollevar s’ardisce / gli occhi mortali”** | Ha il coraggio di guardare in faccia il destino comune. |
+| **“comun fato”** | Tutti gli uomini condividono la stessa sorte: fragilità, dolore, morte. |
+| **“franca lingua”** | Parla con sincerità, senza abbellire la verità. |
+| **“nulla al ver detraendo”** | Non diminuisce la durezza del vero per consolarsi. |
+| **“basso stato e frale”** | Riconosce la piccolezza e debolezza dell’uomo. |
+
+**Parafrasi:** è davvero nobile chi osa alzare gli occhi mortali contro il destino comune e, con lingua sincera, senza togliere nulla alla verità, riconosce il male assegnato agli uomini e la loro condizione bassa e fragile.
+
+**Funzione nel componimento:** questo è il centro morale della *Ginestra*. Leopardi ridefinisce la nobiltà: non consiste nel sangue, nella gloria, nella potenza o nella fede nel progresso, ma nel **coraggio della verità**.
+
+**Cosa dire all’orale**
+
+> Nei versi 110-117 Leopardi definisce la “nobil natura”. Nobile è chi non si illude, non si crede immortale e non nasconde il dolore, ma guarda il “comun fato” con coraggio e confessa il male e la fragilità dell’uomo. È il fondamento morale della fase eroica.
+
+#### Versi 145-157: la “social catena”
+
+> Così fatti pensieri  
+> Quando fien, come fur, palesi al volgo;  
+> E quell’orror che primo  
+> Contra l’empia natura  
+> Strinse i mortali in social catena,  
+> Fia ricondotto in parte  
+> Da verace saper; l’onesto e il retto  
+> Conversar cittadino,  
+> E giustizia e pietade, altra radice  
+> Avranno allor che non superbe fole,  
+> Ove fondata probità del volgo  
+> Così star suole in piede  
+> Quale star può quel ch’ha in error la sede.
+
+| Espressione | Spiegazione |
+| --- | --- |
+| **“Così fatti pensieri”** | Sono i pensieri della nobil natura: verità, fragilità, destino comune. |
+| **“palesi al volgo”** | Leopardi auspica che questa consapevolezza diventi diffusa, non solo di pochi. |
+| **“orror che primo”** | Il terrore originario davanti alla natura può unire gli uomini. |
+| **“empia natura”** | Natura non provvidente: crudele, indifferente, nemica comune. |
+| **“social catena”** | Unione solidale degli uomini contro la natura. |
+| **“verace saper”** | La solidarietà deve fondarsi sul vero, non su superstizioni. |
+| **“giustizia e pietade”** | Valori civili nuovi: giustizia, compassione, aiuto reciproco. |
+| **“superbe fole”** | False credenze: religione consolatoria, antropocentrismo, mito del progresso illimitato. |
+
+**Parafrasi:** quando questi pensieri veri saranno noti a tutti, il terrore che un tempo unì gli uomini contro la natura empia potrà rinascere grazie a un sapere veritiero. La convivenza civile, la giustizia e la pietà avranno allora una radice diversa dalle false credenze superbe, sulle quali di solito si regge la moralità del popolo, ma in modo fragile perché fondata sull’errore.
+
+**Collegamento con la lezione del 14-10-25:** nei materiali di classe questo blocco è presentato come il **nuovo modello di moralità**: solidarietà, senso di comunità, onestà, giustizia, pietà e coraggio di guardare l’arido vero.
+
+**Funzione nel componimento:** qui Leopardi non resta nel pessimismo individuale. Propone una morale laica: gli uomini, sapendo di essere fragili e minacciati dalla stessa natura, devono unirsi e aiutarsi.
+
+**Cosa dire all’orale**
+
+> Nei versi 145-157 nasce la “social catena”. Leopardi dice che la vera civiltà non deve fondarsi sulle “superbe fole”, cioè su illusioni religiose o antropocentriche, ma sul “verace saper”: la consapevolezza che la natura è il nemico comune. Da qui derivano giustizia, pietà, solidarietà e senso di comunità.
+
+#### Versi 302-322: apostrofe finale alla ginestra
+
+> E tu, lenta ginestra,  
+> Che di selve odorate  
+> Queste campagne dispogliate adorni,  
+> Anche tu presto alla crudel possanza  
+> Soccomberai del sotterraneo foco,  
+> Che ritornando al loco  
+> Già noto, stenderà l’avaro lembo  
+> Su tue molli foreste. E piegherai  
+> Sotto il fascio mortal non renitente  
+> Il tuo capo innocente:  
+> Ma non piegato insino allora indarno  
+> Codardamente supplicando innanzi  
+> Al futuro oppressor; ma non eretto  
+> Con forsennato orgoglio inver’ le stelle,  
+> Né sul deserto, dove  
+> E la sede e i natali  
+> Non per voler ma per fortuna avesti;  
+> Ma più saggia, ma tanto  
+> Meno inferma dell’uom, quanto le frali  
+> Tue stirpi non credesti  
+> O dal fato o da te fatte immortali.
+
+| Elemento | Spiegazione |
+| --- | --- |
+| **“E tu”** | Apostrofe: il poeta si rivolge direttamente alla ginestra. |
+| **“lenta ginestra”** | “Lenta” significa flessibile, cedevole: non superba, non rigida. |
+| **“campagne dispogliate”** | Il paesaggio è spogliato dalla lava e dalla distruzione. |
+| **“crudel possanza / del sotterraneo foco”** | La lava del Vesuvio, forza naturale distruttiva. |
+| **“avaro lembo”** | Il mantello chiuso della lava, che coprirà le ginestre. |
+| **“molli foreste”** | I cespugli della ginestra sono teneri, fragili, cedevoli. |
+| **“non renitente”** | La ginestra non oppone una resistenza folle alla natura: accetta il proprio limite. |
+| **“non piegato… supplicando”** | Non si è umiliata vigliaccamente davanti alla morte. |
+| **“non eretto… con forsennato orgoglio”** | Non si è innalzata superbamente contro il cielo. |
+| **“per fortuna”** | La nascita e il luogo non dipendono dal merito: sono caso. |
+| **“più saggia… dell’uom”** | La ginestra è meno insensata dell’uomo perché non si crede immortale. |
+
+**Parafrasi:** anche tu, ginestra flessibile, che profumi queste campagne spogliate, presto sarai distrutta dalla potenza crudele della lava. Piegherai il tuo capo innocente senza ribellarti inutilmente, ma non perché tu abbia supplicato vigliaccamente il futuro oppressore; e neppure perché tu ti sia mai innalzata con folle orgoglio verso le stelle. Sei più saggia dell’uomo, perché non hai mai creduto che la tua fragile stirpe fosse immortale per destino o per merito proprio.
+
+**Collegamento con la lezione del 14-10-25:** la prof ha sottolineato:
+
+- la **struttura circolare**: il componimento si chiude sull’immagine con cui si era aperto;
+- la figura retorica dell’**apostrofe**;
+- gli aggettivi **lenta** e **molli**, che indicano flessibilità e fragilità;
+- il contrasto con l’uomo, che invece supplica per paura oppure si innalza con superbia;
+- il senso di **Leopardi eroico**: non rassegnazione, ma resistenza lucida davanti alla sconfitta.
+
+**Funzione nel componimento:** la conclusione trasforma la ginestra nel modello morale definitivo. La sua grandezza non è vincere la natura, perché nessuno può farlo; è non mentire a se stessa. Non supplica, non si illude, non si crede immortale. Per questo è più saggia dell’uomo.
+
+**Cosa dire all’orale**
+
+> Nei versi 302-322 Leopardi chiude circolarmente il componimento rivolgendosi alla ginestra con un’apostrofe: “E tu, lenta ginestra”. Il fiore sarà distrutto dalla lava, ma non ha mai supplicato vigliaccamente né si è mai eretto con orgoglio folle verso le stelle. È più saggio dell’uomo perché conosce la propria fragilità e non crede di essere immortale. Qui sta il senso eroico della poesia: dignità nella sconfitta, non illusione di vittoria.
+
+### Mappa rapida dei blocchi della *Ginestra*
+
+| Versi | Domanda possibile | Risposta in una frase |
+| --- | --- | --- |
+| **1-7** | “Come si apre la *Ginestra*?” | Con il Vesuvio sterminatore e il fiore solitario, simbolo di fragile dignità nel deserto. |
+| **34-53** | “Che cosa vuol dire ‘magnifiche sorti e progressive’?” | È una citazione ironica contro chi crede che progresso e natura garantiscano grandezza all’uomo. |
+| **63-69** | “Perché il secolo è superbo e sciocco?” | Perché chiama progresso un ritorno alle illusioni e rifiuta la verità razionale della fragilità umana. |
+| **110-117** | “Che cos’è la nobil natura?” | È l’uomo che guarda il destino comune senza togliere nulla al vero. |
+| **145-157** | “Che cos’è la social catena?” | È la solidarietà laica fondata sul sapere vero e sulla lotta comune contro la natura. |
+| **302-322** | “Che cosa rappresenta la ginestra finale?” | Rappresenta la saggezza umile: piega davanti alla natura, ma senza viltà e senza superbia. |
+
 ### La “nobil natura”
 
 Il passo più importante è:
@@ -910,6 +1277,29 @@ La social catena è una fratellanza laica: non nasce da una fede religiosa, ma d
 Puoi dire:
 
 > *La ginestra* è il testamento poetico di Leopardi. Il fiore che cresce sulle pendici del Vesuvio rappresenta l’uomo: fragile, esposto alla distruzione, ma capace di dignità. Leopardi critica il secolo “superbo e sciocco” e l’illusione delle “magnifiche sorti e progressive”. La vera nobiltà consiste nel guardare in faccia il male comune e nel costruire la “social catena”, cioè una solidarietà laica tra gli uomini contro la natura nemica.
+
+### Scheda minima: *Il giovane favoloso*
+
+| Dato | Informazione utile |
+| --- | --- |
+| **Titolo** | *Il giovane favoloso* |
+| **Regia** | Mario Martone |
+| **Anno** | 2014 |
+| **Interprete di Leopardi** | Elio Germano |
+| **Funzione per il programma** | Aiuta a visualizzare la vita di Leopardi e alcuni nuclei del suo pensiero, senza sostituire lo studio dei testi. |
+| **Sequenza da ricordare** | Nei materiali di lezione si richiama la recitazione dei versi finali della *Ginestra* da parte di Elio Germano; il film si chiude proprio su quei versi. |
+
+**Come usarlo all’orale:** non va raccontato come se fosse una fonte biografica assoluta; va usato come collegamento culturale. È utile soprattutto per mostrare:
+
+- il rifiuto dello stereotipo del Leopardi solo “depresso”;
+- il legame tra corpo fragile e pensiero fortissimo, senza ridurre il pensiero alla malattia;
+- il passaggio da Recanati agli ultimi anni napoletani;
+- la potenza visiva del Vesuvio e della *Ginestra* come testamento poetico;
+- il tono eroico finale: la sconfitta davanti alla natura non elimina la dignità.
+
+**Cosa dire all’orale**
+
+> *Il giovane favoloso* di Mario Martone, con Elio Germano, è utile come collegamento perché rappresenta Leopardi non come semplice poeta triste, ma come figura intellettuale energica e radicale. Nei materiali di lezione viene ricordata soprattutto la chiusura del film sui versi finali della *Ginestra*: l’apostrofe alla ginestra rende visibile il cuore della fase eroica, cioè la dignità fragile ma non illusa davanti alla potenza della natura.
 
 ---
 

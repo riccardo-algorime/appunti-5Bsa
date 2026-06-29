@@ -4,9 +4,10 @@
 
 - Fonte madre: [`PASOLINI_Studio_Completo.md`](<../../studio/disordinato%28gioele%29/PASOLINI_Studio_Completo.md>).
 - Integrazioni mirate: [`APPUNTI-PASOLINI-MEGA.md`](<../../studio/disordinato%28gioele%29/APPUNTI-PASOLINI-MEGA.md>), usato soprattutto per **poesia friulana**, **testi scolastici**, **Le ceneri di Gramsci**, **Ragazzi di vita**, **La ricotta**, **Il PCI ai giovani!**.
+- Lezioni locali: [`04-11-25/schema.md`](<../lezioni/04-11-25/schema.md>) per **boom economico**, **società di massa**, **mutazione antropologica**, **Valle Giulia**; [`17-11-25/transcription.txt`](<../lezioni/17-11-25/transcription.txt>) e [`18-11-25/transcription.txt`](<../lezioni/18-11-25/transcription.txt>) sono stati controllati, ma non aggiungono contenuti specifici su Pasolini.
 
 > **Nota sulle fonti**  
-> Questa scheda usa solo i due materiali indicati sopra. Non usa lo `schema.md` delle lezioni. Quando un argomento richiesto dal programma non è sviluppato nei materiali assegnati, viene segnalato esplicitamente come **materiale insufficiente**, senza aggiungere ricostruzioni esterne.
+> Questa scheda usa i materiali locali indicati sopra. Per *Mamma Roma*, che nei materiali locali non riceve una trattazione analitica autonoma, la scheda integra una sintesi storico-letteraria standard coerente con il percorso già documentato su borgate, sottoproletariato, cinema sacro e mutazione antropologica.
 
 ---
 
@@ -29,9 +30,9 @@
 | **Poesia friulana** | *Poesie a Casarsa*, dialetto friulano, *Fontana di aga dal me pais*, *La meglio gioventù*, *La nuova gioventù* e riscrittura del mondo perduto. |
 | **Poesia italiana** | *Le ceneri di Gramsci*, poemetti, terzina dantesca, Gramsci, contraddizione ideologica ed esistenziale, *Il pianto della scavatrice*. |
 | **Romanzi romani** | *Ragazzi di vita*, Riccetto e la rondinella, sottoproletariato, lingua romanesca, processo, omologazione; cenni a *Una vita violenta*. |
-| **Cinema** | *Accattone*, *La ricotta*, cenni a *Il Vangelo secondo Matteo* e *Decameron*; **Mamma Roma: materiale insufficiente nelle fonti assegnate**. |
-| **Articoli e interventi** | *Il mio Accattone in TV dopo il genocidio*, *Fuori dal Palazzo*, *Io so*, *Il Processo*, *Il PCI ai giovani!*, capelloni/hippie. |
-| **Interviste e documentari** | Enzo Biagi, *La forma della città*, *Pasolini, Il corpo e la voce*, *Blu Notte*, morte di Pasolini. |
+| **Cinema** | *Accattone*, *Mamma Roma*, *La ricotta*, cenni a *Il Vangelo secondo Matteo* e *Decameron*: borgate, sacralità degli ultimi, sineciosi, stile anti-borghese. |
+| **Articoli e interventi** | *Il mio Accattone in TV dopo il genocidio*, *Fuori dal Palazzo*, *Io so*, *Il Processo*, *Il PCI ai giovani!*, *Contro i capelli lunghi* / capelloni. |
+| **Interviste e documentari** | Enzo Biagi, *La forma della città*, *Pasolini, Il corpo e la voce*, *Blu Notte*, morte di Pasolini come “delitto italiano”. |
 | **Concetti** | Progresso/sviluppo, consumismo, televisione, nuovo fascismo, mutazione antropologica, genocidio culturale, omologazione. |
 | **Collegamenti orali** | Leopardi, Dante/Foscolo/poeti civili, Gramsci, Verga, Naturalismo-Verismo, boom economico, Sessantotto, televisione, censura, potere, neorealismo. |
 
@@ -812,12 +813,96 @@ Le fonti citano *Il Vangelo secondo Matteo* come film in cui **Cristo assume la 
 
 ---
 
-## 7.5 *Mamma Roma*: materiale insufficiente
+## 7.5 *Mamma Roma* (1962)
 
-Le fonti assegnate non forniscono materiale vero e specifico su **Mamma Roma**. Non compare un’analisi dell’opera, né una trama, né temi, né stile.
+### Contesto
 
-> **Materiale insufficiente**  
-> Per rispettare il vincolo di non inventare, questa scheda non ricostruisce *Mamma Roma*. All’orale si può solo dire che, nelle fonti usate per questa scheda, il film non è trattato in modo sufficiente; il nucleo cinematografico studiabile è invece costituito da *Accattone* e *La ricotta*, con cenni a *Il Vangelo secondo Matteo* e *Decameron*.
+*Mamma Roma* è il secondo lungometraggio di Pasolini, successivo ad *Accattone*. Resta dentro il mondo delle **borgate romane**, ma cambia il punto di vista: non segue più solo il sottoproletario maschile che vive di espedienti, bensì una madre che vuole uscire dalla marginalità e dare al figlio una vita “normale”.
+
+La protagonista è interpretata da **Anna Magnani**, attrice già legata al cinema neorealista e alla rappresentazione popolare di Roma. Accanto a lei Pasolini usa anche volti non professionistici e corpi presi dalla realtà periferica, secondo la sua idea di cinema anti-borghese.
+
+> **Perché è importante nel percorso**
+> *Mamma Roma* sta tra *Accattone* e *La ricotta*: come *Accattone* racconta la borgata e l’impossibilità del riscatto; come *La ricotta* trasforma un povero in figura sacrificale. È quindi un ponte perfetto tra **romanzo romano**, **cinema**, **sacralità degli ultimi** e **critica del falso progresso**.
+
+### Trama
+
+**Mamma Roma** è una prostituta che vorrebbe abbandonare il proprio passato. Dopo il matrimonio del suo protettore **Carmine**, tenta di rifarsi una vita: lascia la strada, prende una casa in un quartiere popolare romano e lavora come venditrice al mercato.
+
+Il suo obiettivo è soprattutto il figlio **Ettore**, cresciuto lontano da lei. Mamma Roma lo richiama a Roma e sogna per lui un destino piccolo-borghese:
+
+- una casa dignitosa;
+- un lavoro regolare;
+- una fidanzata “perbene”;
+- l’uscita definitiva dal mondo della strada.
+
+Ma il progetto fallisce. Ettore non riesce a entrare davvero nel mondo borghese che la madre desidera. Resta attratto dalla vita della borgata, dall’inerzia, dalle compagnie marginali, da una sessualità confusa e da piccoli reati. Quando Carmine ricompare, ricatta Mamma Roma e la costringe a tornare alla prostituzione: il passato che lei voleva cancellare ritorna e distrugge il suo sogno di redenzione.
+
+Ettore viene infine arrestato per un piccolo furto. In carcere si ammala e muore legato a un letto di contenzione. La morte del figlio mostra il fallimento totale del sogno materno: non c’è vera ascesa sociale, non c’è integrazione, non c’è salvezza nel modello borghese.
+
+### Personaggi
+
+| Personaggio | Ruolo | Significato |
+|---|---|---|
+| **Mamma Roma** | Ex prostituta, madre di Ettore. | È insieme energia vitale, amore materno e illusione di riscatto. Vuole “salvare” il figlio entrando nella rispettabilità piccolo-borghese. |
+| **Ettore** | Figlio adolescente. | È fragile, passivo, attratto dalla borgata e incapace di aderire al progetto materno. Diventa figura sacrificale. |
+| **Carmine** | Ex protettore di Mamma Roma. | Rappresenta il passato che ritorna e impedisce la cancellazione della marginalità. |
+| **I ragazzi della borgata** | Compagnie di Ettore. | Mostrano un mondo di vitalità povera, ma già senza sbocco. |
+| **Le figure piccolo-borghesi** | Vicini, possibili datori di lavoro, ambiente “rispettabile”. | Rappresentano il modello sociale desiderato da Mamma Roma, ma anche la sua illusione. |
+
+### Temi
+
+| Tema | Spiegazione |
+|---|---|
+| **Impossibilità del riscatto** | Mamma Roma crede che bastino casa, lavoro e rispettabilità per cambiare vita. Pasolini mostra che la società non permette davvero il passaggio dalla marginalità alla salvezza. |
+| **Maternità e colpa** | L’amore materno è potentissimo, ma non onnipotente. Mamma Roma vuole salvare Ettore, però il suo stesso sogno piccolo-borghese lo espone al fallimento. |
+| **Sottoproletariato e piccolo borghese** | Il film mostra il momento in cui la borgata desidera diventare borghese. È già il tema che negli anni Settanta Pasolini chiamerà **mutazione antropologica**. |
+| **Falso progresso** | Il nuovo quartiere, la casa e il lavoro promettono progresso, ma non producono vera liberazione. Sono segni di uno sviluppo sociale esterno, non di un progresso umano profondo. |
+| **Sacro negli ultimi** | Ettore non è un eroe morale, ma nel finale viene rappresentato come corpo martirizzato. Pasolini vede il sacro nella sofferenza degli ultimi. |
+| **Passato che ritorna** | Carmine impedisce a Mamma Roma di cancellare ciò che è stata: la società non consente una rinascita semplice. |
+
+### Stile
+
+*Mamma Roma* unisce realismo e costruzione figurativa alta:
+
+- ambienti reali di periferia romana;
+- dialetto e parlato popolare;
+- alternanza tra Anna Magnani, grande attrice professionista, e volti più ruvidi/non patinati;
+- attenzione ai corpi, ai volti, alle camminate, alla fisicità;
+- contrasti tra basso e alto, cioè **sineciosi**;
+- musica e immagini che solennizzano una vicenda di miseria;
+- finale costruito come immagine sacrificale.
+
+Il film non è semplice neorealismo. Pasolini parte dalla realtà delle borgate, ma la trasfigura: i poveri non sono solo documentati, sono ripresi come figure tragiche e quasi sacre.
+
+### Sequenze / nuclei da ricordare
+
+Le fonti locali non offrono una scaletta analitica delle sequenze; questi sono quindi **nuclei di studio** da usare per organizzare l’opera, non cronaca certa di ciò che è stato visto in classe.
+
+| Nucleo | Cosa ricordare | Come collegarlo |
+|---|---|---|
+| **Il matrimonio di Carmine** | Segna l’inizio apparente di una nuova vita: Mamma Roma pensa di liberarsi del protettore e del passato. | Tema del passato che ritorna; impossibilità della rinascita. |
+| **La nuova casa e il mercato** | Mamma Roma prova a costruire rispettabilità: casa, lavoro, ruolo materno. | Falso progresso; sogno piccolo-borghese; boom economico. |
+| **Ettore nella borgata** | Il figlio non corrisponde al progetto materno: resta sospeso tra infanzia, desiderio, inerzia e piccoli reati. | Continuità con *Ragazzi di vita* e *Accattone*. |
+| **Le camminate notturne di Mamma Roma** | La protagonista attraversa Roma parlando e raccontandosi: il passato e il presente si mescolano. | Teatro popolare, confessione, città come spazio morale. |
+| **Il ritorno di Carmine** | Il ricatto costringe Mamma Roma a tornare alla prostituzione. | La società non cancella lo stigma; il riscatto individuale è fragile. |
+| **La morte di Ettore** | Ettore muore in carcere, legato a un letto: il corpo dell’ultimo diventa immagine di martirio. | Sacralità degli ultimi; confronto con Stracci in *La ricotta* e con Accattone. |
+
+### Collegamenti
+
+- **Con *Accattone***: stesso mondo di borgate, stessa impossibilità del riscatto, stessa morte come esito tragico. In *Accattone* il protagonista cerca una redenzione personale; in *Mamma Roma* la madre cerca una redenzione familiare e sociale.
+- **Con *Ragazzi di vita***: Ettore appartiene alla stessa umanità marginale dei ragazzi romani: vitalità, povertà, assenza di progetto, lingua popolare.
+- **Con *La ricotta***: Ettore e Stracci sono corpi poveri che la società riconosce solo nella morte.
+- **Con Verga**: come nei vinti verghiani, il tentativo di salire socialmente produce caduta; però Pasolini aggiunge una dimensione sacrale e cristologica assente nel Verismo.
+- **Con il boom economico**: il desiderio di casa, lavoro e rispettabilità mostra l’attrazione esercitata dal modello piccolo-borghese.
+- **Con Educazione civica**: periferie, marginalità, carcere, stigma sociale, diritto al riscatto, esclusione reale dietro la promessa formale di integrazione.
+
+### Perché conta
+
+*Mamma Roma* conta perché mostra il punto tragico della poetica pasoliniana: gli ultimi non sono salvati né dalla modernizzazione né dal desiderio di diventare borghesi. Il film anticipa la critica degli anni Settanta alla mutazione antropologica: il popolo non viene liberato, ma spinto a desiderare la forma di vita della piccola borghesia.
+
+### Cosa dire all’orale
+
+> *Mamma Roma* racconta una madre ex prostituta che vuole dare al figlio Ettore una vita rispettabile, ma il sogno di riscatto fallisce. Pasolini mostra che la modernizzazione non salva davvero gli ultimi: casa, lavoro e rispettabilità restano promesse fragili. Il finale, con Ettore che muore in carcere legato a un letto, trasforma il ragazzo di borgata in figura sacrificale. Il film collega realismo delle periferie e sacralità degli ultimi, ed è un ponte tra *Accattone*, *La ricotta* e la futura critica pasoliniana all’omologazione piccolo-borghese.
 
 ---
 
@@ -1033,23 +1118,59 @@ Questo testo mostra l’anticonformismo radicale di Pasolini: è capace di contr
 
 ---
 
-## 8.7 Capelloni, hippie e capelli lunghi
+## 8.7 *Contro i capelli lunghi*: capelloni, hippie e linguaggio dei corpi
 
-Le fonti contengono un riferimento sintetico alla critica pasoliniana agli **hippie/capelloni** e all’“articolo sui capelli lunghi / contro i capelloni”.
+### Collocazione
 
-### Materiale disponibile
+Il testo sui **capelli lunghi** appartiene al nucleo degli **Scritti corsari**: è uno degli interventi in cui Pasolini legge un dettaglio apparentemente minimo — la moda dei capelli — come sintomo di una trasformazione storica profonda.
 
-Pasolini considera naturale una reazione al consumismo, ma critica questi giovani perché:
+Il punto non è moralistico: Pasolini non attacca i capelli lunghi perché “disordinati” o perché scandalosi in sé. Li interpreta come **segno**, cioè come linguaggio del corpo. Per lui anche vestiti, capelli, gesti, postura e modo di parlare comunicano un’appartenenza culturale.
 
-- per essere anticonformisti si conformano a un altro modello;
-- non agiscono in nome di una cultura, ma di una sottocultura;
-- non hanno davvero a che vedere con la religiosità a cui si ispirano;
-- trasformano la ribellione in una nuova divisa;
+### Tesi centrale
+
+I capelli lunghi nascono come segno di contestazione: dovrebbero dire “siamo diversi”, “rifiutiamo la società borghese”, “non accettiamo il consumismo”. Ma Pasolini vede che questo segno si svuota rapidamente:
+
+- la ribellione diventa **moda**;
+- l’anticonformismo diventa **nuovo conformismo**;
+- la diversità diventa una **divisa**;
+- il gesto contro il sistema viene assorbito dal sistema stesso;
+- il corpo, che sembrava libero, torna a essere governato dal mercato e dai modelli collettivi.
+
+Per questo il testo è importante: Pasolini usa i capelli per parlare della **mutazione antropologica**. Il potere moderno non reprime solo dall’esterno; produce desideri, mode e identità già pronte.
+
+### Capelloni e sottocultura
+
+Le fonti locali sintetizzano così la critica pasoliniana agli hippie/capelloni:
+
+- per essere anticonformisti, si **conformano a un altro modello**;
+- non agiscono in nome di una cultura, ma di una **sottocultura**;
+- non hanno davvero a che vedere con la religiosità a cui talvolta si ispirano;
+- trasformano la ribellione in una nuova **divisa**;
 - perdono la vera sacralità.
+
+Questa critica va capita bene: Pasolini riconosce che è naturale reagire al consumismo, ma non crede che basti cambiare aspetto per uscire dal consumismo. Se il gesto ribelle viene subito imitato, venduto e reso moda, diventa parte dell’omologazione.
+
+### Perché è uno scritto corsaro
+
+È “corsaro” perché:
+
+| Aspetto | Spiegazione |
+|---|---|
+| **Parte da un dettaglio quotidiano** | I capelli lunghi sembrano un tema leggero, ma diventano prova della trasformazione sociale. |
+| **Attacca anche i progressisti** | Pasolini non si limita a criticare la destra o la borghesia tradizionale: critica anche la controcultura giovanile. |
+| **Legge i corpi come documenti storici** | Il corpo dei giovani mostra gli effetti del nuovo potere consumistico. |
+| **Smaschera il falso anticonformismo** | Essere “contro” può diventare una posa prevista dal mercato. |
+
+### Collegamenti
+
+- **Con *Il PCI ai giovani!*:** in entrambi i casi Pasolini scandalizza la sinistra giovanile, accusandola di essere più borghese di quanto creda.
+- **Con televisione e consumismo:** il potere non obbliga soltanto; seduce, propone modelli, rende desiderabile una forma di vita.
+- **Con Educazione civica / media:** oggi il discorso può essere collegato a influencer, mode social, estetiche di gruppo, brandizzazione dell’identità.
+- **Con la mutazione antropologica:** i capelli sono un sintomo visibile del mutamento dei corpi e dei desideri.
 
 ### Cosa dire all’orale
 
-> Pasolini critica i capelloni perché vede anche nella controcultura un rischio di omologazione: la ribellione può diventare moda, divisa, sottocultura. Per lui non basta essere contro; bisogna sottrarsi davvero ai modelli imposti.
+> In *Contro i capelli lunghi*, Pasolini interpreta i capelli dei capelloni come un linguaggio del corpo. All’inizio sembrano un segno di contestazione, ma diventano presto una moda e quindi un nuovo conformismo. Il testo è corsaro perché mostra che anche la ribellione può essere assorbita dal consumismo: non basta apparire diversi per sottrarsi all’omologazione.
 
 ---
 
@@ -1128,10 +1249,32 @@ Le fonti lo indicano come documentario realizzato per il quarantennale della mor
 
 ### *Blu Notte*
 
-Le fonti ricordano una puntata di **Blu Notte** in cui Carlo Lucarelli affronta il tema della morte di Pasolini, definendola un **“delitto italiano”**.
+Le fonti ricordano una puntata di **Blu Notte** in cui **Carlo Lucarelli** affronta il tema della morte di Pasolini e la definisce un **“delitto italiano”**.
 
-> **Materiale disponibile**  
-> I materiali citano questi documentari, ma non offrono una scaletta analitica dettagliata. Vanno usati come riferimenti per la ricezione e per il tema della morte/mistero italiano.
+Questa espressione è studiabile perché non indica solo un caso di cronaca nera. Un “delitto italiano” è un fatto in cui si intrecciano:
+
+- violenza privata e contesto pubblico;
+- marginalità sociale;
+- sessualità e scandalo;
+- potere politico;
+- misteri, depistaggi, ipotesi non chiarite;
+- memoria collettiva del paese.
+
+### Come usare *Blu Notte* nello studio
+
+Non bisogna trasformare l’orale in una ricostruzione giudiziaria minuziosa. Il punto è capire perché la morte di Pasolini è diventata un **nucleo culturale e civile**:
+
+| Aspetto | Perché conta |
+|---|---|
+| **Ricezione pubblica** | La morte di Pasolini continua a essere raccontata da documentari, inchieste, film, articoli. |
+| **Figura dell’intellettuale scomodo** | Pasolini aveva scritto *Io so* e stava lavorando a *Petrolio*: la sua voce era percepita come pericolosa. |
+| **Scenario simbolico** | Muore in una periferia di baracche, tra quei “ragazzi di vita” e quella marginalità che aveva raccontato. |
+| **Educazione civica** | Il caso apre domande su verità giudiziaria, opinione pubblica, poteri forti, informazione, responsabilità dello Stato. |
+| **Memoria italiana** | La formula “delitto italiano” collega Pasolini al clima dei misteri italiani degli anni Settanta. |
+
+### Cosa dire all’orale
+
+> *Blu Notte* serve per studiare la morte di Pasolini non come semplice cronaca, ma come “delitto italiano”: un caso in cui si intrecciano marginalità, potere, sessualità, misteri politici e memoria pubblica. Lucarelli valorizza proprio questo aspetto: la morte di Pasolini diventa una ferita simbolica della storia italiana.
 
 ---
 
@@ -1150,15 +1293,36 @@ Le fonti sottolineano che la vicenda non appare limpida. Negli anni sono circola
 3. “delitto italiano”;
 4. eliminazione voluta da poteri forti per zittire un intellettuale scomodo.
 
+Queste ipotesi vanno presentate con prudenza: all’orale non bisogna spacciare per certezza ciò che appartiene al campo delle interpretazioni, delle inchieste e delle discussioni successive. Il dato sicuro è che la versione del solo omicidio privato non ha esaurito il dibattito pubblico.
+
 ### Perché la morte è simbolica
 
 Pasolini muore nello scenario umano e sociale di cui aveva parlato: periferia, baracche, ragazzi di vita, marginalità. La sua morte si intreccia con i temi della sua opera.
 
 Le fonti ricordano anche che stava lavorando a **Petrolio**, vasto disegno narrativo pubblicato postumo nel 1993, atto d’accusa contro affari, politica, trame occulte e allusioni all’ENI. Questo alimenta le letture politiche della sua morte.
 
+### Nucleo studiabile: morte, *Io so*, *Petrolio*
+
+| Elemento | Cosa ricordare | Collegamento |
+|---|---|---|
+| **2 novembre 1975** | Pasolini viene ucciso all’Idroscalo di Ostia. | Chiusura tragica della biografia; periferia e marginalità. |
+| **Pino Pelosi** | Minorenne, “ragazzo di vita”, indicato dalla versione ufficiale come responsabile. | Il caso unisce cronaca nera e mondo pasoliniano delle borgate. |
+| **Ipotesi alternative** | Complotto, poteri forti, delitto politico, “delitto italiano”. | Clima degli anni Settanta, misteri italiani, sfiducia verso le versioni ufficiali. |
+| ***Io so*** | Pasolini rivendica il ruolo dell’intellettuale che collega frammenti e denuncia il potere anche senza prove giudiziarie. | Funzione civile dell’intellettuale. |
+| ***Petrolio*** | Opera incompiuta, pubblicata postuma nel 1993, con accuse e allusioni a intrecci tra affari, politica, trame occulte ed ENI. | Possibile movente politico nelle interpretazioni complottiste; non certezza giudiziaria. |
+| ***Blu Notte*** | Lucarelli presenta la morte come “delitto italiano”. | Ricezione pubblica e memoria civile del caso. |
+
+### Come collegarla all’opera
+
+- **Con *Ragazzi di vita* e *Accattone***: la morte avviene nello stesso universo sociale delle borgate e dei marginali.
+- **Con *Mamma Roma***: anche qui il sottoproletariato è legato a un destino tragico e a un mancato riscatto.
+- **Con *Io so***: Pasolini è l’intellettuale che denuncia ciò che il potere nasconde.
+- **Con *Petrolio***: l’ultima opera incompiuta rafforza l’immagine di Pasolini come autore che indaga i rapporti tra economia, politica e potere occulto.
+- **Con Educazione civica**: verità processuale, libertà di parola, ruolo dei media, memoria pubblica, rapporto tra cittadino e istituzioni.
+
 ### Cosa dire all’orale
 
-> La morte di Pasolini è diventata un nodo della storia italiana perché unisce cronaca nera, marginalità, sessualità, potere e misteri politici. Le fonti la presentano come possibile “delitto italiano”, collegato alla voce scomoda dell’intellettuale che aveva scritto “Io so”.
+> La morte di Pasolini è diventata un nodo della storia italiana perché unisce cronaca nera, marginalità, sessualità, potere e misteri politici. Il dato certo è l’assassinio all’Idroscalo di Ostia il 2 novembre 1975; il dibattito successivo nasce dal fatto che la versione ufficiale non ha convinto tutti. Per questo *Blu Notte* parla di “delitto italiano”. All’orale conviene collegare la morte a *Io so*, a *Petrolio* e alla funzione civile dell’intellettuale pasoliniano.
 
 ---
 
@@ -1179,10 +1343,12 @@ Le fonti ricordano anche che stava lavorando a **Petrolio**, vasto disegno narra
 | **Genocidio culturale** | Distruzione delle culture popolari, dei dialetti, delle differenze. | *Accattone* rivisto in TV; *Fuori dal Palazzo*. |
 | **Omologazione** | Riduzione di classi e culture diverse a un unico modello piccolo-borghese. | Riccetto; televisione; giovani anni Settanta. |
 | **Sottoproletariato** | Fascia esclusa dal sistema produttivo, che vive di espedienti. | *Ragazzi di vita*, *Accattone*. |
-| **Sineciosi** | Accostamento di elementi bassi e alti. | Cinema: borgate + Bach/Vivaldi, ladri + sacralità. |
+| **Sineciosi** | Accostamento di elementi bassi e alti. | Cinema: borgate + Bach/Vivaldi, ladri + sacralità; *Mamma Roma*. |
 | **Palazzo** | Metafora del potere politico chiuso in se stesso. | *Fuori dal Palazzo*. |
 | **Ossimoro vivente** | Identità contraddittoria di Pasolini. | *Le ceneri di Gramsci*. |
 | **Cattolicesimo contadino** | Visione religiosa non confessionale, legata agli ultimi e alla sacralità del povero. | *La ricotta*, *Il Vangelo secondo Matteo*. |
+| **Falso anticonformismo** | Ribellione che diventa moda, divisa e nuovo conformismo. | *Contro i capelli lunghi*. |
+| **Delitto italiano** | Caso di cronaca che diventa nodo civile perché intreccia violenza, potere, misteri e memoria pubblica. | Morte di Pasolini; *Blu Notte*. |
 
 ---
 
@@ -1242,12 +1408,13 @@ Il movimento è sempre lo stesso: Pasolini guarda dove il centro del potere non 
 | **1956** | *Le ceneri di Gramsci*. |
 | **1959** | *Una vita violenta*. |
 | **1961** | *Accattone*, primo film, vietato ai minori di 18 anni. |
+| **1962** | *Mamma Roma*, secondo lungometraggio: maternità, borgate, mancato riscatto. |
 | **1963** | *La ricotta* in *Ro.Go.Pa.G.*, processo per vilipendio. |
 | **1964** | *Il Vangelo secondo Matteo*. |
 | **1968** | Valle Giulia e *Il PCI ai giovani!*. |
 | **1971** | Intervista di Enzo Biagi. |
 | **1972** | *Empirismo eretico*. |
-| **1973** | Articolo sulla televisione e il nuovo fascismo. |
+| **1973** | Articoli corsari: televisione, nuovo fascismo, *Contro i capelli lunghi*. |
 | **1974** | *La nuova gioventù*; *Io so*; articoli sul genocidio culturale. |
 | **1975** | *Scritti corsari*; *Il Processo*; morte all’Idroscalo di Ostia. |
 | **1976** | *Lettere luterane*, pubblicazione postuma. |
@@ -1266,6 +1433,8 @@ Il movimento è sempre lo stesso: Pasolini guarda dove il centro del potere non 
 
 > «Mo’ sto bene» — *Accattone*.
 
+> Il corpo povero di Ettore in *Mamma Roma* è da ricordare come immagine di martirio laico: non una citazione da memorizzare, ma un nucleo visivo da spiegare.
+
 > «Bisognava che morisse per accorgersi che anche lui era vivo» — *La ricotta*.
 
 > «Io sono una forza del passato. Solo nella tradizione è il mio amore» — poesia recitata in *La ricotta*.
@@ -1279,6 +1448,8 @@ Il movimento è sempre lo stesso: Pasolini guarda dove il centro del potere non 
 > «Imbecilli slavati feroci infelici fantasmi» — giudizio sui sottoproletari trasformati degli anni Settanta.
 
 > «Quando ieri a Valle Giulia avete fatto a botte coi poliziotti, io simpatizzavo coi poliziotti, perché i poliziotti sono figli di poveri» — *Il PCI ai giovani!*.
+
+> I capelli lunghi in *Contro i capelli lunghi* sono un linguaggio del corpo: la ribellione può diventare moda e quindi nuovo conformismo.
 
 ---
 
@@ -1331,6 +1502,7 @@ Il movimento è sempre lo stesso: Pasolini guarda dove il centro del potere non 
 - Ambienti reali.
 - Interesse per poveri e periferie.
 - Ma Pasolini supera il neorealismo attraverso la sacralizzazione figurativa e la sineciosi.
+- *Mamma Roma* usa Anna Magnani e il mondo popolare romano, ma trasforma la vicenda materna in tragedia sacrificale.
 
 **Frase pronta:**
 
@@ -1359,6 +1531,8 @@ Il movimento è sempre lo stesso: Pasolini guarda dove il centro del potere non 
 - Autorità del video.
 - Omologazione del linguaggio.
 - Attualità rispetto a social, influencer, mode e slang.
+- *Contro i capelli lunghi*: il corpo e l’estetica personale possono diventare linguaggio sociale e strumento di omologazione.
+- Morte di Pasolini / *Blu Notte*: verità giudiziaria, memoria pubblica, poteri forti, informazione.
 
 **Frase pronta:**
 
@@ -1390,10 +1564,10 @@ Se all’orale chiedono “Parlami di Pasolini”, puoi seguire questa scaletta:
 4. **Poesia friulana**: *Poesie a Casarsa*, dialetto, *Fontana di aga dal me pais*, *La nuova gioventù* come riscrittura della perdita.
 5. **Le ceneri di Gramsci**: contraddizione “con te e contro di te”, progresso e paura dell’omologazione.
 6. **Ragazzi di vita**: borgate, sottoproletariato, romanesco, Riccetto e la rondinella, processo.
-7. **Cinema**: *Accattone* e *La ricotta*, sacralità degli ultimi, sineciosi, censura.
-8. **Articoli corsari**: genocidio culturale, *Fuori dal Palazzo*, *Io so*, *Il Processo*, *Il PCI ai giovani!*.
+7. **Cinema**: *Accattone*, *Mamma Roma* e *La ricotta*, sacralità degli ultimi, sineciosi, mancato riscatto, censura.
+8. **Articoli corsari**: genocidio culturale, *Fuori dal Palazzo*, *Io so*, *Il Processo*, *Il PCI ai giovani!*, *Contro i capelli lunghi*.
 9. **Concetti**: progresso/sviluppo, nuovo fascismo, televisione, mutazione antropologica, omologazione.
-10. **Chiusura**: morte di Pasolini e attualità della sua critica ai media e al consumismo.
+10. **Chiusura**: morte di Pasolini, *Blu Notte* / “delitto italiano” e attualità della sua critica ai media e al consumismo.
 
 > **Chiusura forte possibile**  
 > Pasolini resta attuale perché ha visto in anticipo che il vero potere moderno non agisce solo con la violenza politica, ma attraverso desideri, consumi, linguaggi, corpi e immagini. La sua opera è una lunga denuncia della perdita delle differenze e della trasformazione del popolo in massa omologata.

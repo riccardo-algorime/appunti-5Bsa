@@ -2,6 +2,16 @@
 
 ---
 
+## Fonti locali principali
+
+- [Lezione 08-01-26 — introduzione al Neorealismo e *Ossessione*](../lezioni/08-01-26/schema.md)
+- [Trascrizione 08-01-26 — dettagli su *Ossessione*](../lezioni/08-01-26/transcription.txt)
+- [Lezione 12-01-26 — Rossellini, Trilogia della guerra, *Paisà*](../lezioni/12-01-26/schema.md)
+- [Trascrizione 12-01-26 — *Roma città aperta*, *Paisà*, raccordi con letteratura](../lezioni/12-01-26/transcription.txt)
+- [Pasolini — mega-schema, cinema e collegamenti con il neorealismo](../pasolini/mega-schema.md)
+
+---
+
 ## Cronologia essenziale
 
 | Anno | Film / Evento |
@@ -53,6 +63,41 @@ Per quanto riguarda Visconti, i titoli da ricordare e contestualizzare nell'ambi
 ### 3.1 *Ossessione* (1942)
 
 *Ossessione* è la pellicola che viene convenzionalmente indicata come **anticipazione** del neorealismo, pur essendo stata girata durante la guerra, dunque prima della fioritura vera e propria del movimento. Il film inaugura quello sguardo sulla realtà quotidiana, spogliato di ogni retorica, che diventerà il tratto fondante della corrente.
+
+> [!note] Fonte locale
+> La lezione dell'8 gennaio insiste su *Ossessione* come film «che anticipa» il movimento: vedi [schema 08-01-26](../lezioni/08-01-26/schema.md) e [trascrizione 08-01-26](../lezioni/08-01-26/transcription.txt).
+
+#### Scheda da ricordare
+
+| Aspetto | Dato essenziale |
+|---|---|
+| **Regista** | Luchino Visconti |
+| **Anno** | 1942 nelle indicazioni generali del corso; nella trascrizione compare anche il riferimento al 1943, cioè alla circolazione/proiezione in pieno clima bellico |
+| **Genere** | Noir / melodramma torbido, tratto dal romanzo americano *Il postino suona sempre due volte* |
+| **Protagonisti** | Giovanna, Gino, il marito Bragana |
+| **Perché conta** | Annuncia il neorealismo prima ancora che il neorealismo esista come stagione compatta |
+
+#### Trama essenziale
+
+La vicenda ruota attorno a una **coppia adulterina**: Giovanna, donna sposata, si innamora di **Gino**, vagabondo e meccanico, e con lui progetta l'uccisione del marito **Bragana**, proprietario di un'osteria. A prima vista sembra una storia privata, quasi un noir passionale; in realtà Visconti usa questa materia torbida per rompere con l'immagine ufficiale dell'Italia fascista.
+
+#### Perché anticipa il neorealismo
+
+*Ossessione* è rivoluzionario non perché racconti già la Resistenza o il dopoguerra, ma perché **sposta lo sguardo**:
+
+1. **Paesaggi reali e orizzontali**: Visconti gira nella bassa padana, lungo il Po, tra strade, campagne, sentieri sterrati, dogane, osterie. Non c'è la verticalità monumentale e celebrativa del cinema fascista.
+2. **Italia povera e squallida**: il film mostra un Paese misero, fangoso, rassegnato, lontanissimo dall'immagine «florida», virile e trionfale che il fascismo voleva dare di sé.
+3. **Dissacrazione della famiglia**: adulterio, desiderio e omicidio colpiscono uno dei valori propagandati come sacri dal regime.
+4. **Personaggi marginali**: Gino è un vagabondo, un irregolare; Giovanna cerca nel matrimonio una via di fuga dalla miseria; Bragana incarna la retorica dell'uomo fascista, autoritario e maschilista.
+5. **Rifiuto del cinema di evasione**: al posto dei «telefoni bianchi» e dei set patinati, Visconti porta sullo schermo il reale basso, sporco, quotidiano.
+
+#### Reazione e censura
+
+La lezione ricorda che il film fu percepito come **provocatorio e dissacratorio**: venne bloccato dopo poche proiezioni, e si cita l'episodio della sala di Salsomaggiore Terme «esorcizzata» con l'acqua santa dopo la proiezione. Questo dettaglio serve a capire la forza di rottura dell'opera: il problema non era solo morale, ma politico e culturale. *Ossessione* faceva vedere l'Italia che la propaganda voleva nascondere.
+
+#### Cosa dire all'orale
+
+> *Ossessione* di Visconti è l'anticipazione del neorealismo perché, pur partendo da una trama noir e passionale, porta il cinema fuori dai teatri di posa e mostra un'Italia rurale, misera, fangosa, lontana dalla retorica fascista. È un film di rottura: dissacra la famiglia, rifiuta l'immagine trionfale del regime e mette al centro paesaggi e personaggi marginali.
 
 ### 3.2 *La terra trema* (1948)
 
@@ -149,17 +194,84 @@ Questo episodio di *Paisà* ha un'importanza che va oltre il film stesso: sarà 
 
 ### 4.3 *Germania anno zero* (1948)
 
-*Germania anno zero* è il terzo e ultimo film della Trilogia della guerra. Completa lo sguardo di Rossellini sui devastanti effetti del conflitto, spostandosi questa volta fuori dall'Italia, nella **Berlino distrutta** del dopoguerra. Il film mantiene la stessa coerenza stilistica e tematica degli altri due: la visione documentaristica, l'attenzione alla miseria e alla distruzione, la rappresentazione senza filtri delle conseguenze della guerra sui civili, in particolare sui più vulnerabili. (Nota: questa lezione non è stata trattata in modo approfondito nelle trascrizioni disponibili.)
+*Germania anno zero* è il terzo e ultimo film della Trilogia della guerra. Completa lo sguardo di Rossellini sui devastanti effetti del conflitto, spostandosi questa volta fuori dall'Italia, nella **Berlino distrutta** del dopoguerra. Il film mantiene la stessa coerenza stilistica e tematica degli altri due: la visione documentaristica, l'attenzione alla miseria e alla distruzione, la rappresentazione senza filtri delle conseguenze della guerra sui civili, in particolare sui più vulnerabili.
+
+> [!note] Fonte locale
+> Nella lezione dell'8 gennaio *Germania anno zero* viene citato come esempio del ruolo centrale dei **bambini** nel cinema neorealista: vedi [schema 08-01-26](../lezioni/08-01-26/schema.md) e [trascrizione 08-01-26](../lezioni/08-01-26/transcription.txt). Nella lezione del 12 gennaio è richiamato come terzo titolo della Trilogia: [schema 12-01-26](../lezioni/12-01-26/schema.md).
+
+#### Trama e nucleo tematico
+
+Il protagonista è **Edmund**, un bambino che si muove tra le strade di una **Berlino in macerie**, devastata dai bombardamenti. La sua famiglia è a pezzi: il padre è infermo, il fratello è un disertore nascosto, la sorella cerca di sopravvivere come può. Edmund vaga in una città ridotta a rovina, cercando cibo e possibilità di sopravvivenza.
+
+La vicenda culmina in una tragedia estrema: il bambino, deformato moralmente da un mondo adulto crollato e corrotto, arriva ad avvelenare il padre e poi si uccide. Questo finale rende *Germania anno zero* uno dei film più cupi del neorealismo rosselliniano.
+
+#### Perché è neorealista
+
+| Elemento | Significato |
+|---|---|
+| **Berlino reale, distrutta** | La città non è sfondo decorativo: le macerie sono la materia stessa del film. |
+| **Centralità di un bambino** | Come in altri film neorealisti, l'infanzia porta sulle spalle responsabilità che gli adulti non sanno più sostenere. |
+| **Guerra vista dopo la guerra** | Non si racconta il combattimento, ma ciò che resta: fame, rovine, disgregazione morale, famiglie spezzate. |
+| **Sguardo non consolatorio** | Rossellini non cerca il lieto fine: mostra l'«anno zero» come azzeramento materiale e spirituale. |
+
+#### Sequenze / nuclei da ricordare
+
+Le fonti locali non documentano una visione analitica scena per scena; per l'orale basta però riconoscere questi nuclei di studio:
+
+- Edmund che attraversa **strade e palazzi bombardati**
+- La famiglia incapace di proteggere il bambino
+- Il contrasto tra **infanzia** e **responsabilità adulte**
+- Il gesto finale come esito tragico della distruzione prodotta dalla guerra
+
+#### Cosa dire all'orale
+
+> In *Germania anno zero* Rossellini porta il neorealismo fuori dall'Italia e mostra Berlino come spazio di annientamento. Il protagonista è un bambino, Edmund: questo è decisivo, perché nel cinema neorealista i bambini spesso rivelano il fallimento morale degli adulti. La guerra non è solo distruzione materiale, ma anche devastazione delle coscienze.
 
 ---
 
 ## 5. Vittorio De Sica
 
-Vittorio De Sica è il terzo grande protagonista del neorealismo cinematografico. La professoressa indica che i suoi film dovevano essere trattati in una lezione successiva, ma dalla lezione del 22 gennaio emergono due elementi fondamentali.
+Vittorio De Sica è il terzo grande protagonista del neorealismo cinematografico. La lezione del 12 gennaio anticipa che De Sica sarebbe stato ripreso in seguito; dalla lezione dell'8 gennaio emerge già un elemento fondamentale per studiarlo: il ruolo del bambino **Bruno** in *Ladri di biciclette*, esempio della centralità dell'infanzia nel cinema neorealista.
 
 ### 5.1 *Ladri di biciclette* (1948)
 
-*Ladri di biciclette* è uno dei capolavori del neorealismo, girato da De Sica nel 1948. Il film rappresenta un esempio perfetto della poetica neorealista: la storia di un uomo comune nella Roma del dopoguerra, alle prese con la miseria e la disperazione quotidiana. (Nota: il film è citato nel programma ma la lezione dedicata non è presente nelle trascrizioni disponibili.)
+*Ladri di biciclette* è uno dei capolavori del neorealismo, girato da De Sica nel 1948. Il film rappresenta un esempio perfetto della poetica neorealista: la storia di un uomo comune nella Roma del dopoguerra, alle prese con la miseria e la disperazione quotidiana.
+
+> [!note] Fonte locale
+> La lezione dell'8 gennaio cita *Ladri di biciclette* per il personaggio di **Bruno**, il figlio che accompagna il padre: vedi [schema 08-01-26](../lezioni/08-01-26/schema.md) e [trascrizione 08-01-26](../lezioni/08-01-26/transcription.txt).
+
+#### Trama essenziale
+
+Il protagonista è **Antonio Ricci**, un disoccupato romano che trova lavoro come **attacchino di manifesti cinematografici**. Per lavorare ha bisogno della bicicletta: senza bicicletta perde il lavoro, e con il lavoro perde la possibilità di mantenere la famiglia. Quando la bicicletta gli viene rubata, Antonio attraversa Roma insieme al figlio **Bruno** cercando di recuperarla.
+
+La ricerca diventa una discesa nella miseria urbana del dopoguerra: mercati, strade, folle, periferie, volti anonimi. Alla fine Antonio, disperato, tenta a sua volta di rubare una bicicletta; viene scoperto e umiliato davanti al figlio.
+
+#### Perché è un film-simbolo
+
+| Aspetto | Funzione neorealista |
+|---|---|
+| **Un oggetto minimo** | La bicicletta è un oggetto umile, ma decide la sopravvivenza economica della famiglia. |
+| **Roma reale** | La città è filmata come spazio sociale: strade, mercati, periferie, folla. |
+| **Attori non professionisti** | L'effetto è di immediatezza e verità quotidiana. |
+| **Padre e figlio** | Il rapporto Antonio-Bruno permette di mostrare la povertà anche attraverso lo sguardo dell'infanzia. |
+| **Finale antiretorico** | Non c'è riscatto eroico: resta la vergogna, ma anche la pietà del figlio che prende la mano del padre. |
+
+#### Il ruolo di Bruno
+
+Bruno è fondamentale perché incarna uno dei tratti ricordati dalla lezione: nel cinema neorealista i **bambini** spesso assumono responsabilità e lucidità che mancano agli adulti. Bruno accompagna il padre nella ricerca, vede la sua frustrazione, la sua impotenza, infine la sua umiliazione. Non è un bambino decorativo: è lo sguardo morale del film.
+
+#### Sequenze / nuclei da ricordare
+
+Le fonti locali citano il film come voce di programma e come esempio del ruolo dei bambini; per lo studio orale sono centrali questi nuclei:
+
+- Il lavoro di Antonio come attacchino, reso possibile solo dalla bicicletta
+- Il furto della bicicletta come crollo della speranza familiare
+- La ricerca per Roma insieme a Bruno
+- Il tentativo finale di furto e la vergogna davanti al figlio
+
+#### Cosa dire all'orale
+
+> *Ladri di biciclette* è neorealista perché trasforma un fatto minimo — il furto di una bicicletta — in un dramma sociale. La bicicletta non è solo un oggetto: è il lavoro, il pane, la dignità. De Sica racconta la Roma povera del dopoguerra attraverso luoghi reali, attori non professionisti e il rapporto padre-figlio, in cui Bruno diventa testimone morale della crisi dell'adulto.
 
 ### 5.2 *Miracolo a Milano* (1951) — La fine del neorealismo
 
@@ -188,7 +300,37 @@ flowchart LR
 
 ---
 
-## 7. Sintesi: la poetica del neorealismo cinematografico
+## 7. Raccordo con Pasolini: dal Neorealismo al dibattito sul realismo
+
+Pasolini è un collegamento importante perché eredita alcuni tratti del neorealismo ma non si limita a ripeterli. Il [mega-schema su Pasolini](../pasolini/mega-schema.md) ricorda che il suo cinema usa **attori non professionisti**, **ambienti reali**, lingua popolare, borgate e sottoproletariato: tutti elementi che lo avvicinano alla lezione neorealista. Tuttavia Pasolini compie uno scarto decisivo: non vuole soltanto documentare la miseria, ma darle una forma **sacra**, figurativa, quasi pittorica.
+
+### Continuità con il neorealismo
+
+| Neorealismo | Pasolini |
+|---|---|
+| Luoghi reali | Borgate romane, strade, periferie |
+| Attori non professionisti | Franco Citti e volti presi dalla strada |
+| Interesse per umili e oppressi | Sottoproletariato romano |
+| Rifiuto dell'Italia ufficiale | Critica della borghesia, del consumismo, dell'omologazione |
+| Realismo sociale | Realismo dei corpi, della lingua, della fame, dell'esclusione |
+
+### Superamento del neorealismo
+
+Pasolini non è semplicemente un continuatore del neorealismo. Nei suoi film, soprattutto da *Accattone*, la miseria delle borgate viene accostata a musica colta, inquadrature ieratiche, richiami alla pittura medievale e rinascimentale. Il mega-schema pasoliniano definisce questo procedimento **sineciosi**: accostamento di basso e alto, baracche e sacro, sottoproletari e pale d'altare.
+
+> *Accattone* parte dal realismo delle borgate ma lo trasforma in un cinema sacro: i volti dei sottoproletari sono ripresi come pale d'altare, mentre la musica colta crea un contrasto altissimo con la miseria rappresentata.
+
+### Intervista e dibattito: perché Pasolini serve per parlare di Neorealismo
+
+Nell'[intervista di Enzo Biagi](../pasolini/mega-schema.md#91-intervista-di-enzo-biagi-1971), Pasolini riflette sul mezzo televisivo e sulla comunicazione: la televisione dà autorità a chi parla, crea un rapporto dall'alto verso il basso e può deformare il messaggio. Questo dato è utile per il raccordo con il neorealismo perché sposta il problema dal **che cosa rappresentare** al **come un mezzo rappresenta la realtà**.
+
+Il neorealismo aveva cercato una rappresentazione diretta, povera, antiretorica del reale; Pasolini, negli anni del boom economico e della televisione di massa, si chiede invece se il reale possa ancora essere mostrato senza essere deformato dal potere dei nuovi mezzi e dal consumismo. Per questo il collegamento orale può essere formulato così:
+
+> Dal neorealismo Pasolini eredita l'attenzione agli umili, agli ambienti reali e ai corpi non borghesi; però supera il semplice documentarismo, perché sacralizza il sottoproletariato e, nelle interviste, problematizza il mezzo stesso della rappresentazione: cinema e televisione non sono strumenti neutri, ma modi diversi di costruire la realtà.
+
+---
+
+## 8. Sintesi: la poetica del neorealismo cinematografico
 
 Il neorealismo cinematografico si può riassumere in una serie di princìpi che attraversano tutte le opere principali del movimento:
 
@@ -233,4 +375,9 @@ mindmap
       Verga → Visconti
       Paisà → Montaldo → Viganò
       Modello per Calvino, Pavese, Fenoglio
+    Raccordo con Pasolini
+      Attori non professionisti e ambienti reali
+      Borgate e sottoproletariato
+      Superamento: sacralizzazione e sineciosi
+      Interviste: mezzo non neutro
 ```

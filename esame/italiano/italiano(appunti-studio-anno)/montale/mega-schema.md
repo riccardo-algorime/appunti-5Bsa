@@ -92,7 +92,7 @@ Da qui nasce il senso di **estraneità**. Il poeta si sente appartenere alla **r
 
 L'io montaliano è un **io prigioniero**, chiuso in una negatività senza scampo. La vita è concepita come una **prigione**, segnata dal male di vivere e da una separazione fra uomo e natura che richiama il pessimismo di **Leopardi**. La tensione alla verità esiste, ma si scontra con un limite invalicabile.
 
-L'immagine più forte del limite è la **muraglia** con in cima **cocci aguzzi di bottiglia**, ricordata a proposito di ***Meriggiare pallido e assorto***. Il muro rappresenta un confine oltre il quale forse ci sarebbe il disvelamento del mistero dell'esistenza, ma il poeta non può oltrepassarlo. Nella lezione il testo è stato solo nominato e rimandato: **non è stato analizzato** in queste lezioni, quindi va ricordato come richiamo al tema del limite, non come testo svolto in modo dettagliato.
+L'immagine più forte del limite è la **muraglia** con in cima **cocci aguzzi di bottiglia**, che chiude ***Meriggiare pallido e assorto***. Come ricorda la [lezione del 26-05-26](../lezioni/26-05-26/transcription.txt), il muro rappresenta un confine oltre il quale forse ci sarebbe il disvelamento del mistero dell'esistenza, ma il poeta non può oltrepassarlo. La [lezione del 28-05-26](../lezioni/28-05-26/transcription.txt) aggiunge due dati da ricordare: il testo è fra i più antichi degli *Ossi*, composto nel **1916**, e riprende il tema del **meriggio**.
 
 | Immagine | Significato |
 |----------|-------------|
@@ -243,7 +243,98 @@ Il collegamento con **Leopardi** ritorna anche qui: l'immagine della divinità l
 
 ---
 
-## 11. Correlativo oggettivo
+## 11. *Meriggiare pallido e assorto*: aridità, muro, impossibilità del varco
+
+***Meriggiare pallido e assorto*** è uno dei componimenti più antichi degli ***Ossi di seppia***: nelle fonti locali è ricordato come testo composto nel **1916** e legato al ritorno del tema del **meriggio** ([lezione 28-05-26](../lezioni/28-05-26/transcription.txt)). È un testo fondamentale perché concentra in una scena apparentemente semplice — un uomo che cammina e osserva un paesaggio ligure assolato — molti nuclei della poetica montaliana: **aridità**, **male di vivere**, **limite**, **varco negato**, **correlativo oggettivo**, **poetica negativa**.
+
+### 11.1 Testo e contenuto: che cosa succede
+
+Il testo non racconta una vicenda vera e propria: presenta una sequenza di **azioni percettive** espresse soprattutto all'infinito. Il soggetto sembra quasi cancellato: non conta l'io autobiografico, ma l'esperienza universale di chi, nel meriggio, percepisce la vita come fatica e prigionia.
+
+| Nucleo del testo | Contenuto | Significato |
+|------------------|-----------|-------------|
+| **Meriggiare presso il muro d'orto** | Il poeta sta nel meriggio, pallido e assorto, vicino a un muro arroventato. | Il paesaggio non accoglie: il sole brucia, il muro separa, l'io è isolato. |
+| **Ascoltare pruni, sterpi, merli, serpi** | Si sentono schiocchi, fruscii, presenze animali e vegetali secche. | La natura è piena di suoni aspri, non di armonia panica. |
+| **Spiare formiche nelle crepe** | Le formiche rosse si spezzano e si intrecciano nelle crepe del suolo. | La vita minuta appare come movimento meccanico, faticoso, senza senso liberatorio. |
+| **Osservare il mare lontano** | Tra le fronde appare il palpitare lontano di scaglie di mare; intanto tremano i suoni delle cicale. | Il mare, possibile immagine di pienezza, resta lontano e frammentato: non diventa comunione con l'Essere. |
+| **Andare nel sole e sentire la muraglia** | Nel sole che abbaglia il poeta intuisce con triste meraviglia che la vita è seguire una muraglia con cocci aguzzi in cima. | La rivelazione è negativa: la vita è travaglio, limite, impossibilità di oltrepassare il muro. |
+
+### 11.2 Parafrasi per nuclei
+
+**Prima parte:** stare nel pieno del meriggio, pallidi e assorti, accanto a un muro d'orto arroventato; ascoltare, tra piante secche e spinose, i rumori secchi dei merli e il fruscio delle serpi. La scena è già chiusa e ostile: non c'è freschezza, ma arsura.
+
+**Seconda parte:** guardare nelle crepe del terreno o tra le erbe basse le file di formiche rosse, che si interrompono e si riannodano sopra piccoli mucchi. Il dettaglio è realistico, quasi entomologico, ma diventa anche immagine dell'esistenza: movimento continuo, frammentario, senza sbocco.
+
+**Terza parte:** osservare tra le fronde il mare lontano, ridotto a **scaglie** che palpitano; intanto dai colli brulli si levano i suoni tremuli delle cicale. Il mare non è abbraccio vitale: è lontano, spezzato, intravisto solo a frammenti.
+
+**Conclusione:** camminando nel sole che abbaglia, il poeta comprende con **triste meraviglia** che tutta la vita e il suo travaglio consistono nel seguire una **muraglia** sormontata da **cocci aguzzi di bottiglia**. Non si apre un passaggio: il muro resta davanti all'uomo come limite invalicabile.
+
+### 11.3 Struttura e movimento interno
+
+La struttura procede per **accumulo di percezioni**. Gli infiniti — *meriggiare*, *ascoltare*, *spiare*, *osservare*, *sentire* — costruiscono un'esperienza impersonale, quasi assoluta: non "io faccio", ma "accade di stare, ascoltare, guardare, capire". Il testo passa:
+
+1. dalla **stasi** presso il muro;
+2. all'ascolto di suoni secchi;
+3. all'osservazione minuta del suolo;
+4. allo sguardo verso il mare lontano;
+5. alla formula conclusiva sulla vita come cammino lungo una muraglia.
+
+La poesia quindi non parte da un ragionamento astratto: parte dal paesaggio e arriva a una **verità esistenziale negativa**. L'ultima immagine dà senso retroattivo a tutto ciò che precede: muro, arsura, sterpi, crepe, formiche, mare lontano e cicale erano già segni della stessa condizione.
+
+### 11.4 Paesaggio arido e meriggio
+
+Il paesaggio è quello ligure degli *Ossi*, ma non è una cartolina. È un paesaggio:
+
+- **rovente**, perché il muro d'orto è riscaldato dal sole;
+- **arido**, per pruni, sterpi, crepe del suolo, colli calvi;
+- **aspro**, per suoni come schiocchi, fruscii, scricchi;
+- **frammentato**, perché perfino il mare appare a scaglie;
+- **anti-idillico**, perché non consola e non assorbe l'io nella natura.
+
+Il **meriggio** è decisivo. In D'Annunzio, soprattutto in ***Alcyone***, il meriggio può essere il momento dell'estasi panica, della fusione vitale con la natura. In Montale accade l'opposto: come spiegato anche per *Spesso il male di vivere*, il meriggio è **immobilità**, **sonnolenza**, **indifferenza**, luce che non rivela in positivo ma abbaglia e rende più evidente il limite. Il sole non scalda dolcemente: **acceca** e **tortura**.
+
+### 11.5 Muro, muraglia e cocci aguzzi
+
+Il testo comincia presso un **muro d'orto** e si chiude con la **muraglia**. Il passaggio è importante: il muro concreto dell'orto diventa alla fine figura generale dell'esistenza. La [lezione del 26-05-26](../lezioni/26-05-26/transcription.txt) lo interpreta come **limite invalicabile**: al di là potrebbe esserci una qualche verità, ma il poeta non può raggiungerla.
+
+I **cocci aguzzi di bottiglia** rendono il limite ancora più violento:
+
+| Immagine | Valore |
+|----------|--------|
+| **Muro d'orto** | Confine concreto del paesaggio quotidiano |
+| **Muraglia** | Legge generale dell'esistenza: l'uomo cammina accanto a un limite |
+| **Cocci aguzzi** | Dolore, minaccia, impossibilità pratica di scavalcare |
+| **Sole che abbaglia** | Conoscenza non consolante: vedere significa accorgersi della chiusura |
+
+Questa immagine rovescia la speranza del **varco**. In ***I limoni*** il poeta cerca l'anello che non tiene, lo sbaglio di natura, il punto in cui la realtà potrebbe aprirsi. In ***Meriggiare***, invece, il varco non si apre: la vita è un **seguitare** il muro, non attraversarlo.
+
+### 11.6 Correlativo oggettivo e male di vivere
+
+***Meriggiare*** è un esempio perfetto di **correlativo oggettivo**: Montale non dice subito "sono prigioniero" o "la vita è dolore"; costruisce una rete di oggetti e percezioni che fanno vedere questa condizione.
+
+| Oggetto / percezione | Condizione interiore o metafisica |
+|----------------------|------------------------------------|
+| **Muro rovente** | Chiusura, isolamento, impossibilità di contatto pieno con la vita |
+| **Pruni e sterpi** | Aridità, durezza, natura non consolatoria |
+| **Crepe del suolo** | Frattura, mancanza di unità, secchezza esistenziale |
+| **Formiche rosse** | Vita minuta e faticosa, movimento senza liberazione |
+| **Scaglie di mare** | Pienezza vitale lontana, frammentata, non posseduta |
+| **Cicale e calvi picchi** | Immobilità bruciante dell'estate, ossessione sonora del meriggio |
+| **Muraglia con cocci aguzzi** | Limite invalicabile, varco impedito |
+
+Il rapporto con ***Spesso il male di vivere ho incontrato*** è stretto. Là il male appare nel rivo strozzato, nella foglia riarsa, nel cavallo stramazzato; qui appare nel muro, nell'arsura, nelle crepe, nella muraglia. In entrambi i casi il dolore non viene spiegato in astratto: viene **incontrato nelle cose**.
+
+### 11.7 Poetica negativa: che cosa si può dire all'orale
+
+La rivelazione conclusiva è formulata in negativo: il poeta non scopre una verità salvifica, ma capisce **che non si passa**. Questo è perfettamente coerente con ***Non chiederci la parola***: la poesia non offre la formula che apre mondi, non consegna certezze, ma può indicare **"ciò che non siamo, ciò che non vogliamo"**.
+
+All'orale conviene presentare il testo così:
+
+> In *Meriggiare pallido e assorto* Montale trasforma un paesaggio ligure assolato in un correlativo oggettivo della condizione umana. Il meriggio non è estasi panica dannunziana, ma immobilità e arsura. Gli oggetti concreti — muro, sterpi, crepe, formiche, mare a scaglie, cicale, muraglia con cocci aguzzi — costruiscono l'immagine di una vita chiusa in un limite invalicabile. Il varco cercato in altri testi qui non si apre: resta solo la consapevolezza negativa del male di vivere.
+
+---
+
+## 12. Correlativo oggettivo
 
 Il **correlativo oggettivo** è un procedimento centrale della poetica montaliana: un oggetto fisico, concreto, tangibile diventa il segno di una condizione astratta, esistenziale o metafisica. Montale non spiega psicologicamente il dolore in modo diretto; lo fa vedere in un rivo strozzato, una foglia riarsa, un cavallo stramazzato. Non definisce il varco in astratto; lo concentra nel giallo dei limoni intravisti da un malchiuso portone.
 
@@ -254,25 +345,25 @@ Il **correlativo oggettivo** è un procedimento centrale della poetica montalian
 | **Foglia riarsa** | Aridità, mancanza di linfa vitale |
 | **Cavallo stramazzato** | Fatica e crollo della vita animale |
 | **Statua, nuvola, falco** | Divina Indifferenza, distacco dal dolore |
-| **Muraglia con cocci aguzzi** | Limite invalicabile davanti al mistero |
+| **Muraglia con cocci aguzzi** | Limite invalicabile davanti al mistero; varco cercato ma impedito |
 
 Il correlativo oggettivo è coerente con la poetica in negativo: la poesia non dà la formula del mondo, ma mostra oggetti che incarnano una domanda, una ferita, un limite.
 
 ---
 
-## 12. Collegamenti utili
+## 13. Collegamenti utili
 
 | Collegamento | Perché serve |
 |--------------|--------------|
 | **Leopardi** | Male di vivere, dolore diffuso in tutta la natura, pessimismo, separazione uomo-natura; richiamo al giardino dello *Zibaldone* e alla luna del *Canto notturno* |
 | **Pirandello** | Relativismo novecentesco, crisi della verità, uomo conformista che procede senza interrogarsi; immagine dei paraocchi richiamata nella lezione |
-| **D'Annunzio** | Autore imprescindibile da attraversare; polemica contro sublime, aulico, panismo e poeta-vate; eredità stilistica e fonosimbolica; calchi da *La pioggia nel pineto* in *I limoni* |
+| **D'Annunzio** | Autore imprescindibile da attraversare; polemica contro sublime, aulico, panismo e poeta-vate; eredità stilistica e fonosimbolica; calchi da *La pioggia nel pineto* in *I limoni*; meriggio panico rovesciato in immobilità in *Meriggiare* |
 | **Pascoli** | Lessico botanico e precisione terminologica; attenzione ai nomi concreti, ma in Montale senza nido consolatorio |
 | **Fascismo** | *Ossi di seppia* esce nel 1925 da Gobetti e diventa per i giovani una bandiera antifascista, opposta alla retorica celebrativa del regime |
 
 ---
 
-## 13. Schema finale
+## 14. Schema finale
 
 ```mermaid
 flowchart TD
@@ -301,5 +392,5 @@ flowchart TD
     F --> F1[I limoni]
     F --> F2[Non chiederci la parola]
     F --> F3[Spesso il male di vivere]
-    F --> F4[Meriggiare: solo nominata e rimandata]
+    F --> F4[Meriggiare pallido e assorto]
 ```

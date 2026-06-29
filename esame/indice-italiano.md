@@ -32,8 +32,8 @@ Cartella principale:
 | Area | File principale | Stato |
 |---|---|---|
 | Classicismo, Romanticismo, Leopardi | [leopardi/mega-schema.md](<italiano/italiano(appunti-studio-anno)/leopardi/mega-schema.md>) | Completo come scheda lunga |
-| Pasolini | [pasolini/mega-schema.md](<italiano/italiano(appunti-studio-anno)/pasolini/mega-schema.md>) | Completo come scheda lunga; *Mamma Roma* resta materiale insufficiente |
-| Positivismo, Naturalismo, Verismo, Verga | [naturalismo-verismo-verga/mega-schema.md](<italiano/italiano(appunti-studio-anno)/naturalismo-verismo-verga/mega-schema.md>) | Completo come scheda lunga; *Mastro-don Gesualdo* resta materiale parziale |
+| Pasolini | [pasolini/mega-schema.md](<italiano/italiano(appunti-studio-anno)/pasolini/mega-schema.md>) | Completo come scheda lunga |
+| Positivismo, Naturalismo, Verismo, Verga | [naturalismo-verismo-verga/mega-schema.md](<italiano/italiano(appunti-studio-anno)/naturalismo-verismo-verga/mega-schema.md>) | Completo come scheda lunga |
 | Neorealismo cinematografico | [mega-schema](<italiano/italiano(appunti-studio-anno)/neorealismo-cinematografico/mega-schema.md>) | Pronto |
 | Neorealismo letterario | [mega-schema](<italiano/italiano(appunti-studio-anno)/neorealismo-letterario/mega-schema.md>) | Pronto |
 | Decadentismo e Simbolismo | [mega-schema](<italiano/italiano(appunti-studio-anno)/decadentismo-simbolismo/mega-schema.md>) | Pronto |
@@ -45,7 +45,8 @@ Cartella principale:
 | Pirandello | [mega-schema](<italiano/italiano(appunti-studio-anno)/pirandello/mega-schema.md>) | Pronto |
 | Ungaretti | [mega-schema](<italiano/italiano(appunti-studio-anno)/ungaretti/mega-schema.md>) | Pronto |
 | Saba | [mega-schema](<italiano/italiano(appunti-studio-anno)/saba/mega-schema.md>) | Pronto |
-| Montale | [mega-schema](<italiano/italiano(appunti-studio-anno)/montale/mega-schema.md>) | Parziale: controllare *Meriggiare pallido e assorto* e creare ripasso breve |
+| Montale | [mega-schema](<italiano/italiano(appunti-studio-anno)/montale/mega-schema.md>) | Pronto |
+| Educazione civica Italiano | [mega-schema](<italiano/italiano(appunti-studio-anno)/educazione-civica/mega-schema.md>) | Completo come scheda lunga |
 
 ---
 
@@ -78,15 +79,24 @@ Questi materiali restano utili, ma non sono più il punto di partenza per studia
 
 ---
 
-## Mancanze da completare
+## Stato dopo il potenziamento
 
-| Priorità | Cosa manca | Dove intervenire |
+Le mancanze principali sono state coperte nei mega-schema o in una nuova scheda autonoma.
+
+| Area | Dove | Intervento |
 |---|---|---|
-| Alta | *Mamma Roma* | [pasolini/mega-schema.md](<italiano/italiano(appunti-studio-anno)/pasolini/mega-schema.md>) |
-| Alta | *Meriggiare pallido e assorto* | [montale](<italiano/italiano(appunti-studio-anno)/montale>) |
-| Media | Educazione civica Italiano | Nuova scheda autonoma da creare |
-| Media | *Mastro-don Gesualdo* più completo | [naturalismo-verismo-verga/mega-schema.md](<italiano/italiano(appunti-studio-anno)/naturalismo-verismo-verga/mega-schema.md>) |
-| Bassa | Riassunti veloci per Leopardi/Pasolini/Verga | Da creare dopo aver studiato le schede complete |
+| Educazione civica Italiano | [educazione-civica/mega-schema.md](<italiano/italiano(appunti-studio-anno)/educazione-civica/mega-schema.md>) | Nuova scheda completa. |
+| Leopardi | [leopardi/mega-schema.md](<italiano/italiano(appunti-studio-anno)/leopardi/mega-schema.md>) | *Zibaldone* numerato, *Ginestra* per versi richiesti, *Il giovane favoloso*. |
+| Pasolini | [pasolini/mega-schema.md](<italiano/italiano(appunti-studio-anno)/pasolini/mega-schema.md>) | *Mamma Roma*, *Contro i capelli lunghi*, *Blu Notte*. |
+| Verga | [naturalismo-verismo-verga/mega-schema.md](<italiano/italiano(appunti-studio-anno)/naturalismo-verismo-verga/mega-schema.md>) | *Mastro-don Gesualdo* e Santagata. |
+| Montale | [montale/mega-schema.md](<italiano/italiano(appunti-studio-anno)/montale/mega-schema.md>) | *Meriggiare pallido e assorto*; creato anche [ripasso](<italiano/italiano(appunti-studio-anno)/montale/ripasso.md>). |
+| Neorealismo | [cinema](<italiano/italiano(appunti-studio-anno)/neorealismo-cinematografico/mega-schema.md>) / [letteratura](<italiano/italiano(appunti-studio-anno)/neorealismo-letterario/mega-schema.md>) | Film fragili, titoli Fenoglio/Pavese, raccordo Pasolini. |
+| Pascoli | [pascoli/mega-schema.md](<italiano/italiano(appunti-studio-anno)/pascoli/mega-schema.md>) | *La tovaglia*, Santagata, *L'assiuolo* in *Myricae*. |
+| D'Annunzio | [dannunzio/mega-schema.md](<italiano/italiano(appunti-studio-anno)/dannunzio/mega-schema.md>) | *Quel nome!*, documentario, Santagata. |
+| Svevo/Pirandello | [Svevo](<italiano/italiano(appunti-studio-anno)/svevo/mega-schema.md>) / [Pirandello](<italiano/italiano(appunti-studio-anno)/pirandello/mega-schema.md>) | Brani del programma resi autonomi e cercabili. |
+| Saba | [saba/mega-schema.md](<italiano/italiano(appunti-studio-anno)/saba/mega-schema.md>) | De André e *Ed amai nuovamente*. |
+
+Rifinitura non bloccante: creare riassunti/ripassi veloci per le nuove schede lunghe, se serve ripasso rapido.
 
 ---
 

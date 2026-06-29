@@ -555,50 +555,107 @@ La chiusa è folgorante: "tra il nero un casolare: / bianco." Il casolare bianco
 
 ---
 
-### 6.6 *L'assiuolo* (dai *Canti di Castelvecchio*)
+### 6.6 *L'assiuolo* (da *Myricae*)
+
+**Raccolta**: *Myricae* — come indicato nel [programma d'esame](../../../programma/italiano.md#da-myricae).  
+**Collegamento da non perdere**: pur appartenendo a *Myricae*, il testo dialoga benissimo con i *Canti di Castelvecchio* perché condivide atmosfera notturna, presenze dei morti, simbolismo naturale e ossessione del lutto. All'orale però la collocazione va detta con precisione: ***L'assiuolo* è in *Myricae*, non nei *Canti di Castelvecchio***.  
+**Materiale d'esame**: saggio di **Marco Santagata, *Un piccolo Io***, indicato nel programma e negli appunti di lezione come lettura collegata a *L'assiuolo*.
 
 #### Testo
 
 > Dov'era la luna? ché il cielo
-> notava in un'alba di perla,
+> nuotava in un'alba di perla,
 > ed ergersi il mandorlo e il melo
-> pareva a cercarla.
+> parevano a meglio vederla.
 >
 > Venivano soffi di lampi
 > da un nero di nubi laggiù;
 > veniva una voce dai campi:
-> chiù...
+> chiù.
 >
 > Le stelle lucevano rare
 > tra mezzo alla nebbia di latte:
-> sentivo il frusciare del mare,
-> sentivo un fruscìo tra le fratte;
-> e intanto sentivo non so che trepido battere, tremulo, a me,
-> come un cuore
-> che dopo molto, molto, si schiuse,
-> là in fondo al cuore,
-> una voce dai campi:
-> chiù...
+> sentivo il cullare del mare,
+> sentivo un fru fru tra le fratte;
+> sentivo nel cuore un sussulto,
+> com'eco d'un grido che fu.
+> Sonava lontano il singulto:
+> chiù.
 >
 > Su tutte le lucide vette
-> tremava un sospiro di vento;
+> tremava un sospiro di vento:
 > squassavano le cavallette
 > finissimi sistri d'argento
-> (tintinni a tremiti, squilli
-> a singhiozzi) —
-> e là, tremula, stridula, crebbe
-> la voce dai campi:
-> chiù...
+> tintinni a invisibili porte
+> che forse non s'aprono più?...
+> e c'era quel pianto di morte...
+> chiù.
 
 #### Analisi
 
 *L'assiuolo* è una delle poesie più rappresentative del **fonosimbolismo** pascoliano. L'assiuolo è un rapace notturno il cui verso — **"chiù"** — viene ripetuto alla fine di ogni strofa come un **ritornello** che si carica progressivamente di significato.
 
-Il paesaggio è **notturno**, immerso in atmosfere indefinite: la luna assente, il cielo che "notava in un'alba di perla", la "nebbia di latte". La poesia procede per percezioni sensoriali: visive (le stelle rare, le vette lucide), uditive (il frusciare del mare, il fruscìo tra le fratte, i "finissimi sistri d'argento" delle cavallette), tattili (i soffi di lampi).
+Il paesaggio è **notturno**, immerso in atmosfere indefinite: la luna assente, il cielo che "**nuotava in un'alba di perla**", la "**nebbia di latte**". La poesia procede per percezioni sensoriali: visive (stelle rare, vette lucide), uditive (cullare del mare, fru fru tra le fratte, sistri d'argento), tattili e analogiche ("soffi di lampi").
 
-Il verso "chiù" si chiude sulla "u" accentata, evocando un'idea di **angoscia, lutto, inquietudine**. Nella prima strofa è appena una "voce dai campi"; nella seconda si associa a un battito misterioso; nella terza "crebbe / la voce" — diventa "tremula, stridula". Il verso dell'assiuolo diventa progressivamente il **simbolo dell'angoscia** del poeta per la perdita del padre, in una dimensione indeterminata ma opprimente.
+Il verso **"chiù"** si chiude sulla **u accentata**, vocale cupa, e produce un effetto di **angoscia, lutto, inquietudine**. Pascoli non usa il verso dell'animale come semplice dato realistico: lo trasforma in un segnale simbolico che fa emergere il trauma. Nella prima strofa è una "**voce**"; nella seconda diventa "**singulto**"; nella terza è un "**pianto di morte**". Questo passaggio costruisce il **climax ascendente** dell'intera poesia:
 
-Le figure retoriche sono fittissime: **sinestesie** ("soffi di lampi", "nebbia di latte"), **onomatopee** ("chiù", "frusciare", "fruscìo", "tintinni", "squilli"), **allitterazioni** pervasive ("tremava", "tremulo", "trepido", "tremiti"), **analogie** ("finissimi sistri d'argento" per il frinire delle cavallette). La parentetica "(tintinni a tremiti, squilli / a singhiozzi)" esemplifica il **ritmo franto** tipico di Pascoli — le lineette e le parentesi all'interno del verso che spezzano l'andamento metrico.
+| Strofa | Definizione del "chiù" | Effetto |
+|--------|-------------------------|---------|
+| **1ª** | **Voce** dai campi | Presenza indeterminata, ancora ambigua |
+| **2ª** | **Singulto** | Lamento, dolore che affiora |
+| **3ª** | **Pianto di morte** | Culmine luttuoso, profezia di morte |
+
+#### Strofa per strofa
+
+**Prima strofa — Paesaggio lunare e inquietudine**
+
+La domanda iniziale, "**Dov'era la luna?**", introduce subito un'atmosfera sospesa. Il cielo "**nuotava in un'alba di perla**": è un'**analogia** che rende una luce madreperlacea, indistinta, non pienamente razionale. Il mandorlo e il melo sembrano ergersi per vedere meglio la luna: è una **personificazione** della natura e insieme un esempio di precisione botanica pascoliana.
+
+"**Soffi di lampi**" è una **sinestesia**: un dato visivo, il lampo, viene espresso con un termine che rimanda al tatto o all'udito. Il "**nero di nubi laggiù**" concentra suoni cupi e nasali; il paesaggio, che all'inizio sembrava quasi sereno, si carica di presagi. La strofa si chiude con il primo **chiù**, ancora presentato come "**voce dai campi**".
+
+**Seconda strofa — Dal dato sensoriale all'interiorità**
+
+Le stelle rare e la "**nebbia di latte**" mantengono l'indeterminatezza visiva. Poi domina l'udito: "**sentivo**" viene ripetuto tre volte. I primi due "sentivo" sono esterni — il mare, il fruscio tra le fratte — mentre il terzo è interno: "**sentivo nel cuore un sussulto**". La percezione naturale diventa turbamento psichico.
+
+Il verso "**com'eco d'un grido che fu**" allude a un dolore passato che ritorna. Negli appunti di lezione questo nucleo viene collegato al trauma della morte del padre: non un ricordo raccontato apertamente, ma un'eco che riaffiora attraverso i suoni della notte. Il **chiù** non è più solo voce: è "**singulto**".
+
+**Terza strofa — Il mondo dei morti**
+
+Le cavallette producono "**finissimi sistri d'argento**": i **sistri** sono strumenti musicali legati anche ai culti egizi e al mondo dei morti. L'immagine trasforma il frinire naturale in un suono rituale, funebre. Anche qui il fonosimbolismo è evidente: la serie di **i** in "finissimi sistri" rende un suono sottile, acuto, quasi metallico.
+
+Le "**invisibili porte / che forse non s'aprono più**" evocano una soglia tra vita e morte, una possibile porta dell'aldilà che resta chiusa. La poesia si conclude con "**quel pianto di morte**": il verso dell'assiuolo è diventato la voce stessa del lutto.
+
+#### Figure retoriche fondamentali
+
+| Figura | Dove | Funzione |
+|--------|------|----------|
+| **Climax ascendente** | voce → singulto → pianto di morte | Mostra la crescita dell'angoscia |
+| **Onomatopea propria** | "chiù", "fru fru" | Trasforma il suono naturale in simbolo |
+| **Fonosimbolismo** | "chiù", "finissimi sistri" | Il suono della parola comunica il contenuto emotivo |
+| **Analogia** | "alba di perla", "nebbia di latte" | Crea legami intuitivi, non logici |
+| **Sinestesia** | "soffi di lampi" | Mescola piani sensoriali diversi |
+| **Personificazione** | mandorlo e melo che sembrano guardare la luna | La natura partecipa al mistero |
+| **Anafora** | "sentivo... sentivo... sentivo" | Segna il passaggio dall'esterno all'interno |
+
+#### Scheda critica — Marco Santagata, *Un piccolo Io*
+
+Il saggio di **Marco Santagata**, indicato nel programma come materiale d'esame, va collegato direttamente a *L'assiuolo*. Il punto centrale da ricordare è questo: Pascoli **non descrive la natura solo in modo realistico**, come se facesse un quadretto notturno; usa invece la natura come sistema di **simboli** che permette di esprimere i turbamenti dell'animo.
+
+Santagata parla di **"piccolo Io"** perché l'io poetico pascoliano non si presenta come un io eroico, dominante o trionfante. È un io **dimesso, ferito, infantile**, vicino al **fanciullino**: ascolta voci, sussulti, echi, presagi; non domina la realtà, ma la subisce e la interpreta attraverso segnali minimi. Per questo *L'assiuolo* è un testo esemplare: l'io lirico quasi si nasconde dietro le percezioni della notte, ma proprio attraverso quelle percezioni lascia emergere il proprio trauma.
+
+| Aspetto | In *L'assiuolo* | Lettura di Santagata |
+|---------|-----------------|----------------------|
+| **Natura** | Luna, alberi, nubi, mare, fratte, cavallette, assiuolo | Non è sfondo decorativo: è un sistema di segni |
+| **Io poetico** | Non racconta direttamente il proprio dolore | È un **piccolo Io**, fragile e indirettamente autobiografico |
+| **Suono** | "chiù", "fru fru", "sistri" | Il suono diventa simbolo emotivo |
+| **Trauma** | "eco d'un grido che fu", "pianto di morte" | Il lutto rimosso riaffiora in forma allusiva |
+| **Fanciullino** | Sguardo ingenuo, attenzione a suoni minimi | La poesia nasce da una percezione infantile e turbata |
+
+Il confronto utile è con D'Annunzio: nelle lezioni Santagata viene richiamato anche per l'opposizione tra il **"piccolo Io"** pascoliano e il **"gigantismo dell'io"** dannunziano. D'Annunzio tende a esaltare un io eccezionale, sensuale, capace di esperienze fuori dal comune; Pascoli invece mette al centro un io fragile, ripiegato, ferito dal lutto e incapace di uscire davvero dal proprio nido.
+
+**Formula pronta per l'orale**
+
+> Santagata interpreta *L'assiuolo* come esempio del "piccolo Io" pascoliano: Pascoli non descrive semplicemente un paesaggio notturno, ma trasforma i dati naturali in simboli dei turbamenti interiori. Il verso dell'assiuolo, da voce a singulto a pianto di morte, fa emergere indirettamente il trauma e il lutto. L'io non è eroico come in D'Annunzio: è un io fragile, infantile, vicino al fanciullino.
 
 ---
 
@@ -652,17 +709,166 @@ La "Chioccetta per l'aia azzurra / va col suo pigolio di stelle" è un'**analogi
 
 ### 6.8 *La tovaglia* (dai *Canti di Castelvecchio*)
 
-#### Testo (frammento)
+**Raccolta**: *Canti di Castelvecchio* — come indicato nel [programma d'esame](../../../programma/italiano.md#da-canti-di-castelvecchio).  
+**Andamento**: narrativo, quasi da racconto popolare.  
+**Tema centrale**: i **morti** come presenze consolatorie; il ricordo della vita quotidiana perduta.
 
-> Oh! Tovaglia, che nonna ha filato,
-> tovaglia di puro lino,
-> la tovaglia che abbiamo trovato
-> nel cassone di nonna, bambino!
-> [...]
+#### Contesto: la superstizione contadina rovesciata
+
+La poesia parte da una **superstizione contadina**: la sera, dopo cena, la tavola andava sparecchiata e la tovaglia non doveva restare stesa fino al mattino, perché durante la notte sarebbero venuti i **morti**. Nella prospettiva superstiziosa tradizionale i morti sono presenze inquietanti, da evitare.
+
+Pascoli rovescia questa superstizione. La bambina, diventata donna e padrona della casa, **lascia apposta la tovaglia** perché desidera che i morti tornino. Non sono più figure minacciose, ma **cari morti**, presenze povere, buone, silenziose, legate alla memoria della famiglia. Anche qui torna il cuore della poetica pascoliana: il **nido** non è solo la casa dei vivi, ma anche lo spazio in cui i morti continuano a essere presenti.
+
+#### Testo
+
+> Le dicevano: Bambina,
+> che tu non lasci mai stesa
+> dalla sera alla mattina,
+> ma porta dove l'hai presa,
+> la tovaglia bianca appena
+> che è terminata la cena.
+>
+> Bada che vengono i morti,
+> i tristi, i pallidi morti:
+> entrano, ansano muti,
+> ognuno è tanto mai stanco,
+> e si fermano seduti
+> la notte intorno a quel bianco.
+>
+> Stanno lì sino al domani
+> col capo tra le due mani,
+> senza che nulla si senta
+> sotto la lampada spenta.
+>
+> È già grande la bambina,
+> la casa regge e lavora,
+> fa il bucato e la cucina,
+> fa tutto al modo d'allora.
+> Pensa a tutto, ma non pensa
+> sparecchiare la mensa.
+>
+> Lascia che vengano i morti,
+> i buoni, i poveri morti.
+>
+> O la notte nera nera,
+> di vento, d'acqua, di neve,
+> lascia che entrino da sera
+> col loro anelito lieve,
+> che alla mensa torno torno
+> riposino fino a giorno,
+>
+> cercando i fatti lontani
+> col capo tra le due mani.
+>
+> Dalla sera alla mattina
+> cercando cose lontane
+> stanno fissi a fronte china
+> su qualche briciola di pane,
+>
+> e volendo ricordare
+> bevono lacrime amare.
+>
+> O non ricordano i morti
+> i cari, i cari suoi morti.
+>
+> Pane? sì, pane si chiama
+> che noi spezzammo concordi.
+> Ricordate? È tela, è dama,
+> ce n'era tanta. Ricordi?
+>
+> Queste, queste sono due
+> come le vostre e le tue,
+> due nostre lacrime amare
+> cadute nel ricordare.
 
 #### Analisi
 
-*La tovaglia* è una poesia incentrata sulla dimensione del **ricordo** e del **nido** familiare. La tovaglia — oggetto umile, quotidiano, filato dalla nonna — diventa il simbolo della continuità familiare e della memoria. Come in tutta la poetica pascoliana, un oggetto concreto e modesto si carica di significati profondi: la tovaglia è il legame con il passato, con i morti, con la famiglia perduta. È un esempio perfetto della poesia delle "**umili cose**" — le *myricae* — che attraverso lo sguardo del fanciullino diventano straordinarie.
+*La tovaglia* è una poesia fondamentale per capire il rapporto pascoliano con i **morti**. Non siamo davanti a una scena macabra: siamo davanti a un rito domestico, povero, quotidiano, in cui la presenza dei defunti viene richiamata attraverso un oggetto umile. La **tovaglia** è il centro simbolico del testo: è bianca, familiare, legata alla cena, al pane, alle briciole, cioè alle piccole cose della vita comune.
+
+##### 1. La bambina e la paura dei morti
+
+All'inizio la bambina riceve un ammonimento:
+
+> "che tu non lasci mai stesa / dalla sera alla mattina"
+
+Gli adulti le insegnano una regola di prudenza: la tovaglia va tolta subito dopo cena, perché di notte arrivano "**i tristi, i pallidi morti**". Gli aggettivi costruiscono una visione spaventosa: i morti sembrano figure fredde, consumate, quasi minacciose. Entrano, ansano, siedono intorno al bianco della tovaglia e restano immobili nel buio, sotto la lampada spenta.
+
+La prima parte è dominata da:
+
+| Elemento | Effetto |
+|----------|---------|
+| **Notte** | Spazio del ritorno dei morti |
+| **Lampada spenta** | Buio, silenzio, sospensione |
+| **Tovaglia bianca** | Centro luminoso e domestico della scena |
+| **Morti tristi e pallidi** | Visione adulta, superstiziosa, inquietante |
+
+##### 2. La bambina diventa donna: il rovesciamento
+
+La svolta avviene quando la bambina è ormai cresciuta:
+
+> "È già grande la bambina, / la casa regge e lavora"
+
+La donna "regge" la casa: è la figura che governa lo spazio domestico, cucina, lava, conserva le abitudini di un tempo. Ma proprio lei, che pensa a tutto, "**non pensa / sparecchiare la mensa**". In realtà non è distrazione: è scelta. La donna lascia la tovaglia perché vuole che i morti tornino.
+
+Qui avviene il rovesciamento decisivo:
+
+| Prima | Dopo |
+|-------|------|
+| "**i tristi, i pallidi morti**" | "**i buoni, i poveri morti**" |
+| Paura superstiziosa | Desiderio di presenza |
+| Morti come minaccia | Morti come consolazione |
+| Bambina che obbedisce | Donna che sceglie |
+
+La donna è un **alter ego di Pascoli**: come il poeta, vive nel culto del nido e sente i morti come più vicini, più fedeli, quasi più vivi dei vivi.
+
+##### 3. Il ritorno dei morti e il ricordo
+
+La notte è "**nera nera**", piena di vento, acqua e neve. L'esterno è ostile; l'interno domestico è il luogo del possibile incontro. I morti entrano con un "**anelito lieve**", un soffio appena percepibile, e si raccolgono intorno alla mensa.
+
+Non parlano, non agiscono, non portano rivelazioni religiose. Stanno con il capo tra le mani e cercano "**i fatti lontani**", "**cose lontane**": provano a ricordare la vita perduta. Il ricordo però non consola davvero:
+
+> "e volendo ricordare / bevono lacrime amare"
+
+Questa è una delle idee più importanti della poesia: i morti non sono in una beatitudine ultraterrena. Sono poveri, stanchi, smemorati, legati ancora alle cose minime della vita. La loro presenza è consolatoria per chi li aspetta, ma il ricordo resta doloroso.
+
+##### 4. Pane, tovaglia, briciole: le piccole cose
+
+Il dialogo finale prova a risvegliare la memoria dei morti attraverso oggetti quotidiani:
+
+> "Pane? sì, pane si chiama / che noi spezzammo concordi."
+
+Il ricordo non passa da grandi eventi, ma da **pane**, **tela**, **dama**, **briciole**, **tovaglia**. Sono oggetti umili, domestici, minimi: proprio quelli che la poetica pascoliana valorizza. Le "piccole cose" non sono banali, perché custodiscono gli affetti e permettono ai vivi di restare in rapporto con i morti.
+
+La tovaglia, quindi, è:
+
+| Valore della tovaglia | Significato |
+|-----------------------|-------------|
+| **Oggetto domestico** | Appartiene alla vita quotidiana e contadina |
+| **Bianco centrale** | Punto attorno a cui i morti si raccolgono |
+| **Memoria familiare** | Richiama cene, pane spezzato, gesti comuni |
+| **Segno del nido** | Tiene insieme vivi e morti nello spazio della casa |
+| **Oggetto simbolico** | Una cosa umile diventa carica di senso profondo |
+
+##### 5. Nessuna vera consolazione cristiana
+
+La poesia non presenta i morti come anime pacificate in Paradiso. Sono "**poveri**", stanchi, pensierosi, smemorati. La vita perduta non ritorna davvero; il ricordo produce "**lacrime amare**". Per questo *La tovaglia* è consolatoria solo in parte: consola perché permette l'incontro immaginario con i cari morti, ma resta profondamente dolorosa perché mostra che il passato è irrecuperabile.
+
+#### Temi chiave de *La tovaglia*
+
+| Tema | Come si manifesta |
+|------|------------------|
+| **Nido familiare** | La casa, la mensa, la tovaglia, il pane |
+| **Cari morti** | Presenze attese e consolatorie, non più minacciose |
+| **Superstizione contadina** | Rovesciata: la donna lascia la tovaglia apposta |
+| **Cambio di prospettiva** | Da "tristi, pallidi" a "buoni, poveri" |
+| **Piccole cose** | Pane, briciole, tela, tovaglia |
+| **Memoria dolorosa** | Il ricordo produce lacrime amare |
+| **Assenza di consolazione piena** | Non c'è trionfo religioso: resta il dolore della perdita |
+| **Alter ego del poeta** | La donna che aspetta i morti rispecchia Pascoli e il suo culto del nido |
+
+#### Cosa dire all'orale
+
+> *La tovaglia* appartiene ai *Canti di Castelvecchio* e parte da una superstizione contadina: non lasciare la tovaglia stesa di notte perché vengono i morti. Pascoli rovescia la superstizione: la donna adulta lascia apposta la tovaglia perché desidera il ritorno dei suoi cari morti. La tovaglia diventa simbolo del nido, della memoria familiare e delle piccole cose quotidiane. I morti non sono minacciosi, ma "buoni" e "poveri"; tuttavia il ricordo non dà una vera consolazione, perché produce lacrime amare e mostra che la vita perduta non può tornare.
 
 ---
 
@@ -762,6 +968,6 @@ flowchart TD
 
     E --> E1[Myricae 1891]
     E --> E2[Canti di Castelvecchio 1907]
-    E1 --> F1[Arano, Lavandare, X Agosto, Temporale]
-    E2 --> F2[Nebbia, L'assiuolo, Il gelsomino notturno, La tovaglia]
+    E1 --> F1[Arano, Lavandare, X Agosto, L'assiuolo, Temporale]
+    E2 --> F2[Nebbia, Il gelsomino notturno, La tovaglia]
 ```

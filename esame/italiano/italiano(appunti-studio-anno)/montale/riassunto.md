@@ -137,7 +137,7 @@ Uno dei temi centrali degli *Ossi* è l'**esilio del poeta dalla vita**. Montale
 
 In ***Falsetto*** compare **Esterina**, ragazza ventenne che si tuffa in mare. Per lei il mare è **"divino amico"**, simbolo di pienezza vitale e sicurezza. Il poeta invece appartiene alla **razza di chi rimane a terra**: non partecipa alla vita piena.
 
-L'io montaliano è quindi un **io prigioniero**, chiuso in una negatività senza scampo. Il limite è espresso dalla **muraglia con cocci aguzzi di bottiglia** di ***Meriggiare pallido e assorto***: oltre il muro potrebbe esserci il disvelamento del mistero dell'esistenza, ma non si passa. In queste lezioni *Meriggiare* è stata solo nominata e rimandata, non analizzata.
+L'io montaliano è quindi un **io prigioniero**, chiuso in una negatività senza scampo. Il limite è espresso dalla **muraglia con cocci aguzzi di bottiglia** di ***Meriggiare pallido e assorto***: oltre il muro potrebbe esserci il disvelamento del mistero dell'esistenza, ma non si passa. La [lezione del 26-05-26](../lezioni/26-05-26/transcription.txt) insiste proprio sul muro come **limite invalicabile**; la [lezione del 28-05-26](../lezioni/28-05-26/transcription.txt) ricorda che il testo è fra i più antichi degli *Ossi*, composto nel **1916**, e riprende il tema del **meriggio**.
 
 ### 3.3 Paesaggio ligure
 
@@ -304,14 +304,59 @@ flowchart LR
 
 ---
 
-## 8. Collegamenti e parole chiave
+## 8. *Meriggiare pallido e assorto*
+
+***Meriggiare pallido e assorto*** è un testo fondamentale degli ***Ossi di seppia*** perché trasforma il paesaggio ligure del meriggio in immagine della condizione umana. Non c'è una trama: il componimento procede per percezioni e azioni all'infinito — stare, ascoltare, spiare, osservare, sentire — fino alla rivelazione finale della **muraglia**.
+
+### 8.1 Contenuto e parafrasi per nuclei
+
+| Nucleo | Parafrasi | Significato |
+|--------|-----------|-------------|
+| **Muro d'orto rovente** | Il poeta sta nel meriggio, pallido e assorto, vicino a un muro arroventato. | Isolamento, arsura, chiusura. |
+| **Pruni, sterpi, merli, serpi** | Ascolta suoni secchi e fruscii tra piante spinose e presenze animali. | Natura aspra, non armoniosa. |
+| **Crepe e formiche rosse** | Osserva formiche che si spezzano e si intrecciano nelle crepe del terreno. | Vita minuta, faticosa, meccanica, senza liberazione. |
+| **Scaglie di mare e cicale** | Vede da lontano il mare a frammenti e sente le cicale sui colli brulli. | La pienezza vitale del mare resta lontana e spezzata. |
+| **Muraglia con cocci aguzzi** | Nel sole che abbaglia capisce che la vita è seguire una muraglia insuperabile. | Il varco non si apre: resta il limite. |
+
+### 8.2 Meriggio e paesaggio arido
+
+Il **meriggio** in Montale non è quello panico di D'Annunzio. In ***Alcyone*** il mezzogiorno può diventare estasi e fusione con la natura; in Montale è invece immobilità, arsura, sonnolenza, luce che **abbaglia** e fa percepire più duramente la prigione dell'esistenza.
+
+Il paesaggio è anti-idillico: **muro rovente**, **pruni**, **sterpi**, **crepe del suolo**, **calvi picchi**, **cicale**, **cocci aguzzi**. Anche il mare, che in altri punti può indicare pienezza vitale, qui è lontano e ridotto a **scaglie**: non accoglie il poeta, non gli permette una fusione.
+
+### 8.3 Muro, muraglia, cocci aguzzi
+
+Il testo inizia con un **muro d'orto** e finisce con una **muraglia**. Il muro concreto diventa simbolo generale della vita: l'uomo cammina lungo un confine che non riesce a superare. I **cocci aguzzi di bottiglia** rendono fisicamente dolorosa l'impossibilità di scavalcare: non c'è solo separazione, c'è anche minaccia.
+
+Questa immagine va collegata al tema del **varco**. In ***I limoni*** Montale cerca lo sbaglio di natura, l'anello che non tiene, il punto in cui il reale potrebbe aprirsi. In ***Meriggiare*** invece il varco è **negato**: la verità forse esiste oltre il muro, ma resta irraggiungibile.
+
+### 8.4 Correlativo oggettivo e poetica negativa
+
+***Meriggiare*** funziona come **correlativo oggettivo**: gli oggetti del paesaggio non sono decorazione, ma traducono una condizione interiore ed esistenziale.
+
+| Oggetto | Valore astratto |
+|---------|-----------------|
+| **Muro / muraglia** | Limite invalicabile |
+| **Cocci aguzzi** | Dolore e impossibilità del passaggio |
+| **Crepe del suolo** | Frattura, aridità, mancanza di unità |
+| **Formiche** | Fatica della vita minuta |
+| **Scaglie di mare** | Pienezza lontana e frammentata |
+| **Sole che abbaglia** | Conoscenza non consolante |
+
+Il collegamento con ***Spesso il male di vivere ho incontrato*** è diretto: anche lì il male è visto nelle cose concrete, non spiegato in teoria. Il collegamento con ***Non chiederci la parola*** riguarda invece la **poetica negativa**: la poesia non dà formule salvifiche, ma mostra il limite, il dolore, ciò che non possiamo conoscere o oltrepassare.
+
+**Cosa dire all'orale:** *Meriggiare pallido e assorto* rappresenta un paesaggio ligure arido e assolato che diventa immagine della vita come prigionia. Il meriggio non è fusione panica dannunziana, ma immobilità e abbaglio. La muraglia con cocci aguzzi è il correlativo oggettivo del limite invalicabile: il varco è cercato, ma non raggiunto. Per questo il testo è centrale per male di vivere e poetica in negativo.
+
+---
+
+## 9. Collegamenti e parole chiave
 
 | Collegamento | Nucleo |
 |--------------|--------|
-| **D'Annunzio** | Autore da attraversare; rifiuto di sublime, panismo, poeta-vate; eredità fonosimbolica e calchi in *I limoni* |
+| **D'Annunzio** | Autore da attraversare; rifiuto di sublime, panismo, poeta-vate; eredità fonosimbolica e calchi in *I limoni*; meriggio panico rovesciato in immobilità in *Meriggiare* |
 | **Leopardi** | Male diffuso nella natura, pessimismo, separazione uomo-natura; *Zibaldone*, *Ginestra*, luna del *Canto notturno* |
 | **Pirandello** | Relativismo, crisi della verità, uomo conformista che procede senza interrogarsi |
 | **Pascoli** | Lessico botanico e precisione delle cose, ma senza nido consolatorio |
 | **Fascismo** | *Ossi* pubblicati nel 1925 da Gobetti; valore antifascista contro la retorica celebrativa |
 
-Parole chiave: **poetica in negativo**, **male di vivere**, **correlativo oggettivo**, **varco**, **aridità**, **scarto**, **residualità**, **campana di vetro**, **muraglia**, **divina Indifferenza**, **fonosimbolismo**.
+Parole chiave: **poetica in negativo**, **male di vivere**, **correlativo oggettivo**, **varco**, **varco negato**, **aridità**, **scarto**, **residualità**, **campana di vetro**, **muraglia**, **cocci aguzzi**, **meriggio**, **divina Indifferenza**, **fonosimbolismo**.

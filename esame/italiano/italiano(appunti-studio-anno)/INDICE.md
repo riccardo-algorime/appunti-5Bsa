@@ -22,8 +22,8 @@
 | Area | File principale | Riassunto | Ripasso | Stato |
 |---|---|---|---|---|
 | Classicismo, Romanticismo, Leopardi | [leopardi/mega-schema.md](leopardi/mega-schema.md) | — | — | Completo come scheda lunga |
-| Pasolini | [pasolini/mega-schema.md](pasolini/mega-schema.md) | — | — | Completo come scheda lunga; *Mamma Roma* segnalata come materiale insufficiente |
-| Positivismo, Naturalismo, Verismo, Verga | [naturalismo-verismo-verga/mega-schema.md](naturalismo-verismo-verga/mega-schema.md) | — | — | Completo come scheda lunga; *Mastro-don Gesualdo* segnalato come materiale parziale |
+| Pasolini | [pasolini/mega-schema.md](pasolini/mega-schema.md) | — | — | Completo come scheda lunga |
+| Positivismo, Naturalismo, Verismo, Verga | [naturalismo-verismo-verga/mega-schema.md](naturalismo-verismo-verga/mega-schema.md) | — | — | Completo come scheda lunga |
 | Neorealismo cinematografico | [neorealismo-cinematografico/mega-schema.md](neorealismo-cinematografico/mega-schema.md) | [riassunto](neorealismo-cinematografico/riassunto.md) | [ripasso](neorealismo-cinematografico/ripasso.md) | Pronto |
 | Neorealismo letterario | [neorealismo-letterario/mega-schema.md](neorealismo-letterario/mega-schema.md) | [riassunto](neorealismo-letterario/riassunto.md) | [ripasso](neorealismo-letterario/ripasso.md) | Pronto |
 | Decadentismo e Simbolismo | [decadentismo-simbolismo/mega-schema.md](decadentismo-simbolismo/mega-schema.md) | [riassunto](decadentismo-simbolismo/riassunto.md) | [ripasso](decadentismo-simbolismo/ripasso.md) | Pronto |
@@ -35,7 +35,8 @@
 | Pirandello | [pirandello/mega-schema.md](pirandello/mega-schema.md) | [riassunto](pirandello/riassunto.md) | [ripasso](pirandello/ripasso.md) | Pronto |
 | Ungaretti | [ungaretti/mega-schema.md](ungaretti/mega-schema.md) | [riassunto](ungaretti/riassunto.md) | [ripasso](ungaretti/ripasso.md) | Pronto |
 | Saba | [saba/mega-schema.md](saba/mega-schema.md) | [riassunto](saba/riassunto.md) | [ripasso](saba/ripasso.md) | Pronto |
-| Montale | [montale/mega-schema.md](montale/mega-schema.md) | [riassunto](montale/riassunto.md) | — | Parziale: manca ripasso breve; controllare *Meriggiare pallido e assorto* |
+| Montale | [montale/mega-schema.md](montale/mega-schema.md) | [riassunto](montale/riassunto.md) | [ripasso](montale/ripasso.md) | Pronto |
+| Educazione civica Italiano | [educazione-civica/mega-schema.md](educazione-civica/mega-schema.md) | — | — | Completo come scheda lunga |
 
 ---
 
@@ -48,8 +49,8 @@ Questa era la parte più disordinata; ora ha tre cartelle leggibili.
 | Ordine | Cartella | Cosa contiene | Come studiarla |
 |---:|---|---|---|
 | 1 | [leopardi](leopardi/) | Classicismo/Romanticismo, Leopardi, *Zibaldone*, *Canti*, *Operette morali*, ciclo di Aspasia, fase eroica, social catena | Studia direttamente [mega-schema.md](leopardi/mega-schema.md). È lungo apposta: non è un riassunto. |
-| 2 | [pasolini](pasolini/) | Vita, Friuli, poesia civile, poesia friulana, *Le ceneri di Gramsci*, *Ragazzi di vita*, cinema, articoli corsari, interviste, morte, mutazione antropologica | Studia [mega-schema.md](pasolini/mega-schema.md). Ricorda che *Mamma Roma* è indicata come buco di materiale. |
-| 3 | [naturalismo-verismo-verga](naturalismo-verismo-verga/) | Positivismo, Naturalismo francese, Verismo italiano, Verga, tecniche narrative, novelle, romanzi, collegamenti con Neorealismo/Pasolini | Studia [mega-schema.md](naturalismo-verismo-verga/mega-schema.md). Ricorda che *Mastro-don Gesualdo* è materiale parziale. |
+| 2 | [pasolini](pasolini/) | Vita, Friuli, poesia civile, poesia friulana, *Le ceneri di Gramsci*, *Ragazzi di vita*, cinema, *Mamma Roma*, articoli corsari, interviste, morte, mutazione antropologica | Studia [mega-schema.md](pasolini/mega-schema.md). |
+| 3 | [naturalismo-verismo-verga](naturalismo-verismo-verga/) | Positivismo, Naturalismo francese, Verismo italiano, Verga, tecniche narrative, novelle, romanzi, *Mastro-don Gesualdo*, collegamenti con Neorealismo/Pasolini | Studia [mega-schema.md](naturalismo-verismo-verga/mega-schema.md). |
 
 ### 2. Parte già ordinata da lezioni
 
@@ -75,18 +76,28 @@ Ordine consigliato:
 10. [ungaretti](ungaretti/)
 11. [saba](saba/)
 12. [montale](montale/)
+13. [educazione-civica](educazione-civica/)
 
 ---
 
-## Mancanze vere da ricordare
+## Stato dopo il potenziamento
 
-| Priorità | Buco | Dove agganciarlo |
+Le mancanze ad alta priorità emerse dal controllo finale sono state trasformate in sezioni o file studiabili. Ora il punto di partenza resta il `mega-schema.md` dell'argomento.
+
+| Area potenziata | Dove studiarla | Cosa è stato aggiunto |
 |---|---|---|
-| Alta | *Mamma Roma* | [pasolini/mega-schema.md](pasolini/mega-schema.md), sezione “materiale insufficiente” |
-| Alta | *Meriggiare pallido e assorto* | [montale/mega-schema.md](montale/mega-schema.md) / [montale/riassunto.md](montale/riassunto.md) |
-| Media | Educazione civica Italiano | Collegamenti con Resistenza, donne, anni Settanta, Pasolini, memoria pubblica |
-| Media | *Mastro-don Gesualdo* più completo | [naturalismo-verismo-verga/mega-schema.md](naturalismo-verismo-verga/mega-schema.md), sezione “materiale parziale” |
-| Bassa | Riassunti veloci per Leopardi/Pasolini/Verga | Da creare solo dopo aver studiato le schede complete |
+| Educazione civica Italiano | [educazione-civica/mega-schema.md](educazione-civica/mega-schema.md) | Scheda autonoma completa: donne nella Resistenza, Viganò, Tobagi, anni Settanta, Archivio di Stato, movimento studentesco '68. |
+| Leopardi | [leopardi/mega-schema.md](leopardi/mega-schema.md) | Passi numerati dello *Zibaldone*, blocchi richiesti della *Ginestra*, scheda minima su *Il giovane favoloso*. |
+| Pasolini | [pasolini/mega-schema.md](pasolini/mega-schema.md) | *Mamma Roma*, *Contro i capelli lunghi*, *Blu Notte* e morte di Pasolini. |
+| Verga | [naturalismo-verismo-verga/mega-schema.md](naturalismo-verismo-verga/mega-schema.md) | *Mastro-don Gesualdo* completo e Santagata, *La nobiltà dei Malavoglia*. |
+| Montale | [montale/mega-schema.md](montale/mega-schema.md), [riassunto](montale/riassunto.md), [ripasso](montale/ripasso.md) | *Meriggiare pallido e assorto* e ripasso breve. |
+| Neorealismo | [neorealismo-cinematografico/mega-schema.md](neorealismo-cinematografico/mega-schema.md), [neorealismo-letterario/mega-schema.md](neorealismo-letterario/mega-schema.md) | Film fragili, titoli esatti Fenoglio/Pavese, raccordo Pasolini-neorealismo. |
+| Pascoli | [pascoli/mega-schema.md](pascoli/mega-schema.md) | *La tovaglia*, Santagata *Un piccolo Io*, collocazione corretta di *L'assiuolo*. |
+| D'Annunzio | [dannunzio/mega-schema.md](dannunzio/mega-schema.md) | *Quel nome!*, documentario RaiPlay, Santagata *Il gigantismo dell'io*. |
+| Svevo e Pirandello | [svevo/mega-schema.md](svevo/mega-schema.md), [pirandello/mega-schema.md](pirandello/mega-schema.md) | Brani del programma resi cercabili e studiabili. |
+| Saba | [saba/mega-schema.md](saba/mega-schema.md) | Confronto con De André e *Ed amai nuovamente*. |
+
+Rifinitura non bloccante rimasta: creare eventuali `riassunto.md`/`ripasso.md` per Leopardi, Pasolini, Verga ed Educazione civica se serve ripassare più velocemente.
 
 ---
 

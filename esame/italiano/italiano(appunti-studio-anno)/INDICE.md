@@ -11,8 +11,8 @@
 
 1. Parti da questo indice.
 2. Per ogni argomento apri prima il **mega-schema**: è il file completo.
-3. Usa `riassunto.md` e `ripasso.md` solo quando esistono e solo dopo aver studiato il file completo.
-4. Se un argomento ha solo `mega-schema.md`, significa che per ora abbiamo creato la scheda completa ma non ancora i riassunti veloci.
+3. Se devi studiare più efficacemente, usa `riassunto.md`: è la versione circa al 50% del mega-schema.
+4. Usa `ripasso.md` solo come ultima passata veloce, non come fonte principale.
 5. Le vecchie mappe/indici da interrogazione non sono più il riferimento principale: il riferimento è il **programma d'esame**.
 
 ---
@@ -21,9 +21,9 @@
 
 | Area | File principale | Riassunto | Ripasso | Stato |
 |---|---|---|---|---|
-| Classicismo, Romanticismo, Leopardi | [leopardi/mega-schema.md](leopardi/mega-schema.md) | — | — | Completo come scheda lunga |
-| Pasolini | [pasolini/mega-schema.md](pasolini/mega-schema.md) | — | — | Completo come scheda lunga; integrazione su *Mamma Roma* mantenuta |
-| Positivismo, Naturalismo, Verismo, Verga | [naturalismo-verismo-verga/mega-schema.md](naturalismo-verismo-verga/mega-schema.md) | — | — | Completo come scheda lunga; integrazione su *Mastro-don Gesualdo* mantenuta |
+| Classicismo, Romanticismo, Leopardi | [leopardi/mega-schema.md](leopardi/mega-schema.md) | [riassunto](leopardi/riassunto.md) | — | Riassunto 50% presente |
+| Pasolini | [pasolini/mega-schema.md](pasolini/mega-schema.md) | [riassunto](pasolini/riassunto.md) | — | Riassunto 50% presente; integrazione su *Mamma Roma* mantenuta |
+| Positivismo, Naturalismo, Verismo, Verga | [naturalismo-verismo-verga/mega-schema.md](naturalismo-verismo-verga/mega-schema.md) | [riassunto](naturalismo-verismo-verga/riassunto.md) | — | Riassunto 50% presente; integrazione su *Mastro-don Gesualdo* mantenuta |
 | Neorealismo cinematografico | [neorealismo-cinematografico/mega-schema.md](neorealismo-cinematografico/mega-schema.md) | [riassunto](neorealismo-cinematografico/riassunto.md) | [ripasso](neorealismo-cinematografico/ripasso.md) | Pronto |
 | Neorealismo letterario | [neorealismo-letterario/mega-schema.md](neorealismo-letterario/mega-schema.md) | [riassunto](neorealismo-letterario/riassunto.md) | [ripasso](neorealismo-letterario/ripasso.md) | Pronto |
 | Decadentismo e Simbolismo | [decadentismo-simbolismo/mega-schema.md](decadentismo-simbolismo/mega-schema.md) | [riassunto](decadentismo-simbolismo/riassunto.md) | [ripasso](decadentismo-simbolismo/ripasso.md) | Pronto |
@@ -36,7 +36,7 @@
 | Ungaretti | [ungaretti/mega-schema.md](ungaretti/mega-schema.md) | [riassunto](ungaretti/riassunto.md) | [ripasso](ungaretti/ripasso.md) | Pronto |
 | Saba | [saba/mega-schema.md](saba/mega-schema.md) | [riassunto](saba/riassunto.md) | [ripasso](saba/ripasso.md) | Pronto |
 | Montale | [montale/mega-schema.md](montale/mega-schema.md) | [riassunto](montale/riassunto.md) | [ripasso](montale/ripasso.md) | Integrazione su *Meriggiare pallido e assorto* mantenuta |
-| Educazione civica Italiano | [educazione-civica/mega-schema.md](educazione-civica/mega-schema.md) | — | — | Scheda mantenuta perché mancava un punto ordinato |
+| Educazione civica Italiano | [educazione-civica/mega-schema.md](educazione-civica/mega-schema.md) | [riassunto](educazione-civica/riassunto.md) | — | Riassunto 50% presente |
 
 ---
 

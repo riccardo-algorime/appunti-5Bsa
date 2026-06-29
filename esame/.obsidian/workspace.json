@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "italiano/italiano(appunti-studio-anno)/leopardi/mega-schema.md",
+                "file": "italiano/italiano(appunti-studio-anno)/leopardi/riassunto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mega-schema"
+              "title": "riassunto"
             }
           }
         ]
@@ -185,6 +185,11 @@
   },
   "active": "e010d76c6cf8facf",
   "lastOpenFiles": [
+    "italiano/italiano(appunti-studio-anno)/leopardi/mega-schema.md",
+    "italiano/italiano(appunti-studio-anno)/leopardi/riassunto.md",
+    "italiano/italiano(appunti-studio-anno)/naturalismo-verismo-verga/riassunto.md",
+    "italiano/italiano(appunti-studio-anno)/pasolini/riassunto.md",
+    "italiano/italiano(appunti-studio-anno)/educazione-civica/riassunto.md",
     "italiano/extra-ai-commit-8fdacbe/italiano/italiano(appunti-studio-anno)/svevo/mega-schema.md",
     "italiano/extra-ai-commit-8fdacbe/italiano/italiano(appunti-studio-anno)/saba/mega-schema.md",
     "italiano/extra-ai-commit-8fdacbe/italiano/italiano(appunti-studio-anno)/pirandello/mega-schema.md",
@@ -213,13 +218,8 @@
     "italiano/extra-ai-commit-8fdacbe/indice-italiano.md",
     "italiano/italiano(appunti-studio-anno)/neorealismo-letterario/mega-schema.md",
     "italiano/italiano(appunti-studio-anno)/pirandello/mega-schema.md",
-    "italiano/italiano(appunti-studio-anno)/leopardi/mega-schema.md",
     "italiano/italiano(appunti-studio-anno)/INDICE.md",
     "italiano/italiano(appunti-studio-anno)/educazione-civica/mega-schema.md",
-    "italiano/italiano(appunti-studio-anno)/montale/ripasso.md",
-    "indice-italiano.md",
-    "indice-materiali.md",
-    "programma/italiano.md",
-    "italiano/italiano(appunti-studio-anno)/naturalismo-verismo-verga/mega-schema.md"
+    "italiano/italiano(appunti-studio-anno)/montale/ripasso.md"
   ]
 }

@@ -31,9 +31,9 @@ Cartella principale:
 
 | Area | File principale | Stato |
 |---|---|---|
-| Classicismo, Romanticismo, Leopardi | [leopardi/mega-schema.md](<italiano/italiano(appunti-studio-anno)/leopardi/mega-schema.md>) | Completo come scheda lunga |
-| Pasolini | [pasolini/mega-schema.md](<italiano/italiano(appunti-studio-anno)/pasolini/mega-schema.md>) | Completo come scheda lunga; integrazione su *Mamma Roma* mantenuta |
-| Positivismo, Naturalismo, Verismo, Verga | [naturalismo-verismo-verga/mega-schema.md](<italiano/italiano(appunti-studio-anno)/naturalismo-verismo-verga/mega-schema.md>) | Completo come scheda lunga; integrazione su *Mastro-don Gesualdo* mantenuta |
+| Classicismo, Romanticismo, Leopardi | [leopardi/mega-schema.md](<italiano/italiano(appunti-studio-anno)/leopardi/mega-schema.md>) + [riassunto](<italiano/italiano(appunti-studio-anno)/leopardi/riassunto.md>) | Riassunto 50% presente |
+| Pasolini | [pasolini/mega-schema.md](<italiano/italiano(appunti-studio-anno)/pasolini/mega-schema.md>) + [riassunto](<italiano/italiano(appunti-studio-anno)/pasolini/riassunto.md>) | Riassunto 50% presente; integrazione su *Mamma Roma* mantenuta |
+| Positivismo, Naturalismo, Verismo, Verga | [naturalismo-verismo-verga/mega-schema.md](<italiano/italiano(appunti-studio-anno)/naturalismo-verismo-verga/mega-schema.md>) + [riassunto](<italiano/italiano(appunti-studio-anno)/naturalismo-verismo-verga/riassunto.md>) | Riassunto 50% presente; integrazione su *Mastro-don Gesualdo* mantenuta |
 | Neorealismo cinematografico | [mega-schema](<italiano/italiano(appunti-studio-anno)/neorealismo-cinematografico/mega-schema.md>) | Pronto |
 | Neorealismo letterario | [mega-schema](<italiano/italiano(appunti-studio-anno)/neorealismo-letterario/mega-schema.md>) | Pronto |
 | Decadentismo e Simbolismo | [mega-schema](<italiano/italiano(appunti-studio-anno)/decadentismo-simbolismo/mega-schema.md>) | Pronto |
@@ -46,7 +46,7 @@ Cartella principale:
 | Ungaretti | [mega-schema](<italiano/italiano(appunti-studio-anno)/ungaretti/mega-schema.md>) | Pronto |
 | Saba | [mega-schema](<italiano/italiano(appunti-studio-anno)/saba/mega-schema.md>) | Pronto |
 | Montale | [mega-schema](<italiano/italiano(appunti-studio-anno)/montale/mega-schema.md>) | Integrazione su *Meriggiare pallido e assorto* mantenuta; ripasso breve presente |
-| Educazione civica Italiano | [mega-schema](<italiano/italiano(appunti-studio-anno)/educazione-civica/mega-schema.md>) | Scheda extra mantenuta perché mancava una fonte ordinata |
+| Educazione civica Italiano | [mega-schema](<italiano/italiano(appunti-studio-anno)/educazione-civica/mega-schema.md>) + [riassunto](<italiano/italiano(appunti-studio-anno)/educazione-civica/riassunto.md>) | Riassunto 50% presente |
 
 ---
 

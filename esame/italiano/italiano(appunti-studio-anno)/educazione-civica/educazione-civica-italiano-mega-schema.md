@@ -8,10 +8,10 @@ Questa scheda nasce dai materiali del corso e li riordina in forma studiabile pe
 
 - Programma ufficiale: [`programma/italiano.md`](<../../../programma/italiano.md>), sezione **Educazione civica** e sezione **Dal Verismo al Neorealismo**.
 - Correzione/verifica su donne nella Resistenza ed emancipazione: [`lezioni/09-02-26/transcription.txt`](<../lezioni/09-02-26/transcription.txt>).
-- Neorealismo cinematografico, *Paisà*, Rossellini, ponte verso Viganò: [`lezioni/12-01-26/schema.md`](<../lezioni/12-01-26/schema.md>) e [`neorealismo-cinematografico/mega-schema.md`](<../neorealismo-cinematografico/mega-schema.md>).
+- Neorealismo cinematografico, *Paisà*, Rossellini, ponte verso Viganò: [`lezioni/12-01-26/schema.md`](<../lezioni/12-01-26/schema.md>) e [`neorealismo-cinematografico/neorealismo-cinematografico-mega-schema.md`](<../neorealismo-cinematografico/neorealismo-cinematografico-mega-schema.md>).
 - Testimonianza sulla Resistenza romagnola, *L’Agnese va a morire*, Montaldo, letteratura neorealista: [`lezioni/22-01-26/transcription.txt`](<../lezioni/22-01-26/transcription.txt>).
-- Quadro sul Neorealismo letterario e sezione su Renata Viganò: [`neorealismo-letterario/mega-schema.md`](<../neorealismo-letterario/mega-schema.md>).
-- Collegamenti con Pasolini, Sessantotto, anni Settanta, mutazione antropologica, *Il PCI ai giovani!*: [`pasolini/mega-schema.md`](<../pasolini/mega-schema.md>).
+- Quadro sul Neorealismo letterario e sezione su Renata Viganò: [`neorealismo-letterario/neorealismo-letterario-mega-schema.md`](<../neorealismo-letterario/neorealismo-letterario-mega-schema.md>).
+- Collegamenti con Pasolini, Sessantotto, anni Settanta, mutazione antropologica, *Il PCI ai giovani!*: [`pasolini/pasolini-mega-schema.md`](<../pasolini/pasolini-mega-schema.md>).
 
 > **Nota di metodo**  
 > Le fonti locali documentano con chiarezza il percorso generale, i nodi da trattare e alcune testimonianze. Dove non riportano il dettaglio preciso di un documento visto in laboratorio all’Archivio di Stato di Ravenna, questa scheda non inventa titoli o contenuti specifici: indica invece i **nuclei di studio** da ricordare e il modo corretto di presentarli all’orale.

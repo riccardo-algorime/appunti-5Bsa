@@ -111,9 +111,30 @@ Leopardi critica tre illusioni: l’**ottimismo filosofico e progressista**, sec
 
 ---
 
-## 5. I *Canti*: testi principali del programma
+## 5. Le raccolte e i gruppi di opere
 
-### 5.1 *L’infinito*
+Prima di studiare i singoli testi bisogna distinguere le raccolte principali, perché nomi come **idilli**, **Canti**, **Operette morali** e **Ciclo di Aspasia** non indicano tutti la stessa cosa.
+
+| Nome | Che cos'è | Periodo / fase | Cosa contiene o rappresenta |
+|---|---|---|---|
+| ***Canti*** | La grande raccolta poetica di Leopardi | Pubblicata e ampliata in più edizioni | Raccoglie la poesia leopardiana: piccoli idilli, grandi idilli, ciclo di Aspasia, canzoni civili e testi finali come *La ginestra* |
+| **Piccoli idilli** | Gruppo di poesie giovanili dentro i *Canti* | Soprattutto 1819-1821 | Testi brevi e soggettivi, fondati su immaginazione, memoria, vago e indefinito; esempi: *L'infinito*, *Alla luna* |
+| **Grandi idilli** o **Canti pisano-recanatesi** | Gruppo di poesie della maturità dentro i *Canti* | 1828-1830 | Recuperano memoria e musicalità degli idilli, ma dentro il pessimismo cosmico; esempi: *A Silvia*, *Il sabato del villaggio*, *Canto notturno* |
+| ***Operette morali*** | Raccolta in prosa filosofica, spesso dialogica | Dal 1824, periodo del silenzio poetico | Espone il pessimismo cosmico con ironia, paradosso e personaggi allegorici; esempi: *Dialogo della Natura e di un Islandese*, *Venditore di almanacchi*, *Tristano* |
+| **Ciclo di Aspasia** | Gruppo di poesie amorose dentro i *Canti* | 1831-1834 | Nasce dall'amore non corrisposto per Fanny Targioni Tozzetti; l'amore diventa l'ultima illusione, l'“inganno estremo”; esempio centrale: *A se stesso* |
+| **Fase eroica** | Ultima fase poetica e morale, non una raccolta autonoma | Anni napoletani, soprattutto 1836 | Leopardi guarda il vero senza illusioni e propone la solidarietà tra uomini; testo simbolo: *La ginestra* |
+
+Gli **idilli** in Leopardi non sono semplici quadretti di campagna. Il termine viene dalla tradizione classica, dove indicava componimenti brevi di ambiente pastorale o naturale; Leopardi però lo trasforma. Nei suoi idilli il paesaggio esterno conta perché diventa occasione per raccontare una vicenda interiore: immaginazione, memoria, desiderio infinito, dolore, caduta delle illusioni.
+
+La differenza principale è questa: nei **Piccoli idilli** domina ancora la forza dell'immaginazione, mentre nei **Grandi idilli** la memoria e la musicalità restano, ma sono attraversate dal pessimismo cosmico. Perciò *L'infinito* mostra il piacere dell'immaginazione, mentre *A Silvia* mostra che la dolcezza del ricordo porta comunque all'“apparir del vero”.
+
+**Cosa dire all'orale:** i *Canti* sono la raccolta poetica complessiva. Dentro i *Canti* ci sono gruppi diversi: piccoli idilli, grandi idilli, ciclo di Aspasia e testi finali. Le *Operette morali*, invece, sono un'altra raccolta: non poesia, ma prose filosofiche. Questa distinzione evita di confondere raccolte, fasi e singoli testi.
+
+---
+
+## 6. I *Canti*: testi principali del programma
+
+### 6.1 *L’infinito*
 
 Composto a Recanati nel **1819**, appartiene ai **Piccoli idilli**. Nasce nel momento della conversione dal bello al vero, ma conserva la poetica dell’immaginazione. Il poeta si trova su un colle davanti a una **siepe** che impedisce la vista dell’orizzonte. Proprio il limite genera l’infinito: non vedendo, la mente immagina “interminati spazi”, “sovrumani silenzi”, “profondissima quiete”. Poi il vento che stormisce tra le piante riporta al reale e apre l’infinito temporale: eterno, stagioni morte, presente viva.
 
@@ -123,7 +144,7 @@ Stilisticamente contano i **deittici** (“questo”, “questa”, “quello”
 
 **All’orale:** parti dalla siepe. Il limite fisico produce l’infinito mentale. Collega il testo alla teoria del piacere e al vago/indefinito: il piacere nasce da ciò che resta aperto all’immaginazione.
 
-### 5.2 *Alla luna*
+### 6.2 *Alla luna*
 
 *Alla luna* appartiene ai **Piccoli idilli**. Il poeta torna su un colle un anno dopo un dolore: “or volge l’anno”. Si rivolge alla luna come a una presenza amica. Un anno prima la guardava con gli occhi velati dal pianto; ora ricorda quel dolore, e il ricordo diventa dolce.
 
@@ -131,7 +152,7 @@ Il tema centrale è la **rimembranza**: il passato doloroso, quando è lontano e
 
 **All’orale:** l’indefinito riguarda anche il tempo. Il dolore ricordato è meno definito, quindi può diventare dolce. Collega *Alla luna* al *Canto notturno*: da luna consolatrice a testimone muta dell’indifferenza cosmica.
 
-### 5.3 *A Silvia*
+### 6.3 *A Silvia*
 
 *A Silvia* appartiene ai **Canti pisano-recanatesi** o **Grandi idilli**. Silvia rimanda a **Teresa Fattorini**, figlia del cocchiere di casa Leopardi, morta adolescente di tisi. Il testo nasce dopo il pessimismo cosmico: la memoria è ancora dolce, ma la ragione conosce l’“apparir del vero”.
 
@@ -141,7 +162,7 @@ Il verso chiave è **“All’apparir del vero / Tu, misera, cadesti”**: il ve
 
 **All’orale:** metti in parallelo Silvia e Leopardi: lei muore fisicamente, lui vede morire la speranza. È un grande idillio perché unisce ricordo poetico e verità filosofica: la dolcezza della memoria non cancella il pessimismo cosmico.
 
-### 5.4 *Canto notturno di un pastore errante dell’Asia*
+### 6.4 *Canto notturno di un pastore errante dell’Asia*
 
 Il *Canto notturno* nasce da cronache di viaggio su pastori nomadi dell’Asia che cantavano guardando la luna. È uno dei testi più alti del **pessimismo cosmico**. Il titolo è già poetico: “canto” indica forma lirica, “notturno” evoca vago e mistero, “pastore” è figura umile e universale, “errante” significa nomade ma anche smarrito, “Asia” apre uno spazio lontano e immaginativo.
 
@@ -151,7 +172,7 @@ Lo stile è solenne, meditativo, interrogativo. La luna è eterna, distante, pen
 
 **All’orale:** il pastore rappresenta l’uomo universale che domanda senso all’universo. La luna tace: la natura è indifferente. Collega il testo ad *Alla luna*: da presenza amica a testimone muta.
 
-### 5.5 *Il sabato del villaggio*
+### 6.5 *Il sabato del villaggio*
 
 *Il sabato del villaggio* parte da una scena quotidiana e corale: il villaggio al tramonto del sabato, mentre tutti aspettano la festa. La **donzelletta** rappresenta la giovinezza e la speranza; la **vecchierella** la memoria delle feste passate; i **bambini** la gioia spontanea; lo **zappatore** il riposo atteso; il **legnaiuol** il lavoro fino a tardi illuminato dalla speranza; il **garzoncello** è il giovane a cui il poeta rivolge l’ammonimento finale.
 
@@ -159,7 +180,7 @@ La legge filosofica è chiara: il sabato è più bello della domenica perché il
 
 **All’orale:** usa questo testo per spiegare la teoria del piacere. L’uomo gode più nel desiderare che nell’ottenere. Il futuro piace perché è ignoto e quindi immaginabile.
 
-### 5.6 *A se stesso*
+### 6.6 *A se stesso*
 
 *A se stesso* appartiene al **Ciclo di Aspasia** ed è legato all’amore non corrisposto per **Fanny Targioni Tozzetti**. L’amore è l’**inganno estremo**, cioè l’ultima grande illusione a cadere. Il poeta si rivolge al proprio cuore: “Or poserai per sempre, / Stanco mio cor.” Non muore solo la speranza: muore anche il desiderio.
 
@@ -169,7 +190,7 @@ Lo stile è anti-idillico: frasi brevi, paratassi, ritmo spezzato, ripetizioni (
 
 **All’orale:** spiega che dopo la caduta dell’amore non resta più nessuna illusione privata. Il testo prepara la fase eroica perché mostra il coraggio di guardare il nulla senza autoinganno, anche se non c’è ancora la solidarietà della *Ginestra*.
 
-### 5.7 *La ginestra o il fiore del deserto*
+### 6.7 *La ginestra o il fiore del deserto*
 
 Composta nel **1836**, *La ginestra* è il **testamento spirituale** di Leopardi e il testo centrale della fase eroica. È una canzone libera in sette strofe, definita esempio di **pensiero poetante**: la filosofia non è esposta in modo astratto, ma diventa poesia. Il paesaggio è quello del **Vesuvio**, “sterminator Vesevo”: lava, cenere, deserto, memoria di città distrutte.
 
@@ -190,13 +211,13 @@ Il passo della **nobil natura** è decisivo: nobile non è chi si illude, ma chi
 
 ---
 
-## 6. Le *Operette morali*
+## 7. Le *Operette morali*
 
 Le ***Operette morali*** sono brevi testi in prosa, spesso dialoghi, scritti soprattutto durante il **silenzio poetico**. Esprimono il **pessimismo cosmico** con strumenti letterari: ironia, paradosso, straniamento, personaggi insoliti. Riprendono il modello socratico-platonico in chiave moderna e disincantata; furono censurate dalla Chiesa e accolte con difficoltà.
 
 Le caratteristiche principali sono: forma dialogica, tono ironico e satirico, personaggi come gnomi, folletti, mummie o figure allegoriche, critica dell’ottimismo e dell’antropocentrismo. Le *Operette* smascherano le illusioni dell’uomo: felicità, progresso, centralità dell’uomo, provvidenza, spiritualismo.
 
-### 6.1 *Dialogo della Natura e di un Islandese*
+### 7.1 *Dialogo della Natura e di un Islandese*
 
 È una delle operette fondamentali del pessimismo cosmico. L’Islandese, alter ego di Leopardi, fugge dalla sofferenza cercando un luogo mite e una vita meno dolorosa. Dopo aver viaggiato ovunque, incontra la Natura, rappresentata come figura femminile gigantesca, “mezzo tra bello e terribile”, severa e indifferente.
 
@@ -206,7 +227,7 @@ La domanda finale resta aperta: a chi piace o a chi giova questa vita infeliciss
 
 **All’orale:** l’operetta mostra il passaggio definitivo dalla natura madre alla natura matrigna. La natura non odia l’uomo personalmente: è peggio, perché gli è indifferente.
 
-### 6.2 *Dialogo di un venditore di almanacchi e di un passeggere*
+### 7.2 *Dialogo di un venditore di almanacchi e di un passeggere*
 
 Questa operetta riflette sul tempo, sulla felicità e sull’illusione del futuro. Il **venditore di almanacchi** vende calendari per l’anno nuovo e rappresenta il punto di vista ingenuo: ogni anno nuovo sembra promettere felicità. Il **passeggere** lo interroga con domande semplici ma taglienti: vorrebbe rivivere uno degli anni passati esattamente com’è stato? Il venditore deve ammettere di no. Preferirebbe un anno futuro, sconosciuto.
 
@@ -216,7 +237,7 @@ Il passeggere compra l’almanacco non perché creda davvero all’illusione, ma
 
 **All’orale:** collega questo dialogo alla teoria del piacere: il futuro piace perché è indefinito. Il piacere non è nel possesso, ma nell’attesa.
 
-### 6.3 *Dialogo di Tristano e di un amico*
+### 7.3 *Dialogo di Tristano e di un amico*
 
 Scritto circa dieci anni dopo le prime operette, è quasi una prefazione retrospettiva alle *Operette morali*. Tristano è l’alter ego di Leopardi e finge di ritrattare il proprio pessimismo, dicendo di aver cambiato idea. In realtà è una **palinodia**, cioè una finta ritrattazione: Leopardi usa l’ironia per colpire i critici che attribuivano il suo pessimismo alle sue malattie personali.
 
@@ -224,13 +245,13 @@ Il punto decisivo è che il pessimismo non nasce dalla biografia, ma dalla verit
 
 **All’orale:** il *Dialogo di Tristano* prepara *La ginestra*: la verità dolorosa non deve portare alla rassegnazione, ma a un atteggiamento virile e coraggioso. Essere grandi significa non mentire a se stessi.
 
-### 6.4 Collegamento con Olmi
+### 7.4 Collegamento con Olmi
 
 Il cortometraggio di **Ermanno Olmi** ispirato al *Venditore di almanacchi* colloca il testo nel boom economico: critica l’ottimismo cieco nel progresso industriale e mostra disuguaglianze ed emarginazione.
 
 ---
 
-## 7. Il Ciclo di Aspasia e l’amore come inganno estremo
+## 8. Il Ciclo di Aspasia e l’amore come inganno estremo
 
 Il **Ciclo di Aspasia** nasce tra **1831 e 1834** dall’amore non corrisposto per **Fanny Targioni Tozzetti**, chiamata poeticamente **Aspasia**. Comprende *Il pensiero dominante*, *Amore e morte*, *Consalvo*, *A se stesso*, *Aspasia*.
 
@@ -242,27 +263,27 @@ In *Aspasia* compare anche una visione oggi controversa sull’inferiorità inte
 
 ---
 
-## 8. Evoluzione di alcuni temi chiave
+## 9. Evoluzione di alcuni temi chiave
 
-### 8.1 Natura
+### 9.1 Natura
 
 La natura cambia volto durante il percorso leopardiano. Nei piccoli idilli permette l’immaginazione e può apparire madre benevola. Nel pessimismo cosmico diventa matrigna, crudele e indifferente, come nel *Dialogo della Natura e di un Islandese* e in *A Silvia*. Nella *Ginestra* è il nemico comune contro cui gli uomini devono unirsi.
 
-### 8.2 Luna
+### 9.2 Luna
 
 La luna è un simbolo ricorrente e cambia funzione. In *Alla luna* è amica e consolatrice: il poeta le si rivolge con affetto. Nel *Canto notturno* è silenziosa, pensierosa, distante: ascolta le domande del pastore ma non risponde. Questo confronto è utilissimo all’orale perché mostra l’evoluzione del pensiero leopardiano dentro un’immagine ricorrente.
 
-### 8.3 Ragione
+### 9.3 Ragione
 
 Nel pessimismo storico la ragione distrugge le illusioni degli antichi e dei fanciulli. Nel pessimismo cosmico rivela l’**acerbo vero**. Nella fase eroica permette alla **nobil natura** di confessare il male senza illusioni. Quindi la ragione è ambivalente: fa soffrire perché toglie gli inganni, ma è anche necessaria per non mentire.
 
-### 8.4 Illusioni
+### 9.4 Illusioni
 
 Le illusioni sono inizialmente consolazioni necessarie: immaginazione, poesia, speranza. Nei testi maturi vengono smascherate dalla ragione. Nel Ciclo di Aspasia l’amore è l’ultima illusione; nella *Ginestra* bisogna rinunciare alle illusioni false, ma non alla solidarietà vera.
 
 ---
 
-## 9. Figure retoriche e strumenti stilistici utili
+## 10. Figure retoriche e strumenti stilistici utili
 
 | Figura/tecnica | Definizione | Esempio/uso in Leopardi |
 |---|---|---|
@@ -279,39 +300,39 @@ Le illusioni sono inizialmente consolazioni necessarie: immaginazione, poesia, s
 
 ---
 
-## 10. Collegamenti orali pronti
+## 11. Collegamenti orali pronti
 
-### 10.1 Leopardi e Manzoni
+### 11.1 Leopardi e Manzoni
 
 Leopardi e Manzoni rappresentano due risposte diverse alla modernità. Manzoni cerca nel vero storico, nella Provvidenza e nella funzione morale della letteratura una via di salvezza. Leopardi vede nel vero razionale la fine delle illusioni e costruisce una poesia dell’indefinito, fino alla critica del progresso nella *Ginestra*. Formula pronta: **Manzoni fonda l’arte sul vero utile e interessante; Leopardi teme che il vero, se vincolo poetico, uccida l’immaginazione.**
 
-### 10.2 Leopardi e il Romanticismo
+### 11.2 Leopardi e il Romanticismo
 
 Leopardi partecipa al dibattito romantico, ma non è facilmente classificabile. Rifiuta il romanticismo del vero e dell’utile, difende i classici, ma non è classicista scolastico. Anticipa temi moderni: crisi dell’io, infinito interiore, assurdità del vivere, critica del progresso.
 
-### 10.3 Leopardi e il progresso
+### 11.3 Leopardi e il progresso
 
 Percorso: *Venditore di almanacchi* mostra l’illusione del futuro; *Dialogo di Tristano* critica l’ottimismo moderno e chi rifiuta il pessimismo; *La ginestra* ironizza sulle **“magnifiche sorti e progressive”**. Il progresso tecnico non elimina il dolore naturale dell’uomo, né la fragilità davanti alla morte e alla natura.
 
-### 10.4 Leopardi e la natura
+### 11.4 Leopardi e la natura
 
 Percorso pronto: nei piccoli idilli la natura permette immaginazione; nel pessimismo cosmico diventa matrigna; nel *Dialogo della Natura e di un Islandese* è indifferente e distruttiva; nella *Ginestra* è il nemico comune contro cui costruire la social catena.
 
-### 10.5 Leopardi e la memoria
+### 11.5 Leopardi e la memoria
 
 Opere: *Alla luna*, dove il dolore ricordato diventa dolce; *A Silvia*, dove la memoria della giovinezza rivela la caduta delle speranze; *Il sabato del villaggio*, dove la vecchierella ricorda le feste passate e la giovinezza. La memoria è poetica perché è vaga, sfumata, lontana.
 
-### 10.6 Leopardi e la solidarietà
+### 11.6 Leopardi e la solidarietà
 
 Il punto d’arrivo non è l’isolamento. Nella *Ginestra* Leopardi propone una solidarietà laica: gli uomini sono compagni di sventura. La social catena non elimina il dolore, ma dà dignità.
 
-### 10.7 Leopardi e Calvino
+### 11.7 Leopardi e Calvino
 
 I materiali ricordano che **Italo Calvino**, nelle *Lezioni americane*, cita Leopardi come esempio di **esattezza**. Il collegamento è efficace perché Leopardi è precisissimo anche quando descrive l’indefinito: il vago leopardiano non è confusione, ma costruzione linguistica rigorosa.
 
 ---
 
-## 11. Risposte rapide per interrogazione
+## 12. Risposte rapide per interrogazione
 
 **Perché Leopardi è classicista ma originale?**  
 Perché difende i classici non come modelli da copiare, ma come simbolo di fantasia, spontaneità e immaginazione, qualità perdute dai moderni.
@@ -321,6 +342,12 @@ Perché difende i classici non come modelli da copiare, ma come simbolo di fanta
 
 **Che cosa sono vago e indefinito?**  
 Sono ciò che non è completamente delimitato e perciò stimola l’immaginazione: luci offuscate, suoni lontani, parole come “sempre”, “lontano”, “notte”, “profondo”, ricordi sfumati.
+
+**Che cosa sono gli idilli leopardiani?**  
+Sono poesie in cui un paesaggio o una situazione esterna diventano occasione per raccontare l'interiorità del poeta. Non sono semplici descrizioni della natura: parlano di immaginazione, memoria, desiderio, dolore e caduta delle illusioni.
+
+**Che differenza c'è tra *Canti* e *Operette morali*?**  
+I *Canti* sono la raccolta poetica complessiva di Leopardi; dentro ci sono anche piccoli idilli, grandi idilli, ciclo di Aspasia e testi finali. Le *Operette morali* sono invece prose filosofiche, spesso dialoghi, legate soprattutto al pessimismo cosmico.
 
 **Come cambia la natura?**  
 Prima è madre benevola e fonte di illusioni; poi diventa matrigna crudele e indifferente; infine nella *Ginestra* è il nemico comune contro cui gli uomini devono unirsi.
@@ -356,4 +383,3 @@ Perché riassume critica del progresso, anti-antropocentrismo, natura nemica, ri
 - ***Zibaldone*, doppia visione (4418):** il poeta vede insieme la realtà concreta e l'immagine interiore che la fantasia sovrappone.
 - ***Zibaldone*, giardino fiorito (4177):** anche nel luogo apparentemente più bello domina la sofferenza naturale: ogni essere vive a danno di altri.
 - ***Il giovane favoloso* di M. Martone:** da ricordare come supporto biografico e visivo, soprattutto per Recanati, la tensione verso la vita e la recitazione finale della *Ginestra*.
-

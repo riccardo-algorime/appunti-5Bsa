@@ -5,6 +5,18 @@
 
 ---
 
+## Coordinate essenziali
+
+| Elemento | Dettaglio |
+|---|---|
+| **Contesto** | Primo Novecento europeo, crisi delle certezze positiviste |
+| **Influenze filosofiche** | **Bergson**: tempo come durata; **Freud**: psicanalisi |
+| **Autori europei del programma** | **Proust**, **Kafka**, **Joyce** |
+| **Autori italiani collegati** | **Svevo** e **Pirandello**, trattati poi nei riassunti dedicati |
+| **Opere di riferimento** | *Alla ricerca del tempo perduto*, *La metamorfosi*, *Ulisse* |
+
+---
+
 ## 1. Innovazioni rispetto all'Ottocento
 
 | Aspetto | Ottocento | Novecento |
@@ -13,6 +25,10 @@
 | **Tempo** | Oggettivo, cronologico (come l'orologio) | Soggettivo, interiore (Bergson: *durata*) |
 | **Personaggio** | A tutto tondo, stabile, coerente | *In fieri* (in divenire), ambiguo, isolato |
 | **Struttura** | Trama lineare | Nuclei tematici, piani temporali sovrapposti |
+
+Nel romanzo ottocentesco c'e ancora l'idea che la realta sia conoscibile e narrabile in modo ordinato. Il romanzo del Novecento mette in crisi questa sicurezza: la realta passa attraverso una coscienza soggettiva, parziale e spesso deformante.
+
+Da qui nasce il **narratore inattendibile**: non offre una verita assoluta, ma una versione dei fatti legata alla propria interiorita. Il lettore deve interpretare criticamente ciò che viene raccontato.
 
 ---
 
@@ -23,6 +39,8 @@
 > «Il tempo, a seconda dei nostri desideri, delle nostre aspettative, della nostra percezione, rallenta oppure accelera.» — Prof
 
 Il **tempo soggettivo** domina il romanzo del Novecento. I protagonisti non sono inseriti in un quadro cronologico certo.
+
+Il tempo non procede piu solo in ordine lineare: presente e passato si richiamano attraverso memoria, sensazioni e associazioni interiori. Per questo il romanzo novecentesco spesso non segue una trama ordinata, ma nuclei tematici e piani temporali sovrapposti.
 
 ---
 
@@ -61,6 +79,8 @@ Si sente in **estraniamento, isolamento e solitudine** rispetto al mondo.
 - Il sapore fa riemergere l'intera infanzia a Combray (zia Léonie, giardino, strade, chiesa)
 - Riemergono sensazioni, non solo immagini visive
 
+Il punto essenziale e che il ricordo non viene cercato razionalmente: nasce da uno stimolo minimo e sensoriale. Il passato non torna come informazione, ma come esperienza viva, con luoghi, persone, emozioni e percezioni.
+
 **Frase chiave**: *«l'odore e il sapore lungo il tempo ancora perdurano, come anime a ricordare, ad attendere, a sperare, sopra la rovina di tutto il resto, portando sulla loro stilla quasi impalpabile, senza vacillare, l'immenso edificio del ricordo»*
 
 **Metafora finale**: i pezzetti di carta giapponesi nell'acqua che si distendono in fiori, case, figure umane → il ricordo si espande da una piccola sensazione.
@@ -74,6 +94,8 @@ Si sente in **estraniamento, isolamento e solitudine** rispetto al mondo.
 **Tecnica**: **Straniamento** = presentare come *consueto* un evento straordinario. Gregor reagisce cercando di fare un altro dormitino — nessun terrore.
 
 **Effetto**: accostamento surreale (metamorfosi) + descrizione realistica della stanza → spaesamento del lettore.
+
+La forza del testo sta proprio nel contrasto: l'evento impossibile viene inserito in un ambiente quotidiano, con dettagli realistici. L'assurdo non viene spiegato, ma trattato come se fosse normale.
 
 **Incipit**: *«Un mattino, al risveglio da sogni inquieti, Gregor Samsa si trovò trasformato in un enorme insetto.»*
 
@@ -91,6 +113,8 @@ Si sente in **estraniamento, isolamento e solitudine** rispetto al mondo.
 **Flusso di coscienza** = rappresentazione **mimetica** del pensiero, **senza filtro narrativo** su logica e sintassi. Procede per **libere associazioni**.
 
 **Esempio dall'*Ulisse***: *«...se pensa di perché prima non ha mai fatto una cosa del genere chiedere la colazione a letto con due uova da quando eravamo all'albergo City Arms...»* — assenza di punteggiatura, pensieri che si incatenano.
+
+Joyce mostra che la vera materia del romanzo non e piu solo l'azione esterna, ma il movimento interno della mente: salti, ritorni, ricordi, associazioni improvvise.
 
 ### Monologo interiore vs. flusso di coscienza
 
